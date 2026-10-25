@@ -1,0 +1,69 @@
+name: Enriquecer geodata
+
+# Geocodifica os endereços ainda sem coordenadas, respeitando a cota DIÁRIA
+# (GEO_LIMITE_GOOGLE, default 800) — o contador diário fica em
+# .github/state/_geo_daily.json e zera ao virar o dia.
+#
+# A geocodificação automática (por evento, após novos dados) acontece como job
+# `geocode` do workflow "Atualizar dados Caixa". Este workflow serve para
+# cargas completas ou retomadas MANUAIS (workflow_dispatch).
+
+on:
+  workflow_dispatch:
+    inputs:
+      uf:
+        description: 'UF alvo (ex.: PB; vazio = todas)'
+        required: false
+        default: ''
+        type: string
+      limite_osm:
+        description: 'Teto de consultas OSM nesta execução'
+        required: false
+        default: '20000'
+        type: string
+      limite_google:
+        description: 'Teto de consultas Google nesta execução'
+        required: false
+        default: '800'
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: enriquecer-geo
+  cancel-in-progress: false
+
+jobs:
+  enriquecer:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Enriquecer coordenadas
+        env:
+          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
+          GEO_LIMITE_GOOGLE: ${{ vars.GEO_LIMITE_GOOGLE || github.event.inputs.limite_google || '800' }}
+          GEO_LIMITE_OSM: ${{ vars.GEO_LIMITE_OSM || github.event.inputs.limite_osm || '20000' }}
+          GEO_FILTRO_UF: ${{ github.event.inputs.uf }}
+        run: python3 scripts/geo_enriquecer.py
+
+      - name: Commit se houver mudanças
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain data/ .github/state/)" ]; then
+            git pull --rebase origin master || true
+            git add -A data/ .github/state/
+            git commit -m "geo: enriquecimento $(date -u +%Y-%m-%d) — $(python3 -c "import json; s=json.load(open('.github/state/_geo_daily.json')); print(f\"{s.get('google_calls',0)} google hoje\")")"
+            git push
+          else
+            echo "geo: nada mudou — sem commit."
+          fi
+
+# (registro no GitHub Actions — Zalkya/zalkia-leiloes)

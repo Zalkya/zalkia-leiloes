@@ -1,0 +1,144 @@
+name: Atualizar dados Caixa (CSV -> JSON + TOON)
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: '7 1,3,5,7,9,11,13,15,17,19,21,23 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-dados
+  cancel-in-progress: false
+
+jobs:
+  baixar:
+    # Um worker por UF: cada runner faz 1 download (curl puro), espalhando as
+    # requisições por IPs distintos. max-parallel: 6 limita o burst para o
+    # Radware não marcar o tráfego vindo do ASN do GitHub.
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    strategy:
+      fail-fast: false
+      max-parallel: 6
+      matrix:
+        uf: [AC, AL, AP, AM, BA, CE, DF, ES, GO, MA, MT, MS, MG, PA, PB, PR,
+             PE, PI, RJ, RN, RS, RO, RR, SC, SP, SE, TO]
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Baixar e converter ${{ matrix.uf }}
+        run: python3 scripts/pipeline.py ${{ matrix.uf }}
+
+      - name: Publicar artefato da UF
+        uses: actions/upload-artifact@v4
+        with:
+          name: uf-${{ matrix.uf }}
+          path: data/${{ matrix.uf }}
+          retention-days: 1
+
+  consolidar:
+    # sempre roda (mesmo se alguma UF falhar no download): consolida as UFs que
+    # vieram ok e marca as ausentes como falha real, preservando o dado anterior.
+    needs: baixar
+    if: always()
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    outputs:
+      changed: ${{ steps.consolida.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: uf-*
+          path: artifacts
+
+      - name: Juntar dados por-UF e consolidar o dataset global
+        id: consolida
+        run: |
+          set -o pipefail
+          for d in artifacts/uf-*; do
+            uf=${d#artifacts/uf-}
+            mkdir -p "data/$uf"
+            cp "$d/imoveis.json" "data/$uf/imoveis.json"
+            cp "$d/imoveis.csv"  "data/$uf/imoveis.csv"  2>/dev/null || true
+            cp "$d/imoveis.toon" "data/$uf/imoveis.toon" 2>/dev/null || true
+          done
+          FRESH_UFS=$(ls -d artifacts/uf-* | sed 's#artifacts/uf-##' | sort | paste -sd, -)
+          echo "UFs frescas: $FRESH_UFS"
+          FRESH_UFS="$FRESH_UFS" python3 scripts/consolidar.py 2>&1 | tee /tmp/cons.log
+          echo "changed=$(grep -oP 'changed=\K\w+' /tmp/cons.log || echo false)" >> "$GITHUB_OUTPUT"
+
+      - name: Commit dos dados
+        run: |
+          # changed=false: as cópias frescas por-UF só atualizam `coletado_em`
+          # (churn). Descarta e não commita para não poluir o histórico a cada run.
+          if [ "${{ steps.consolida.outputs.changed }}" != "true" ]; then
+            git checkout -- data/ .github/state/ 2>/dev/null || true
+            echo "Sem dados novos (changed=false) — sem commit."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain data/ .github/state/)" ]; then
+            git pull --rebase origin master || true
+            git add -A data/ .github/state/
+            git commit -m "data: atualização $(date -u +%Y-%m-%d) [ufs] — $(python3 -c "import json; s=json.load(open('.github/state/_status.json')); print(f\"{s['ufs_ok']} UFs\")")"
+            git push
+          else
+            echo "Nenhuma mudança de conteúdo — sem commit."
+          fi
+
+  geocode:
+    # Roda a cada ciclo para esvaziar a fila de pendentes. O freio é a cota
+    # DIÁRIA (GEO_LIMITE_GOOGLE, default 800) persistida em
+    # .github/state/_geo_daily.json — não o "por execução". Quando a cota do dia
+    # acaba, os ciclos seguintes viram no-op (sem chamar API).
+    needs: consolidar
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      # ref: master garante o commit que o job `consolidar` acabou de pushar
+      # (o checkout padrão pegaria o SHA do início do run, sem os dados novos).
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Geocodificar endereços pendentes (cota diária)
+        env:
+          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
+          GEO_LIMITE_GOOGLE: ${{ vars.GEO_LIMITE_GOOGLE || '800' }}
+          GEO_LIMITE_OSM: ${{ vars.GEO_LIMITE_OSM || '20000' }}
+        run: python3 scripts/geo_enriquecer.py
+
+      - name: Commit do geo
+        # always(): mesmo se a geocodificação falhar no meio, salva o progresso
+        # (cache + cota diária) já gravado — sem isso o trabalho e a cota se perdem.
+        if: always()
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain data/ .github/state/)" ]; then
+            git pull --rebase origin master || true
+            git add -A data/ .github/state/
+            git commit -m "geo: enriquecimento $(date -u +%Y-%m-%d)"
+            git push
+          else
+            echo "geo: nada mudou — sem commit."
+          fi
+
+# (registro no GitHub Actions — Zalkya/zalkia-leiloes)

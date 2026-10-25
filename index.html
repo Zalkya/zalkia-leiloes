@@ -1,0 +1,1156 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>Imóveis da Caixa — Mapa Interativo</title>
+<meta name="description" content="Mapa interativo dos imóveis da Caixa Econômica Federal, com clustering, POIs próximos, Street View e rotas (OSRM).">
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+<link rel="preconnect" href="https://tiles.openfreemap.org" crossorigin>
+<link href="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.css" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0f172a; --panel:#1e293b; --panel2:#273449; --line:#334155;
+    --txt:#e2e8f0; --muted:#94a3b8; --accent:#38bdf8; --accent2:#22c55e;
+    --amber:#f59e0b; --danger:#ef4444;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;height:100%;font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;background:var(--bg);color:var(--txt)}
+  #map{position:absolute;inset:0}
+  a{color:var(--accent)}
+
+  /* Painel lateral */
+  #panel{
+    position:absolute;top:10px;left:10px;bottom:10px;width:360px;max-width:calc(100vw - 20px);
+    background:var(--panel);border:1px solid var(--line);border-radius:12px;
+    display:flex;flex-direction:column;overflow:hidden;z-index:10;
+    box-shadow:0 8px 30px rgba(0,0,0,.5);transition:transform .2s ease;
+  }
+  #panel.collapsed{transform:translateX(calc(-100% - 20px))}
+  #toggleBtn{
+    position:absolute;top:10px;left:10px;z-index:11;display:none;
+    background:var(--panel);border:1px solid var(--line);border-radius:8px;color:var(--txt);
+    padding:8px 12px;cursor:pointer;font-size:14px;box-shadow:0 4px 12px rgba(0,0,0,.4)
+  }
+  #panel.collapsed ~ #toggleBtn{display:block}
+  #toggleBtn:hover{background:var(--panel2)}
+
+  .panel-head{padding:14px 16px;border-bottom:1px solid var(--line);flex-shrink:0}
+  .panel-head h1{font-size:16px;margin:0 0 4px}
+  .panel-head .sub{font-size:12px;color:var(--muted)}
+  .close{float:right;background:none;border:none;color:var(--muted);font-size:18px;cursor:pointer}
+  .close:hover{color:var(--txt)}
+  .share{float:right;background:none;border:none;color:var(--muted);cursor:pointer;font-size:16px;padding:2px;margin-right:10px;line-height:1}
+  .share:hover{color:var(--txt)}
+  .share svg{display:block}
+
+  .filters{padding:10px 16px;border-bottom:1px solid var(--line);flex-shrink:0;display:flex;flex-direction:column;gap:8px}
+  .filters select,.filters input{
+    width:100%;padding:8px 10px;border-radius:8px;border:1px solid var(--line);
+    background:var(--panel2);color:var(--txt);font-size:13px
+  }
+  .filters .row{display:flex;gap:8px}
+  .filters .row > *{flex:1}
+
+  .stats{padding:8px 16px;font-size:12px;color:var(--muted);border-bottom:1px solid var(--line);flex-shrink:0}
+
+  #results{flex:1;overflow-y:auto;padding:8px}
+  .result{
+    padding:10px 12px;border:1px solid var(--line);border-radius:10px;margin-bottom:8px;
+    cursor:pointer;background:var(--panel2);transition:background .15s
+  }
+  .result:hover{background:#304059}
+  .result.active{border-color:var(--accent)}
+  .result .t{font-weight:600;font-size:13px;display:flex;justify-content:space-between;gap:6px}
+  .result .p{color:var(--accent2);font-weight:700;font-size:14px}
+  .result .m{font-size:11px;color:var(--muted);margin-top:3px;line-height:1.4}
+  .result .badge{font-size:10px;background:#0f2b24;color:var(--accent2);padding:2px 6px;border-radius:6px;white-space:nowrap}
+
+  /* Detalhe (imóvel selecionado) */
+  #detail{
+    position:absolute;right:10px;top:10px;bottom:10px;width:360px;max-width:calc(100vw - 20px);
+    background:var(--panel);border:1px solid var(--line);border-radius:12px;z-index:10;
+    display:none;flex-direction:column;overflow:hidden;box-shadow:0 8px 30px rgba(0,0,0,.5)
+  }
+  #detail.open{display:flex}
+  .d-head{padding:14px 16px;border-bottom:1px solid var(--line);flex-shrink:0}
+  .d-head h2{font-size:15px;margin:0 0 6px;line-height:1.3}
+  .d-body{flex:1;overflow-y:auto;padding:14px 16px;display:flex;flex-direction:column;gap:12px}
+  .kv{display:grid;grid-template-columns:auto 1fr;gap:4px 12px;font-size:13px}
+  .kv dt{color:var(--muted)}
+  .kv dd{margin:0;text-align:right;word-break:break-word}
+  .big{font-size:20px;font-weight:800;color:var(--accent2)}
+  .btn{
+    display:block;width:100%;padding:10px;border:none;border-radius:8px;cursor:pointer;
+    font-size:13px;font-weight:600;background:var(--accent);color:#082f49;text-align:center;text-decoration:none
+  }
+  .btn.secondary{background:var(--panel2);color:var(--txt);border:1px solid var(--line)}
+  .btn.small{width:auto;padding:6px 10px;font-size:12px;display:inline-block}
+  .btn:hover{filter:brightness(1.1)}
+  .sv{width:100%;height:220px;border:0;border-radius:10px;background:#000}
+  .section-title{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);margin:0 0 6px}
+  .poi-list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:6px}
+  .poi-list li{display:flex;align-items:center;gap:8px;font-size:13px;background:var(--panel2);border:1px solid var(--line);border-radius:8px;padding:7px 10px}
+  .poi-dot{width:10px;height:10px;border-radius:50%;flex-shrink:0}
+  .poi-list .nm{flex:1}
+  .poi-list .ds{font-size:11px;color:var(--muted)}
+  .route-meta{font-size:12px;color:var(--muted);margin-top:4px}
+  .empty{color:var(--muted);font-size:13px;text-align:center;padding:20px}
+  .spinner{display:inline-block;width:14px;height:14px;border:2px solid var(--muted);border-top-color:transparent;border-radius:50%;animation:spin .7s linear infinite;vertical-align:middle;margin-right:6px}
+  @keyframes spin{to{transform:rotate(360deg)}}
+
+  /* Popup do mapa */
+  .maplibregl-popup-content{background:var(--panel);color:var(--txt);border:1px solid var(--line);border-radius:10px;font-size:13px;padding:12px;max-width:280px}
+  .maplibregl-popup-anchor-top .maplibregl-popup-tip{border-bottom-color:var(--panel)}
+  .maplibregl-popup-anchor-bottom .maplibregl-popup-tip{border-top-color:var(--panel)}
+  .maplibregl-popup-close-button{color:var(--muted);font-size:16px;padding:4px 6px}
+  .maplibregl-ctrl-group{background:var(--panel);border:1px solid var(--line)}
+  .maplibregl-ctrl-group button{background:transparent}
+  .maplibregl-ctrl-group button+button{border-top:1px solid var(--line)}
+
+  .toast{
+    position:absolute;bottom:20px;left:50%;transform:translateX(-50%);z-index:20;
+    background:var(--panel);border:1px solid var(--line);color:var(--txt);
+    padding:10px 16px;border-radius:10px;font-size:13px;display:none;box-shadow:0 4px 16px rgba(0,0,0,.4)
+  }
+  #legend{
+    position:absolute;left:10px;bottom:24px;z-index:9;background:var(--panel);
+    border:1px solid var(--line);border-radius:10px;padding:10px 12px;font-size:11px;
+    max-width:200px;box-shadow:0 4px 12px rgba(0,0,0,.4)
+  }
+  #legend .lg{display:flex;align-items:center;gap:6px;margin:3px 0;color:var(--muted)}
+  #legend .dot{width:10px;height:10px;border-radius:50%;flex-shrink:0;border:1px solid var(--line)}
+  #legend .sq{width:9px;height:9px;border-radius:2px;flex-shrink:0;border:1px solid var(--line)}
+
+  /* Seletor de camadas (estilos base) */
+  .layer-switcher button{color:var(--txt)}
+  .layer-menu{
+    position:fixed;z-index:50;background:var(--panel);
+    border:1px solid var(--line);border-radius:8px;overflow:hidden;min-width:170px;
+    box-shadow:0 4px 16px rgba(0,0,0,.4)
+  }
+  .layer-menu-item{
+    display:block;width:100%;text-align:left;padding:9px 12px;border:none;
+    background:var(--panel);color:var(--txt);font-size:13px;cursor:pointer;box-sizing:border-box
+  }
+  .layer-menu-item:hover{background:var(--panel2)}
+  .layer-menu-item.active{color:var(--accent);font-weight:600}
+
+  @media(max-width:640px){
+    #panel,#detail{width:calc(100vw - 20px)}
+  }
+</style>
+</head>
+<body>
+<div id="map"></div>
+
+<aside id="panel">
+  <div class="panel-head">
+    <button class="close" id="closeBtn" title="Recolher">×</button>
+    <h1>🏠 Imóveis da Caixa</h1>
+    <div class="sub" id="subTitle">Carregando dados…</div>
+  </div>
+  <div class="filters">
+    <select id="ufFilter"><option value="">Todos os estados</option></select>
+    <input id="buscaFilter" type="text" placeholder="🔍 Busca livre (regex)…" autocomplete="off" spellcheck="false"
+      title="Regex aplicado a descrição, endereço, cidade, bairro e tipo. Ex.: 10[0-9] (apartamentos 101–109) · casa|sobrado · ^jardim">
+    <div class="row">
+      <select id="cidadeFilter"><option value="">Todas as cidades</option></select>
+      <select id="bairroFilter" disabled><option value="">Todos os bairros</option></select>
+    </div>
+    <select id="modalidadeFilter"><option value="">Todas as modalidades</option></select>
+    <select id="tipoFilter"><option value="">Todos os tipos</option></select>
+    <select id="financiamentoFilter"><option value="">Financiamento: qualquer</option></select>
+    <select id="ordenarFilter">
+      <option value="">Ordenar: padrão</option>
+      <option value="preco_asc">Preço (menor → maior)</option>
+      <option value="preco_desc">Preço (maior → menor)</option>
+      <option value="desconto_desc">Maior desconto</option>
+      <option value="desconto_asc">Menor desconto</option>
+      <option value="cidade_asc">Cidade (A–Z)</option>
+    </select>
+  </div>
+  <div class="stats" id="stats">—</div>
+  <div id="results"></div>
+</aside>
+<button id="toggleBtn" title="Abrir painel">☰</button>
+
+<aside id="detail">
+  <div class="d-head">
+    <button class="close" id="detailClose" title="Fechar">×</button>
+    <button class="share" id="shareBtn" title="Compartilhar">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12v7a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-7"/><polyline points="16 6 12 2 8 6"/><line x1="12" y1="2" x2="12" y2="15"/></svg>
+    </button>
+    <h2 id="dTitle">—</h2>
+  </div>
+  <div class="d-body" id="dBody"></div>
+</aside>
+
+<div class="toast" id="toast"></div>
+
+<div id="legend">
+  <div class="section-title">Tipos de imóvel</div>
+  <div id="legendTipos"></div>
+  <div class="section-title" style="margin-top:8px">POIs</div>
+  <div id="legendPois"></div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+<script>
+"use strict";
+
+/* ============ configuração ============ */
+const RAW_BASE = "https://raw.githubusercontent.com/Zalkya/zalkia-leiloes/master";
+const STYLE_URL = "https://tiles.openfreemap.org/styles/liberty";
+const OSRM_URL = "https://router.project-osrm.org/route/v1/driving/";
+const OVERPASS_URL = "https://overpass-api.de/api/interpreter";
+const OVERPASS_MIRROR = "https://overpass.kumi.systems/api/interpreter";
+const GLYPHS_URL = "https://tiles.openfreemap.org/fonts/{fontstack}/{range}.pbf";
+const CLUSTER_MAX_ZOOM = 17;
+
+// estilos base (alternáveis via botão "Camadas", como no Traccar-Web)
+function rasterStyle(tiles, maxzoom, attribution){
+  return {
+    version: 8,
+    sources: { custom: { type:"raster", tiles, tileSize:256, maxzoom, attribution } },
+    glyphs: GLYPHS_URL,
+    layers: [{ id:"custom", type:"raster", source:"custom" }]
+  };
+}
+const GOOGLE_TILES = lyrs => [0,1,2,3].map(i =>
+  `https://mt${i}.google.com/vt/lyrs=${lyrs}&hl=pt-BR&x={x}&y={y}&z={z}&s=Ga`);
+const BASE_STYLES = [
+  { id:"openFreeMap", title:"OpenFreeMap", style: STYLE_URL },
+  { id:"googleRoad", title:"Google Mapa", style: rasterStyle(GOOGLE_TILES("m"), 20, "© Google") },
+  { id:"googleSatellite", title:"Google Satélite", style: rasterStyle(GOOGLE_TILES("s"), 20, "© Google") },
+  { id:"googleHybrid", title:"Google Híbrido", style: rasterStyle(GOOGLE_TILES("y"), 20, "© Google") },
+];
+
+const UFS = ["AC","AL","AP","AM","BA","CE","DF","ES","GO","MA","MT","MS","MG",
+             "PA","PB","PR","PE","PI","RJ","RN","RS","RO","RR","SC","SP","SE","TO"];
+
+// tipificação dos imóveis (derivada do campo `tipo` no JSON)
+const TIPO_CAT = {
+  apartamento: "apartamento", casa: "casa", terreno: "terreno",
+  predio: "comercial", loja: "comercial", sala: "comercial",
+  comercial: "comercial", galpao: "comercial",
+  gleba: "outros", "gleba urbana": "outros", "imovel rural": "outros",
+  sobrado: "outros",
+};
+const TIPO_COLORS = {
+  apartamento: "#8b5cf6", casa: "#22c55e", terreno: "#f59e0b",
+  comercial: "#38bdf8", outros: "#94a3b8",
+};
+const TIPO_LABEL = {
+  apartamento: "Apartamento", casa: "Casa", terreno: "Terreno",
+  comercial: "Comercial", outros: "Outros",
+};
+const TIPO_EMOJI = {
+  apartamento: "🏢", casa: "🏠", terreno: "🌳",
+  comercial: "🏬", outros: "📍",
+};
+const categoriaTipo = t => TIPO_CAT[t] || "outros";
+
+const POI_ICONS = {
+  school:"🎓", hospital:"🏥", clinic:"⚕️", pharmacy:"💊", doctors:"🩺",
+  restaurant:"🍽️", cafe:"☕", fast_food:"🍔", bar:"🍺",
+  supermarket:"🛒", convenience:"🏪", fuel:"⛽", bank:"🏦", atm:"🏧",
+  police:"🚓", fire_station:"🚒", post_office:"📮", bus_station:"🚌",
+  place_of_worship:"⛪", kindergarten:"🧸", university:"🏛️", parking:"🅿️",
+  marketplace:"🧺", dentist:"🦷", veterinary:"🐾"
+};
+const POI_COLORS = {
+  school:"#8b5cf6", university:"#8b5cf6", kindergarten:"#8b5cf6",
+  hospital:"#ef4444", clinic:"#ef4444", doctors:"#ef4444", dentist:"#ef4444",
+  pharmacy:"#f472b6", veterinary:"#f472b6",
+  restaurant:"#f97316", cafe:"#f97316", fast_food:"#f97316", bar:"#f97316",
+  supermarket:"#22c55e", convenience:"#22c55e", marketplace:"#22c55e",
+  fuel:"#eab308", bank:"#38bdf8", atm:"#38bdf8",
+  police:"#64748b", fire_station:"#ef4444", post_office:"#64748b",
+  bus_station:"#64748b", place_of_worship:"#a3e635", parking:"#64748b",
+};
+const corPOI = kind => POI_COLORS[kind] || "#f59e0b";
+
+/* ============ estado global ============ */
+let map;
+let allFeatures = [];      // imóveis com geo (Feature[])
+let filtered = [];         // após filtros
+let selectedId = null;
+let originMarker = null;   // marcador de origem da rota
+let spider = null;         // {cid} do cluster spiderfied
+let currentStyleId = "openFreeMap";
+let mapLoaded = false;
+let pendingDeepLink = null;
+
+const $ = id => document.getElementById(id);
+const fmtBRL = v => v == null ? "—" : "R$ " + v.toLocaleString("pt-BR",{minimumFractionDigits:2,maximumFractionDigits:2});
+const fmtPct = v => v == null ? "—" : (typeof v === "number" ? v.toLocaleString("pt-BR",{maximumFractionDigits:2}) : v) + "%";
+
+function toast(msg, ms=3000){
+  const t = $("toast"); t.textContent = msg; t.style.display = "block";
+  clearTimeout(t._h); t._h = setTimeout(()=>t.style.display="none", ms);
+}
+
+/* ícones de marcador desenhados em canvas (sem dependência externa) */
+function makeMarkerIcon(color, emoji){
+  const s = 24;
+  const c = document.createElement("canvas");
+  c.width = s; c.height = s;
+  const ctx = c.getContext("2d");
+  ctx.beginPath(); ctx.arc(s/2, s/2, 9, 0, 2*Math.PI);
+  ctx.fillStyle = color; ctx.fill();
+  ctx.lineWidth = 2; ctx.strokeStyle = "#0f172a"; ctx.stroke();
+  ctx.font = "12px system-ui,'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji',sans-serif";
+  ctx.textAlign = "center"; ctx.textBaseline = "middle";
+  ctx.fillStyle = "#0f172a";
+  ctx.fillText(emoji, s/2, s/2 + 0.5);
+  // map.addImage() não aceita <canvas>: precisa ser ImageData/ImageBitmap/HTMLImageElement
+  return ctx.getImageData(0, 0, s, s);
+}
+// 1px transparente p/ ícones ausentes do sprite (evita aviso styleimagemissing)
+function blankIcon(){
+  const c = document.createElement("canvas");
+  c.width = 1; c.height = 1;
+  return c.getContext("2d").getImageData(0, 0, 1, 1);
+}
+
+function buildLegend(){
+  $("legendTipos").innerHTML = Object.entries(TIPO_COLORS).map(([cat,color])=>
+    `<div class="lg"><span class="dot" style="background:${color}"></span>${TIPO_EMOJI[cat]} ${TIPO_LABEL[cat]}</div>`).join("");
+  const pois = ["school","hospital","pharmacy","restaurant","supermarket","fuel","bank"];
+  $("legendPois").innerHTML = pois.map(k=>
+    `<div class="lg"><span class="sq" style="background:${corPOI(k)}"></span>${k}</div>`).join("");
+}
+
+/* ============ mapa ============ */
+function initMap(){
+  try {
+    map = new maplibregl.Map({
+    container: "map",
+    style: STYLE_URL,
+    center: [-52, -14],
+    zoom: 4.3,
+    attributionControl: false
+  });
+  map.addControl(new maplibregl.NavigationControl({visualizePitch:true}), "top-right");
+  map.addControl(new maplibregl.ScaleControl({maxWidth:100, unit:"metric"}), "bottom-left");
+
+  // o estilo liberty referencia alguns ícones que não existem no sprite dele
+  // (gate, toll_booth, office…). Fornece um 1px transparente p/ não logar aviso.
+  map.on("styleimagemissing", e => {
+    try { map.addImage(e.id, blankIcon()); } catch(err){}
+  });
+
+  map.on("click","clusters", onClusterClick);
+  map.on("click","imovel-points", e => { selectImovel(e.features[0].properties.id); });
+  map.on("click","spider-points", e => { selectImovel(e.features[0].properties.id); clearSpider(); });
+  map.on("mouseenter","imovel-points", ()=> map.getCanvas().style.cursor="pointer");
+  map.on("mouseleave","imovel-points", ()=> map.getCanvas().style.cursor="");
+  map.on("mouseenter","clusters", ()=> map.getCanvas().style.cursor="pointer");
+  map.on("mouseleave","clusters", ()=> map.getCanvas().style.cursor="");
+  map.on("mouseenter","spider-points", ()=> map.getCanvas().style.cursor="pointer");
+  map.on("mouseleave","spider-points", ()=> map.getCanvas().style.cursor="");
+
+  map.on("load", ()=>{
+    mapLoaded = true;
+    ensureBaseLayers();
+    ensureLayers();
+    if (allFeatures.length) applyFilters();
+    if (pendingDeepLink){ const id = pendingDeepLink; pendingDeepLink = null; openImovel(id); }
+  });
+
+  map.on("style.load", ()=>{
+    if (!mapLoaded) return;
+    ensureBaseLayers();
+    ensureLayers();
+    if (allFeatures.length) applyFilters();
+    redrawSelectedRing();
+  });
+
+  map.on("movestart", clearSpider);
+
+  map.on("click", e => {
+    if (placingOrigin){
+      setOrigin(e.lngLat.lat, e.lngLat.lng);
+      return;
+    }
+    if (spider){
+      const hit = map.queryRenderedFeatures(e.point, { layers:["clusters","spider-points","imovel-points"] });
+      if (!hit.length) clearSpider();
+    }
+  });
+
+  addLayerSwitcher();
+  } catch (e) {
+    console.error("Falha ao iniciar o mapa (WebGL indisponível?):", e);
+    $("subTitle").textContent = ($("subTitle").textContent || "") + " · mapa indisponível neste dispositivo";
+  }
+}
+
+/* ============ camadas base (idempotente: re-adiciona após setStyle) ============ */
+function ensureBaseLayers(){
+  if (!map) return;
+  if (!map.getSource("imoveis")){
+    map.addSource("imoveis", {
+      type:"geojson",
+      data:{type:"FeatureCollection", features:[]},
+      cluster:true,
+      clusterMaxZoom:CLUSTER_MAX_ZOOM,
+      clusterRadius:55
+    });
+  }
+  for (const [cat,color] of Object.entries(TIPO_COLORS)){
+    if (!map.hasImage("tipo-"+cat)) map.addImage("tipo-"+cat, makeMarkerIcon(color, TIPO_EMOJI[cat]));
+  }
+  if (!map.getLayer("clusters")){
+    map.addLayer({
+      id:"clusters", type:"circle", source:"imoveis", filter:["has","point_count"],
+      paint:{
+        "circle-color":["step",["get","point_count"],"#38bdf8",10,"#f59e0b",50,"#ef4444"],
+        "circle-radius":["step",["get","point_count"],14,10,20,50,28,200,36],
+        "circle-stroke-width":1.5, "circle-stroke-color":"#0f172a",
+        "circle-opacity":0.9
+      }
+    });
+  }
+  if (!map.getLayer("cluster-count")){
+    map.addLayer({
+      id:"cluster-count", type:"symbol", source:"imoveis", filter:["has","point_count"],
+      layout:{
+        "text-field":["get","point_count_abbreviated"],
+        "text-size":12, "text-font":["Noto Sans Regular"]
+      },
+      paint:{"text-color":"#ffffff"}
+    });
+  }
+  if (!map.getLayer("imovel-points")){
+    map.addLayer({
+      id:"imovel-points", type:"symbol", source:"imoveis", filter:["!",["has","point_count"]],
+      layout:{
+        "icon-image":["get","tipo_icon"],
+        "icon-size":0.9,
+        "icon-allow-overlap":true,
+      }
+    });
+  }
+}
+
+/* ============ clusters / spiderfy (Leaflet.markercluster) ============ */
+async function onClusterClick(e){
+  const f = e.features[0];
+  const cid = f.properties.cluster_id;
+  const src = map.getSource("imoveis");
+  if (!src) return;
+  // pega as folhas e decide: todas na MESMA coordenada => spiderfy; senão => zoom até separar
+  let leaves;
+  try { leaves = await src.getClusterLeaves(cid, f.properties.point_count || 1000, 0); }
+  catch(err){ return; }
+  if (!leaves || !leaves.length) return;
+  const [lng, lat] = leaves[0].geometry.coordinates;
+  const coincident = leaves.every(x =>
+    x.geometry.coordinates[0] === lng && x.geometry.coordinates[1] === lat);
+  if (coincident){
+    spiderfy(f.geometry.coordinates, leaves, cid);
+  } else {
+    let exp;
+    try { exp = await src.getClusterExpansionZoom(cid); } catch(err){ return; }
+    map.easeTo({ center: f.geometry.coordinates, zoom: exp });
+  }
+}
+
+// posições relativas ao centro (pixels de tela, y positivo p/ baixo)
+function spiderPositions(count){
+  const res = [];
+  if (count < 9){
+    const circumference = 25 * (2 + count);
+    const legLength = Math.max(circumference / (Math.PI * 2), 35);
+    const angleStep = (Math.PI * 2) / count;
+    for (let i = 0; i < count; i++){
+      const angle = i * angleStep;
+      res.push({ x: legLength * Math.cos(angle), y: legLength * Math.sin(angle) + 10 });
+    }
+  } else {
+    const separation = 28;
+    const lengthFactor = 5 * Math.PI * 2;
+    let angle = 0;
+    let legLength = 11;
+    for (let i = count; i >= 0; i--){
+      if (i < count){
+        res.push({ x: legLength * Math.cos(angle), y: legLength * Math.sin(angle) });
+      }
+      angle += separation / legLength + i * 0.0005;
+      legLength += lengthFactor / angle;
+    }
+  }
+  return res;
+}
+
+function spiderfy(center, leaves, cid){
+  clearSpider();
+  if (!map || !leaves.length) return;
+  const px = map.project(center);
+  const positions = spiderPositions(leaves.length);
+  const points = [];
+  const legs = [];
+  for (let i = 0; i < leaves.length; i++){
+    const off = positions[i] || { x:0, y:0 };
+    const ll = map.unproject({ x: px.x + off.x, y: px.y + off.y });
+    const coord = [ll.lng, ll.lat];
+    points.push({ type:"Feature", geometry:{ type:"Point", coordinates: coord }, properties: leaves[i].properties || {} });
+    legs.push({ type:"Feature", geometry:{ type:"LineString", coordinates:[center, coord] }, properties:{} });
+  }
+  if (map.getSource("spider")){
+    map.getSource("spider").setData({ type:"FeatureCollection", features: points });
+    map.getSource("spider-legs").setData({ type:"FeatureCollection", features: legs });
+  }
+  const hide = ["all", ["has","point_count"], ["!=","cluster_id", cid]];
+  if (map.getLayer("clusters")) map.setFilter("clusters", hide);
+  if (map.getLayer("cluster-count")) map.setFilter("cluster-count", hide);
+  spider = { cid };
+}
+
+function clearSpider(){
+  if (!map || !spider) return;
+  if (map.getSource("spider")) map.getSource("spider").setData({ type:"FeatureCollection", features: [] });
+  if (map.getSource("spider-legs")) map.getSource("spider-legs").setData({ type:"FeatureCollection", features: [] });
+  if (map.getLayer("clusters")) map.setFilter("clusters", ["has","point_count"]);
+  if (map.getLayer("cluster-count")) map.setFilter("cluster-count", ["has","point_count"]);
+  spider = null;
+}
+
+/* ============ carregamento dos dados ============ */
+function dataUrls(uf){
+  const rel = uf ? `data/${uf}/imoveis.json` : "data/imoveis.json";
+  return [`${RAW_BASE}/${rel}`];
+}
+
+async function loadData(uf){
+  let doc = null;
+  for (const url of dataUrls(uf)){
+    try {
+      const r = await fetch(url, {cache:"no-store"});
+      if (!r.ok) throw new Error("HTTP "+r.status);
+      doc = await r.json();
+      break;
+    } catch(e){
+      console.warn("falha ao carregar", url, e);
+    }
+  }
+  if (!doc) {
+    $("subTitle").textContent = "Erro: não foi possível carregar os dados.";
+    $("stats").textContent = "Falha ao carregar.";
+    return;
+  }
+
+  const imoveis = doc.imoveis || [];  const total = imoveis.length;
+  allFeatures = [];
+  for (const im of imoveis){
+    const g = im.geo;
+    if (!g || g.lat == null || g.lng == null) continue;
+    const cat = categoriaTipo(im.tipo);
+    allFeatures.push({
+      type:"Feature",
+      geometry:{type:"Point", coordinates:[g.lng, g.lat]},
+      properties:{
+        id: im.id, uf: im.uf, cidade: im.cidade, bairro: im.bairro,
+        endereco: im.endereco, preco: im.preco, valor_avaliacao: im.valor_avaliacao,
+        desconto: im.desconto, modalidade: im.modalidade, descricao: im.descricao,
+        link: im.link, financiamento: im.financiamento, tipo: im.tipo,
+        tipo_cat: cat, tipo_icon: "tipo-"+cat, tipo_label: TIPO_LABEL[cat],
+        fonte: g.fonte || null
+      }
+    });
+  }
+
+  // deep-link: se o imóvel não está nesta UF, recarrega o dataset global
+  if (deepLinkId && uf && !allFeatures.some(f=>f.properties.id===deepLinkId)){
+    return loadData("");
+  }
+
+  // filtro de UF = seletor de dados (lista estática de 27 UFs)
+  const ufSel = $("ufFilter");
+  if (ufSel.options.length <= 1){
+    UFS.forEach(u=>{
+      const o = document.createElement("option");
+      o.value = u; o.textContent = u;
+      ufSel.appendChild(o);
+    });
+  }
+  ufSel.value = uf || "";
+
+  // zera filtros (novo dataset) e monta as opções recursivas
+  for (const d of FILTERS) $(d.id).value = "";
+  $("buscaFilter").value = "";
+  refreshFilterOptions();
+
+  const dataTxt = doc.atualizado_em || doc.data_geracao_caixa || "";
+  $("subTitle").textContent =
+    `${allFeatures.length.toLocaleString("pt-BR")} imóveis com localização · ` +
+    `${total.toLocaleString("pt-BR")} no dataset · ${dataTxt}`;
+
+  if (!allFeatures.length){
+    $("stats").textContent = total > 0
+      ? `Esta seleção tem ${total.toLocaleString("pt-BR")} imóveis, mas nenhum ainda geolocalizado.`
+      : "Nenhum imóvel encontrado.";
+    $("results").innerHTML = '<div class="empty">Nenhum imóvel com localização nesta seleção. Troque o estado ou escolha "Todos os estados".</div>';
+    if (mapLoaded && map && map.getSource("imoveis")) map.getSource("imoveis").setData({type:"FeatureCollection", features:[]});
+    return;
+  }
+
+  applyFilters();
+  fitAll();
+  if (deepLinkId) openImovel(deepLinkId);
+}
+
+function fitAll(){
+  if (!allFeatures.length || !mapLoaded || !map) return;
+  const b = turfBounds(allFeatures.map(f=>f.geometry.coordinates));
+  map.fitBounds([[b[0],b[1]],[b[2],b[3]]], {padding:60, maxZoom:11});
+}
+function turfBounds(coords){
+  let minLng=Infinity,minLat=Infinity,maxLng=-Infinity,maxLat=-Infinity;
+  for (const [lng,lat] of coords){
+    if (lng<minLng)minLng=lng; if (lng>maxLng)maxLng=lng;
+    if (lat<minLat)minLat=lat; if (lat>maxLat)maxLat=lat;
+  }
+  return [minLng,minLat,maxLng,maxLat];
+}
+
+/* ============ filtros e ordenação ============ */
+const SORT_FNS = {
+  preco_asc: (a,b)=>(a.properties.preco||0)-(b.properties.preco||0),
+  preco_desc: (a,b)=>(b.properties.preco||0)-(a.properties.preco||0),
+  desconto_desc: (a,b)=>(b.properties.desconto||0)-(a.properties.desconto||0),
+  desconto_asc: (a,b)=>(a.properties.desconto||0)-(b.properties.desconto||0),
+  cidade_asc: (a,b)=>(a.properties.cidade||"").localeCompare(b.properties.cidade||"","pt-BR"),
+};
+
+const finNorm = p => (p.financiamento||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase();
+const FILTERS = [
+  { id:"cidadeFilter",        key:"cidade",     ph:"Todas as cidades",        val:p=>p.cidade },
+  { id:"bairroFilter",        key:"bairro",     ph:"Todos os bairros",        val:p=>p.bairro, dep:"cidade" },
+  { id:"modalidadeFilter",    key:"modalidade", ph:"Todas as modalidades",    val:p=>p.modalidade },
+  { id:"tipoFilter",          key:"tipo",       ph:"Todos os tipos",          val:p=>p.tipo_cat, order:Object.keys(TIPO_COLORS), label:v=>TIPO_LABEL[v] },
+  { id:"financiamentoFilter", key:"fin",        ph:"Financiamento: qualquer", val:finNorm, order:["sim","nao"], label:v=>v==="sim"?"Aceita financiamento":"Não aceita financiamento" },
+];
+
+function readSelections(){
+  return Object.fromEntries(FILTERS.map(d => [d.key, $(d.id).value]));
+}
+const stripAccents = s => s.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+// compila a regex do campo de busca (null se vazia/inválida), ignorando acentos
+function compileSearch(){
+  const q = stripAccents($("buscaFilter").value.trim());
+  if (!q) return null;
+  try { return new RegExp(q, "i"); } catch(e){ return {invalid:true}; }
+}
+function searchMatches(p, re){
+  if (!re) return true;
+  if (re.invalid) return false;
+  const hay = [p.descricao, p.endereco, p.cidade, p.bairro, p.modalidade, p.tipo, p.id]
+    .filter(Boolean).join(" ");
+  return re.test(stripAccents(hay));
+}
+// passa por todos os filtros exceto `exceptKey` (a própria faceta ignora a si mesma)
+function passes(sel, p, exceptKey){
+  for (const d of FILTERS){
+    if (d.key === exceptKey) continue;
+    const v = sel[d.key];
+    if (v && d.val(p) !== v) return false;
+  }
+  return true;
+}
+function optionEl(value, text){
+  const o = document.createElement("option");
+  o.value = value; o.textContent = text; return o;
+}
+
+// Recursivo: cada dropdown só lista valores que ainda existem dados os outros filtros.
+// Como todo valor oferecido tem ≥1 imóvel compatível, trocar por outro valor oferecido
+// nunca invalida os demais — nenhum estado impossível é alcançável.
+function refreshFilterOptions(){
+  const sel = readSelections();
+  for (const d of FILTERS){
+    const el = $(d.id);
+    if (d.dep && !sel[d.dep]){          // ex.: bairro depende de cidade
+      sel[d.key] = "";
+      el.disabled = true;
+      el.innerHTML = ""; el.appendChild(optionEl("", d.ph));
+      continue;
+    }
+    el.disabled = false;
+    const counts = new Map();
+    for (const f of allFeatures){
+      const p = f.properties;
+      if (!passes(sel, p, d.key)) continue;
+      const v = d.val(p);
+      if (v) counts.set(v, (counts.get(v)||0) + 1);
+    }
+    const vals = [...counts.keys()].sort(d.order
+      ? (a,b)=>d.order.indexOf(a)-d.order.indexOf(b)
+      : (a,b)=>a.localeCompare(b,"pt-BR"));
+    el.innerHTML = ""; el.appendChild(optionEl("", d.ph));
+    for (const v of vals) el.appendChild(optionEl(v, `${d.label?d.label(v):v} (${counts.get(v)})`));
+    el.value = sel[d.key] || "";
+  }
+}
+
+function applyFilters(){
+  const sel = readSelections();
+  const re = compileSearch();
+  $("buscaFilter").style.borderColor = (re && re.invalid) ? "var(--danger)" : "";
+  filtered = allFeatures.filter(f => passes(sel, f.properties) && searchMatches(f.properties, re));
+
+  const ordem = $("ordenarFilter").value;
+  if (SORT_FNS[ordem]) filtered = filtered.slice().sort(SORT_FNS[ordem]);
+
+  $("stats").textContent =
+    `Mostrando ${filtered.length.toLocaleString("pt-BR")} imóveis` +
+    (filtered.length !== allFeatures.length ? ` de ${allFeatures.length.toLocaleString("pt-BR")}` : "");
+
+  if (mapLoaded && map && map.getSource("imoveis")){
+    map.getSource("imoveis").setData({type:"FeatureCollection", features: filtered});
+  }
+  renderResults();
+}
+
+$("ufFilter").addEventListener("change", e => setUf(e.target.value));
+for (const d of FILTERS){
+  $(d.id).addEventListener("change", ()=>{ refreshFilterOptions(); applyFilters(); });
+}
+$("ordenarFilter").addEventListener("change", applyFilters);
+$("buscaFilter").addEventListener("input", ()=>{ applyFilters(); });
+
+/* ============ lista de resultados ============ */
+function renderResults(){
+  const c = $("results");
+  c.innerHTML = "";
+  if (!filtered.length){ c.innerHTML = '<div class="empty">Nenhum imóvel com localização corresponde aos filtros.</div>'; return; }
+  const slice = filtered.slice(0, 300);
+  for (const f of slice){
+    const p = f.properties;
+    const el = document.createElement("div");
+    el.className = "result" + (p.id===selectedId ? " active" : "");
+    el.innerHTML =
+      `<div class="t"><span>${esc(p.cidade)} — ${esc(p.bairro||"")}</span>
+        <span class="p">${fmtBRL(p.preco)}</span></div>
+       <div class="m">${esc(p.endereco||"")}</div>
+       <div class="m" style="display:flex;gap:6px;margin-top:4px">
+         <span class="badge">${esc(p.uf)}</span>
+         ${p.desconto!=null?`<span class="badge">-${fmtPct(p.desconto)}</span>`:""}
+         <span class="badge">${esc(p.modalidade||"")}</span>
+       </div>`;
+    el.addEventListener("click", ()=> flyTo(p.id));
+    c.appendChild(el);
+  }
+  if (filtered.length > 300){
+    const more = document.createElement("div");
+    more.className = "empty";
+    more.textContent = `… e mais ${(filtered.length-300).toLocaleString("pt-BR")} (use os filtros para refinar)`;
+    c.appendChild(more);
+  }
+}
+
+function flyTo(id){
+  const f = allFeatures.find(x=>x.properties.id===id);
+  if (!f) return;
+  if (mapLoaded && map) map.flyTo({center:f.geometry.coordinates, zoom: Math.max(map.getZoom(), 15)});
+  selectImovel(id);
+}
+
+function esc(s){ return (s==null?"":String(s)).replace(/[&<>"']/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
+
+/* ============ seleção / detalhe ============ */
+function selectImovel(id){
+  selectedId = id;
+  const f = allFeatures.find(x=>x.properties.id===id);
+  if (!f) return;
+  const p = f.properties;
+  const [lng, lat] = f.geometry.coordinates;
+
+  renderResults(); // re-marca o ativo
+
+  const d = $("detail");
+  d.classList.add("open");
+  $("dTitle").textContent = `${p.cidade} — ${p.bairro||""}`;
+
+  $("dBody").innerHTML = `
+    <div>
+      <div class="big">${fmtBRL(p.preco)}</div>
+      ${p.valor_avaliacao!=null?`<div style="font-size:12px;color:var(--muted)">Avaliação: ${fmtBRL(p.valor_avaliacao)}</div>`:""}
+      ${p.desconto!=null?`<div style="font-size:12px;color:var(--amber)">Desconto: ${fmtPct(p.desconto)}</div>`:""}
+    </div>
+    <dl class="kv">
+      <dt>UF</dt><dd>${esc(p.uf)}</dd>
+      <dt>Cidade</dt><dd>${esc(p.cidade)}</dd>
+      <dt>Bairro</dt><dd>${esc(p.bairro||"—")}</dd>
+      <dt>Endereço</dt><dd>${esc(p.endereco||"—")}</dd>
+      <dt>Modalidade</dt><dd>${esc(p.modalidade||"—")}</dd>
+      <dt>Financiamento</dt><dd>${esc(p.financiamento||"—")}</dd>
+      ${p.descricao?`<dt>Descrição</dt><dd>${esc(p.descricao)}</dd>`:""}
+    </dl>
+    <div class="row" style="display:flex;gap:8px">
+      <a class="btn" href="${esc(p.link||"#")}" target="_blank" rel="noopener" style="flex:1">Ver na Caixa →</a>
+      <a class="btn" href="https://venda-imoveis.caixa.gov.br/editais/matricula/${esc(p.uf)}/${esc(p.id)}.pdf" target="_blank" rel="noopener" style="flex:1">Baixar matrícula</a>
+    </div>
+
+    <div>
+      <div class="section-title">Street View</div>
+      <iframe class="sv" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+        src="https://maps.google.com/maps?q=&layer=c&cbll=${lat},${lng}&cbp=11,0,0,0,0&output=svembed"></iframe>
+      <div style="margin-top:4px"><a class="btn secondary small" href="https://www.google.com/maps?layer=c&cbll=${lat},${lng}" target="_blank" rel="noopener">Abrir em tela cheia ↗</a></div>
+    </div>
+
+    <div>
+      <div class="section-title">Rotas (OSRM)</div>
+      <button class="btn secondary" id="routeFromMe">🚗 Rotas da minha localização</button>
+      <button class="btn secondary" id="routeFromPin" style="margin-top:6px">📍 Definir origem no mapa</button>
+      <div class="route-meta" id="routeMeta"></div>
+    </div>
+
+    <div>
+      <div class="section-title">Pontos de interesse (POIs)</div>
+      <div id="poiBox"><div class="empty"><span class="spinner"></span> Buscando POIs…</div></div>
+    </div>
+  `;
+
+  $("routeFromMe").addEventListener("click", ()=>routeFromMe(lat,lng));
+  $("routeFromPin").addEventListener("click", ()=>startPinOrigin());
+  loadPOIs(lat, lng);
+  ensureLayers();
+
+  // marca visualmente o imóvel selecionado
+  drawSelectedRing(f);
+}
+
+function hasCoincident(f){
+  const [lng, lat] = f.geometry.coordinates;
+  return allFeatures.some(x => x !== f &&
+    x.geometry.coordinates[0] === lng && x.geometry.coordinates[1] === lat);
+}
+
+function drawSelectedRing(f){
+  if (!mapLoaded || !map) return;
+  if (map.getLayer("selected-ring")) map.removeLayer("selected-ring");
+  if (map.getSource("selected-ring")) map.removeSource("selected-ring");
+  if (hasCoincident(f)) return;   // não cobre o cluster com o disco branco
+  map.addSource("selected-ring", {type:"geojson", data:{type:"FeatureCollection", features:[f]}});
+  map.addLayer({id:"selected-ring", type:"circle", source:"selected-ring",
+    paint:{"circle-radius":11,"circle-color":"#ffffff","circle-opacity":0.9,"circle-stroke-width":3,"circle-stroke-color":"#38bdf8"}});
+}
+
+function redrawSelectedRing(){
+  const f = allFeatures.find(x => x.properties.id === selectedId);
+  if (f) drawSelectedRing(f);
+}
+
+function ensureLayers(){
+  if (!map) return;
+  if (!map.getSource("pois")){
+    map.addSource("pois", {type:"geojson", data:{type:"FeatureCollection", features:[]}});
+    map.addLayer({id:"poi-layer", type:"circle", source:"pois",
+      paint:{"circle-radius":5,"circle-color":["get","color"],"circle-stroke-width":1,"circle-stroke-color":"#0f172a"}});
+  }
+  if (!map.getSource("route")){
+    map.addSource("route", {type:"geojson", data:{type:"FeatureCollection", features:[]}});
+    map.addLayer({id:"route-line", type:"line", source:"route",
+      layout:{"line-join":"round","line-cap":"round"},
+      paint:{"line-color":"#38bdf8","line-width":4,"line-opacity":0.85}});
+  }
+  if (!map.getSource("spider")){
+    map.addSource("spider", {type:"geojson", data:{type:"FeatureCollection", features:[]}});
+    map.addSource("spider-legs", {type:"geojson", data:{type:"FeatureCollection", features:[]}});
+    map.addLayer({id:"spider-legs", type:"line", source:"spider-legs",
+      layout:{"line-join":"round","line-cap":"round"},
+      paint:{"line-color":"#38bdf8","line-width":2,"line-opacity":0.7}});
+    map.addLayer({id:"spider-points", type:"symbol", source:"spider",
+      layout:{"icon-image":["get","tipo_icon"],"icon-size":0.9,"icon-allow-overlap":true}});
+  }
+}
+
+/* ============ POIs (Overpass → Photon) ============ */
+async function fetchJSON(url, opts={}, ms=9000){
+  const c = new AbortController();
+  const t = setTimeout(()=>c.abort(), ms);
+  try {
+    const r = await fetch(url, {...opts, signal: c.signal});
+    if (!r.ok) throw new Error("HTTP "+r.status);
+    return await r.json();
+  } finally { clearTimeout(t); }
+}
+
+async function poiFromOverpass(lat, lng){
+  const query = `[out:json][timeout:15];(` +
+    `node["amenity"](around:1200,${lat},${lng});` +
+    `node["shop"](around:800,${lat},${lng});` +
+    `);out center 60;`;
+  for (const base of [OVERPASS_URL, OVERPASS_MIRROR]){
+    try {
+      const d = await fetchJSON(base, {method:"POST", headers:{"Content-Type":"application/x-www-form-urlencoded"}, body:"data="+encodeURIComponent(query)});
+      return (d.elements||[]).filter(e=>e.lat!=null && e.lon!=null).map(e=>{
+        const t = e.tags||{};
+        const kind = t.amenity || t.shop || "outro";
+        return { type:"Feature", geometry:{type:"Point", coordinates:[e.lon, e.lat]},
+          properties:{ name: t.name||t.brand||kind, kind, color: corPOI(kind) } };
+      });
+    } catch(e){ console.warn("overpass", base, e); }
+  }
+  return null;
+}
+
+const POI_KEYS = new Set([
+  "amenity","shop","tourism","leisure","healthcare","public_transport",
+  "historic","office","sport","railway","aeroway","natural","craft","man_made"
+]);
+async function poiFromPhoton(lat, lng){
+  const url = `https://photon.komoot.io/reverse?lat=${lat}&lon=${lng}&radius=1500&limit=80`;
+  try {
+    const d = await fetchJSON(url);
+    return (d.features||[]).filter(x=>{
+      const k = x.properties?.osm_key;
+      return POI_KEYS.has(k);
+    }).map(x=>{
+      const p = x.properties||{};
+      const kind = p.osm_value || p.type || p.osm_key || "outro";
+      const [lon2, lat2] = x.geometry?.coordinates || [lng, lat];
+      return { type:"Feature", geometry:{type:"Point", coordinates:[lon2, lat2]},
+        properties:{ name: p.name||kind, kind, color: corPOI(kind) } };
+    });
+  } catch(e){ console.warn("photon", e); }
+  return null;
+}
+
+async function loadPOIs(lat, lng){
+  const box = $("poiBox");
+  let features = await poiFromPhoton(lat, lng);          // Photon primeiro: rápido e estável
+  if (!features || !features.length) features = await poiFromOverpass(lat, lng);
+  if (!features){ box.innerHTML = '<div class="empty">Falha ao buscar POIs (serviços indisponíveis).</div>'; return; }
+  if (!features.length){ box.innerHTML = '<div class="empty">Nenhum POI próximo encontrado.</div>'; return; }
+
+  features.forEach(f=> f.properties.dist = distM(lat, lng, f.geometry.coordinates[1], f.geometry.coordinates[0]));
+  features.sort((a,b)=>a.properties.dist-b.properties.dist);
+
+  if (mapLoaded && map && map.getSource("pois")){
+    map.getSource("pois").setData({type:"FeatureCollection", features});
+  }
+
+  box.innerHTML = '<ul class="poi-list">' + features.slice(0,20).map(f=>{
+    const icon = POI_ICONS[f.properties.kind]||"📍";
+    return `<li><span>${icon}</span><span class="nm">${esc(f.properties.name)}</span><span class="ds">${esc(f.properties.kind)} · ${f.properties.dist.toFixed(0)}m</span></li>`;
+  }).join("") + '</ul>';
+}
+
+function distM(lat1,lon1,lat2,lon2){
+  const R=6371000, dLat=(lat2-lat1)*Math.PI/180, dLon=(lon2-lon1)*Math.PI/180;
+  const a=Math.sin(dLat/2)**2 + Math.cos(lat1*Math.PI/180)*Math.cos(lat2*Math.PI/180)*Math.sin(dLon/2)**2;
+  return R*2*Math.atan2(Math.sqrt(a),Math.sqrt(1-a));
+}
+
+/* ============ rotas (OSRM) ============ */
+async function route(lat1,lng1,lat2,lng2){
+  const url = OSRM_URL + `${lng1},${lat1};${lng2},${lat2}?overview=full&geometries=geojson&steps=false`;
+  const r = await fetch(url);
+  if (!r.ok) throw new Error("OSRM HTTP "+r.status);
+  const d = await r.json();
+  if (d.code !== "Ok" || !d.routes?.length) throw new Error("sem rota");
+  return d.routes[0];
+}
+
+function drawRoute(route, dist, dur){
+  const geom = route.geometry;
+  if (mapLoaded && map && map.getSource("route")){
+    map.getSource("route").setData({type:"FeatureCollection", features:[{type:"Feature", geometry: geom, properties:{}}]});
+  }
+  const b = turfBounds(geom.coordinates);
+  if (mapLoaded && map) map.fitBounds([[b[0],b[1]],[b[2],b[3]]], {padding:80, maxZoom:15});
+  const km = (dist/1000).toFixed(1);
+  const min = Math.round(dur/60);
+  $("routeMeta").innerHTML = `Distância: <strong>${km} km</strong> · Tempo: <strong>~${min} min</strong>`;
+}
+
+function routeFromMe(lat,lng){
+  $("routeMeta").innerHTML = '<span class="spinner"></span> Obtendo sua localização…';
+  if (!navigator.geolocation){
+    toast("Geolocalização não suportada neste navegador.");
+    return;
+  }
+  navigator.geolocation.getCurrentPosition(
+    async pos=>{
+      try {
+        const r = await route(pos.coords.latitude, pos.coords.longitude, lat, lng);
+        drawRoute(r, r.distance, r.duration);
+      } catch(e){ toast("Falha ao calcular rota: "+e.message); }
+    },
+    err=>{ toast("Não foi possível obter sua localização: "+(err.message||"permissão negada")); },
+    {enableHighAccuracy:true, timeout:8000}
+  );
+}
+
+let placingOrigin = false;
+function startPinOrigin(){
+  placingOrigin = true;
+  toast("Clique no mapa para definir o ponto de origem da rota.", 6000);
+  if (map) map.getCanvas().style.cursor = "crosshair";
+}
+function setOrigin(lat, lng){
+  placingOrigin = false;
+  if (!map) return;
+  map.getCanvas().style.cursor = "";
+  if (originMarker) originMarker.remove();
+  originMarker = new maplibregl.Marker({color:"#ef4444"}).setLngLat([lng,lat]).addTo(map);
+  const f = allFeatures.find(x=>x.properties.id===selectedId);
+  if (!f) return;
+  $("routeMeta").innerHTML = '<span class="spinner"></span> Calculando rota…';
+  route(lat, lng, f.geometry.coordinates[1], f.geometry.coordinates[0]).then(r=>{
+    drawRoute(r, r.distance, r.duration);
+  }).catch(e=>toast("Falha ao calcular rota: "+e.message));
+}
+
+/* ============ painel collapse ============ */
+$("closeBtn").addEventListener("click", ()=> $("panel").classList.add("collapsed"));
+$("toggleBtn").addEventListener("click", ()=> $("panel").classList.remove("collapsed"));
+$("detailClose").addEventListener("click", ()=> $("detail").classList.remove("open"));
+
+/* ============ compartilhar ============ */
+$("shareBtn").addEventListener("click", shareImovel);
+
+async function shareImovel(){
+  const f = allFeatures.find(x=>x.properties.id===selectedId);
+  if (!f) return;
+  const url = new URL(location.href);
+  url.search = "";
+  url.searchParams.set("imovel", selectedId);
+  if (f.properties.uf) url.searchParams.set("uf", f.properties.uf);
+  const shareUrl = url.toString();
+  const title = `Imóvel ${selectedId} — ${f.properties.cidade}/${f.properties.uf}`;
+  const text = `${f.properties.cidade} — ${f.properties.bairro||""} · ${fmtBRL(f.properties.preco)}`;
+  if (navigator.share){
+    try { await navigator.share({title, text, url: shareUrl}); return; }
+    catch(e){ if (e && e.name === "AbortError") return; }
+  }
+  try { await navigator.clipboard.writeText(shareUrl); toast("Link copiado!"); }
+  catch(e){ toast("Não foi possível compartilhar o link."); }
+}
+
+/* ============ deep-link (?imovel=ID) ============ */
+const params = new URLSearchParams(location.search);
+const deepLinkId = params.get("imovel");
+const deepLinkUf = (params.get("uf") || "").toUpperCase();
+function openImovel(id){
+  const f = allFeatures.find(x=>x.properties.id===id);
+  if (!f) return;
+  // abre o card já; se o mapa ainda não está pronto, centraliza quando carregar
+  if (mapLoaded && map){ flyTo(id); return; }
+  selectImovel(id);
+  pendingDeepLink = id;
+}
+
+/* ============ seletor de camadas (estilos base) ============ */
+function setStyle(id, persist = true){
+  const st = BASE_STYLES.find(s => s.id === id);
+  if (!st || !map) return;
+  currentStyleId = id;
+  if (persist){ try { localStorage.setItem("caixa_style", id); } catch(e){} }
+  clearSpider();
+  map.setStyle(st.style);
+}
+
+function addLayerSwitcher(){
+  if (!map) return;
+  let saved = "";
+  try { saved = localStorage.getItem("caixa_style") || ""; } catch(e){}
+
+  const menuItems = [];
+  let menu = null;
+
+  function refreshMenu(){
+    BASE_STYLES.forEach((st, i) => menuItems[i].classList.toggle("active", st.id === currentStyleId));
+  }
+  function showMenu(anchor){
+    refreshMenu();
+    menu.style.display = "block";
+    menu.style.left = (anchor.right - menu.offsetWidth) + "px";
+    menu.style.top = (anchor.bottom + 4) + "px";
+  }
+  function hideMenu(){ if (menu) menu.style.display = "none"; }
+
+  // o menu fica fora do .maplibregl-ctrl-group (que tem overflow:hidden)
+  menu = document.createElement("div");
+  menu.className = "layer-menu";
+  menu.style.display = "none";
+  BASE_STYLES.forEach(st => {
+    const item = document.createElement("button");
+    item.type = "button";
+    item.className = "layer-menu-item";
+    item.textContent = st.title;
+    item.addEventListener("click", () => { setStyle(st.id); hideMenu(); });
+    menu.appendChild(item);
+    menuItems.push(item);
+  });
+  document.body.appendChild(menu);
+
+  const control = {
+    onAdd(){
+      const wrap = document.createElement("div");
+      wrap.className = "maplibregl-ctrl maplibregl-ctrl-group layer-switcher";
+      const btn = document.createElement("button");
+      btn.type = "button";
+      btn.title = "Camadas";
+      btn.innerHTML = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg>';
+      wrap.appendChild(btn);
+      btn.addEventListener("click", e => {
+        e.stopPropagation();
+        if (menu.style.display === "none") showMenu(btn.getBoundingClientRect());
+        else hideMenu();
+      });
+      return wrap;
+    },
+    onRemove(){ if (menu){ menu.remove(); menu = null; } }
+  };
+
+  map.addControl(control, "top-right");
+
+  document.addEventListener("click", e => { if (menu && menu.style.display !== "none" && !menu.contains(e.target)) hideMenu(); });
+
+  if (saved && saved !== "openFreeMap" && BASE_STYLES.some(s => s.id === saved)){
+    setStyle(saved, false);
+  }
+}
+
+/* ============ seletor de UF / geo-IP / boot ============ */
+function setUf(uf){
+  try { localStorage.setItem("caixa_uf", uf); } catch(e){}
+  loadData(uf);
+}
+
+async function detectUfByIp(){
+  try {
+    const d = await fetchJSON("https://ipwho.is/");
+    if (d.country_code !== "BR") return "";
+    const rc = (d.region_code || "").toUpperCase();
+    return UFS.includes(rc) ? rc : "";
+  } catch(e){ console.warn("geo-ip", e); }
+  return "";
+}
+
+async function boot(){
+  let uf = "";
+  try { uf = localStorage.getItem("caixa_uf") || ""; } catch(e){}
+  if (deepLinkId){
+    // deep-link: usa a UF do link; sem ela, carrega o dataset global (garante achar o imóvel)
+    uf = (deepLinkUf && UFS.includes(deepLinkUf)) ? deepLinkUf : "";
+  } else if (!uf){
+    $("subTitle").textContent = "Detectando seu estado…";
+    uf = await detectUfByIp();
+    if (uf){ try { localStorage.setItem("caixa_uf", uf); } catch(e){} }
+  }
+  loadData(uf);
+}
+
+/* ============ boot ============ */
+initMap();
+buildLegend();
+boot();
+</script>
+</body>
+</html>
