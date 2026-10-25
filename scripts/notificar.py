@@ -22,6 +22,7 @@ import os
 import re
 import subprocess
 import unicodedata
+import urllib.error
 import urllib.parse
 import urllib.request
 
@@ -88,9 +89,23 @@ def enviar(token, chat, texto):
 
 
 def enviar_seguro(token, chat, texto):
-    """Nunca propaga exceção nem imprime o token (que vai só na URL interna)."""
+    """Nunca propaga exceção nem imprime o token (que vai só na URL interna).
+    Em erro HTTP, loga o código e a descrição do Telegram (sem o token) — ex.:
+    401 Unauthorized (token errado) ou 400 "chat not found" (chat id errado)."""
     try:
         return enviar(token, chat, texto)
+    except urllib.error.HTTPError as e:
+        desc = ""
+        try:
+            body = e.read().decode("utf-8", "replace")
+            desc = json.loads(body).get("description", "") or body[:200]
+        except Exception:
+            pass
+        log(f"[NOTIFY] Telegram rejeitou: HTTP {e.code} — {desc}")
+        return False
+    except urllib.error.URLError as e:
+        log(f"[NOTIFY] falha de rede ao chamar o Telegram: {e.reason}")
+        return False
     except Exception as e:
         log(f"[NOTIFY] falha ao enviar ao Telegram: {type(e).__name__}")
         return False
