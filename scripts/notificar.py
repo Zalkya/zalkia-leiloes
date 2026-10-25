@@ -145,6 +145,14 @@ def main():
         return
 
     if os.environ.get("NOTIFY_TEST") == "1":
+        # diagnóstico SEGURO: não revela o token, só tamanho/formato e dígitos do chat
+        fmt_ok = bool(re.match(r"^\d{6,}:[A-Za-z0-9_-]{30,}$", token))
+        log(f"[NOTIFY] token: {len(token)} chars, formato_valido={fmt_ok} | "
+            f"chat_id: {len(chat)} chars, so_digitos={chat.lstrip('-').isdigit()}")
+        if not fmt_ok:
+            log("[NOTIFY] ⚠️ o token NÃO tem o formato esperado `<numeros>:<resto>` — "
+                "provavelmente foi colado com aspas, espaco, a palavra 'bot' na frente, "
+                "ou incompleto. Corrija o secret TELEGRAM_BOT_TOKEN.")
         ok = enviar_seguro(token, chat,
                            "✅ <b>Alertas de queda de preço</b> configurados com sucesso.")
         log(f"[NOTIFY] mensagem de teste {'enviada' if ok else 'FALHOU'}")
