@@ -10,8 +10,8 @@
 <link href="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.css" rel="stylesheet">
 <style>
   :root{
-    --bg:#0f172a; --panel:#1e293b; --panel2:#273449; --line:#334155;
-    --txt:#e2e8f0; --muted:#94a3b8; --accent:#38bdf8; --accent2:#22c55e;
+    --bg:#0b0b0d; --panel:#161617; --panel2:#201f22; --line:#343438;
+    --txt:#f2f2f3; --muted:#a0a0a8; --accent:#ff7a1a; --accent2:#ff9d4d;
     --amber:#f59e0b; --danger:#ef4444;
   }
   *{box-sizing:border-box}
@@ -59,12 +59,12 @@
     padding:10px 12px;border:1px solid var(--line);border-radius:10px;margin-bottom:8px;
     cursor:pointer;background:var(--panel2);transition:background .15s
   }
-  .result:hover{background:#304059}
+  .result:hover{background:#2a2622}
   .result.active{border-color:var(--accent)}
   .result .t{font-weight:600;font-size:13px;display:flex;justify-content:space-between;gap:6px}
   .result .p{color:var(--accent2);font-weight:700;font-size:14px}
   .result .m{font-size:11px;color:var(--muted);margin-top:3px;line-height:1.4}
-  .result .badge{font-size:10px;background:#0f2b24;color:var(--accent2);padding:2px 6px;border-radius:6px;white-space:nowrap}
+  .result .badge{font-size:10px;background:#2a1b0c;color:var(--accent2);padding:2px 6px;border-radius:6px;white-space:nowrap}
 
   /* Detalhe (imóvel selecionado) */
   #detail{
@@ -82,7 +82,7 @@
   .big{font-size:20px;font-weight:800;color:var(--accent2)}
   .btn{
     display:block;width:100%;padding:10px;border:none;border-radius:8px;cursor:pointer;
-    font-size:13px;font-weight:600;background:var(--accent);color:#082f49;text-align:center;text-decoration:none
+    font-size:13px;font-weight:700;background:var(--accent);color:#0b0b0d;text-align:center;text-decoration:none
   }
   .btn.secondary{background:var(--panel2);color:var(--txt);border:1px solid var(--line)}
   .btn.small{width:auto;padding:6px 10px;font-size:12px;display:inline-block}
@@ -136,8 +136,34 @@
   .layer-menu-item:hover{background:var(--panel2)}
   .layer-menu-item.active{color:var(--accent);font-weight:600}
 
-  @media(max-width:640px){
-    #panel,#detail{width:calc(100vw - 20px)}
+  @media(max-width:680px){
+    /* painéis viram "bottom sheets": o mapa fica visível no topo da tela */
+    #panel,#detail{
+      top:auto;left:0;right:0;bottom:0;width:100%;max-width:100%;
+      height:64vh;max-height:80vh;
+      border-radius:18px 18px 0 0;border-left:none;border-right:none;border-bottom:none;
+    }
+    /* alça de arraste visual no topo da folha */
+    #panel::before,#detail::before{
+      content:"";position:absolute;top:7px;left:50%;transform:translateX(-50%);
+      width:42px;height:4px;border-radius:999px;background:var(--line);z-index:3
+    }
+    .panel-head,.d-head{padding-top:18px}
+    #panel.collapsed{transform:translateY(105%)}
+    /* botão de reabrir o painel fica centralizado embaixo */
+    #toggleBtn{top:auto;bottom:16px;left:50%;transform:translateX(-50%);padding:10px 18px;font-size:16px}
+    /* inputs com 16px evitam o auto-zoom do iOS ao focar */
+    .filters select,.filters input{font-size:16px;padding:11px 12px}
+    .filters .row{flex-direction:column}
+    .sv{height:180px}
+    #legend{display:none}
+    .toast{bottom:auto;top:14px}
+  }
+  /* telas bem estreitas: títulos e espaçamentos um pouco menores */
+  @media(max-width:380px){
+    .panel-head h1{font-size:15px}
+    #results{padding:6px}
+    .result{padding:9px 10px}
   }
 </style>
 </head>
@@ -299,10 +325,10 @@ function makeMarkerIcon(color, emoji){
   const ctx = c.getContext("2d");
   ctx.beginPath(); ctx.arc(s/2, s/2, 9, 0, 2*Math.PI);
   ctx.fillStyle = color; ctx.fill();
-  ctx.lineWidth = 2; ctx.strokeStyle = "#0f172a"; ctx.stroke();
+  ctx.lineWidth = 2; ctx.strokeStyle = "#0b0b0d"; ctx.stroke();
   ctx.font = "12px system-ui,'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji',sans-serif";
   ctx.textAlign = "center"; ctx.textBaseline = "middle";
-  ctx.fillStyle = "#0f172a";
+  ctx.fillStyle = "#0b0b0d";
   ctx.fillText(emoji, s/2, s/2 + 0.5);
   // map.addImage() não aceita <canvas>: precisa ser ImageData/ImageBitmap/HTMLImageElement
   return ctx.getImageData(0, 0, s, s);
@@ -406,9 +432,9 @@ function ensureBaseLayers(){
     map.addLayer({
       id:"clusters", type:"circle", source:"imoveis", filter:["has","point_count"],
       paint:{
-        "circle-color":["step",["get","point_count"],"#38bdf8",10,"#f59e0b",50,"#ef4444"],
+        "circle-color":["step",["get","point_count"],"#f97316",10,"#ea580c",50,"#c2410c",200,"#9a3412"],
         "circle-radius":["step",["get","point_count"],14,10,20,50,28,200,36],
-        "circle-stroke-width":1.5, "circle-stroke-color":"#0f172a",
+        "circle-stroke-width":1.5, "circle-stroke-color":"#0b0b0d",
         "circle-opacity":0.9
       }
     });
@@ -836,7 +862,7 @@ function drawSelectedRing(f){
   if (hasCoincident(f)) return;   // não cobre o cluster com o disco branco
   map.addSource("selected-ring", {type:"geojson", data:{type:"FeatureCollection", features:[f]}});
   map.addLayer({id:"selected-ring", type:"circle", source:"selected-ring",
-    paint:{"circle-radius":11,"circle-color":"#ffffff","circle-opacity":0.9,"circle-stroke-width":3,"circle-stroke-color":"#38bdf8"}});
+    paint:{"circle-radius":11,"circle-color":"#ffffff","circle-opacity":0.9,"circle-stroke-width":3,"circle-stroke-color":"#ff7a1a"}});
 }
 
 function redrawSelectedRing(){
@@ -849,20 +875,20 @@ function ensureLayers(){
   if (!map.getSource("pois")){
     map.addSource("pois", {type:"geojson", data:{type:"FeatureCollection", features:[]}});
     map.addLayer({id:"poi-layer", type:"circle", source:"pois",
-      paint:{"circle-radius":5,"circle-color":["get","color"],"circle-stroke-width":1,"circle-stroke-color":"#0f172a"}});
+      paint:{"circle-radius":5,"circle-color":["get","color"],"circle-stroke-width":1,"circle-stroke-color":"#0b0b0d"}});
   }
   if (!map.getSource("route")){
     map.addSource("route", {type:"geojson", data:{type:"FeatureCollection", features:[]}});
     map.addLayer({id:"route-line", type:"line", source:"route",
       layout:{"line-join":"round","line-cap":"round"},
-      paint:{"line-color":"#38bdf8","line-width":4,"line-opacity":0.85}});
+      paint:{"line-color":"#ff7a1a","line-width":4,"line-opacity":0.85}});
   }
   if (!map.getSource("spider")){
     map.addSource("spider", {type:"geojson", data:{type:"FeatureCollection", features:[]}});
     map.addSource("spider-legs", {type:"geojson", data:{type:"FeatureCollection", features:[]}});
     map.addLayer({id:"spider-legs", type:"line", source:"spider-legs",
       layout:{"line-join":"round","line-cap":"round"},
-      paint:{"line-color":"#38bdf8","line-width":2,"line-opacity":0.7}});
+      paint:{"line-color":"#ff7a1a","line-width":2,"line-opacity":0.7}});
     map.addLayer({id:"spider-points", type:"symbol", source:"spider",
       layout:{"icon-image":["get","tipo_icon"],"icon-size":0.9,"icon-allow-overlap":true}});
   }
