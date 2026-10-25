@@ -178,16 +178,36 @@
     /* painéis viram "bottom sheets": o mapa fica visível no topo da tela */
     #panel,#detail{
       top:auto;left:0;right:0;bottom:0;width:100%;max-width:100%;
-      height:64vh;max-height:80vh;
+      height:72vh;max-height:85vh;
       border-radius:18px 18px 0 0;border-left:none;border-right:none;border-bottom:none;
     }
-    /* alça de arraste visual no topo da folha */
-    #panel::before,#detail::before{
-      content:"";position:absolute;top:7px;left:50%;transform:translateX(-50%);
-      width:42px;height:4px;border-radius:999px;background:var(--line);z-index:3
+
+    /* PAINEL DE FILTROS: a folha inteira rola; o cabeçalho fica fixo no topo */
+    #panel{display:block;overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch}
+    #panel .panel-head{
+      position:sticky;top:0;z-index:4;background:var(--panel);
+      border-bottom:1px solid var(--line)
     }
-    .panel-head,.d-head{padding-top:18px}
+    .filters,.stats{flex-shrink:0}
+    #results{flex:none;overflow:visible}
+
+    /* DETALHE: cabeçalho fixo, corpo rola (já é flex column) */
+    #detail .d-head{position:relative}
+
+    /* cabeçalho é a área de arraste (swipe p/ baixo recolhe) */
+    .panel-head,.d-head{padding-top:20px;touch-action:none;user-select:none;cursor:grab}
+    #panel.dragging .panel-head,#detail.dragging .d-head{cursor:grabbing}
+
+    /* alça de arraste visual, presa ao cabeçalho fixo */
+    .panel-head::before,.d-head::before{
+      content:"";position:absolute;top:7px;left:50%;transform:translateX(-50%);
+      width:42px;height:4px;border-radius:999px;background:var(--line);z-index:5
+    }
+
     #panel.collapsed{transform:translateY(105%)}
+    /* durante o arraste, sem transição para o painel seguir o dedo */
+    #panel.dragging,#detail.dragging{transition:none}
+
     /* botão de reabrir o painel fica centralizado embaixo */
     #toggleBtn{top:auto;bottom:16px;left:50%;transform:translateX(-50%);padding:10px 18px;font-size:16px}
     /* inputs com 16px evitam o auto-zoom do iOS ao focar */
@@ -1119,6 +1139,40 @@ modModal.addEventListener("click", e=>{ if (e.target === modModal) closeModModal
 document.addEventListener("keydown", e=>{ if (e.key === "Escape" && modModal.classList.contains("open")) closeModModal(); });
 // ícone inline no detalhe do imóvel (delegação: o detalhe é re-renderizado)
 $("dBody").addEventListener("click", e=>{ if (e.target.closest("[data-modinfo]")) openModModal(); });
+
+/* arrastar o cabeçalho para baixo recolhe a folha (apenas mobile) */
+(function setupSheetSwipe(){
+  const isMobile = ()=> window.matchMedia("(max-width:680px)").matches;
+  function attach(headEl, sheetEl, dismiss){
+    if (!headEl || !sheetEl) return;
+    let startY = 0, dy = 0, dragging = false, altura = 0;
+    headEl.addEventListener("pointerdown", e=>{
+      if (!isMobile()) return;
+      if (e.target.closest("button")) return;        // não atrapalhar × / compartilhar
+      dragging = true; startY = e.clientY; dy = 0;
+      altura = sheetEl.getBoundingClientRect().height;
+      sheetEl.classList.add("dragging");
+      try { headEl.setPointerCapture(e.pointerId); } catch(_){}
+    });
+    headEl.addEventListener("pointermove", e=>{
+      if (!dragging) return;
+      dy = Math.max(0, e.clientY - startY);          // só permite arrastar para baixo
+      sheetEl.style.transform = "translateY(" + dy + "px)";
+      e.preventDefault();
+    });
+    function fim(){
+      if (!dragging) return;
+      dragging = false;
+      sheetEl.classList.remove("dragging");
+      sheetEl.style.transform = "";                  // volta ao lugar (ou recolhe via classe)
+      if (dy > Math.min(130, altura * 0.28)) dismiss();
+    }
+    headEl.addEventListener("pointerup", fim);
+    headEl.addEventListener("pointercancel", fim);
+  }
+  attach(document.querySelector("#panel .panel-head"), $("panel"), ()=> $("panel").classList.add("collapsed"));
+  attach(document.querySelector("#detail .d-head"),   $("detail"), ()=> $("detail").classList.remove("open"));
+})();
 $("detailClose").addEventListener("click", ()=> $("detail").classList.remove("open"));
 
 /* ============ compartilhar ============ */
