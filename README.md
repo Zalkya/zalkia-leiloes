@@ -89,6 +89,33 @@ e um array `ufs[]` com `data_geracao_caixa`, `coletado_em`, `fonte` e `total` **
 - **Atualizar dados Caixa** (`atualizar.yml`) — a cada 2h + manual (`workflow_dispatch`). Baixa os 27 CSVs por-UF em **workers paralelos** (`max-parallel: 6`), consolida no dataset global e commita apenas se houver mudança. UFs que falham são marcadas no `_status.json` (dado anterior preservado).
 - **Enriquecer geodata** (`enriquecer-geo.yml`) — **por evento** (roda após cada atualização de dados) + manual. Geocodifica os endereços sem coordenadas respeitando a **cota diária** (`GEO_LIMITE_GOOGLE`, default `800`, configurável por env var). O contador diário fica em `.github/state/_geo_daily.json`.
 - **Deploy GitHub Pages** (`pages.yml`) — publica `index.html` a cada push de código na `master` ou execução manual. Os dados são carregados diretamente do GitHub Raw, sem depender de redeploy.
+- **Testar alerta** (`notificar-teste.yml`) — manual; envia uma mensagem de teste ao Telegram para validar a configuração (ver abaixo).
+
+## Alertas de queda de preço (Telegram)
+
+Receba no Telegram um aviso sempre que o **preço de um imóvel já listado cair**, filtrando por UF/cidade. O job `scripts/notificar.py` roda dentro do `atualizar.yml` (logo após consolidar os dados, quando há mudança), compara o `data/imoveis.json` novo com a versão anterior do Git e envia as quedas via Telegram Bot API.
+
+> **Privacidade:** o token do bot e o chat id ficam em **GitHub Secrets** (criptografados, mascarados nos logs, nunca no código). Como o repositório é público, nunca coloque esses valores em arquivos ou commits. O envio usa `urllib` (o token não aparece em logs). Os dados dos imóveis já são públicos (fonte Caixa).
+
+**Configuração:**
+
+1. No **@BotFather**, crie um bot (`/newbot`) e copie o **token**.
+2. Descubra seu **chat id** (mande uma mensagem ao bot e use `https://api.telegram.org/bot<TOKEN>/getUpdates`, ou fale com **@userinfobot**).
+3. Em *Settings → Secrets and variables → Actions*, cadastre os **Secrets**:
+   - `TELEGRAM_BOT_TOKEN`
+   - `TELEGRAM_CHAT_ID`
+4. (Opcional) Em *Variables*, ajuste o comportamento (não são sensíveis):
+
+   | Variable | Efeito | Exemplo |
+   |---|---|---|
+   | `NOTIFY_UFS` | UFs monitoradas (vazio = todas) | `PB,PE` |
+   | `NOTIFY_CIDADES` | Cidades monitoradas (vazio = todas) | `Joao Pessoa,Campina Grande` |
+   | `NOTIFY_MIN_PCT` | Queda mínima em % para notificar (default `0`) | `5` |
+   | `NOTIFY_MAX_ITENS` | Máx. de itens listados por mensagem (default `25`) | `25` |
+
+5. Rode o workflow **Testar alerta** (aba Actions → *Testar alerta* → *Run workflow*) para confirmar que a mensagem chega.
+
+Sem os secrets configurados, o passo simplesmente é pulado — o pipeline de dados continua normal.
 
 ## Mapa interativo (GitHub Pages)
 
@@ -155,6 +182,7 @@ Para publicar o mapa num fork/clone próprio:
 .github/workflows/atualizar.yml      # baixa CSVs por-UF (matrix) e consolida o global
 .github/workflows/enriquecer-geo.yml # geocodificação por evento (cota diária)
 .github/workflows/pages.yml          # deploy do GitHub Pages
+.github/workflows/notificar-teste.yml# teste manual do alerta do Telegram
 .github/state/_geocache.json         # cache de geocodificação
 .github/state/_geo_daily.json        # contador diário de chamadas
 .github/state/_status.json           # status da última execução do pipeline
@@ -162,6 +190,7 @@ scripts/pipeline.py                  # download + parse + JSON + TOON (por UF)
 scripts/consolidar.py                # junta por-UF → global + reaplica geo do cache
 scripts/geo.py                       # geocodificação (Google + OSM) + cache + cota diária
 scripts/geo_enriquecer.py            # orquestra o enriquecimento por UF + global
+scripts/notificar.py                 # alerta de queda de preço via Telegram (diff entre commits)
 index.html                           # mapa interativo (GitHub Pages)
 data/{UF}/imoveis.{csv,json,toon}    # dados por UF (sempre a versão mais recente)
 data/imoveis.{json,toon}             # dataset global

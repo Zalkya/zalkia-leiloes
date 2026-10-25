@@ -79,6 +79,20 @@ jobs:
           FRESH_UFS="$FRESH_UFS" python3 scripts/consolidar.py 2>&1 | tee /tmp/cons.log
           echo "changed=$(grep -oP 'changed=\K\w+' /tmp/cons.log || echo false)" >> "$GITHUB_OUTPUT"
 
+      - name: Notificar quedas de preço (Telegram)
+        # Roda ANTES do commit: a árvore de trabalho tem os dados novos e HEAD
+        # ainda aponta para os dados anteriores — o notificar.py faz o diff.
+        # Pula sozinho se os secrets do Telegram não estiverem configurados.
+        if: steps.consolida.outputs.changed == 'true'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+          NOTIFY_UFS:         ${{ vars.NOTIFY_UFS }}
+          NOTIFY_CIDADES:     ${{ vars.NOTIFY_CIDADES }}
+          NOTIFY_MIN_PCT:     ${{ vars.NOTIFY_MIN_PCT }}
+          NOTIFY_MAX_ITENS:   ${{ vars.NOTIFY_MAX_ITENS }}
+        run: python3 scripts/notificar.py
+
       - name: Commit dos dados
         run: |
           # changed=false: as cópias frescas por-UF só atualizam `coletado_em`

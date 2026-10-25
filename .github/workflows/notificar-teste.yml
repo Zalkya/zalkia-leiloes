@@ -1,0 +1,27 @@
+name: Testar alerta (Telegram)
+
+# Envio manual de uma mensagem de teste, para validar TELEGRAM_BOT_TOKEN /
+# TELEGRAM_CHAT_ID sem depender de uma queda de preço real.
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  testar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Enviar mensagem de teste
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+          NOTIFY_TEST: '1'
+        run: python3 scripts/notificar.py

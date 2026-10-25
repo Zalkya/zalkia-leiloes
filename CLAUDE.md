@@ -43,8 +43,15 @@ Fluxo orquestrado por `.github/workflows/atualizar.yml` (a cada 2h), em 3 jobs:
 3. **`geocode`** — faz checkout de `ref: master` (para pegar o commit recém-pushado),
    roda `geo_enriquecer.py` e commita cache + dados. Freado pela cota **diária**.
 
-`enriquecer-geo.yml` dispara o geocode por evento; `pages.yml` publica `index.html`;
-`probe.yml` é só diagnóstico de viabilidade de download.
+`enriquecer-geo.yml` dispara o geocode por evento; `pages.yml` publica `index.html`.
+
+**Alerta de queda de preço** (`scripts/notificar.py`): roda como step do job `consolidar`
+**antes do commit** (quando `changed=true`), então compara `data/imoveis.json` do working
+tree (novo) com `git show HEAD:data/imoveis.json` (anterior) e envia as quedas via Telegram.
+Config por env: `TELEGRAM_BOT_TOKEN`/`TELEGRAM_CHAT_ID` (secrets — nunca commitar, repo é
+público), `NOTIFY_UFS`/`NOTIFY_CIDADES`/`NOTIFY_MIN_PCT`/`NOTIFY_MAX_ITENS` (vars), `NOTIFY_TEST=1`
+(modo teste, usado por `notificar-teste.yml`). "Soft fail": erro de envio não derruba o pipeline.
+Usa `urllib` (token não vai para argv/logs).
 
 ### Invariantes que NÃO devem quebrar
 
