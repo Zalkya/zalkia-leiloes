@@ -1481,7 +1481,9 @@
    "descricao": "Apartamento, 0.00 de área total, 65.67 de área privativa, 0.00 de área do terreno.",
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444430090600",
-   "tipo": "apartamento"
+   "tipo": "apartamento",
+   "geo": null,
+   "geo_pendente": true
   },
   {
    "id": "8787708145853",
@@ -7565,7 +7567,9 @@
    "descricao": "Casa, 44.82 de área total, 44.82 de área privativa, 160.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787709553335",
-   "tipo": "casa"
+   "tipo": "casa",
+   "geo": null,
+   "geo_pendente": true
   },
   {
    "id": "8787708816545",
@@ -12053,7 +12057,9 @@
    "descricao": "Apartamento, 0.00 de área total, 52.70 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444407786504",
-   "tipo": "apartamento"
+   "tipo": "apartamento",
+   "geo": null,
+   "geo_pendente": true
   },
   {
    "id": "1787700541670",
@@ -14084,7 +14090,13 @@
    "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 154.00 de área do terreno.",
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444406436781",
-   "tipo": "terreno"
+   "tipo": "terreno",
+   "geo": {
+    "lat": -23.4329372,
+    "lng": -46.5637309,
+    "fonte": "osm"
+   },
+   "geo_pendente": false
   },
   {
    "id": "1787701033059",
@@ -15338,7 +15350,9 @@
    "descricao": "Comercial, 0.00 de área total, 608.59 de área privativa, 2110.76 de área do terreno.",
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10291027",
-   "tipo": "comercial"
+   "tipo": "comercial",
+   "geo": null,
+   "geo_pendente": true
   },
   {
    "id": "8444406908193",
@@ -18209,7 +18223,13 @@
    "descricao": "Casa, 62.74 de área total, 128.25 de área privativa, 212.62 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 2 vaga(s) de garagem.",
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444409443132",
-   "tipo": "casa"
+   "tipo": "casa",
+   "geo": {
+    "lat": -21.6994157,
+    "lng": -49.740886,
+    "fonte": "osm"
+   },
+   "geo_pendente": false
   },
   {
    "id": "8787713933775",
@@ -24293,7 +24313,13 @@
    "descricao": "Apartamento, 107.08 de área total, 43.01 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787705637682",
-   "tipo": "apartamento"
+   "tipo": "apartamento",
+   "geo": {
+    "lat": -22.6590233,
+    "lng": -47.6932386,
+    "fonte": "osm"
+   },
+   "geo_pendente": false
   },
   {
    "id": "8787715383870",
@@ -26618,7 +26644,13 @@
    "descricao": "Casa, 46.70 de área total, 40.02 de área privativa, 46.70 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444435949951",
-   "tipo": "casa"
+   "tipo": "casa",
+   "geo": {
+    "lat": -24.0371456,
+    "lng": -46.5328096,
+    "fonte": "osm"
+   },
+   "geo_pendente": false
   },
   {
    "id": "8444429946130",
@@ -26654,7 +26686,13 @@
    "descricao": "Casa, 59.55 de área total, 51.98 de área privativa, 59.55 de área do terreno,  2 qto(s), WC, 1 sala(s), 1 lavabo(s), cozinha, 1 vaga(s) de garagem.",
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444435189477",
-   "tipo": "casa"
+   "tipo": "casa",
+   "geo": {
+    "lat": -24.0377702,
+    "lng": -46.5330308,
+    "fonte": "osm"
+   },
+   "geo_pendente": false
   },
   {
    "id": "8444424820812",
@@ -26900,7 +26938,13 @@
    "descricao": "Apartamento, 74.31 de área total, 46.86 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787710274762",
-   "tipo": "apartamento"
+   "tipo": "apartamento",
+   "geo": {
+    "lat": -24.0146641,
+    "lng": -46.4420536,
+    "fonte": "osm"
+   },
+   "geo_pendente": false
   },
   {
    "id": "8444422671550",
@@ -29519,7 +29563,9 @@
    "descricao": "Apartamento, 83.47 de área total, 40.82 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787709398259",
-   "tipo": "apartamento"
+   "tipo": "apartamento",
+   "geo": null,
+   "geo_pendente": true
   },
   {
    "id": "8555525536933",
@@ -32831,7 +32877,9 @@
    "descricao": "Apartamento, 43.27 de área total, 43.27 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
    "modalidade": "Licitação Aberta",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787711847332",
-   "tipo": "apartamento"
+   "tipo": "apartamento",
+   "geo": null,
+   "geo_pendente": true
   },
   {
    "id": "8787712450622",
@@ -32846,7 +32894,9 @@
    "descricao": "Apartamento, 43.27 de área total, 43.27 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
    "modalidade": "Licitação Aberta",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787712450622",
-   "tipo": "apartamento"
+   "tipo": "apartamento",
+   "geo": null,
+   "geo_pendente": true
   },
   {
    "id": "8787712709472",
@@ -34499,7 +34549,13 @@
    "descricao": "Apartamento, 106.64 de área total, 58.35 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444406403018",
-   "tipo": "apartamento"
+   "tipo": "apartamento",
+   "geo": {
+    "lat": -21.1515896,
+    "lng": -47.7949312,
+    "fonte": "osm"
+   },
+   "geo_pendente": false
   },
   {
    "id": "1787701765521",
@@ -42536,7 +42592,13 @@
    "descricao": "Apartamento, 61.72 de área total, 34.72 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787715364417",
-   "tipo": "apartamento"
+   "tipo": "apartamento",
+   "geo": {
+    "lat": -23.5458331,
+    "lng": -46.3948835,
+    "fonte": "osm"
+   },
+   "geo_pendente": false
   },
   {
    "id": "8787716325423",
@@ -42551,7 +42613,13 @@
    "descricao": "Apartamento, 60.27 de área total, 33.90 de área privativa, 0.00 de área do terreno.",
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787716325423",
-   "tipo": "apartamento"
+   "tipo": "apartamento",
+   "geo": {
+    "lat": -23.5458331,
+    "lng": -46.3948835,
+    "fonte": "osm"
+   },
+   "geo_pendente": false
   },
   {
    "id": "1555522609958",
@@ -43070,7 +43138,9 @@
    "descricao": "Apartamento, 0.00 de área total, 34.62 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787712535156",
-   "tipo": "apartamento"
+   "tipo": "apartamento",
+   "geo": null,
+   "geo_pendente": true
   },
   {
    "id": "8787718567696",
@@ -43358,7 +43428,13 @@
    "descricao": "Apartamento, 61.72 de área total, 34.72 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787715539330",
-   "tipo": "apartamento"
+   "tipo": "apartamento",
+   "geo": {
+    "lat": -23.5458331,
+    "lng": -46.3948835,
+    "fonte": "osm"
+   },
+   "geo_pendente": false
   },
   {
    "id": "8787715621797",
@@ -43982,7 +44058,13 @@
    "descricao": "Apartamento, 64.51 de área total, 42.10 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787711784365",
-   "tipo": "apartamento"
+   "tipo": "apartamento",
+   "geo": {
+    "lat": -23.655303,
+    "lng": -46.6066916,
+    "fonte": "osm"
+   },
+   "geo_pendente": false
   },
   {
    "id": "8787712600055",
@@ -45173,7 +45255,13 @@
    "descricao": "Apartamento, 60.27 de área total, 33.90 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787714457004",
-   "tipo": "apartamento"
+   "tipo": "apartamento",
+   "geo": {
+    "lat": -23.5458331,
+    "lng": -46.3948835,
+    "fonte": "osm"
+   },
+   "geo_pendente": false
   },
   {
    "id": "8787716076571",
@@ -46973,7 +47061,13 @@
    "descricao": "Apartamento, 0.00 de área total, 47.42 de área privativa, 0.00 de área do terreno, 1 vaga(s) de garagem.",
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444405768240",
-   "tipo": "apartamento"
+   "tipo": "apartamento",
+   "geo": {
+    "lat": -23.5584593,
+    "lng": -46.4400208,
+    "fonte": "osm"
+   },
+   "geo_pendente": false
   },
   {
    "id": "1444406868215",
@@ -58286,7 +58380,9 @@
    "descricao": "Apartamento, 86.62 de área total, 40.47 de área privativa, 0.00 de área do terreno, 1 vaga(s) de garagem.",
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787713456322",
-   "tipo": "apartamento"
+   "tipo": "apartamento",
+   "geo": null,
+   "geo_pendente": true
   },
   {
    "id": "10218490",

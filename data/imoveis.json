@@ -121963,7 +121963,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444401571425",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -21.7069186,
+    "lng": -43.4250722,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8444412339944",
@@ -125423,7 +125428,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10156569",
    "tipo": "terreno",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -19.7493751,
+    "lng": -44.0799771,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8444406800481",
@@ -157884,7 +157894,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787712671459",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -23.2625791,
+    "lng": -51.193202,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8787712778865",
@@ -175724,7 +175739,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444407081790",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -8.1960777,
+    "lng": -34.9306118,
+    "fonte": "osm"
+   }
   },
   {
    "id": "1555521833650",
@@ -204904,7 +204924,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787709250669",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.7516415,
+    "lng": -43.3949907,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8787714005316",
@@ -205130,7 +205155,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787706994004",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.7516415,
+    "lng": -43.3949907,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8787709259429",
@@ -205146,7 +205176,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787709259429",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.7516415,
+    "lng": -43.3949907,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8787711541802",
@@ -205493,7 +205528,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787705271580",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.7516415,
+    "lng": -43.3949907,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8787707403182",
@@ -205509,7 +205549,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787707403182",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.7516415,
+    "lng": -43.3949907,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8787709047197",
@@ -205546,7 +205591,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787711595627",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.7516415,
+    "lng": -43.3949907,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8787714752820",
@@ -205562,7 +205612,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787714752820",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.7516415,
+    "lng": -43.3949907,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8787710772525",
@@ -205662,7 +205717,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787714892550",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.7536656,
+    "lng": -43.3911984,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8787715924803",
@@ -205857,7 +205917,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444432152491",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.756202,
+    "lng": -43.406809,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8555530424668",
@@ -205873,7 +205938,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555530424668",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.756202,
+    "lng": -43.406809,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8555536511791",
@@ -206078,7 +206148,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787703430240",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.7516415,
+    "lng": -43.3949907,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8787707252036",
@@ -206094,7 +206169,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787707252036",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.7516415,
+    "lng": -43.3949907,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8787710083908",
@@ -206278,7 +206358,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787716654389",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.7536656,
+    "lng": -43.3911984,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8787717099150",
@@ -230791,7 +230876,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787705141563",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.7873654,
+    "lng": -43.4118659,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8787705533828",
@@ -234755,7 +234845,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444406684610",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.8969188,
+    "lng": -43.1178891,
+    "fonte": "osm"
+   }
   },
   {
    "id": "1444419457081",
@@ -262738,7 +262833,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787705516494",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.9153401,
+    "lng": -43.692224,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8787705958098",
@@ -263405,7 +263505,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787713398551",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.9513238,
+    "lng": -43.6426867,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8787705543629",
@@ -271611,7 +271716,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555534568150",
    "tipo": "casa",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.9429195,
+    "lng": -43.572586,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8787714544306",
@@ -295903,7 +296013,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787712265671",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.9138716,
+    "lng": -43.5453397,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8787712192305",
@@ -313580,7 +313695,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1787701399258",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.9923099,
+    "lng": -43.4465197,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8444423711394",
@@ -336250,7 +336370,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444409779904",
    "tipo": "casa",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.7660279,
+    "lng": -42.9682579,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8555536584071",
@@ -338403,7 +338528,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444430463120",
    "tipo": "casa",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.7660279,
+    "lng": -42.9682579,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8444418374873",
@@ -341023,7 +341153,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444414229739",
    "tipo": "casa",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.7961208,
+    "lng": -42.9498275,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8444416470859",
@@ -341249,7 +341384,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444429409762",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.8339971,
+    "lng": -43.0616371,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8555501807392",
@@ -346253,7 +346393,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444420022903",
    "tipo": "casa",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.8163955,
+    "lng": -42.9797275,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8444409715400",
@@ -348621,7 +348766,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444409840476",
    "tipo": "casa",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.7660279,
+    "lng": -42.9682579,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8787706240085",
@@ -351147,7 +351297,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444420261606",
    "tipo": "casa",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.8163955,
+    "lng": -42.9797275,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8444423192451",
@@ -354861,7 +355016,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444420015451",
    "tipo": "casa",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.8163955,
+    "lng": -42.9797275,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8444419672991",
@@ -357849,7 +358009,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444434690946",
    "tipo": "casa",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.8163955,
+    "lng": -42.9797275,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8444409084728",
@@ -359981,7 +360146,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1555533818677",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.8594397,
+    "lng": -43.0285227,
+    "fonte": "osm"
+   }
   },
   {
    "id": "1444421086877",
@@ -360543,7 +360713,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444409582949",
    "tipo": "casa",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.7660279,
+    "lng": -42.9682579,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8444424340292",
@@ -362502,7 +362677,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444421667185",
    "tipo": "casa",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.8163955,
+    "lng": -42.9797275,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8444424915899",
@@ -363736,7 +363916,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787713062952",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.8738508,
+    "lng": -43.0280536,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8787713066915",
@@ -363752,7 +363937,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787713066915",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.8738508,
+    "lng": -43.0280536,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8444418159905",
@@ -365553,7 +365743,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787713089753",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.8738508,
+    "lng": -43.0280536,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8787713097012",
@@ -379414,7 +379609,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555510433300",
    "tipo": "casa",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -5.6905581,
+    "lng": -35.283264,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8444409213447",
@@ -384134,7 +384334,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444403008736",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -5.1696956,
+    "lng": -37.3464592,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8444415751889",
@@ -392004,7 +392209,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444413017896",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -29.1417732,
+    "lng": -51.1808417,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8787716580857",
@@ -410868,7 +411078,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787708021798",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -26.8681284,
+    "lng": -52.3908203,
+    "fonte": "osm"
+   }
   },
   {
    "id": "1555539873793",
@@ -424981,7 +425196,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444406436781",
    "tipo": "terreno",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -23.4329372,
+    "lng": -46.5637309,
+    "fonte": "osm"
+   }
   },
   {
    "id": "1787701033059",
@@ -429108,7 +429328,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444409443132",
    "tipo": "casa",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -21.6994157,
+    "lng": -49.740886,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8787713933775",
@@ -435193,7 +435418,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787705637682",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -22.6590233,
+    "lng": -47.6932386,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8787715383870",
@@ -437519,7 +437749,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444435949951",
    "tipo": "casa",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -24.0371456,
+    "lng": -46.5328096,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8444429946130",
@@ -437556,7 +437791,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444435189477",
    "tipo": "casa",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -24.0377702,
+    "lng": -46.5330308,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8444424820812",
@@ -437803,7 +438043,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787710274762",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -24.0146641,
+    "lng": -46.4420536,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8444422671550",
@@ -445406,7 +445651,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444406403018",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -21.1515896,
+    "lng": -47.7949312,
+    "fonte": "osm"
+   }
   },
   {
    "id": "1787701765521",
@@ -453444,7 +453694,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787715364417",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -23.5458331,
+    "lng": -46.3948835,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8787716325423",
@@ -453460,7 +453715,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787716325423",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -23.5458331,
+    "lng": -46.3948835,
+    "fonte": "osm"
+   }
   },
   {
    "id": "1555522609958",
@@ -454269,7 +454529,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787715539330",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -23.5458331,
+    "lng": -46.3948835,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8787715621797",
@@ -454894,7 +455159,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787711784365",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -23.655303,
+    "lng": -46.6066916,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8787712600055",
@@ -456086,7 +456356,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787714457004",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -23.5458331,
+    "lng": -46.3948835,
+    "fonte": "osm"
+   }
   },
   {
    "id": "8787716076571",
@@ -457887,7 +458162,12 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444405768240",
    "tipo": "apartamento",
-   "geo_pendente": true
+   "geo_pendente": false,
+   "geo": {
+    "lat": -23.5584593,
+    "lng": -46.4400208,
+    "fonte": "osm"
+   }
   },
   {
    "id": "1444406868215",
