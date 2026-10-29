@@ -11109,6 +11109,11 @@
 "lat": -15.7411953,
 "lng": -48.2530386
 },
+"GO|AGUAS LINDAS DE GOIAS|CHACARAS COIMBRA|QUADRA B, N. 0, APTO 101, LT 38 CH 10/14, MODULO C RUA ASSUNCAO": {
+"fonte": "osm",
+"lat": -15.7746103,
+"lng": -48.2891223
+},
 "GO|AGUAS LINDAS DE GOIAS|CHACARAS COIMBRA|QUADRA P, N, APTO 04, CHACARA 7 RUA 02 BLOCO E VG 21": {
 "fonte": "google",
 "lat": -15.7411953,
@@ -11399,6 +11404,11 @@
 "lat": -15.7338299,
 "lng": -48.3146462
 },
+"GO|AGUAS LINDAS DE GOIAS|JARDIM AMERICA I|RUA 17, N, QD.20 LT.23": {
+"fonte": "osm",
+"lat": -15.7537038,
+"lng": -48.3260029
+},
 "GO|AGUAS LINDAS DE GOIAS|JARDIM BRASILIA II|QUADRA QUADRA 56, N, LT 13": {
 "fonte": "google",
 "lat": -15.7250259,
@@ -11674,6 +11684,11 @@
 "lat": -15.7441292,
 "lng": -48.2575066
 },
+"GO|AGUAS LINDAS DE GOIAS|JARDIM PEROLA DA BARRAGEM I|QUADRA 33, N. 0, APTO 201, LT 31 RUA 15": {
+"fonte": "osm",
+"lat": -15.718052,
+"lng": -48.2727045
+},
 "GO|AGUAS LINDAS DE GOIAS|JARDIM PEROLA DA BARRAGEM I|QUADRA 8 (RUA 07), N, APTO 203, LT 33 RUA 07": {
 "fonte": "google",
 "lat": -15.7275074,
@@ -11799,6 +11814,11 @@
 "lat": -15.7854051,
 "lng": -48.2933245
 },
+"GO|AGUAS LINDAS DE GOIAS|JARDIM SANTA LUCIA|QUADRA QUADRA 30, N, LT 05": {
+"fonte": "osm",
+"lat": -15.7744864,
+"lng": -48.2870302
+},
 "GO|AGUAS LINDAS DE GOIAS|JARDIM SANTA LUCIA|QUADRA QUADRA 4, N, APTO 301, LT 12D, BL B, 2º PAV, RUA PAU BRASIL": {
 "fonte": "google",
 "lat": -15.7804342,
@@ -11913,6 +11933,11 @@
 "fonte": "google",
 "lat": -15.7562245,
 "lng": -48.2841876
+},
+"GO|AGUAS LINDAS DE GOIAS|MANSOES IMPERATRIZ|QUADRA 4, N. 0, LT 047-A11 RUA 14": {
+"fonte": "osm",
+"lat": -15.7349894,
+"lng": -48.2907613
 },
 "GO|AGUAS LINDAS DE GOIAS|MANSOES IMPERATRIZ|QUADRA 5, N, APTO 101, BL C, VAGA 09, LT 12, RUA 14-A": {
 "fonte": "google",
@@ -13749,6 +13774,11 @@
 "lat": -16.1053268,
 "lng": -47.9214599
 },
+"GO|CIDADE OCIDENTAL|COLINA VERDE|RUA PAO DE AÇUCAR, N, APTO 204, PAV SUP VG 204 LT 32 QD 05": {
+"fonte": "osm",
+"lat": -16.1060079,
+"lng": -47.9215845
+},
 "GO|CIDADE OCIDENTAL|DOM BOSCO|Q QUADRA 7 LOTE 55 RUA JOSE MENDONCA TELLES, N, UNIDADE 1": {
 "fonte": "google",
 "lat": -16.0785728,
@@ -14054,6 +14084,11 @@
 "lat": -16.0904048,
 "lng": -47.9480065
 },
+"GO|CIDADE OCIDENTAL|MANSOES RECREIO ESTRELA D'ALVA I|QUADRA 18, N, CS 04 LT 09 RUA 15": {
+"fonte": "osm",
+"lat": -16.0977046,
+"lng": -47.9196812
+},
 "GO|CIDADE OCIDENTAL|MANSOES RECREIO ESTRELA D'ALVA I|QUADRA 23 (RUA 17), N, APTO 02, LT 9 QD 23": {
 "fonte": "google",
 "lat": -16.0799004,
@@ -14063,6 +14098,11 @@
 "fonte": "google",
 "lat": -16.090595,
 "lng": -47.853997
+},
+"GO|CIDADE OCIDENTAL|MANSOES RECREIO ESTRELA D'ALVA I|QUADRA 23, N, LT 03 CS 01 RUA 15": {
+"fonte": "osm",
+"lat": -16.0979944,
+"lng": -47.9193451
 },
 "GO|CIDADE OCIDENTAL|MANSOES RECREIO ESTRELA D'ALVA I|QUADRA 33, N, CASA 01, LT 04, RUA 17": {
 "fonte": "google",
@@ -14093,6 +14133,11 @@
 "fonte": "google",
 "lat": -16.0904048,
 "lng": -47.9480065
+},
+"GO|CIDADE OCIDENTAL|MANSOES RECREIO ESTR|RUA 23, N, CASA 08": {
+"fonte": "osm",
+"lat": -16.0546402,
+"lng": -47.9174609
 },
 "GO|CIDADE OCIDENTAL|MANSOES RECREIO MOSSORO|PARQUE NOVA FRIBURGO A, N, APTO 203, BL N LT 11 QD 04": {
 "fonte": "google",
@@ -15619,6 +15664,11 @@
 "lat": -16.0555537,
 "lng": -47.8144862
 },
+"GO|CIDADE OCIDENTAL|PARQUE N POLIS|QUADRA 01, N. 25, LT 19": {
+"fonte": "osm",
+"lat": -16.1000758,
+"lng": -47.9445014
+},
 "GO|CIDADE OCIDENTAL|PARQUE NAPOLIS A|LOTE 10, QUADRA 02, RUA 02, N, APTO 203, PAVIMENTO SUPERIOR, VAGA Nº 203": {
 "fonte": "google",
 "lat": -16.1016636,
@@ -15763,6 +15813,11 @@
 "fonte": "google",
 "lat": -16.1021073,
 "lng": -47.9402001
+},
+"GO|CIDADE OCIDENTAL|PARQUE NAPOLIS A|QUADRA 15, N, CS 05A LT 05 RUA 04": {
+"fonte": "osm",
+"lat": -16.0975604,
+"lng": -47.9198896
 },
 "GO|CIDADE OCIDENTAL|PARQUE NAPOLIS A|QUADRA 16, N, APTO 101, LT 31 R 15 VG 101": {
 "fonte": "google",
@@ -16569,6 +16624,11 @@
 "lat": -16.0860905,
 "lng": -47.9463216
 },
+"GO|CIDADE OCIDENTAL|PARQUE NOVA FRIBURGO A|RUA 20, N. 5, LT 15 QD 30": {
+"fonte": "osm",
+"lat": -16.0543514,
+"lng": -47.8212251
+},
 "GO|CIDADE OCIDENTAL|PARQUE NOVA FRIBURGO A|RUA 4, N, APTO 101, LT 22, QD 22": {
 "fonte": "google",
 "lat": -16.0707458,
@@ -16778,6 +16838,11 @@
 "fonte": "google",
 "lat": -16.0849459,
 "lng": -47.9355832
+},
+"GO|CIDADE OCIDENTAL|PARQUE NOVA FRIBURGO B|RUA 11, N, CS 03 LT 12 QD 50": {
+"fonte": "osm",
+"lat": -16.0959502,
+"lng": -47.8556354
 },
 "GO|CIDADE OCIDENTAL|PARQUE NOVA FRIBURGO B|RUA 18, N. , APTO 201, LT 16 QD 18": {
 "fonte": "google",
@@ -17093,6 +17158,11 @@
 "fonte": "google",
 "lat": -15.7341602,
 "lng": -48.41277119999999
+},
+"GO|COCALZINHO DE GOIAS|GIRASSOL RESIDENCIAL|AVENIDA B, N, LT 24 QD 21": {
+"fonte": "osm",
+"lat": -15.7468276,
+"lng": -48.4092508
 },
 "GO|COCALZINHO DE GOIAS|GIRASSOL RESIDENCIAL|RUA I, N, LT 07 B QD 03": {
 "fonte": "google",
@@ -17693,6 +17763,11 @@
 "fonte": "google",
 "lat": -15.7352054,
 "lng": -48.4066777
+},
+"GO|COCALZINHO DE GOIAS|LOT GIRASSOL|AVENIDA QUINTA AVENIDA, N, LT 09, QD 22": {
+"fonte": "osm",
+"lat": -15.730008,
+"lng": -48.4035638
 },
 "GO|COCALZINHO DE GOIAS|LOT GIRASSOL|RUA 13, N, QD 39, CS 02": {
 "fonte": "google",
@@ -19069,6 +19144,11 @@
 "lat": -18.405244,
 "lng": -49.197211
 },
+"GO|JARAGUA|JARDIM ATLANT|AVENIDA AMAZONAS, N, LT 07 QD 01": {
+"fonte": "osm",
+"lat": -15.7631608,
+"lng": -49.3206493
+},
 "GO|JATAI|RESIDENCIAL BANDEIRANTES|RUA 11, N. 114, LOTE 09A QUADRA 07": {
 "fonte": "google",
 "lat": -17.8663439,
@@ -19149,10 +19229,20 @@
 "lat": -16.2526548,
 "lng": -47.9542938
 },
+"GO|LUZIANIA|CHACARAS MARAJOARA A|QUADRA 09, N, CS 02 CH 07 RUA B": {
+"fonte": "osm",
+"lat": -16.2522542,
+"lng": -47.9103868
+},
 "GO|LUZIANIA|CHACARAS MARAJOARA|RUA BAURU, N, CS 03, CH 20, QD 03": {
 "fonte": "google",
 "lat": -16.1342751,
 "lng": -47.9678202
+},
+"GO|LUZIANIA|CHACARAS MARAJOARA|RUA BAURU, N, CS 08 CH 20 QD 03": {
+"fonte": "osm",
+"lat": -16.1340409,
+"lng": -47.9679765
 },
 "GO|LUZIANIA|CHACARAS MARAJOARA|RUA BAURU, N, CS 13 QD 03 CHACARA 20": {
 "fonte": "google",
@@ -19283,6 +19373,11 @@
 "fonte": "google",
 "lat": -16.1761244,
 "lng": -47.926903
+},
+"GO|LUZIANIA|CIDADE INDUSTRIAL FRACAROLI|RUA 13, N, QD 11 - LT 02": {
+"fonte": "osm",
+"lat": -16.2166895,
+"lng": -47.9142563
 },
 "GO|LUZIANIA|CIDADE INDUSTRIAL FRACAROLI|RUA 14, N, CS 02 LT 08 QD 08": {
 "fonte": "google",
@@ -19818,6 +19913,11 @@
 "fonte": "google",
 "lat": -16.2570299,
 "lng": -47.81275580000001
+},
+"GO|LUZIANIA|JARDIM BANDEIRANTE D|QUADRA 87, N, CS 02 LT 04 RUA 07": {
+"fonte": "osm",
+"lat": -16.2522542,
+"lng": -47.9103868
 },
 "GO|LUZIANIA|JARDIM BANDEIRANTE|QD 150, N, CS 1 LT 10": {
 "fonte": "google",
@@ -20994,6 +21094,11 @@
 "lat": -16.2466091,
 "lng": -47.9495931
 },
+"GO|LUZIANIA|PARQUE ALVORADA III|RUA 1-A, N. 02, LOTE 17 - QUADRA 11": {
+"fonte": "osm",
+"lat": -16.2184893,
+"lng": -47.9395184
+},
 "GO|LUZIANIA|PARQUE ALVORADA II|AVENIDA XI, N, CASA 01, LT 03 - QD 211": {
 "fonte": "google",
 "lat": -16.2090987,
@@ -21024,6 +21129,11 @@
 "lat": -16.2132833,
 "lng": -47.9295457
 },
+"GO|LUZIANIA|PARQUE ALVORADA I|AVENIDA IX, N, CS 01 LT 06 QD 152": {
+"fonte": "osm",
+"lat": -16.2055225,
+"lng": -47.9274436
+},
 "GO|LUZIANIA|PARQUE ALVORADA I|AVENIDA VI, N, CASA 01 LT 05 QD 55": {
 "fonte": "google",
 "lat": -16.207829,
@@ -21033,6 +21143,11 @@
 "fonte": "google",
 "lat": -16.2136983,
 "lng": -47.9243497
+},
+"GO|LUZIANIA|PARQUE ALVORADA I|QUADRA 03, N, CS 01 LT OP GB 01 RUA 13": {
+"fonte": "osm",
+"lat": -16.2522542,
+"lng": -47.9103868
 },
 "GO|LUZIANIA|PARQUE ALVORADA I|QUADRA 113, N, CS 01 LT 39 RUA 16": {
 "fonte": "google",
@@ -21063,6 +21178,11 @@
 "fonte": "google",
 "lat": -16.209493,
 "lng": -47.9301454
+},
+"GO|LUZIANIA|PARQUE ALVORADA I|RUA 23, N, CS 02 LT 20 QD 154": {
+"fonte": "osm",
+"lat": -16.1520021,
+"lng": -47.9287803
 },
 "GO|LUZIANIA|PARQUE ALVORADA I|RUA 3, N, CASA 01 LT 30 QD 20": {
 "fonte": "google",
@@ -21118,6 +21238,11 @@
 "fonte": "google",
 "lat": -16.252595,
 "lng": -47.9013231
+},
+"GO|LUZIANIA|PARQUE ESTRELA DALVA II|RUA CARLOS JOSE DA ROCHA, N, CS 02 QD 125 LT 01-C": {
+"fonte": "osm",
+"lat": -16.2547903,
+"lng": -47.9054743
 },
 "GO|LUZIANIA|PARQUE ESTRELA DALVA II|RUA SANTIAGO DANTAS, N. LT 13B, APTO 101, QD 157 AP101, 15713B": {
 "fonte": "google",
@@ -22054,6 +22179,11 @@
 "lat": -16.2695029,
 "lng": -47.9088365
 },
+"GO|LUZIANIA|PARQUE ESTRELA DALVA VII|QUADRA 70, N, CS 02 LT 13 VG 02": {
+"fonte": "osm",
+"lat": -16.2522542,
+"lng": -47.9103868
+},
 "GO|LUZIANIA|PARQUE ESTRELA DALVA VII|RUA 09, N. 31, LT 31 QD 40": {
 "fonte": "google",
 "lat": -16.1734664,
@@ -22584,15 +22714,30 @@
 "lat": -16.1513297,
 "lng": -47.9341668
 },
+"GO|LUZIANIA|PARQUE INDUSTRIAL MINGONE|QUADRA 238, N, CS 2 LT E RUA 21 VG 02": {
+"fonte": "osm",
+"lat": -16.2522542,
+"lng": -47.9103868
+},
 "GO|LUZIANIA|PARQUE INDUSTRIAL MINGONE|QUADRA 37, N, CS 03 LT R RODOVIA FEDERAL BRASILIA -": {
 "fonte": "google",
 "lat": -16.1562159,
 "lng": -47.9341889
 },
+"GO|LUZIANIA|PARQUE INDUSTRIAL MINGONE|QUADRA 38, N, CS 03 LT F RUA 07": {
+"fonte": "osm",
+"lat": -16.2522542,
+"lng": -47.9103868
+},
 "GO|LUZIANIA|PARQUE INDUSTRIAL MINGONE|QUADRA 43, N, CS 02 VG 02 LT E RUA 03": {
 "fonte": "google",
 "lat": -16.1504825,
 "lng": -47.929734
+},
+"GO|LUZIANIA|PARQUE INDUSTRIAL MINGONE|QUADRA 49, N, LT A-1 RUA 46": {
+"fonte": "osm",
+"lat": -16.2522542,
+"lng": -47.9103868
 },
 "GO|LUZIANIA|PARQUE INDUSTRIAL MINGONE|QUADRA 5, N, CS 02 LT I QD 05 RUA 08": {
 "fonte": "google",
@@ -22699,6 +22844,11 @@
 "lat": -16.1592434,
 "lng": -47.9342903
 },
+"GO|LUZIANIA|PARQUE INDUSTRIAL MI|QUADRA QUADRA 104, N, CS 03 LT C RUA 42": {
+"fonte": "osm",
+"lat": -16.1416263,
+"lng": -47.950427
+},
 "GO|LUZIANIA|PARQUE INDUSTRIAL SAO JOSE|QUADRA 1, N, CS 02, GLEBA 07": {
 "fonte": "google",
 "lat": -16.1572687,
@@ -22718,6 +22868,11 @@
 "fonte": "google",
 "lat": -16.1655616,
 "lng": -47.94727640000001
+},
+"GO|LUZIANIA|PARQUE PAULISTANO GLEBA A|AVENIDA - B, N, LT 03 - QD 10": {
+"fonte": "osm",
+"lat": -16.2493503,
+"lng": -47.9001719
 },
 "GO|LUZIANIA|PARQUE PAULISTANO GLEBA A|AVENIDA B, N, LOTE 28, QUADRA 05": {
 "fonte": "google",
@@ -22863,6 +23018,11 @@
 "fonte": "google",
 "lat": -16.2221567,
 "lng": -47.9125459
+},
+"GO|LUZIANIA|VILA GUARA|RUA 27, N, CS02, QD 47 - LT 06": {
+"fonte": "osm",
+"lat": -16.1558375,
+"lng": -47.9478127
 },
 "GO|LUZIANIA|VILA GUARA|RUA 28, N, CS 02, LT 12, QD 50": {
 "fonte": "google",
@@ -24419,6 +24579,11 @@
 "lat": -15.9485089,
 "lng": -48.28960530000001
 },
+"GO|SANTO ANTONIO DO DESCOBERTO|FAZENDA CAPOEIRINHA|AVENIDA OLIMPICA, N, LT 02": {
+"fonte": "osm",
+"lat": -15.9468639,
+"lng": -48.2899348
+},
 "GO|SANTO ANTONIO DO DESCOBERTO|FAZENDA CAPOEIRINHA|AVENIDA OLIMPICA, N, LT 06, AREA 06-B": {
 "fonte": "google",
 "lat": -15.9468679,
@@ -24714,6 +24879,11 @@
 "lat": -15.9410959,
 "lng": -48.3025181
 },
+"GO|SANTO ANTONIO DO DESCOBERTO|JARDIM ANA BEATRIZ II|QUADRA 68, N, LT 16-A RUA 25": {
+"fonte": "osm",
+"lat": -15.9470852,
+"lng": -48.2750936
+},
 "GO|SANTO ANTONIO DO DESCOBERTO|JARDIM ANA BEATRIZ II|QUADRA 68, N, LT 24 QD 68 RUA 24": {
 "fonte": "google",
 "lat": -15.9508193,
@@ -24974,6 +25144,11 @@
 "lat": -16.2596622,
 "lng": -47.9315444
 },
+"GO|SANTO ANTONIO DO DESCOBERTO|JARDIM ANA BEATRIZ I|QUADRA 15, N, LT 01-B RUA 05": {
+"fonte": "osm",
+"lat": -15.9463156,
+"lng": -48.2973537
+},
 "GO|SANTO ANTONIO DO DESCOBERTO|JARDIM ANA BEATRIZ I|QUADRA 17, N, LT 10-B RUA 04": {
 "fonte": "google",
 "lat": -15.9514827,
@@ -25218,6 +25393,11 @@
 "fonte": "google",
 "lat": -15.9514827,
 "lng": -48.2796016
+},
+"GO|SANTO ANTONIO DO DESCOBERTO|JARDIM ANA BEATRIZ I|QUADRA 43, N, LT. 35B - RUA 12": {
+"fonte": "osm",
+"lat": -15.9457749,
+"lng": -48.2710982
 },
 "GO|SANTO ANTONIO DO DESCOBERTO|JARDIM ANA BEATRIZ I|QUADRA 45, N, LT 15-A FRENTE COM A RUA 13": {
 "fonte": "google",
@@ -25544,6 +25724,11 @@
 "lat": -16.0728988,
 "lng": -47.9748615
 },
+"GO|SANTO ANTONIO DO DESCOBERTO|JARDIM ANA BEATRIZ I|RUA 14, N, LT.29 QD.37": {
+"fonte": "osm",
+"lat": -15.9626866,
+"lng": -48.264597
+},
 "GO|SANTO ANTONIO DO DESCOBERTO|JARDIM ANA BEATRIZ I|RUA 14, N, QD 37 LT 19-A": {
 "fonte": "google",
 "lat": -15.9473771,
@@ -25573,6 +25758,11 @@
 "fonte": "google",
 "lat": -15.9372044,
 "lng": -48.2966811
+},
+"GO|SANTO ANTONIO DO DESCOBERTO|JARDIM ANA BEATRIZ I|RUA 3-A, N. 0, QUADRA 04, LOTE 20-C": {
+"fonte": "osm",
+"lat": -15.9473736,
+"lng": -48.2961899
 },
 "GO|SANTO ANTONIO DO DESCOBERTO|JARDIM ANA BEATRIZ I|RUA 9, N, LT 01-A, QD 43": {
 "fonte": "google",
@@ -25633,6 +25823,11 @@
 "fonte": "google",
 "lat": -15.9532388,
 "lng": -48.2799394
+},
+"GO|SANTO ANTONIO DO DESCOBERTO|MANSOES BITTENCOURT|QUADRA 7, N, LT 01-F RUA 06": {
+"fonte": "osm",
+"lat": -15.9504733,
+"lng": -48.2827929
 },
 "GO|SANTO ANTONIO DO DESCOBERTO|MANSOES BITTENCOURT|QUADRA 70, N, CS 08 LT168 AV DR. BENEDITO DE P E SIL": {
 "fonte": "google",
@@ -26204,6 +26399,11 @@
 "lat": -15.942408,
 "lng": -48.3153107
 },
+"GO|SANTO ANTONIO DO DESCOBERTO|PARQUE ESTRELA DALVA XVII|QD 259 LT 17-B, N, RUA 88": {
+"fonte": "osm",
+"lat": -15.9403286,
+"lng": -48.3125385
+},
 "GO|SANTO ANTONIO DO DESCOBERTO|PARQUE ESTRELA DALVA XVII|QUADRA 244, N, LT 09A AVENIDA 37": {
 "fonte": "google",
 "lat": -15.9389718,
@@ -26764,6 +26964,16 @@
 "lat": -15.9341763,
 "lng": -48.2923471
 },
+"GO|SANTO ANTONIO DO DESCOBERTO|RES BITTENCOURT|RUA 2, N, LT 18, QD 02": {
+"fonte": "osm",
+"lat": -15.9586663,
+"lng": -48.2641284
+},
+"GO|SANTO ANTONIO DO DESCOBERTO|SANTO ANTONIO DO DES|QUADRA 1, N, LT 20 RUA 2-A": {
+"fonte": "osm",
+"lat": -15.9435888,
+"lng": -48.2720434
+},
 "GO|SANTO ANTONIO DO DESCOBERTO|VILA ESPERANCA|QUADRA 06 LOTE 19 RUA 11, N": {
 "fonte": "google",
 "lat": -15.9403561,
@@ -26783,6 +26993,11 @@
 "fonte": "google",
 "lat": -15.9477138,
 "lng": -48.2665712
+},
+"GO|SANTO ANTONIO DO DESCOBERTO|VILA ESPERANCA|QUADRA 8, N, LT 17 - RUA 12 COM A RUA 08": {
+"fonte": "osm",
+"lat": -15.9470852,
+"lng": -48.2750936
 },
 "GO|SANTO ANTONIO DO DESCOBERTO|VILA ESPERANCA|QUADRA 9, N, LT 03, RUA 13": {
 "fonte": "google",
@@ -28318,6 +28533,11 @@
 "fonte": "google",
 "lat": -16.0724861,
 "lng": -47.9927994
+},
+"GO|VALPARAISO DE GOIAS|PARQUE SANTA RITA DE CASSIA|QUADRA 2, N, LT 11, CS 05": {
+"fonte": "osm",
+"lat": -16.0765436,
+"lng": -47.9729978
 },
 "GO|VALPARAISO DE GOIAS|PARQUE SANTA RITA DE CASSIA|RUA 03, N, APTO 102, QD 04, LT 51": {
 "fonte": "google",
@@ -35808,6 +36028,11 @@
 "fonte": "google",
 "lat": -22.2398964,
 "lng": -54.8020177
+},
+"MS|DOURADOS|JARDIM DEOCLECIO ARTUZZI II|RUA DA15, N. 1250, QD 21, LT 07": {
+"fonte": "osm",
+"lat": -22.2366668,
+"lng": -54.8181558
 },
 "MS|DOURADOS|JARDIM GUAICURUS|RUA NILTON MATTOS PEREIRA FILHO, N. 1225, QD 41 LT 10B": {
 "fonte": "google",
@@ -45269,6 +45494,11 @@
 "lat": -8.2251694,
 "lng": -34.945714
 },
+"PE|JABOATAO DOS GUARARAPES|BARRA DE JANGADA|RUA GUARULHOS, N. 121, APTO 404, BLOCO 3": {
+"fonte": "osm",
+"lat": -8.2244666,
+"lng": -34.9455205
+},
 "PE|JABOATAO DOS GUARARAPES|BARRA DE JANGADA|RUA JUNDIAI, N, APTO 503, BL 10 LT A1B QD 10": {
 "fonte": "google",
 "lat": -8.2249887,
@@ -47283,6 +47513,11 @@
 "fonte": "google",
 "lat": -7.898458099999999,
 "lng": -34.8354493
+},
+"PE|PAULISTA|NOSSA SENHORA DO O|RUA CAETANOPOLIS, N. 77, APTO 201, BL D": {
+"fonte": "osm",
+"lat": -7.8905695,
+"lng": -34.8378608
 },
 "PE|PAULISTA|NOSSA SENHORA DO O|RUA ITAPOA, N. 670, APTO 01, LT 68 QD G": {
 "fonte": "google",
@@ -55419,6 +55654,11 @@
 "lat": -22.748323,
 "lng": -43.416459
 },
+"RJ|BELFORD ROXO|BAIRRO SANTA MARIA|RUA BRENO DE SOUZA ALVES, N. 471, CS 04 LT 02 QD 11": {
+"fonte": "osm",
+"lat": -22.7258702,
+"lng": -43.3822438
+},
 "RJ|BELFORD ROXO|BARRO VERMELHO|R LINDON JOHNSON, N. 99, 10306": {
 "fonte": "google",
 "lat": -22.7436003,
@@ -56044,6 +56284,11 @@
 "lat": -22.7377462,
 "lng": -43.3939067
 },
+"RJ|BELFORD ROXO|PAULINE|RUA IEDA, N. 300, CS 57": {
+"fonte": "osm",
+"lat": -22.7399795,
+"lng": -43.3643096
+},
 "RJ|BELFORD ROXO|PIAM|RUA WALDEMAR DE OLIVEIRA MENDES, N. 35, LT 35": {
 "fonte": "google",
 "lat": -22.7443229,
@@ -56054,10 +56299,20 @@
 "lat": -22.7108797,
 "lng": -43.3843735
 },
+"RJ|BELFORD ROXO|REDENTOR|RUA REDENTOR, N. 301, CS 03, LT 05, QD 13": {
+"fonte": "osm",
+"lat": -22.7574203,
+"lng": -43.3675849
+},
 "RJ|BELFORD ROXO|REDENTOR|RUA REDENTOR, N. 301, CS 05": {
 "fonte": "google",
 "lat": -22.7550571,
 "lng": -43.3665354
+},
+"RJ|BELFORD ROXO|REDENTOR|RUA REDENTOR, N. 301, CS 06 QD 13 LT 05": {
+"fonte": "osm",
+"lat": -22.7574203,
+"lng": -43.3675849
 },
 "RJ|BELFORD ROXO|SANTA AMELIA|RUA BELO HORIZONTE, N, APTO 07, BL 01": {
 "fonte": "google",
@@ -56143,6 +56398,11 @@
 "fonte": "google",
 "lat": -22.754735,
 "lng": -43.3900865
+},
+"RJ|BELFORD ROXO|SANTA AMELIA|RUA BELO HORIZONTE, N. 835, APTO 501, BL 06, LT 01": {
+"fonte": "osm",
+"lat": -22.7516415,
+"lng": -43.3949907
 },
 "RJ|BELFORD ROXO|SANTA AMELIA|RUA BELO HORIZONTE, N. 835, APTO 503, BL 04, LT 01": {
 "fonte": "google",
@@ -56403,6 +56663,11 @@
 "fonte": "google",
 "lat": -22.7325667,
 "lng": -43.3866059
+},
+"RJ|BELFORD ROXO|SAO FRANCISCO DE ASSIS|RUA TAPEROA, N. 578, QD 46 LT 22 CS 03": {
+"fonte": "osm",
+"lat": -22.7352849,
+"lng": -43.4125053
 },
 "RJ|BELFORD ROXO|SAO JORGE|RUA DA NASCENTE, N. 500, APTO 401": {
 "fonte": "google",
@@ -56954,6 +57219,11 @@
 "lat": -22.717053,
 "lng": -43.382777
 },
+"RJ|BELFORD ROXO|SAO VICENTE|RUA TENENTE RAIMUNDO FEITOSA DA SILVA, N. 84, CS 22 LT 01 QD 122": {
+"fonte": "osm",
+"lat": -22.7201332,
+"lng": -43.3787395
+},
 "RJ|BELFORD ROXO|SAO VICENTE|RUA TENENTE RAYMUNDO FEITOSA DA SILVA, N. 128, CS 39": {
 "fonte": "google",
 "lat": -22.7211831,
@@ -56983,6 +57253,11 @@
 "fonte": "google",
 "lat": -22.7250368,
 "lng": -43.4165745
+},
+"RJ|BELFORD ROXO|SITIO RETIRO FELIZ|RUA PLACIDO FERREIRA, N. 75, LT 15 QD 3A": {
+"fonte": "osm",
+"lat": -22.7353299,
+"lng": -43.3665621
 },
 "RJ|BELFORD ROXO|VILA DAGMAR|AVENIDA GONCALVES GATTO, N. 290, APTO 107, BL 10": {
 "fonte": "google",
@@ -57274,6 +57549,16 @@
 "lat": -21.803456,
 "lng": -41.3517319
 },
+"RJ|CAMPOS DOS GOYTACAZES|CENTRO|AVENIDA ALBERTO TORRES, N. 750, APTO 404, BL III": {
+"fonte": "osm",
+"lat": -21.7539942,
+"lng": -41.3276615
+},
+"RJ|CAMPOS DOS GOYTACAZES|CENTRO|RUA GIL DE GOIS, N. 261": {
+"fonte": "osm",
+"lat": -21.7552764,
+"lng": -41.3261947
+},
 "RJ|CAMPOS DOS GOYTACAZES|CODIM|RUA CLAUDIO GOMES SILVA, N. 20, LT 09 QD H RUA I": {
 "fonte": "google",
 "lat": -21.7106103,
@@ -57489,6 +57774,16 @@
 "lat": -21.7640171,
 "lng": -41.3521246
 },
+"RJ|CAMPOS DOS GOYTACAZES|LOTEAMENTO SONHO DOURADO|RUA RAIMUNDO DE FARIAS BRITO, N. 177, APTO 406, BL 05": {
+"fonte": "osm",
+"lat": -21.7622274,
+"lng": -41.3572107
+},
+"RJ|CAMPOS DOS GOYTACAZES|LOTEAMENTO SONHO DOURADO|RUA RAIMUNDO DE FARIAS BRITO, N. 177, APTO 407, BL 13": {
+"fonte": "osm",
+"lat": -21.7622274,
+"lng": -41.3572107
+},
 "RJ|CAMPOS DOS GOYTACAZES|LOTEAMENTO SONHO DOURADO|RUA RAIMUNDO DE FARIAS BRITO, N. 235, APTO 306, BL 07": {
 "fonte": "google",
 "lat": -21.7643076,
@@ -57523,6 +57818,16 @@
 "fonte": "google",
 "lat": -21.7727021,
 "lng": -41.2814292
+},
+"RJ|CAMPOS DOS GOYTACAZES|PARQUE AURORA|R GEORGINA TEIXEIRA, N. 10, QD R LT 08": {
+"fonte": "osm",
+"lat": -21.8031004,
+"lng": -41.3534631
+},
+"RJ|CAMPOS DOS GOYTACAZES|PARQUE AURORA|RUA ARMINDA SOUZA, N. 78, QD D LT 20": {
+"fonte": "osm",
+"lat": -21.8013479,
+"lng": -41.3525037
 },
 "RJ|CAMPOS DOS GOYTACAZES|PARQUE AURORA|RUA GEORGINA TEIXEIRA, N. 110, LT 20 QD T": {
 "fonte": "google",
@@ -59499,6 +59804,11 @@
 "lat": -22.7463687,
 "lng": -42.8548019
 },
+"RJ|ITABORAI|CENTRO|AVENIDA 22 DE MAIO, N. 5990, LOJA 32 - ENTERPRISE MALL": {
+"fonte": "osm",
+"lat": -22.737919,
+"lng": -42.8390832
+},
 "RJ|ITABORAI|CENTRO|AVENIDA 22 DE MAIO, N. 5990, LOJA 45 - ENTERPRISE MALL": {
 "fonte": "google",
 "lat": -22.7463687,
@@ -59784,20 +60094,45 @@
 "lat": -22.7924056,
 "lng": -42.9305609
 },
+"RJ|ITABORAI|MARAMBAIA|ESTRADA DA CONCEICAO, N. 336, APTO 201, CS 06": {
+"fonte": "osm",
+"lat": -22.8004009,
+"lng": -42.9297561
+},
 "RJ|ITABORAI|MIRANTE DA MARAMBAIA|RUA PRINCIPAL, N, LT 40 QD D": {
 "fonte": "google",
 "lat": -22.790551,
 "lng": -42.9387181
+},
+"RJ|ITABORAI|MONTE VERDE (MANILHA)|RUA C, N. 01, QD 34 LT 28": {
+"fonte": "osm",
+"lat": -22.7993198,
+"lng": -42.9372109
 },
 "RJ|ITABORAI|MONTE VERDE (MANILHA)|RUA NELSON MANDELA, N, FR 02, LT 08, QD 09": {
 "fonte": "google",
 "lat": -22.7605618,
 "lng": -42.930749
 },
+"RJ|ITABORAI|MONTE VERDE|RUA K, N, CS 2 LT 43 QD 19": {
+"fonte": "osm",
+"lat": -22.7612723,
+"lng": -42.9289078
+},
 "RJ|ITABORAI|MORADA DO SOL I (ITAMBI)|ESTRADA MUNICIPAL ITAMBI, N, CS 18": {
 "fonte": "google",
 "lat": -22.7342851,
 "lng": -42.9338376
+},
+"RJ|ITABORAI|MORADA DO SOL I (ITAMBI)|ESTRADA MUNICIPAL ITAMBI, N, CS 38": {
+"fonte": "osm",
+"lat": -22.734718,
+"lng": -42.9326622
+},
+"RJ|ITABORAI|MORADA DO SOL I (ITAMBI)|ESTRADA MUNICIPAL ITAMBI, N, CS 40": {
+"fonte": "osm",
+"lat": -22.734718,
+"lng": -42.9326622
 },
 "RJ|ITABORAI|MORADA DO SOL I (ITAMBI)|PREFEITO JOAO BATISTA CAFFARO, N, CS 24": {
 "fonte": "google",
@@ -60193,6 +60528,11 @@
 "fonte": "google",
 "lat": -22.7859647,
 "lng": -42.9242063
+},
+"RJ|ITABORAI|NOVO HORIZONTE (MANILHA)|OITO, QD 28 LT 528 CS 05": {
+"fonte": "osm",
+"lat": -22.7344806,
+"lng": -42.8200839
 },
 "RJ|ITABORAI|NOVO HORIZONTE (MANILHA)|RUA F, N, APTO 402, TORRE 06": {
 "fonte": "google",
@@ -63034,6 +63374,11 @@
 "lat": -22.7770425,
 "lng": -43.4277212
 },
+"RJ|MESQUITA|EDSON PASSOS|AVENIDA DA ETERNIDADE, N. 688, LOTE A 04": {
+"fonte": "osm",
+"lat": -22.7898853,
+"lng": -43.4199281
+},
 "RJ|MESQUITA|EDSON PASSOS|RUA AURELIA, N. 976, CS 02": {
 "fonte": "google",
 "lat": -22.7938827,
@@ -64634,6 +64979,11 @@
 "lat": -22.7988092,
 "lng": -43.5728768
 },
+"RJ|NOVA IGUACU|CABUCU|AVENIDA ABILIO AUGUSTO TAVORA, N. 12200, CS 03, QD 12, LT 03": {
+"fonte": "osm",
+"lat": -22.7725029,
+"lng": -43.5257925
+},
 "RJ|NOVA IGUACU|CABUCU|AVENIDA ABILIO AUGUSTO TAVORA, N. 15099, CS 02": {
 "fonte": "google",
 "lat": -22.7867521,
@@ -65254,6 +65604,11 @@
 "lat": -22.7360269,
 "lng": -43.5231556
 },
+"RJ|NOVA IGUACU|CABUCU|RUA 7, N. 120, CASA 01": {
+"fonte": "osm",
+"lat": -22.7881777,
+"lng": -43.5432169
+},
 "RJ|NOVA IGUACU|CABUCU|RUA AGOSTINHO RODRIGUEZ DA SILVA (ANTIGA RUA SEIS), N. 70, CS 02 PARTE LT 07 QD E": {
 "fonte": "google",
 "lat": -22.7759989,
@@ -65273,6 +65628,11 @@
 "fonte": "google",
 "lat": -22.8024898,
 "lng": -43.59659370000001
+},
+"RJ|NOVA IGUACU|CABUCU|RUA ALESSANDRO PEREIRA DA SILVA, N. 66": {
+"fonte": "osm",
+"lat": -22.8011282,
+"lng": -43.5980768
 },
 "RJ|NOVA IGUACU|CABUCU|RUA ALESSANDRO PEREIRA DA SILVA, N. 79, APTO 101, LT 08 QD D": {
 "fonte": "google",
@@ -65299,6 +65659,11 @@
 "lat": -22.7970053,
 "lng": -43.57546749999999
 },
+"RJ|NOVA IGUACU|CABUCU|RUA BRASILIA, N. 102, APTO 103, LT 4A QD F": {
+"fonte": "osm",
+"lat": -22.7730384,
+"lng": -43.5344337
+},
 "RJ|NOVA IGUACU|CABUCU|RUA BRASILIA, N. 102, CS 08 LT 4-A QD F": {
 "fonte": "google",
 "lat": -22.772324,
@@ -65323,6 +65688,11 @@
 "fonte": "google",
 "lat": -22.7813409,
 "lng": -43.5474335
+},
+"RJ|NOVA IGUACU|CABUCU|RUA CAPIBARIBE, N. 465, APTO 202": {
+"fonte": "osm",
+"lat": -22.7792312,
+"lng": -43.5459384
 },
 "RJ|NOVA IGUACU|CABUCU|RUA CAPIBERIBE, N. 229, QD 102 LT 13D": {
 "fonte": "google",
@@ -65368,6 +65738,11 @@
 "fonte": "google",
 "lat": -22.8228109,
 "lng": -42.8925917
+},
+"RJ|NOVA IGUACU|CABUCU|RUA COIMBRA, N. 382, CASA 05 LT 25 QD Q": {
+"fonte": "osm",
+"lat": -22.7780047,
+"lng": -43.5358663
 },
 "RJ|NOVA IGUACU|CABUCU|RUA COIMBRA, N. 382, QD Q LT 25 CS 03": {
 "fonte": "google",
@@ -65579,6 +65954,11 @@
 "lat": -22.7807971,
 "lng": -43.5438972
 },
+"RJ|NOVA IGUACU|CABUCU|RUA MARANGUAPE, N. 31, QD 61 LT 31 CS 03": {
+"fonte": "osm",
+"lat": -22.7762208,
+"lng": -43.5466285
+},
 "RJ|NOVA IGUACU|CABUCU|RUA MARMORE, N. 112, CS 102": {
 "fonte": "google",
 "lat": -22.807502,
@@ -65608,6 +65988,11 @@
 "fonte": "google",
 "lat": -22.7740962,
 "lng": -43.5408311
+},
+"RJ|NOVA IGUACU|CABUCU|RUA NARA, N. 619, QD 14 LT 20 CS 08": {
+"fonte": "osm",
+"lat": -22.7726389,
+"lng": -43.5391243
 },
 "RJ|NOVA IGUACU|CABUCU|RUA NILSON SOARES DA SILVA, N. 155, CS 02 LT 05 QD G": {
 "fonte": "google",
@@ -65744,6 +66129,11 @@
 "lat": -22.7743302,
 "lng": -43.5401572
 },
+"RJ|NOVA IGUACU|CABUCU|RUA RUA SEIS, N. 20, CASA 3": {
+"fonte": "osm",
+"lat": -22.742015,
+"lng": -43.4347044
+},
 "RJ|NOVA IGUACU|CABUCU|RUA RUA SERGIO ROSA SEPPA, N. 41, APTO 09, CS 09 LT 41": {
 "fonte": "google",
 "lat": -22.7826291,
@@ -65818,6 +66208,11 @@
 "fonte": "google",
 "lat": -22.7853432,
 "lng": -43.54295870000001
+},
+"RJ|NOVA IGUACU|CABUCU|RUA UM, N. 54, APTO 104": {
+"fonte": "osm",
+"lat": -22.8037537,
+"lng": -43.598156
 },
 "RJ|NOVA IGUACU|CABUCU|RUA UM, N. 58, APTO 104": {
 "fonte": "google",
@@ -66073,6 +66468,11 @@
 "fonte": "google",
 "lat": -22.7576511,
 "lng": -43.4446213
+},
+"RJ|NOVA IGUACU|CENTRO|RUA OTAVIO TARQUINO, N. 410, SL 1208": {
+"fonte": "osm",
+"lat": -22.7565105,
+"lng": -43.4482874
 },
 "RJ|NOVA IGUACU|CERAMICA|RUA B, N, APTO 203, BLOCO 14": {
 "fonte": "google",
@@ -66674,10 +67074,25 @@
 "lat": -22.765511,
 "lng": -43.491951
 },
+"RJ|NOVA IGUACU|COMENDADOR SOARES|AVENIDA ABILIO AUGUSTO TAVORA, N. 3555, APTO 504, BL 15": {
+"fonte": "osm",
+"lat": -22.7725029,
+"lng": -43.5257925
+},
 "RJ|NOVA IGUACU|COMENDADOR SOARES|AVENIDA ABILIO AUGUSTO TAVORA, N. 3555, APTO 504, BL 17": {
 "fonte": "google",
 "lat": -22.765511,
 "lng": -43.491951
+},
+"RJ|NOVA IGUACU|COMENDADOR SOARES|AVENIDA ABILIO AUGUSTO TAVORA, N. 3555, APTO 504, BL 21": {
+"fonte": "osm",
+"lat": -22.7725029,
+"lng": -43.5257925
+},
+"RJ|NOVA IGUACU|COMENDADOR SOARES|AVENIDA ABILIO AUGUSTO TAVORA, N. 3555, APTO 504, BL 22": {
+"fonte": "osm",
+"lat": -22.7725029,
+"lng": -43.5257925
 },
 "RJ|NOVA IGUACU|COMENDADOR SOARES|RUA PROJETADA A, N. 141, APTO 405, BL 03": {
 "fonte": "google",
@@ -66708,6 +67123,11 @@
 "fonte": "google",
 "lat": -22.7445311,
 "lng": -43.4288069
+},
+"RJ|NOVA IGUACU|ENGENHO PEQUENO|RUA PAULO CERQUEIRA, N. 7, APTO 101": {
+"fonte": "osm",
+"lat": -22.7454389,
+"lng": -43.4284219
 },
 "RJ|NOVA IGUACU|ENGENHO PEQUENO|RUA PAULO CERQUEIRA, N. 7, LT 234 QD 17 CS 02": {
 "fonte": "google",
@@ -66838,6 +67258,11 @@
 "fonte": "google",
 "lat": -22.7348893,
 "lng": -43.44394020000001
+},
+"RJ|NOVA IGUACU|FLORESTA|RUA MARIA AUGUSTA, N. 36, LT 03": {
+"fonte": "osm",
+"lat": -22.7314346,
+"lng": -43.4793149
 },
 "RJ|NOVA IGUACU|IPIRANGA|RUA 05, N. 12, QD X LT 01": {
 "fonte": "google",
@@ -67008,6 +67433,11 @@
 "fonte": "google",
 "lat": -22.7942554,
 "lng": -43.5741304
+},
+"RJ|NOVA IGUACU|IPIRANGA|RUA DOIS, N. 168, QD F, LT 1-A, TÉRREO": {
+"fonte": "osm",
+"lat": -22.8070321,
+"lng": -43.5892323
 },
 "RJ|NOVA IGUACU|IPIRANGA|RUA DOIS, N. 360, CASA 04": {
 "fonte": "google",
@@ -68279,6 +68709,11 @@
 "lat": -22.7585165,
 "lng": -43.5034103
 },
+"RJ|NOVA IGUACU|JARDIM NOVA ERA|RUA SHEILA BIONDINO, N. 540, QD 33 LT 13": {
+"fonte": "osm",
+"lat": -22.7588528,
+"lng": -43.5023396
+},
 "RJ|NOVA IGUACU|JARDIM PALMARES|R ANA CARLA, N. 110, APTO 101, BL 04": {
 "fonte": "google",
 "lat": -22.7669272,
@@ -68508,6 +68943,11 @@
 "fonte": "google",
 "lat": -22.7599904,
 "lng": -43.5206115
+},
+"RJ|NOVA IGUACU|JARDIM PALMARES|RUA GILBERTO REGIS, N. 41, LT 19, QD B": {
+"fonte": "osm",
+"lat": -22.6993375,
+"lng": -43.4722851
 },
 "RJ|NOVA IGUACU|JARDIM SANTA MARIA|RUA MARIA DE JESUS PEREIRA DA SILVA, N. 56, APTO 101, LT 19 QD B": {
 "fonte": "google",
@@ -69029,6 +69469,11 @@
 "lat": -22.8081516,
 "lng": -43.5878044
 },
+"RJ|NOVA IGUACU|MARAPICU|RUA E, N. 12000, 38, QD IX LT 19": {
+"fonte": "osm",
+"lat": -22.7337387,
+"lng": -43.4846546
+},
 "RJ|NOVA IGUACU|MARAPICU|RUA FELDESPATO, N. 225, APTO 101, LT 20 QD 24": {
 "fonte": "google",
 "lat": -22.809618,
@@ -69179,6 +69624,11 @@
 "lat": -22.7555274,
 "lng": -43.4782752
 },
+"RJ|NOVA IGUACU|OURO VERDE|RUA CURITIBA, N. 211, LT20, QD04": {
+"fonte": "osm",
+"lat": -22.7536295,
+"lng": -43.4857209
+},
 "RJ|NOVA IGUACU|OURO VERDE|RUA WASHINGTON LUIS, N, APTO 103, BL 6": {
 "fonte": "google",
 "lat": -22.7550724,
@@ -69248,6 +69698,11 @@
 "fonte": "google",
 "lat": -22.7664071,
 "lng": -43.5326079
+},
+"RJ|NOVA IGUACU|PALHADA|ESTRADA MORRO AGUDO, N. 336, APTO 101, QD 07 LT 11": {
+"fonte": "osm",
+"lat": -22.7611238,
+"lng": -43.5264116
 },
 "RJ|NOVA IGUACU|PALHADA|ESTRADA MORRO AGUDO, N. 336, APTO 103, QD 07 LT 11": {
 "fonte": "google",
@@ -69879,6 +70334,11 @@
 "lat": -22.7168839,
 "lng": -43.4671211
 },
+"RJ|NOVA IGUACU|PONTO CHIC|ESTRADA VELHA DE SANTA RITA, N. 1060, APTO 404, BL 10, LT 6A2": {
+"fonte": "osm",
+"lat": -22.7202907,
+"lng": -43.4696945
+},
 "RJ|NOVA IGUACU|PONTO CHIC|ESTRADA VELHA DE SANTA RITA, N. 1060, APTO 501, BL 07, LT 6A2": {
 "fonte": "google",
 "lat": -22.7168839,
@@ -69908,6 +70368,11 @@
 "fonte": "google",
 "lat": -22.7243725,
 "lng": -43.4777868
+},
+"RJ|NOVA IGUACU|PRADOS VERDES|RUA DAS MARGARIDAS, N. 48, LT 07": {
+"fonte": "osm",
+"lat": -22.8444264,
+"lng": -43.6165894
 },
 "RJ|NOVA IGUACU|PRADOS VERDES|RUA DAS MIMOSAS, N": {
 "fonte": "google",
@@ -69959,6 +70424,11 @@
 "lat": -22.739456,
 "lng": -43.5092002
 },
+"RJ|NOVA IGUACU|RODILANDIA|TRAVESSA ESTRADA DE FERRO, N. 15, APTO 201, LT 15, QD C": {
+"fonte": "osm",
+"lat": -22.7351421,
+"lng": -43.5115335
+},
 "RJ|NOVA IGUACU|SANTA RITA|RUA CINCO, N. 07, LT 09 QD C": {
 "fonte": "google",
 "lat": -22.683408,
@@ -69993,6 +70463,11 @@
 "fonte": "google",
 "lat": -22.7009852,
 "lng": -43.4769892
+},
+"RJ|NOVA IGUACU|SANTA RITA|RUA SEIS, N. 70, CS 02, QD H, LT 10": {
+"fonte": "osm",
+"lat": -22.6849451,
+"lng": -43.4563576
 },
 "RJ|NOVA IGUACU|SANTA RITA|RUA TRES, N. 76, QD G LT 22": {
 "fonte": "google",
@@ -70048,6 +70523,11 @@
 "fonte": "google",
 "lat": -22.7775308,
 "lng": -43.530077
+},
+"RJ|NOVA IGUACU|VALVERDE|RUA COLORADO, N. 468, QD E LT 28 CS 05": {
+"fonte": "osm",
+"lat": -22.7783377,
+"lng": -43.5294556
 },
 "RJ|NOVA IGUACU|VALVERDE|RUA DONA MARIA DE LOURDES, N. 20, APTO 102": {
 "fonte": "google",
@@ -71444,6 +71924,16 @@
 "lat": -22.8191846,
 "lng": -43.3945869
 },
+"RJ|RIO DE JANEIRO|ANCHIETA|AVENIDA CHRISOSTOMO PIMENTEL DE OLIVEIRA, N. 477, APTO 411, BL 07": {
+"fonte": "osm",
+"lat": -22.8216707,
+"lng": -43.3984258
+},
+"RJ|RIO DE JANEIRO|ANCHIETA|AVENIDA CHRISOSTOMO PIMENTEL DE OLIVEIRA, N. 477, APTO 501, BL 06": {
+"fonte": "osm",
+"lat": -22.8216707,
+"lng": -43.3984258
+},
 "RJ|RIO DE JANEIRO|ANCHIETA|AVENIDA CHRISOSTOMO PIMENTEL DE OLIVEIRA, N. 477, APTO 504, BL 04": {
 "fonte": "google",
 "lat": -22.8191846,
@@ -71493,6 +71983,11 @@
 "fonte": "google",
 "lat": -22.8252745,
 "lng": -43.4118197
+},
+"RJ|RIO DE JANEIRO|ANCHIETA|RUA ADALBERTO TANAJURA, N. 57, APTO 303": {
+"fonte": "osm",
+"lat": -22.8314394,
+"lng": -43.4122253
 },
 "RJ|RIO DE JANEIRO|ANCHIETA|RUA CORONEL QUEIROZ, N. 195": {
 "fonte": "google",
@@ -71584,6 +72079,11 @@
 "lat": -22.8209461,
 "lng": -43.4020801
 },
+"RJ|RIO DE JANEIRO|ANCHIETA|RUA IRMA GABRIELA, N. 117, FUNDOS": {
+"fonte": "osm",
+"lat": -22.8171386,
+"lng": -43.38529
+},
 "RJ|RIO DE JANEIRO|ANCHIETA|RUA JOSE LOURENCO, N. 91, APTO 101": {
 "fonte": "google",
 "lat": -22.8227483,
@@ -71628,6 +72128,16 @@
 "fonte": "google",
 "lat": -22.7862507,
 "lng": -43.1844034
+},
+"RJ|RIO DE JANEIRO|BANGU|AVENIDA BRASIL, N. 33000, APTO 206, BL 05": {
+"fonte": "osm",
+"lat": -22.8574863,
+"lng": -43.4686017
+},
+"RJ|RIO DE JANEIRO|BANGU|AVENIDA BRASIL, N. 33000, APTO 405, BL 01": {
+"fonte": "osm",
+"lat": -22.8574863,
+"lng": -43.4686017
 },
 "RJ|RIO DE JANEIRO|BANGU|AVENIDA BRASIL, N. 33000, APTO 501, BL 10": {
 "fonte": "google",
@@ -71809,6 +72319,11 @@
 "lat": -22.8503315,
 "lng": -43.4835199
 },
+"RJ|RIO DE JANEIRO|BANGU|ESTRADA DO TAQUARAL, N. 100, APTO 102, BL 01": {
+"fonte": "osm",
+"lat": -22.8641027,
+"lng": -43.4765104
+},
 "RJ|RIO DE JANEIRO|BANGU|ESTRADA DO TAQUARAL, N. 100, APTO 102, BL 02": {
 "fonte": "google",
 "lat": -22.8631659,
@@ -71904,6 +72419,11 @@
 "lat": -22.8631659,
 "lng": -43.4747037
 },
+"RJ|RIO DE JANEIRO|BANGU|ESTRADA DO TAQUARAL, N. 100, APTO 306, BL 05": {
+"fonte": "osm",
+"lat": -22.8668666,
+"lng": -43.4786795
+},
 "RJ|RIO DE JANEIRO|BANGU|ESTRADA DO TAQUARAL, N. 100, APTO 308, BL 02": {
 "fonte": "google",
 "lat": -22.8631659,
@@ -71919,6 +72439,11 @@
 "lat": -22.8517378,
 "lng": -43.4840436
 },
+"RJ|RIO DE JANEIRO|BANGU|ESTRADA PORTO NACIONAL, N. 778, APTO 502": {
+"fonte": "osm",
+"lat": -22.8614861,
+"lng": -43.4555689
+},
 "RJ|RIO DE JANEIRO|BANGU|ESTRADA SARGENTO MIGUEL FILHO, N. 67, CS 01": {
 "fonte": "google",
 "lat": -22.8605482,
@@ -71929,6 +72454,11 @@
 "lat": -22.8606942,
 "lng": -43.4873374
 },
+"RJ|RIO DE JANEIRO|BANGU|RUA ARAQUEM, N. 1370, LT 24 QD 41": {
+"fonte": "osm",
+"lat": -22.8601372,
+"lng": -43.4615854
+},
 "RJ|RIO DE JANEIRO|BANGU|RUA ARARI, N. 171, APTO 408": {
 "fonte": "google",
 "lat": -22.8671864,
@@ -71938,6 +72468,11 @@
 "fonte": "google",
 "lat": -22.8659695,
 "lng": -43.4531198
+},
+"RJ|RIO DE JANEIRO|BANGU|RUA ARARI, N. 346, APTO 207": {
+"fonte": "osm",
+"lat": -22.8657461,
+"lng": -43.4534201
 },
 "RJ|RIO DE JANEIRO|BANGU|RUA ARARI, N. 375, APTO 407": {
 "fonte": "google",
@@ -71958,6 +72493,11 @@
 "fonte": "google",
 "lat": -22.87955,
 "lng": -43.4790749
+},
+"RJ|RIO DE JANEIRO|BANGU|RUA CANDIDO VIANNA DE LIMA, N. 161, ANTIGA RUA 05": {
+"fonte": "osm",
+"lat": -22.8853546,
+"lng": -43.4531648
 },
 "RJ|RIO DE JANEIRO|BANGU|RUA COMANDANTE EDUARDO DE ALMEIDA MAGALHAES, N. 215, APTO 101, BL 01, QD 02, LT 01": {
 "fonte": "google",
@@ -72033,6 +72573,11 @@
 "fonte": "google",
 "lat": -22.8637921,
 "lng": -43.4778092
+},
+"RJ|RIO DE JANEIRO|BANGU|RUA COSTA JUNIOR, N. 95": {
+"fonte": "osm",
+"lat": -22.852832,
+"lng": -43.4934821
 },
 "RJ|RIO DE JANEIRO|BANGU|RUA DO MARABU, N. 225, APTO 202, LT 141": {
 "fonte": "google",
@@ -72113,6 +72658,11 @@
 "fonte": "google",
 "lat": -22.8574085,
 "lng": -43.4658767
+},
+"RJ|RIO DE JANEIRO|BANGU|RUA JULIO REIS, N. 130, QD 52 LT 130": {
+"fonte": "osm",
+"lat": -22.8508967,
+"lng": -43.4957872
 },
 "RJ|RIO DE JANEIRO|BANGU|RUA MARIA EULALIA DA COSTA, N. 100, APTO 104, BL 04": {
 "fonte": "google",
@@ -72238,6 +72788,11 @@
 "fonte": "google",
 "lat": -23.0033062,
 "lng": -43.3219443
+},
+"RJ|RIO DE JANEIRO|BARRA DA TIJUCA|AVENIDA DAS AMERICAS, N. 700, LJ 303-A, BL 08": {
+"fonte": "osm",
+"lat": -22.9965804,
+"lng": -43.3656942
 },
 "RJ|RIO DE JANEIRO|BARRA DA TIJUCA|AVENIDA DAS AMERICAS, N. 7897, APTO 1203, LT 02, QD B, PAL 44170": {
 "fonte": "google",
@@ -72924,6 +73479,11 @@
 "lat": -22.8374005,
 "lng": -43.3016053
 },
+"RJ|RIO DE JANEIRO|BRAS DE PINA|RUA CABO HERCULANO, N. 85, APTO 805, BLOCO II": {
+"fonte": "osm",
+"lat": -22.8340257,
+"lng": -43.3082883
+},
 "RJ|RIO DE JANEIRO|BRAS DE PINA|RUA CAMAQUA, N. 197, APTO 302, BL 01, LT 15": {
 "fonte": "google",
 "lat": -22.835987,
@@ -72943,6 +73503,11 @@
 "fonte": "google",
 "lat": -22.8349412,
 "lng": -43.3006305
+},
+"RJ|RIO DE JANEIRO|BRAS DE PINA|RUA CAMAQUA, N. 267, APTO 402, BL 02": {
+"fonte": "osm",
+"lat": -22.83615,
+"lng": -43.3006362
 },
 "RJ|RIO DE JANEIRO|BRAS DE PINA|RUA CARAIPE, N. 32, APTO 101, LT 541": {
 "fonte": "google",
@@ -72964,6 +73529,11 @@
 "lat": -22.8344768,
 "lng": -43.2915393
 },
+"RJ|RIO DE JANEIRO|BRAS DE PINA|RUA GUAPORE, N. 359, APTO 508, BL 01, LT 01": {
+"fonte": "osm",
+"lat": -22.7286264,
+"lng": -43.5146088
+},
 "RJ|RIO DE JANEIRO|BRAS DE PINA|RUA GUAPORE, N. 447, APTO 201, BL 01": {
 "fonte": "google",
 "lat": -22.833612,
@@ -72974,6 +73544,16 @@
 "lat": -22.833612,
 "lng": -43.2918949
 },
+"RJ|RIO DE JANEIRO|BRAS DE PINA|RUA JORGE COELHO, N. 706, APTO 101, BL 06": {
+"fonte": "osm",
+"lat": -22.8282519,
+"lng": -43.2938674
+},
+"RJ|RIO DE JANEIRO|BRAS DE PINA|RUA JORGE COELHO, N. 706, APTO 401, BL02": {
+"fonte": "osm",
+"lat": -22.8282519,
+"lng": -43.2938674
+},
 "RJ|RIO DE JANEIRO|BRAS DE PINA|RUA JORGE COELHO, N. 706, APTO 404, BL 02": {
 "fonte": "google",
 "lat": -22.823668,
@@ -72983,6 +73563,11 @@
 "fonte": "google",
 "lat": -22.8357513,
 "lng": -43.2992333
+},
+"RJ|RIO DE JANEIRO|BRAS DE PINA|RUA ORICA, N. 1270, APTO 201": {
+"fonte": "osm",
+"lat": -22.8312677,
+"lng": -43.2971484
 },
 "RJ|RIO DE JANEIRO|BRAS DE PINA|RUA ORICA, N. 321, APTO 101": {
 "fonte": "google",
@@ -73009,6 +73594,11 @@
 "lat": -22.8344927,
 "lng": -43.2995248
 },
+"RJ|RIO DE JANEIRO|BRAS DE PINA|RUA VICENTE CANECO, N. 76, APTO 308, BL 02": {
+"fonte": "osm",
+"lat": -22.8344303,
+"lng": -43.300563
+},
 "RJ|RIO DE JANEIRO|CACHAMBI|AVENIDA DOM HELDER CAMARA, N. 5123, APTO 1204, BL 02": {
 "fonte": "google",
 "lat": -22.8874074,
@@ -73028,6 +73618,11 @@
 "fonte": "google",
 "lat": -22.8950974,
 "lng": -43.2690182
+},
+"RJ|RIO DE JANEIRO|CACHAMBI|RUA CRISTOVAO COLOMBO, N. 215, APTO 403, BL 01": {
+"fonte": "osm",
+"lat": -22.929997,
+"lng": -43.175981
 },
 "RJ|RIO DE JANEIRO|CACHAMBI|RUA MIGUEL CERVANTES, N. 458, APTO 303": {
 "fonte": "google",
@@ -73594,6 +74189,11 @@
 "lat": -22.8601611,
 "lng": -43.552374
 },
+"RJ|RIO DE JANEIRO|CAMPO GRANDE|AVENIDA MANUEL CALDEIRA DE ALVARENGA, N. 7, APTO 607, BL 03": {
+"fonte": "osm",
+"lat": -22.8988755,
+"lng": -43.5811068
+},
 "RJ|RIO DE JANEIRO|CAMPO GRANDE|AVENIDA MERGULHAO (ANTIGA R PROJETADA A), N. 120, APTO 402, BL 08": {
 "fonte": "google",
 "lat": -22.8573931,
@@ -74149,6 +74749,11 @@
 "lat": -22.8797853,
 "lng": -43.58697069999999
 },
+"RJ|RIO DE JANEIRO|CAMPO GRANDE|ESTRADA DO TINGUI, N. 3015, CS 04": {
+"fonte": "osm",
+"lat": -22.8781198,
+"lng": -43.5982935
+},
 "RJ|RIO DE JANEIRO|CAMPO GRANDE|ESTRADA DOS CABOCLOS, N. 1708, APTO 307, BL 03": {
 "fonte": "google",
 "lat": -22.9259024,
@@ -74168,6 +74773,11 @@
 "fonte": "google",
 "lat": -22.9284941,
 "lng": -43.552855
+},
+"RJ|RIO DE JANEIRO|CAMPO GRANDE|ESTRADA GUANDU DO SAPE, N. 1450, APTO 402, BL 15": {
+"fonte": "osm",
+"lat": -22.8735691,
+"lng": -43.5606058
 },
 "RJ|RIO DE JANEIRO|CAMPO GRANDE|ESTRADA GUANDU DO SAPE, N. 1450, APTO 504, BL 16": {
 "fonte": "google",
@@ -74304,6 +74914,11 @@
 "lat": -22.8683462,
 "lng": -43.5852666
 },
+"RJ|RIO DE JANEIRO|CAMPO GRANDE|ESTRADA RIO-SAO PAULO, N. 4355, APTO 407, BL 05": {
+"fonte": "osm",
+"lat": -22.8738332,
+"lng": -43.5785347
+},
 "RJ|RIO DE JANEIRO|CAMPO GRANDE|ESTRADA RIO-SAO PAULO, N. 4355, APTO 408, BL 01": {
 "fonte": "google",
 "lat": -22.8683462,
@@ -74359,6 +74974,16 @@
 "lat": -22.8713947,
 "lng": -43.4218757
 },
+"RJ|RIO DE JANEIRO|CAMPO GRANDE|RUA ALFREDO BRITTO, N. 80, APTO 501, BL 21": {
+"fonte": "osm",
+"lat": -22.9370565,
+"lng": -43.5747345
+},
+"RJ|RIO DE JANEIRO|CAMPO GRANDE|RUA ALMERINDA DE CASTRO, N. 180, APTO 404, BL 05": {
+"fonte": "osm",
+"lat": -22.8946403,
+"lng": -43.5876097
+},
 "RJ|RIO DE JANEIRO|CAMPO GRANDE|RUA ALMERINDA DE CASTRO, N. 180, APTO 406, BL 12": {
 "fonte": "google",
 "lat": -22.8941959,
@@ -74373,6 +74998,11 @@
 "fonte": "google",
 "lat": -22.8950216,
 "lng": -43.5867485
+},
+"RJ|RIO DE JANEIRO|CAMPO GRANDE|RUA ANTONIO CARLOS BELCHIOR, N. 200, APTO 401, BL 01": {
+"fonte": "osm",
+"lat": -22.8594457,
+"lng": -43.5478599
 },
 "RJ|RIO DE JANEIRO|CAMPO GRANDE|RUA ANTONIO CARLOS BELCHIOR, N. 200, APTO 407, BL 04": {
 "fonte": "google",
@@ -75559,6 +76189,11 @@
 "lat": -22.9205455,
 "lng": -43.51336879999999
 },
+"RJ|RIO DE JANEIRO|CAMPO GRANDE|RUA RIO DE CONTAS, N, LT 08 QD 02": {
+"fonte": "osm",
+"lat": -22.8693403,
+"lng": -43.5667616
+},
 "RJ|RIO DE JANEIRO|CAMPO GRANDE|RUA SENADOR VASCONCELOS TORRES, N. 455, APTO 102": {
 "fonte": "google",
 "lat": -22.8752464,
@@ -75568,6 +76203,11 @@
 "fonte": "google",
 "lat": -22.9222276,
 "lng": -43.5467968
+},
+"RJ|RIO DE JANEIRO|CAMPO GRANDE|RUA SEVERINO FERREIRA DA COSTA, N. 245, APTO 701, BL 04": {
+"fonte": "osm",
+"lat": -22.9219214,
+"lng": -43.5471909
 },
 "RJ|RIO DE JANEIRO|CAMPO GRANDE|RUA VICENTE FRANCISCO DOS SANTOS, N. 100, APTO 103, BL 01": {
 "fonte": "google",
@@ -75869,6 +76509,11 @@
 "lat": -22.8830089,
 "lng": -43.3357074
 },
+"RJ|RIO DE JANEIRO|CASCADURA|RUA CANDIDA BASTOS, N. 34, APTO 104": {
+"fonte": "osm",
+"lat": -22.8784944,
+"lng": -43.327112
+},
 "RJ|RIO DE JANEIRO|CASCADURA|RUA DO AMPARO, N. 249, APTO 303": {
 "fonte": "google",
 "lat": -22.8810565,
@@ -75894,6 +76539,11 @@
 "lat": -22.8840588,
 "lng": -43.3213739
 },
+"RJ|RIO DE JANEIRO|CASCADURA|RUA SAO PEDRO, N. 283": {
+"fonte": "osm",
+"lat": -22.8930394,
+"lng": -43.3316759
+},
 "RJ|RIO DE JANEIRO|CASCADURA|RUA SAO PEDRO, N. 342": {
 "fonte": "google",
 "lat": -22.8939181,
@@ -75903,6 +76553,11 @@
 "fonte": "google",
 "lat": -22.8941267,
 "lng": -43.3335217
+},
+"RJ|RIO DE JANEIRO|CASCADURA|RUA VALERIO, N. 118, APTO 901": {
+"fonte": "osm",
+"lat": -22.878788,
+"lng": -43.3171649
 },
 "RJ|RIO DE JANEIRO|CATUMBI|RUA ELISEU VISCONTI, N. 120, APTO 102, CS 15": {
 "fonte": "google",
@@ -75918,6 +76573,16 @@
 "fonte": "google",
 "lat": -22.9239878,
 "lng": -43.197102
+},
+"RJ|RIO DE JANEIRO|CAVALCANTI|RUA ALMEIDA REIS, N. 23, APTO 101, FUNDOS": {
+"fonte": "osm",
+"lat": -22.8691614,
+"lng": -43.3156159
+},
+"RJ|RIO DE JANEIRO|CAVALCANTI|RUA LAURINDO FILHO, N. 698, CS 01": {
+"fonte": "osm",
+"lat": -22.8691475,
+"lng": -43.3186826
 },
 "RJ|RIO DE JANEIRO|CAVALCANTI|RUA LAURINDO FILHO, N. 722, APTO 101, BL 04": {
 "fonte": "google",
@@ -75959,10 +76624,20 @@
 "lat": -22.8685836,
 "lng": -43.3195629
 },
+"RJ|RIO DE JANEIRO|CAVALCANTI|RUA LAURINDO FILHO, N. 722, APTO 206, BL 04": {
+"fonte": "osm",
+"lat": -22.8691475,
+"lng": -43.3186826
+},
 "RJ|RIO DE JANEIRO|CAVALCANTI|RUA LAURINDO FILHO, N. 722, APTO 301, BL 04": {
 "fonte": "google",
 "lat": -22.8685836,
 "lng": -43.3195629
+},
+"RJ|RIO DE JANEIRO|CAVALCANTI|RUA LAURINDO FILHO, N. 722, APTO 302, BL 02": {
+"fonte": "osm",
+"lat": -22.8691475,
+"lng": -43.3186826
 },
 "RJ|RIO DE JANEIRO|CAVALCANTI|RUA LAURINDO FILHO, N. 722, APTO 304, BL 01": {
 "fonte": "google",
@@ -75978,6 +76653,11 @@
 "fonte": "google",
 "lat": -22.8685836,
 "lng": -43.3195629
+},
+"RJ|RIO DE JANEIRO|CAVALCANTI|RUA LAURINDO FILHO, N. 722, APTO 306, BL 04": {
+"fonte": "osm",
+"lat": -22.8691475,
+"lng": -43.3186826
 },
 "RJ|RIO DE JANEIRO|CAVALCANTI|RUA LAURINDO FILHO, N. 722, APTO 307, BL 04": {
 "fonte": "google",
@@ -76014,10 +76694,20 @@
 "lat": -22.9076983,
 "lng": -43.1760978
 },
+"RJ|RIO DE JANEIRO|CENTRO|RUA DA ALFANDEGA, N. 45": {
+"fonte": "osm",
+"lat": -22.901557,
+"lng": -43.1771595
+},
 "RJ|RIO DE JANEIRO|CENTRO|RUA DA ASSEMBLEIA, N. 61, APTO 1201": {
 "fonte": "google",
 "lat": -22.9051826,
 "lng": -43.1761277
+},
+"RJ|RIO DE JANEIRO|CENTRO|RUA REGENTE FEIJO, N. 95, SALA 302": {
+"fonte": "osm",
+"lat": -22.9062111,
+"lng": -43.1847017
 },
 "RJ|RIO DE JANEIRO|CENTRO|RUA RIACHUELO, N. 92, APTO 1223": {
 "fonte": "google",
@@ -76044,6 +76734,16 @@
 "lat": -22.9510909,
 "lng": -43.353901
 },
+"RJ|RIO DE JANEIRO|CIDADE DE DEUS|RUA DA LUZ, N. 72, APTO 508": {
+"fonte": "osm",
+"lat": -22.9510934,
+"lng": -43.3554223
+},
+"RJ|RIO DE JANEIRO|COCOTA|RUA GRANA, N. 574, APTO 102, FUNDOS": {
+"fonte": "osm",
+"lat": -22.8066044,
+"lng": -43.1831691
+},
 "RJ|RIO DE JANEIRO|COCOTA|RUA PEREIRA ALVES, N. 117, APTO 307": {
 "fonte": "google",
 "lat": -22.8033895,
@@ -76058,6 +76758,11 @@
 "fonte": "google",
 "lat": -22.8249082,
 "lng": -43.3529908
+},
+"RJ|RIO DE JANEIRO|COELHO NETO|AVENIDA PREFEITO SA LESSA, N. 471, APTO 107, ED. BEIRA RIO": {
+"fonte": "osm",
+"lat": -22.8334107,
+"lng": -43.3583191
 },
 "RJ|RIO DE JANEIRO|COELHO NETO|RUA CAPITAO TARCISO BUENO, N. 50, APTO 501": {
 "fonte": "google",
@@ -76083,6 +76788,11 @@
 "fonte": "google",
 "lat": -22.830304,
 "lng": -43.3535005
+},
+"RJ|RIO DE JANEIRO|COELHO NETO|RUA URURAI, N. 761, APTO 202, BL G": {
+"fonte": "osm",
+"lat": -22.8385488,
+"lng": -43.3513047
 },
 "RJ|RIO DE JANEIRO|COLEGIO|ESTRADA DO BARRO VERMELHO, N. 1757, APTO 102, BL 02": {
 "fonte": "google",
@@ -76139,6 +76849,11 @@
 "lat": -22.841551,
 "lng": -43.3343758
 },
+"RJ|RIO DE JANEIRO|COLEGIO|ESTRADA DO COLEGIO, N. 144, APTO 1101, BL 02": {
+"fonte": "osm",
+"lat": -22.8375028,
+"lng": -43.3320082
+},
 "RJ|RIO DE JANEIRO|COLEGIO|ESTRADA DO COLEGIO, N. 144, APTO 307, BL 01": {
 "fonte": "google",
 "lat": -22.8414601,
@@ -76148,6 +76863,11 @@
 "fonte": "google",
 "lat": -22.8414601,
 "lng": -43.3332971
+},
+"RJ|RIO DE JANEIRO|COLEGIO|ESTRADA DO COLEGIO, N. 144, APTO 701, BL 01": {
+"fonte": "osm",
+"lat": -22.8375028,
+"lng": -43.3320082
 },
 "RJ|RIO DE JANEIRO|COPACABANA|RUA LEOPOLDO MIGUEZ, N. 51, APTO C-06": {
 "fonte": "google",
@@ -76218,6 +76938,11 @@
 "fonte": "google",
 "lat": -22.8226691,
 "lng": -43.2914373
+},
+"RJ|RIO DE JANEIRO|CORDOVIL|RUA BOM JARDIM, N. 170, APTO 202": {
+"fonte": "osm",
+"lat": -22.8227111,
+"lng": -43.2920614
 },
 "RJ|RIO DE JANEIRO|CORDOVIL|RUA CINCO RIOS, N. 101, APTO 407, BL 03, LT 10": {
 "fonte": "google",
@@ -76333,6 +77058,11 @@
 "fonte": "google",
 "lat": -22.8174832,
 "lng": -43.2941326
+},
+"RJ|RIO DE JANEIRO|COSME VELHO|RUA CONSELHEIRO LAMPREIA, N. 115, LT 25": {
+"fonte": "osm",
+"lat": -22.9432354,
+"lng": -43.2067266
 },
 "RJ|RIO DE JANEIRO|COSMOS|AVENIDA CESARIO DE MELO, N. 9075, APTO 203, BL 13": {
 "fonte": "google",
@@ -76969,6 +77699,11 @@
 "lat": -22.918766,
 "lng": -43.614583
 },
+"RJ|RIO DE JANEIRO|COSMOS|RUA DAS AMENDOEIRAS, N. 305, APTO 510, BL 01": {
+"fonte": "osm",
+"lat": -22.9188302,
+"lng": -43.6155218
+},
 "RJ|RIO DE JANEIRO|COSMOS|RUA DAS AMENDOEIRAS, N. 320, APTO 106, BL 02": {
 "fonte": "google",
 "lat": -22.9185908,
@@ -77504,6 +78239,16 @@
 "lat": -22.8797893,
 "lng": -43.2744517
 },
+"RJ|RIO DE JANEIRO|DEODORO|AVENIDA SARGENTO ISANOR DE CAMPOS, N. 525, APTO 102, BL 01": {
+"fonte": "osm",
+"lat": -22.8513612,
+"lng": -43.3828792
+},
+"RJ|RIO DE JANEIRO|DEODORO|RUA OSMAN LINS, N. 207, APTO 301, BLOCO 08": {
+"fonte": "osm",
+"lat": -22.8494484,
+"lng": -43.3812685
+},
 "RJ|RIO DE JANEIRO|DISTRITO DO ANDARAI|RUA GRAJAU, N. 129": {
 "fonte": "google",
 "lat": -22.9238868,
@@ -77548,6 +78293,11 @@
 "fonte": "google",
 "lat": -22.8986434,
 "lng": -43.3145756
+},
+"RJ|RIO DE JANEIRO|ENCANTADO|RUA MANUEL VITORINO, N. 500": {
+"fonte": "osm",
+"lat": -22.7643779,
+"lng": -43.3103408
 },
 "RJ|RIO DE JANEIRO|ENCANTADO|RUA POMPILIO DE ALBUQUERQUE, N. 51, APTO 105, BL 03": {
 "fonte": "google",
@@ -77659,10 +78409,20 @@
 "lat": -22.8672472,
 "lng": -43.2929511
 },
+"RJ|RIO DE JANEIRO|ENGENHO DA RAINHA|RUA MOREIA, N. 276, APTO 301": {
+"fonte": "osm",
+"lat": -22.8667223,
+"lng": -43.29175
+},
 "RJ|RIO DE JANEIRO|ENGENHO DE DENTRO|RUA BORJA REIS, N. 1255, APTO 205, BL 06": {
 "fonte": "google",
 "lat": -22.9043142,
 "lng": -43.3078829
+},
+"RJ|RIO DE JANEIRO|ENGENHO DE DENTRO|RUA BORJA REIS, N. 1255, APTO 302, BL 07, LT 01": {
+"fonte": "osm",
+"lat": -22.9043067,
+"lng": -43.2963399
 },
 "RJ|RIO DE JANEIRO|ENGENHO DE DENTRO|RUA BORJA REIS, N. 147, APTO 204": {
 "fonte": "google",
@@ -77689,6 +78449,11 @@
 "lat": -22.8989125,
 "lng": -43.2653936
 },
+"RJ|RIO DE JANEIRO|ENGENHO NOVO|AVENIDA DOM HELDER CAMARA, N. 1475, APTO 508, BL 02": {
+"fonte": "osm",
+"lat": -22.882085,
+"lng": -43.3273575
+},
 "RJ|RIO DE JANEIRO|ENGENHO NOVO|AVENIDA MARECHAL RONDON (ANTIGO R TENENTE AZAURI), N. 2787, APTO 102, CS 05": {
 "fonte": "google",
 "lat": -22.9049973,
@@ -77703,6 +78468,11 @@
 "fonte": "google",
 "lat": -22.9040176,
 "lng": -43.2639232
+},
+"RJ|RIO DE JANEIRO|ENGENHO NOVO|RUA AGARIBA, N. 51, APTO 101": {
+"fonte": "osm",
+"lat": -22.9117604,
+"lng": -43.2660936
 },
 "RJ|RIO DE JANEIRO|ENGENHO NOVO|RUA ALVARO SEIXAS, N. 150, APTO 204": {
 "fonte": "google",
@@ -77728,6 +78498,11 @@
 "fonte": "google",
 "lat": -22.9140622,
 "lng": -43.27481969999999
+},
+"RJ|RIO DE JANEIRO|ENGENHO NOVO|RUA BARAO DO BOM RETIRO, N. 1352, APTO 401": {
+"fonte": "osm",
+"lat": -22.9066894,
+"lng": -43.2700844
 },
 "RJ|RIO DE JANEIRO|ENGENHO NOVO|RUA BARONESA DO ENGENHO NOVO, N. 414, APTO 103, BL 02": {
 "fonte": "google",
@@ -77804,6 +78579,11 @@
 "lat": -22.9004996,
 "lng": -43.2721297
 },
+"RJ|RIO DE JANEIRO|ENGENHO NOVO|RUA NELSON FARIA CASTRO, N. 45, APTO 405": {
+"fonte": "osm",
+"lat": -22.914603,
+"lng": -43.2730584
+},
 "RJ|RIO DE JANEIRO|ENGENHO NOVO|RUA PROPICIA, N. 116, APTO 203, BL 01": {
 "fonte": "google",
 "lat": -22.9010581,
@@ -77818,6 +78598,11 @@
 "fonte": "google",
 "lat": -22.9012,
 "lng": -43.269424
+},
+"RJ|RIO DE JANEIRO|ENGENHO NOVO|RUA VAZ DE TOLEDO, N. 78, APTO S103": {
+"fonte": "osm",
+"lat": -22.8978581,
+"lng": -43.2680757
 },
 "RJ|RIO DE JANEIRO|FRE DE CAMPO GRANDE|AVENIDA DE SANTA CRUZ, N. 6495, APTO 401, BL 05": {
 "fonte": "google",
@@ -78044,6 +78829,11 @@
 "lat": -22.789937,
 "lng": -43.1758344
 },
+"RJ|RIO DE JANEIRO|FREGUESIA (ILHA DO GOVERNADOR)|RUA JOAO TELES DE MENEZES, N. 142, APTO 102, FDS": {
+"fonte": "osm",
+"lat": -22.7877137,
+"lng": -43.1793032
+},
 "RJ|RIO DE JANEIRO|FREGUESIA (ILHA DO GOVERNADOR)|RUA JOAO TELES DE MENEZES, N. 142, APTO 104, FDS": {
 "fonte": "google",
 "lat": -22.7888757,
@@ -78138,6 +78928,11 @@
 "fonte": "google",
 "lat": -22.9477649,
 "lng": -43.3319528
+},
+"RJ|RIO DE JANEIRO|FREGUESIA (JACAREPAGUA)|RUA SUZANO, N. 150, LT 1 QD G CS 9": {
+"fonte": "osm",
+"lat": -22.944955,
+"lng": -43.355422
 },
 "RJ|RIO DE JANEIRO|FREGUESIA SANTA CRUZ|ESTRADA DE SANTA EUGENIA, N. 3000, APTO 301, BL 04, LT 3, PAL 49.396, 2º CATEG": {
 "fonte": "google",
@@ -80649,6 +81444,11 @@
 "lat": -22.8692415,
 "lng": -43.2599889
 },
+"RJ|RIO DE JANEIRO|HIGIENOPOLIS|RUA FRANCISCO MEDEIROS, N. 264, FUNDOS LT 1467": {
+"fonte": "osm",
+"lat": -22.8748973,
+"lng": -43.2619889
+},
 "RJ|RIO DE JANEIRO|HIGIENOPOLIS|RUA FREDERICO DE ALBUQUERQUE, N. 39": {
 "fonte": "google",
 "lat": -22.8766407,
@@ -81334,6 +82134,11 @@
 "lat": -22.8509769,
 "lng": -43.3204999
 },
+"RJ|RIO DE JANEIRO|IRAJA|RUA CANUDOS, N. 32, APTO 303, LT 01 QD 37": {
+"fonte": "osm",
+"lat": -22.8216108,
+"lng": -43.334141
+},
 "RJ|RIO DE JANEIRO|IRAJA|RUA CAOBI, N. 210, APTO 303, BL 01": {
 "fonte": "google",
 "lat": -22.848251,
@@ -81428,6 +82233,11 @@
 "fonte": "google",
 "lat": -22.9807553,
 "lng": -43.3270504
+},
+"RJ|RIO DE JANEIRO|JACAREPAGUA|AVENIDA AFONSO DA SILVEIRA FILHO, N. 223, CS 01, LT 07": {
+"fonte": "osm",
+"lat": -22.9637278,
+"lng": -43.3380164
 },
 "RJ|RIO DE JANEIRO|JACAREPAGUA|AVENIDA CANAL DO ANIL, N. 1057, APTO 102, BL 10": {
 "fonte": "google",
@@ -81719,6 +82529,11 @@
 "lat": -22.9070352,
 "lng": -43.2739887
 },
+"RJ|RIO DE JANEIRO|LINS DE VASCONCELOS|RUA ANTENOR NASCENTES, N. 283, APTO 305": {
+"fonte": "osm",
+"lat": -22.9070437,
+"lng": -43.2746567
+},
 "RJ|RIO DE JANEIRO|LINS DE VASCONCELOS|RUA HERACLITO GRACA, N. 347, APTO 401, BL VI": {
 "fonte": "google",
 "lat": -22.9126489,
@@ -81759,6 +82574,11 @@
 "lat": -22.8630985,
 "lng": -43.3323438
 },
+"RJ|RIO DE JANEIRO|MADUREIRA|AVENIDA MINISTRO EDGARD ROMERO, N. 665, APTO 301": {
+"fonte": "osm",
+"lat": -22.861785,
+"lng": -43.3308259
+},
 "RJ|RIO DE JANEIRO|MADUREIRA|AVENIDA MINISTRO EDGARD ROMERO, N. 841, APTO 203": {
 "fonte": "google",
 "lat": -22.8590899,
@@ -81784,10 +82604,40 @@
 "lat": -22.8582411,
 "lng": -43.3300787
 },
+"RJ|RIO DE JANEIRO|MADUREIRA|AVENIDA MINISTRO EDGARD ROMERO, N. 881, APTO 503, BL 02": {
+"fonte": "osm",
+"lat": -22.8618783,
+"lng": -43.3306586
+},
 "RJ|RIO DE JANEIRO|MADUREIRA|AVENIDA MINISTRO EDGARD ROMERO, N. 881, APTO 607, BL 02": {
 "fonte": "google",
 "lat": -22.8582411,
 "lng": -43.3300787
+},
+"RJ|RIO DE JANEIRO|MADUREIRA|AVENIDA MINISTRO EDGARD ROMERO, N. 884, APTO 203, BL B, FUNDOS": {
+"fonte": "osm",
+"lat": -22.861785,
+"lng": -43.3308259
+},
+"RJ|RIO DE JANEIRO|MADUREIRA|RUA BORBOREMA, N. 194, APTO 304": {
+"fonte": "osm",
+"lat": -22.8669309,
+"lng": -43.3366366
+},
+"RJ|RIO DE JANEIRO|MADUREIRA|RUA CONSELHEIRO GALVAO, N. 210, APTO 102, BL 01": {
+"fonte": "osm",
+"lat": -22.8726699,
+"lng": -43.3362673
+},
+"RJ|RIO DE JANEIRO|MADUREIRA|RUA DELFINA ALVES, N. 443, APTO 202": {
+"fonte": "osm",
+"lat": -22.8677268,
+"lng": -43.3319222
+},
+"RJ|RIO DE JANEIRO|MADUREIRA|RUA DELFINA ALVES, N. 614, LOTE 206": {
+"fonte": "osm",
+"lat": -22.8677268,
+"lng": -43.3319222
 },
 "RJ|RIO DE JANEIRO|MADUREIRA|RUA DELFINA ALVES, N. 84, APTO 1011": {
 "fonte": "google",
@@ -81919,10 +82769,25 @@
 "lat": -22.8692353,
 "lng": -43.3319036
 },
+"RJ|RIO DE JANEIRO|MADUREIRA|RUA PEREIRA DA COSTA, N. 157, APTO": {
+"fonte": "osm",
+"lat": -22.8690904,
+"lng": -43.3323402
+},
+"RJ|RIO DE JANEIRO|MADUREIRA|RUA PEREIRA DA COSTA, N. 157, FDS, CS 07": {
+"fonte": "osm",
+"lat": -22.8690904,
+"lng": -43.3323402
+},
 "RJ|RIO DE JANEIRO|MADUREIRA|RUA PIRAQUE, N. 170, FUNDOSS": {
 "fonte": "google",
 "lat": -22.8633411,
 "lng": -43.3346756
+},
+"RJ|RIO DE JANEIRO|MADUREIRA|RUA PIRAQUE, N. 217, APTO 101, FUNDOS": {
+"fonte": "osm",
+"lat": -22.8633691,
+"lng": -43.3348749
 },
 "RJ|RIO DE JANEIRO|MADUREIRA|RUA TAPAJOS, N. 85, APTO 102": {
 "fonte": "google",
@@ -81999,6 +82864,11 @@
 "lat": -22.901943,
 "lng": -43.2772731
 },
+"RJ|RIO DE JANEIRO|MEIER|RUA MARANHAO, N. 837, APTO 302": {
+"fonte": "osm",
+"lat": -22.9078808,
+"lng": -43.293041
+},
 "RJ|RIO DE JANEIRO|MEIER|RUA PAULO SILVA ARAUJO, N. 221, APTO 101": {
 "fonte": "google",
 "lat": -22.8979669,
@@ -82028,6 +82898,11 @@
 "fonte": "google",
 "lat": -22.8526401,
 "lng": -43.2758334
+},
+"RJ|RIO DE JANEIRO|OLARIA|RUA MINISTRO MOREIRA DE ABREU, N. 315, APTO 1307, BL 2": {
+"fonte": "osm",
+"lat": -22.8515476,
+"lng": -43.2788042
 },
 "RJ|RIO DE JANEIRO|OLARIA|RUA PARANHOS, N. 402, APTO 202, FUNDOS": {
 "fonte": "google",
@@ -82658,6 +83533,11 @@
 "fonte": "google",
 "lat": -22.8742073,
 "lng": -43.4509847
+},
+"RJ|RIO DE JANEIRO|PADRE MIGUEL|RUA MURUNDU, N. 966, APTO 105, BL 01": {
+"fonte": "osm",
+"lat": -22.8841452,
+"lng": -43.448634
 },
 "RJ|RIO DE JANEIRO|PARADA DE LUCAS|AVENIDA MERITI, N. 4365, APTO 208, BL 2": {
 "fonte": "google",
@@ -83359,6 +84239,16 @@
 "lat": -22.816387,
 "lng": -43.3762496
 },
+"RJ|RIO DE JANEIRO|PAVUNA|RUA DANIEL MACHADO NETTO, N. 194A, APTO 194-, LT 16, QD XVI": {
+"fonte": "osm",
+"lat": -22.8165778,
+"lng": -43.3648177
+},
+"RJ|RIO DE JANEIRO|PAVUNA|RUA DANIEL MACHADO NETTO, N. 202A, QD XVI, LT 17": {
+"fonte": "osm",
+"lat": -22.8165778,
+"lng": -43.3648177
+},
 "RJ|RIO DE JANEIRO|PAVUNA|RUA DONA PLACIDA, N. 30, APTO 105, BL 03": {
 "fonte": "google",
 "lat": -22.8107032,
@@ -83694,6 +84584,16 @@
 "lat": -22.8126681,
 "lng": -43.3392553
 },
+"RJ|RIO DE JANEIRO|PAVUNA|RUA GIBRALTAR, N. 28, LT 185": {
+"fonte": "osm",
+"lat": -22.8151816,
+"lng": -43.3737049
+},
+"RJ|RIO DE JANEIRO|PAVUNA|RUA HERCULANO PINHEIRO, N. 1200, CS 194, COND 04": {
+"fonte": "osm",
+"lat": -22.8155249,
+"lng": -43.3514399
+},
 "RJ|RIO DE JANEIRO|PAVUNA|RUA IGUABA GRANDE, N. 167, APTO 103, BL 02": {
 "fonte": "google",
 "lat": -22.8158319,
@@ -83934,6 +84834,11 @@
 "lat": -22.8172689,
 "lng": -43.3649574
 },
+"RJ|RIO DE JANEIRO|PAVUNA|RUA LENIR LIBERATO DA SILVA, N. 89, CS A26": {
+"fonte": "osm",
+"lat": -22.8190178,
+"lng": -43.3834514
+},
 "RJ|RIO DE JANEIRO|PAVUNA|RUA VINHEDO, N. 450B, LT 03, QD IV": {
 "fonte": "google",
 "lat": -22.8181545,
@@ -84074,6 +84979,11 @@
 "lat": -22.9381832,
 "lng": -43.3640499
 },
+"RJ|RIO DE JANEIRO|PECHINCHA|RUA RETIRO DOS ARTISTAS, N. 410, CS V": {
+"fonte": "osm",
+"lat": -22.9303293,
+"lng": -43.3558892
+},
 "RJ|RIO DE JANEIRO|PENHA CIRCULAR|AVENIDA BRAZ DE PINA, N. 5, LJ 101": {
 "fonte": "google",
 "lat": -22.8382146,
@@ -84083,6 +84993,16 @@
 "fonte": "google",
 "lat": -22.8499742,
 "lng": -43.301296
+},
+"RJ|RIO DE JANEIRO|PENHA CIRCULAR|RUA FLAMINIA, N. 147, APTO 304": {
+"fonte": "osm",
+"lat": -22.8440404,
+"lng": -43.3036984
+},
+"RJ|RIO DE JANEIRO|PENHA CIRCULAR|RUA FREI GASPAR, N. 151": {
+"fonte": "osm",
+"lat": -22.8429129,
+"lng": -43.2957262
 },
 "RJ|RIO DE JANEIRO|PENHA CIRCULAR|RUA GUERIMA, N. 100, APTO 201, LT 159": {
 "fonte": "google",
@@ -84124,6 +85044,11 @@
 "lat": -22.8458759,
 "lng": -43.2979575
 },
+"RJ|RIO DE JANEIRO|PENHA CIRCULAR|RUA MATURACA, N. 393, APTO 106, BL03": {
+"fonte": "osm",
+"lat": -22.845194,
+"lng": -43.2980954
+},
 "RJ|RIO DE JANEIRO|PENHA CIRCULAR|RUA MATURACA, N. 393, APTO 205, BL 04": {
 "fonte": "google",
 "lat": -22.8458759,
@@ -84159,6 +85084,11 @@
 "lat": -22.8495457,
 "lng": -43.2983919
 },
+"RJ|RIO DE JANEIRO|PENHA CIRCULAR|RUA TOLENTINO DA SILVA, N. 15, LT 52 QD K": {
+"fonte": "osm",
+"lat": -22.8513393,
+"lng": -43.3006954
+},
 "RJ|RIO DE JANEIRO|PENHA CIRCULAR|RUA VICENTE DO SALVADOR, N. 87, APTO 301": {
 "fonte": "google",
 "lat": -22.8409786,
@@ -84179,6 +85109,11 @@
 "lat": -22.8463028,
 "lng": -43.2883477
 },
+"RJ|RIO DE JANEIRO|PENHA|RUA DO CAJA, N. 12, FUNDO1 E 2": {
+"fonte": "osm",
+"lat": -22.8483923,
+"lng": -43.2916386
+},
 "RJ|RIO DE JANEIRO|PENHA|RUA GUATEMALA, N. 320, APTO 203": {
 "fonte": "google",
 "lat": -22.8310904,
@@ -84189,10 +85124,20 @@
 "lat": -22.8454143,
 "lng": -43.2902918
 },
+"RJ|RIO DE JANEIRO|PENHA|RUA JOSE MARIA, N. 150, APTO 107": {
+"fonte": "osm",
+"lat": -22.8423952,
+"lng": -43.2867566
+},
 "RJ|RIO DE JANEIRO|PENHA|RUA JURUMIRIM, N. 20": {
 "fonte": "google",
 "lat": -22.8483371,
 "lng": -43.2881626
+},
+"RJ|RIO DE JANEIRO|PENHA|RUA MARAGOGI, N. 92, APTO 202, FUNDOS": {
+"fonte": "osm",
+"lat": -22.8444734,
+"lng": -43.2888789
 },
 "RJ|RIO DE JANEIRO|PENHA|RUA SANTA BRIGIDA, N. 37, APTO 308": {
 "fonte": "google",
@@ -84213,6 +85158,11 @@
 "fonte": "google",
 "lat": -22.8838959,
 "lng": -43.3145257
+},
+"RJ|RIO DE JANEIRO|PIEDADE|RUA ALMEIDA NOGUEIRA, N. 441, CASA 3": {
+"fonte": "osm",
+"lat": -22.8966576,
+"lng": -43.3153212
 },
 "RJ|RIO DE JANEIRO|PIEDADE|RUA ASSIS CARNEIRO, N. 80, APTO 101, BL 08": {
 "fonte": "google",
@@ -84293,6 +85243,16 @@
 "fonte": "google",
 "lat": -22.9035458,
 "lng": -43.3146492
+},
+"RJ|RIO DE JANEIRO|PIEDADE|RUA MONTEIRO VIEIRA, N. 180, CS 01": {
+"fonte": "osm",
+"lat": -22.8814216,
+"lng": -43.304116
+},
+"RJ|RIO DE JANEIRO|PIEDADE|RUA TEIXEIRA DE PINHO, N. 150, APTO 103, 0": {
+"fonte": "osm",
+"lat": -22.8811575,
+"lng": -43.3099329
 },
 "RJ|RIO DE JANEIRO|PIEDADE|RUA TORRES DE OLIVEIRA, N. 171, FUNDOS, CS 02": {
 "fonte": "google",
@@ -84439,10 +85399,30 @@
 "lat": -22.8952793,
 "lng": -43.3421151
 },
+"RJ|RIO DE JANEIRO|PRACA SECA|RUA CAPITAO MENEZES, N. 68, APTO 101, LT 03": {
+"fonte": "osm",
+"lat": -22.8955237,
+"lng": -43.3421682
+},
+"RJ|RIO DE JANEIRO|PRACA SECA|RUA DOUTOR BERNARDINO, N. 848, APTO 202": {
+"fonte": "osm",
+"lat": -22.8984655,
+"lng": -43.3453743
+},
 "RJ|RIO DE JANEIRO|PRACA SECA|RUA FLORIANOPOLIS, N. 1360, APTO 308, BL 01": {
 "fonte": "google",
 "lat": -22.9018779,
 "lng": -43.3522927
+},
+"RJ|RIO DE JANEIRO|PRACA SECA|RUA FLORIANOPOLIS, N. 986, APTO 202, BL 1": {
+"fonte": "osm",
+"lat": -22.9000799,
+"lng": -43.3554405
+},
+"RJ|RIO DE JANEIRO|PRACA SECA|RUA GUILHERME VELOSO, N. 258, APTO 203": {
+"fonte": "osm",
+"lat": -22.9014743,
+"lng": -43.3581711
 },
 "RJ|RIO DE JANEIRO|PRACA SECA|RUA GUILHERME VELOSO, N. 258, APTO 302": {
 "fonte": "google",
@@ -84499,6 +85479,11 @@
 "lat": -22.8895814,
 "lng": -43.3217514
 },
+"RJ|RIO DE JANEIRO|QUINTINO BOCAIUVA|RUA SACU, N. 122": {
+"fonte": "osm",
+"lat": -22.8972061,
+"lng": -43.32179
+},
 "RJ|RIO DE JANEIRO|QUINTINO BOCAIUVA|TRAVESSA BARROS LEITE, N. 90, APTO 103, BL B": {
 "fonte": "google",
 "lat": -22.8904861,
@@ -84533,6 +85518,11 @@
 "fonte": "google",
 "lat": -22.8535794,
 "lng": -43.2568798
+},
+"RJ|RIO DE JANEIRO|RAMOS|RUA JOAO ROMARIZ, N. 155": {
+"fonte": "osm",
+"lat": -22.85366,
+"lng": -43.2571609
 },
 "RJ|RIO DE JANEIRO|RAMOS|RUA SARGENTO SILVA NUNES, N. 250, APTO 108, BL 01": {
 "fonte": "google",
@@ -84598,6 +85588,11 @@
 "fonte": "google",
 "lat": -22.8571213,
 "lng": -43.2632099
+},
+"RJ|RIO DE JANEIRO|RAMOS|RUA TEIXEIRA FRANCO, N. 102, APTO 603, BL 02": {
+"fonte": "osm",
+"lat": -22.8564005,
+"lng": -43.2629575
 },
 "RJ|RIO DE JANEIRO|RAMOS|RUA URANOS, N. 683, APTO 301, FUNDOS": {
 "fonte": "google",
@@ -84784,6 +85779,11 @@
 "lat": -22.8700267,
 "lng": -43.4606231
 },
+"RJ|RIO DE JANEIRO|RECREIO DOS BANDEIRANTES|AVENIDA DAS AMERICAS, N. 16325, SL 304": {
+"fonte": "osm",
+"lat": -23.0072189,
+"lng": -43.4400411
+},
 "RJ|RIO DE JANEIRO|RECREIO DOS BANDEIRANTES|AVENIDA FW, N. 30, APTO 107, BL 01": {
 "fonte": "google",
 "lat": -23.0279935,
@@ -84918,6 +85918,11 @@
 "fonte": "google",
 "lat": -22.8479487,
 "lng": -43.3457793
+},
+"RJ|RIO DE JANEIRO|ROCHA|RUA ALMIRANTE ARI PARREIRAS, N. 165 FUND, APTO 102": {
+"fonte": "osm",
+"lat": -22.4639028,
+"lng": -44.4617738
 },
 "RJ|RIO DE JANEIRO|ROCHA|RUA ANA NERI, N. 1107, APTO 101, FUNDOS": {
 "fonte": "google",
@@ -85253,6 +86258,11 @@
 "fonte": "google",
 "lat": -22.9098593,
 "lng": -43.6872763
+},
+"RJ|RIO DE JANEIRO|SANTA CRUZ|ESTRADA DA PEDRA, N. 165, APTO 103": {
+"fonte": "osm",
+"lat": -22.9467734,
+"lng": -43.6548012
 },
 "RJ|RIO DE JANEIRO|SANTA CRUZ|ESTRADA DA PEDRA, N. 2243, APTO 101, BL 05": {
 "fonte": "google",
@@ -90184,6 +91194,11 @@
 "lat": -22.9344302,
 "lng": -43.6745858
 },
+"RJ|RIO DE JANEIRO|SANTA CRUZ|RUA PROJETADA A, N. 250, APTO 201, BL 04": {
+"fonte": "osm",
+"lat": -22.8983595,
+"lng": -43.6797055
+},
 "RJ|RIO DE JANEIRO|SANTA CRUZ|RUA PROJETADA A, N. 250, APTO 201, BL 08": {
 "fonte": "google",
 "lat": -22.9344302,
@@ -90458,6 +91473,11 @@
 "fonte": "google",
 "lat": -22.9225305,
 "lng": -43.6954472
+},
+"RJ|RIO DE JANEIRO|SANTA CRUZ|RUA PROJETADA A, N. 330, APTO 401, BL 02": {
+"fonte": "osm",
+"lat": -22.8983595,
+"lng": -43.6797055
 },
 "RJ|RIO DE JANEIRO|SANTA CRUZ|RUA PROJETADA A, N. 330, APTO 401, BL 04": {
 "fonte": "google",
@@ -91354,6 +92374,11 @@
 "lat": -22.889354,
 "lng": -43.2226419
 },
+"RJ|RIO DE JANEIRO|SAO FRANCISCO XAVIER|RUA LICINIO CARDOSO, N. 351, APTO 101": {
+"fonte": "osm",
+"lat": -22.7014296,
+"lng": -43.5541046
+},
 "RJ|RIO DE JANEIRO|SAO FRANCISCO XAVIER|RUA LICINIO CARDOSO, N. 515, APTO 611, BL 03": {
 "fonte": "google",
 "lat": -22.9009566,
@@ -91394,6 +92419,11 @@
 "lat": -22.8822487,
 "lng": -43.4823323
 },
+"RJ|RIO DE JANEIRO|SENADOR CAMARA|RUA ALBINO PAIVA, N. 595, APTO 103": {
+"fonte": "osm",
+"lat": -22.8792685,
+"lng": -43.4863909
+},
 "RJ|RIO DE JANEIRO|SENADOR CAMARA|RUA DA AERONAUTICA, N. 34, CS 2 LT 3 QD 9": {
 "fonte": "google",
 "lat": -22.8911822,
@@ -91418,6 +92448,16 @@
 "fonte": "google",
 "lat": -22.8911105,
 "lng": -43.529746
+},
+"RJ|RIO DE JANEIRO|SENADOR VASCONCELOS|RUA CABIUNA, N. 661, CS 03": {
+"fonte": "osm",
+"lat": -22.894738,
+"lng": -43.5389836
+},
+"RJ|RIO DE JANEIRO|SENADOR VASCONCELOS|RUA CABIUNA, N. 661, CS 4, LT 81": {
+"fonte": "osm",
+"lat": -22.894738,
+"lng": -43.5389836
 },
 "RJ|RIO DE JANEIRO|SENADOR VASCONCELOS|RUA MARIO MENDES, N. 98, APTO 403": {
 "fonte": "google",
@@ -91744,6 +92784,11 @@
 "lat": -22.9474679,
 "lng": -43.3748402
 },
+"RJ|RIO DE JANEIRO|TAQUARA|RUA SOLDADO HILARIO ZANESCO, N. 70, LT 46, PA 31012": {
+"fonte": "osm",
+"lat": -22.9405717,
+"lng": -43.3695975
+},
 "RJ|RIO DE JANEIRO|TAUA|ESTRADA DO DENDE, N. 1246, LT 03": {
 "fonte": "google",
 "lat": -22.7963075,
@@ -91769,10 +92814,20 @@
 "lat": -22.896155,
 "lng": -43.2841219
 },
+"RJ|RIO DE JANEIRO|TODOS OS SANTOS|RUA AUGUSTO NUNES, N. 193, APTO 401, BL 07": {
+"fonte": "osm",
+"lat": -22.8946116,
+"lng": -43.2839002
+},
 "RJ|RIO DE JANEIRO|TODOS OS SANTOS|RUA PIAUI, N. 66, APTO 402": {
 "fonte": "google",
 "lat": -22.8952281,
 "lng": -43.2869502
+},
+"RJ|RIO DE JANEIRO|TOMAS COELHO|AVENIDA PASTOR MARTIN LUTHER KING JUNIOR, N. 4676, APTO 401, BL 13": {
+"fonte": "osm",
+"lat": -22.8629278,
+"lng": -43.3065315
 },
 "RJ|RIO DE JANEIRO|TOMAS COELHO|AVENIDA PASTOR MARTIN LUTHER KING JUNIOR, N. 4676, APTO 404, BL 21": {
 "fonte": "google",
@@ -91988,6 +93043,16 @@
 "fonte": "google",
 "lat": -22.8673204,
 "lng": -43.30802449999999
+},
+"RJ|RIO DE JANEIRO|TURIACU|RUA CAPITAO VIEIRA, N. 270, CS 05": {
+"fonte": "osm",
+"lat": -22.8700816,
+"lng": -43.0696167
+},
+"RJ|RIO DE JANEIRO|TURIACU|RUA IBIA, N. 517, APTO 1004, BL 02": {
+"fonte": "osm",
+"lat": -22.8597648,
+"lng": -43.3427527
 },
 "RJ|RIO DE JANEIRO|TURIACU|RUA IBIA, N. 517, APTO 1005, BL 06": {
 "fonte": "google",
@@ -92314,6 +93379,16 @@
 "lat": -22.8582411,
 "lng": -43.3300787
 },
+"RJ|RIO DE JANEIRO|VAZ LOBO|R ALICE FREITAS, N. 269, FUNDOS": {
+"fonte": "osm",
+"lat": -22.8583657,
+"lng": -43.3265987
+},
+"RJ|RIO DE JANEIRO|VAZ LOBO|RUA BEZERRA DE MENEZES, N. 152, CS 01": {
+"fonte": "osm",
+"lat": -22.8578282,
+"lng": -43.3262001
+},
 "RJ|RIO DE JANEIRO|VAZ LOBO|RUA BEZERRA DE MENEZES, N. 78, APTO 302": {
 "fonte": "google",
 "lat": -22.8578852,
@@ -92344,6 +93419,16 @@
 "lat": -22.8614799,
 "lng": -43.32139770000001
 },
+"RJ|RIO DE JANEIRO|VICENTE DE CARVALHO|RUA CESAR MUZIO, N. 484, APTO 201": {
+"fonte": "osm",
+"lat": -22.8536869,
+"lng": -43.3169577
+},
+"RJ|RIO DE JANEIRO|VICENTE DE CARVALHO|RUA JULIANO DE MIRANDA, N. 243, LT 8 QD 3": {
+"fonte": "osm",
+"lat": -22.8560219,
+"lng": -43.319786
+},
 "RJ|RIO DE JANEIRO|VICENTE DE CARVALHO|RUA JULIANO DE MIRANDA, N. 36, APTO 201": {
 "fonte": "google",
 "lat": -22.8565696,
@@ -92369,10 +93454,25 @@
 "lat": -22.915962,
 "lng": -43.2629171
 },
+"RJ|RIO DE JANEIRO|VILA ISABEL|RUA CONSELHEIRO OTAVIANO, N. 64, APTO 101": {
+"fonte": "osm",
+"lat": -22.9123864,
+"lng": -43.2498002
+},
+"RJ|RIO DE JANEIRO|VILA ISABEL|RUA JERONIMO DE LEMOS, N. 20": {
+"fonte": "osm",
+"lat": -22.9188263,
+"lng": -43.2582499
+},
 "RJ|RIO DE JANEIRO|VILA ISABEL|RUA PETROCOCHINO, N. 67, APTO 101": {
 "fonte": "google",
 "lat": -22.9144502,
 "lng": -43.2550275
+},
+"RJ|RIO DE JANEIRO|VILA ISABEL|RUA PETROCOCHINO, N. 81, AP 102": {
+"fonte": "osm",
+"lat": -22.9146909,
+"lng": -43.2548344
 },
 "RJ|RIO DE JANEIRO|VILA ISABEL|RUA SENADOR NABUCO, N. 134, APTO 102, BL E": {
 "fonte": "google",
@@ -92384,6 +93484,11 @@
 "lat": -22.9139267,
 "lng": -43.252843
 },
+"RJ|RIO DE JANEIRO|VILA ISABEL|RUA SENADOR NABUCO, N. 336": {
+"fonte": "osm",
+"lat": -22.9138486,
+"lng": -43.255414
+},
 "RJ|RIO DE JANEIRO|VILA ISABEL|RUA VISCONDE DE SANTA ISABEL, N. 131, APTO 402": {
 "fonte": "google",
 "lat": -22.9170893,
@@ -92394,10 +93499,20 @@
 "lat": -22.9140823,
 "lng": -43.2644473
 },
+"RJ|RIO DE JANEIRO|VILA KOSMOS|RUA DA JANGADA, N. 18": {
+"fonte": "osm",
+"lat": -22.8541721,
+"lng": -43.3020733
+},
 "RJ|RIO DE JANEIRO|VILA KOSMOS|RUA GETULIO MACHADO, N. 12, APTO 302": {
 "fonte": "google",
 "lat": -22.8533012,
 "lng": -43.2998983
+},
+"RJ|RIO DE JANEIRO|VILA KOSMOS|RUA GODOFREDO SILVA, N. 133, LT 02 QD J": {
+"fonte": "osm",
+"lat": -22.8533617,
+"lng": -43.2984535
 },
 "RJ|RIO DE JANEIRO|VILA KOSMOS|RUA NOVA AURORA, N. 145, FUNDOS": {
 "fonte": "google",
@@ -92408,6 +93523,11 @@
 "fonte": "google",
 "lat": -22.8518581,
 "lng": -43.3094224
+},
+"RJ|RIO DE JANEIRO|VILA KOSMOS|RUA SOLDADO IVO DE OLIVEIRA, N. 406, APTO 409, 0": {
+"fonte": "osm",
+"lat": -22.8500589,
+"lng": -43.303844
 },
 "RJ|RIO DE JANEIRO|VILA KOSMOS|RUA SOLDADO IVO DE OLIVEIRA, N. 56, APTO 103, LT 03": {
 "fonte": "google",
@@ -92479,10 +93599,20 @@
 "lat": -21.5291635,
 "lng": -42.1914078
 },
+"RJ|SAO GONCALO|1 DISTRITO DESTE MUN|RUA SANTOS SARAIVA, N. 51, CS 02": {
+"fonte": "osm",
+"lat": -22.8042529,
+"lng": -43.0233427
+},
 "RJ|SAO GONCALO|3 DISTRITO|RUA BERNARDINO LOPES, N. 130, APTO 202": {
 "fonte": "google",
 "lat": -22.7978294,
 "lng": -42.9807017
+},
+"RJ|SAO GONCALO|3º DISTRITO ZONA URB|RUA CAETES, N. 930, CS 05": {
+"fonte": "osm",
+"lat": -22.8005465,
+"lng": -42.9927603
 },
 "RJ|SAO GONCALO|3º DISTRITO|AVENIDA NEUSA MARIA DA SILVA, N. 135, APTO 201, CS04": {
 "fonte": "google",
@@ -92583,6 +93713,11 @@
 "fonte": "google",
 "lat": -22.8322182,
 "lng": -42.9882344
+},
+"RJ|SAO GONCALO|AMENDOEIRA|RUA DAVID CANABARRO, N. 356": {
+"fonte": "osm",
+"lat": -22.8334487,
+"lng": -42.9863968
 },
 "RJ|SAO GONCALO|AMENDOEIRA|RUA DAVID CANABARRO, N. 356, CS 03": {
 "fonte": "google",
@@ -92689,6 +93824,11 @@
 "lat": -22.8325502,
 "lng": -42.9777147
 },
+"RJ|SAO GONCALO|AMENDOEIRA|RUA JUVENAL CAMPOS, N. 75, CS 02": {
+"fonte": "osm",
+"lat": -22.8321795,
+"lng": -42.9775684
+},
 "RJ|SAO GONCALO|AMENDOEIRA|RUA JUVENAL CAMPOS, N. 75, CS 05": {
 "fonte": "google",
 "lat": -22.8325502,
@@ -92739,6 +93879,11 @@
 "lat": -22.8344847,
 "lng": -42.9778373
 },
+"RJ|SAO GONCALO|AMENDOEIRA|RUA LUCIO MENDONCA, N. 192, CS 04": {
+"fonte": "osm",
+"lat": -22.8300126,
+"lng": -42.9933213
+},
 "RJ|SAO GONCALO|AMENDOEIRA|RUA MANUEL MARTINS, N. 53, CASA BASE": {
 "fonte": "google",
 "lat": -22.8298029,
@@ -92773,6 +93918,11 @@
 "fonte": "google",
 "lat": -22.8316133,
 "lng": -42.98270489999999
+},
+"RJ|SAO GONCALO|ANAIA PEQUENO|RUA FREDERICO SILVEIRA DE CARVALHO, N. 190": {
+"fonte": "osm",
+"lat": -22.8637815,
+"lng": -42.994278
 },
 "RJ|SAO GONCALO|ANAIA PEQUENO|RUA SENADOR BENEDITO VALADARES, N. 217, CS 03": {
 "fonte": "google",
@@ -92949,6 +94099,11 @@
 "lat": -22.8404168,
 "lng": -43.0825211
 },
+"RJ|SAO GONCALO|BARRO VERMELHO|RUA CELESTINO PIRES, N. 230, CS02 APTO 202": {
+"fonte": "osm",
+"lat": -22.8405634,
+"lng": -43.082517
+},
 "RJ|SAO GONCALO|BARRO VERMELHO|RUA MINERVINA DE JESUS, N. 115": {
 "fonte": "google",
 "lat": -22.842502,
@@ -92974,6 +94129,21 @@
 "lat": -22.8131088,
 "lng": -43.0582082
 },
+"RJ|SAO GONCALO|BOA VISTA|AVENIDA JOAQUIM DE OLIVEIRA, N. 901, CS 06": {
+"fonte": "osm",
+"lat": -22.8104222,
+"lng": -43.0593747
+},
+"RJ|SAO GONCALO|BOA VISTA|RUA AFONSO HENRIQUE N 110 928, N. 110, CASA": {
+"fonte": "osm",
+"lat": -22.8125864,
+"lng": -43.064587
+},
+"RJ|SAO GONCALO|BOA VISTA|RUA APUCARANA, N. 143, APTO ., CS 06": {
+"fonte": "osm",
+"lat": -22.8078765,
+"lng": -43.0610724
+},
 "RJ|SAO GONCALO|BOA VISTA|RUA APUCARANA, N. 143, CS 02 LT 4620-A": {
 "fonte": "google",
 "lat": -22.8088964,
@@ -92988,6 +94158,11 @@
 "fonte": "google",
 "lat": -22.8180279,
 "lng": -43.0608111
+},
+"RJ|SAO GONCALO|BOA VISTA|RUA ESTRELA DALVA, N. 495, CASA BASE": {
+"fonte": "osm",
+"lat": -22.8183176,
+"lng": -43.0620066
 },
 "RJ|SAO GONCALO|BOA VISTA|RUA GOVERNADOR AGAMENON MAGALHAES, N. 703, APTO 101": {
 "fonte": "google",
@@ -93008,6 +94183,11 @@
 "fonte": "google",
 "lat": -22.8130146,
 "lng": -43.0577159
+},
+"RJ|SAO GONCALO|BOA VISTA|RUA JOAQUIM RODRIGUES, N. 86, APTO 201, CASA BASE": {
+"fonte": "osm",
+"lat": -22.807903,
+"lng": -43.0603012
 },
 "RJ|SAO GONCALO|BOA VISTA|RUA JOAQUIM VIEIRA DE SOUZA, N. 315, APTO 201": {
 "fonte": "google",
@@ -93044,6 +94224,11 @@
 "lat": -22.812627,
 "lng": -43.06774
 },
+"RJ|SAO GONCALO|BOA VISTA|RUA PAULO SETUBAL, N. 322": {
+"fonte": "osm",
+"lat": -22.8119322,
+"lng": -43.0633094
+},
 "RJ|SAO GONCALO|BOA VISTA|RUA PAULO SETUBAL, N. 322, CASA 01": {
 "fonte": "google",
 "lat": -22.813448,
@@ -93053,6 +94238,11 @@
 "fonte": "google",
 "lat": -22.8169144,
 "lng": -43.0645635
+},
+"RJ|SAO GONCALO|BOA VISTA|RUA PLINIO GAIA, N. 139, APTO 201, CS 04": {
+"fonte": "osm",
+"lat": -22.8117423,
+"lng": -43.065972
 },
 "RJ|SAO GONCALO|BOA VISTA|RUA PLINIO GAIA, N. 139, APTO 301, UNIDADE 06": {
 "fonte": "google",
@@ -93089,6 +94279,11 @@
 "lat": -22.8148516,
 "lng": -43.0527588
 },
+"RJ|SAO GONCALO|BOACU|RUA FREI MOJICA, N. 120, LOTE 32": {
+"fonte": "osm",
+"lat": -22.8141601,
+"lng": -43.05337
+},
 "RJ|SAO GONCALO|BOACU|RUA GENERAL ROCCA, N. 44": {
 "fonte": "google",
 "lat": -22.8092415,
@@ -93109,10 +94304,30 @@
 "lat": -22.8054785,
 "lng": -43.046018
 },
+"RJ|SAO GONCALO|BOACU|RUA ROBERTO DUARTE, N. 387, CASA 03": {
+"fonte": "osm",
+"lat": -22.79818,
+"lng": -43.0533226
+},
+"RJ|SAO GONCALO|BOACU|RUA ROBERTO DUARTE, N. 387, CASA 04": {
+"fonte": "osm",
+"lat": -22.79818,
+"lng": -43.0533226
+},
+"RJ|SAO GONCALO|BOACU|RUA ROCHA PEIXOTO, N. 265, CS 09": {
+"fonte": "osm",
+"lat": -22.8074388,
+"lng": -43.0542586
+},
 "RJ|SAO GONCALO|BOAÇU|RUA MARIO JOSE CORREIA, N. 81, CASA 01 ANTIGA EST. LARGO DA IDEIA": {
 "fonte": "google",
 "lat": -22.8092415,
 "lng": -43.0526972
+},
+"RJ|SAO GONCALO|BOM RETIRO|CARLOS FOX, N. 1051, APTO 107, QUADRA 210 LOTE 30": {
+"fonte": "osm",
+"lat": -22.7927275,
+"lng": -42.9523149
 },
 "RJ|SAO GONCALO|BOM RETIRO|R CARLOS FOX, N. 1051, CS 04": {
 "fonte": "google",
@@ -93313,6 +94528,11 @@
 "fonte": "google",
 "lat": -22.7822313,
 "lng": -42.9575013
+},
+"RJ|SAO GONCALO|BOM RETIRO|RUA CARDEAL SARAIVA, N. 378, CS 03": {
+"fonte": "osm",
+"lat": -22.7877525,
+"lng": -42.9542102
 },
 "RJ|SAO GONCALO|BOM RETIRO|RUA CARDEAL SARAIVA, N. 378, CS 04": {
 "fonte": "google",
@@ -93674,6 +94894,11 @@
 "lat": -22.8263731,
 "lng": -43.0595428
 },
+"RJ|SAO GONCALO|BRASILANDIA|RUA BAHIA, N. 408, LT 2, 4º DISTRITO": {
+"fonte": "osm",
+"lat": -22.8239227,
+"lng": -43.0582291
+},
 "RJ|SAO GONCALO|BRASILANDIA|RUA BAHIA, N. 409, APTO 201, CASA 04": {
 "fonte": "google",
 "lat": -22.8245443,
@@ -93704,6 +94929,11 @@
 "lat": -22.8227242,
 "lng": -43.0561818
 },
+"RJ|SAO GONCALO|BRASILANDIA|RUA MATO GROSSO, N. 175, LT 1 QD 11": {
+"fonte": "osm",
+"lat": -22.825658,
+"lng": -43.0537757
+},
 "RJ|SAO GONCALO|BRASILANDIA|RUA PROFESSOR RAUL PENIDO, N, APTO 301, BL 222": {
 "fonte": "google",
 "lat": -22.8222845,
@@ -93718,6 +94948,11 @@
 "fonte": "google",
 "lat": -22.8208588,
 "lng": -43.0579132
+},
+"RJ|SAO GONCALO|BRASILANDIA|RUA RENASCENCA, N. 49, APTO 504": {
+"fonte": "osm",
+"lat": -22.820855,
+"lng": -43.0579043
 },
 "RJ|SAO GONCALO|BRASILANDIA|RUA RENASCENCA, N. 99, APTO 503": {
 "fonte": "google",
@@ -93764,6 +94999,11 @@
 "lat": -22.8487,
 "lng": -42.9863144
 },
+"RJ|SAO GONCALO|COELHO|ESTRADA DO BANDEIRA, N. 286, QD E": {
+"fonte": "osm",
+"lat": -22.8475382,
+"lng": -42.9864644
+},
 "RJ|SAO GONCALO|COELHO|ESTRADA DO COELHO, N, CS 13": {
 "fonte": "google",
 "lat": -22.8362211,
@@ -93788,6 +95028,11 @@
 "fonte": "google",
 "lat": -22.8410786,
 "lng": -42.9886029
+},
+"RJ|SAO GONCALO|COELHO|R JOAO ANTONIO DA ROCHA, N. 96, CASA03": {
+"fonte": "osm",
+"lat": -22.8451909,
+"lng": -42.9921152
 },
 "RJ|SAO GONCALO|COELHO|R JOSE ROBERTIERI, N. 314, CASA 04": {
 "fonte": "google",
@@ -93863,6 +95108,11 @@
 "fonte": "google",
 "lat": -22.8397007,
 "lng": -42.985888
+},
+"RJ|SAO GONCALO|COELHO|RUA CANADA, N. 178, UNID BASE": {
+"fonte": "osm",
+"lat": -22.8394911,
+"lng": -42.9856996
 },
 "RJ|SAO GONCALO|COELHO|RUA CANADA, N. 252, 2º DIST QD 73 LT 02": {
 "fonte": "google",
@@ -94059,6 +95309,11 @@
 "lat": -22.8277184,
 "lng": -42.9948166
 },
+"RJ|SAO GONCALO|COELHO|RUA MIGUEL SIMOES DE SOUZA, N. 187, CS 02": {
+"fonte": "osm",
+"lat": -22.836193,
+"lng": -42.9874099
+},
 "RJ|SAO GONCALO|COELHO|RUA MIGUEL SIMOES DE SOUZA, N. 187, QD 06, LT 10, LOT JARDIM GLORIA": {
 "fonte": "google",
 "lat": -22.834834,
@@ -94179,6 +95434,11 @@
 "lat": -22.8332219,
 "lng": -43.015694
 },
+"RJ|SAO GONCALO|COLUBANDE|R MEUQUIADES PICANÇO, N. 471, CASA BASE": {
+"fonte": "osm",
+"lat": -22.8303363,
+"lng": -43.0232037
+},
 "RJ|SAO GONCALO|COLUBANDE|R VISCONDE DE SEABRA, N. 22, APTO 103, LT 38 QD 07": {
 "fonte": "google",
 "lat": -22.848831,
@@ -94234,6 +95494,16 @@
 "lat": -22.8383401,
 "lng": -43.012637
 },
+"RJ|SAO GONCALO|COLUBANDE|RUA MOREIRA CASTELO, N. 186, LT 143A UN BASE": {
+"fonte": "osm",
+"lat": -22.8416073,
+"lng": -43.0095701
+},
+"RJ|SAO GONCALO|COLUBANDE|RUA NICOLAU PALUMA, N. 84, CS 01": {
+"fonte": "osm",
+"lat": -22.8249516,
+"lng": -43.0212715
+},
 "RJ|SAO GONCALO|COLUBANDE|RUA OSVALDO FERNANDES, N. 46, CASA 04": {
 "fonte": "google",
 "lat": -22.8229465,
@@ -94274,6 +95544,11 @@
 "lat": -22.851987,
 "lng": -43.086614
 },
+"RJ|SAO GONCALO|COVANCA|RUA NOVA DE AZEVEDO, N. 108": {
+"fonte": "osm",
+"lat": -22.8519197,
+"lng": -43.0892445
+},
 "RJ|SAO GONCALO|COVANCA|RUA SENA BORGES, N. 452": {
 "fonte": "google",
 "lat": -22.8551559,
@@ -94283,6 +95558,11 @@
 "fonte": "google",
 "lat": -22.8555029,
 "lng": -43.0826435
+},
+"RJ|SAO GONCALO|DORALICE|RUA CARDEAL MAURY, N. 437, CS 02": {
+"fonte": "osm",
+"lat": -22.8002402,
+"lng": -42.9667263
 },
 "RJ|SAO GONCALO|ELIANE|RUA SILVIO GONCALVES DACAL, N. 206, APTO 201, LJ 01": {
 "fonte": "google",
@@ -94364,6 +95644,11 @@
 "lat": -22.8272528,
 "lng": -43.039047
 },
+"RJ|SAO GONCALO|GALO BRANCO|RUA JAIME WAINER, N. 54, APTO 201": {
+"fonte": "osm",
+"lat": -22.8268379,
+"lng": -43.0393642
+},
 "RJ|SAO GONCALO|GALO BRANCO|RUA JAIME WAINER, N. 77, CS 02": {
 "fonte": "google",
 "lat": -22.8271418,
@@ -94373,6 +95658,11 @@
 "fonte": "google",
 "lat": -22.8271418,
 "lng": -43.0394352
+},
+"RJ|SAO GONCALO|GALO BRANCO|RUA JOSE GUEDES, N. 83, APTO 201, ZONA URBANA": {
+"fonte": "osm",
+"lat": -22.8286228,
+"lng": -43.0384174
 },
 "RJ|SAO GONCALO|GALO BRANCO|RUA JOSE MARQUES DE ALMEIDA, N. 95, CS 02": {
 "fonte": "google",
@@ -94423,6 +95713,11 @@
 "fonte": "google",
 "lat": -22.8257315,
 "lng": -43.0814212
+},
+"RJ|SAO GONCALO|GRADIM|RUA CARLOS GOMES, N. 144, APTO 201, CS BASE": {
+"fonte": "osm",
+"lat": -22.8255584,
+"lng": -43.0866309
 },
 "RJ|SAO GONCALO|GRADIM|RUA CARLOS GOMES, N. 144, CS 02": {
 "fonte": "google",
@@ -94769,6 +96064,11 @@
 "lat": -22.7869944,
 "lng": -43.0285477
 },
+"RJ|SAO GONCALO|ITAUNA|ESTRADA ITAUNA, N. 310, CS 05": {
+"fonte": "osm",
+"lat": -22.7919948,
+"lng": -43.0292457
+},
 "RJ|SAO GONCALO|ITAUNA|ESTRADA TRINDADE, N. 2821, CASA 02": {
 "fonte": "google",
 "lat": -22.7922966,
@@ -94778,6 +96078,16 @@
 "fonte": "google",
 "lat": -22.7965997,
 "lng": -43.0162013
+},
+"RJ|SAO GONCALO|ITAUNA|RUA CAMARA PESTANA, N. 301, CS 01": {
+"fonte": "osm",
+"lat": -22.7869633,
+"lng": -43.0314169
+},
+"RJ|SAO GONCALO|ITAUNA|RUA DEPUTADO ALBERTO PARENTE DA COSTA, N. 24": {
+"fonte": "osm",
+"lat": -22.7730234,
+"lng": -43.0196562
 },
 "RJ|SAO GONCALO|ITAUNA|RUA DEPUTADO DANIEL DE MELO, N. 24, CS24": {
 "fonte": "google",
@@ -94969,10 +96279,20 @@
 "lat": -22.7890713,
 "lng": -43.0119318
 },
+"RJ|SAO GONCALO|JARDIM CATARINA|AVENIDA SANTA CATARINA, N. 610, CS 01": {
+"fonte": "osm",
+"lat": -22.7870289,
+"lng": -43.0131608
+},
 "RJ|SAO GONCALO|JARDIM CATARINA|R GONCALVES CHAVES, N. 125, CS05": {
 "fonte": "google",
 "lat": -22.8138257,
 "lng": -43.0067631
+},
+"RJ|SAO GONCALO|JARDIM CATARINA|R GONCALVES LEDO, N. 129, 303, 7509": {
+"fonte": "osm",
+"lat": -22.8041183,
+"lng": -43.0032408
 },
 "RJ|SAO GONCALO|JARDIM CATARINA|R NICOLAU TOUQUET, N. 395, 01": {
 "fonte": "google",
@@ -95939,6 +97259,11 @@
 "lat": -22.7905263,
 "lng": -42.9959997
 },
+"RJ|SAO GONCALO|JARDIM CATARINA|RUA OURO FINO, N. 645, CASA BASE": {
+"fonte": "osm",
+"lat": -22.7916644,
+"lng": -42.9987031
+},
 "RJ|SAO GONCALO|JARDIM CATARINA|RUA OURO FINO, N. 645, CS 03, LT 09, QD 99N": {
 "fonte": "google",
 "lat": -22.7921178,
@@ -96539,6 +97864,11 @@
 "lat": -22.798035,
 "lng": -42.995044
 },
+"RJ|SAO GONCALO|JARDIM CATARINA|RUA URUCUIA, N. 1476, CASA 02": {
+"fonte": "osm",
+"lat": -22.7975973,
+"lng": -42.9942835
+},
 "RJ|SAO GONCALO|JARDIM CATARINA|RUA URUCUIA, N. 1476, CS 01, LT 19, QD 163-N, RUA 35-N": {
 "fonte": "google",
 "lat": -22.798035,
@@ -96649,6 +97979,11 @@
 "lat": -22.8489644,
 "lng": -42.998014
 },
+"RJ|SAO GONCALO|JARDIM INDEPENDENCIA|RUA ENEIDA DE FREITAS MEDEIROS, N. 73, CASA 01": {
+"fonte": "osm",
+"lat": -22.8514733,
+"lng": -42.9940924
+},
 "RJ|SAO GONCALO|JARDIM INDEPENDENCIA|RUA MILITINO DOMINGUES, N. 238, CS 238 LT 21 QD 15": {
 "fonte": "google",
 "lat": -22.8429834,
@@ -96693,6 +98028,11 @@
 "fonte": "google",
 "lat": -22.8091143,
 "lng": -42.9812809
+},
+"RJ|SAO GONCALO|JD N SRA AUXILIADORA|RUA AFRANIO PEIXOTO, N. 698, CS 01": {
+"fonte": "osm",
+"lat": -22.7973011,
+"lng": -42.9788085
 },
 "RJ|SAO GONCALO|JD N SRA AUXILIADORA|RUA PADRE AFONSO RODRIGUES, N. 120, APTO 1107, LT 3-A QD 16": {
 "fonte": "google",
@@ -96844,6 +98184,16 @@
 "lat": -22.8232513,
 "lng": -42.9785061
 },
+"RJ|SAO GONCALO|LAGOINHA|RUA ALVORADA, N. 540": {
+"fonte": "osm",
+"lat": -22.8206925,
+"lng": -42.9849292
+},
+"RJ|SAO GONCALO|LAGOINHA|RUA ALVORADA, N. 540, CS 01, QD 03, LT 17": {
+"fonte": "osm",
+"lat": -22.8206925,
+"lng": -42.9849292
+},
 "RJ|SAO GONCALO|LAGOINHA|RUA BASILIO DA GAMA, N. 123, CS 06": {
 "fonte": "google",
 "lat": -22.8169598,
@@ -96888,6 +98238,11 @@
 "fonte": "google",
 "lat": -22.8180014,
 "lng": -42.9768566
+},
+"RJ|SAO GONCALO|LAGOINHA|RUA CASTRO ALVES, N. 836, CASA 02 CASA 03 CASA 05 CASA 06 CASA07": {
+"fonte": "osm",
+"lat": -22.8170009,
+"lng": -42.9746046
 },
 "RJ|SAO GONCALO|LAGOINHA|RUA CASTRO ALVES, N. 836, CS 05": {
 "fonte": "google",
@@ -97199,6 +98554,11 @@
 "lat": -22.8110617,
 "lng": -42.9753154
 },
+"RJ|SAO GONCALO|LARANJAL|RUA REVERENDO LUIS FELICIANO, N. 353, CS 10": {
+"fonte": "osm",
+"lat": -22.8091136,
+"lng": -42.9819072
+},
 "RJ|SAO GONCALO|LARANJAL|RUA REVERENDO LUIS FELICIANO, N. 365, CASA 01": {
 "fonte": "google",
 "lat": -22.8086444,
@@ -97254,6 +98614,11 @@
 "lat": -22.8278196,
 "lng": -43.0145308
 },
+"RJ|SAO GONCALO|LARANJAL|RUA URUASSU, N. 65, LT 14 QD 14": {
+"fonte": "osm",
+"lat": -22.8175223,
+"lng": -42.9840903
+},
 "RJ|SAO GONCALO|LARANJAL|RUA VISCONDE NELSON, N. 289, CASA 03": {
 "fonte": "google",
 "lat": -22.8082404,
@@ -97273,6 +98638,11 @@
 "fonte": "google",
 "lat": -22.8340644,
 "lng": -43.0484636
+},
+"RJ|SAO GONCALO|LINDO PARQUE|RUA HUMBERTO DE CAMPOS, N. 265, LT 393": {
+"fonte": "osm",
+"lat": -22.8357638,
+"lng": -43.0474431
 },
 "RJ|SAO GONCALO|LINDO PARQUE|RUA MARIA LUISA FIGUEIREDO, N. 241": {
 "fonte": "google",
@@ -97318,6 +98688,11 @@
 "fonte": "google",
 "lat": -22.798088,
 "lng": -42.9938218
+},
+"RJ|SAO GONCALO|LOT JARDIM MIRIAMBI|RUA JOAQUIM TORRES, N. 140, QD 13, LT 02": {
+"fonte": "osm",
+"lat": -22.8239915,
+"lng": -42.9859671
 },
 "RJ|SAO GONCALO|LOT JD CATARINA|RUA EXPEDICIONARIO ARI DE AZEVEDO, N. 10, APTO 201, QD 244-N LT 01": {
 "fonte": "google",
@@ -97849,6 +99224,11 @@
 "lat": -22.8839918,
 "lng": -43.0195618
 },
+"RJ|SAO GONCALO|MARIA PAULA|ESTRADA PACIÊNCIA, N. 3355, APTO 502, BL 02": {
+"fonte": "osm",
+"lat": -22.8744662,
+"lng": -43.0294013
+},
 "RJ|SAO GONCALO|MARIA PAULA|RUA DALVA RAPOSO, N, APTO 102, BL 13": {
 "fonte": "google",
 "lat": -22.8712443,
@@ -97964,10 +99344,20 @@
 "lat": -22.8669241,
 "lng": -43.0194573
 },
+"RJ|SAO GONCALO|MARIA PAULA|RUA DALVA RAPOSO, N. 900, APTO 307, BL 03": {
+"fonte": "osm",
+"lat": -22.8738508,
+"lng": -43.0280536
+},
 "RJ|SAO GONCALO|MARIA PAULA|RUA DAS VIOLETAS, N. 25, APTO 103, BL 07 LT 03A": {
 "fonte": "google",
 "lat": -22.8701719,
 "lng": -43.0220066
+},
+"RJ|SAO GONCALO|MARIA PAULA|RUA EXPEDICIONARIO JOAO ZAPELA, N. 35, APTO 303, 5 DISTRITO": {
+"fonte": "osm",
+"lat": -22.8763293,
+"lng": -43.0352235
 },
 "RJ|SAO GONCALO|MIRIAMBI|RUA DOUTOR BERNARDINO PALMIER, N. 917, CS 01": {
 "fonte": "google",
@@ -98734,6 +100124,11 @@
 "lat": -22.8615625,
 "lng": -43.0285017
 },
+"RJ|SAO GONCALO|MUTONDO|RUA JOAQUIM ROCHA, N. 142, CS 03": {
+"fonte": "osm",
+"lat": -22.8209596,
+"lng": -43.0238683
+},
 "RJ|SAO GONCALO|MUTONDO|RUA SAMUEL BARREIRA, N. 13, CS 02": {
 "fonte": "google",
 "lat": -22.8223446,
@@ -98773,6 +100168,11 @@
 "fonte": "google",
 "lat": -22.808499,
 "lng": -43.0432559
+},
+"RJ|SAO GONCALO|MUTUAPIRA|RUA AVELINO BRAGA, N. 45, 0": {
+"fonte": "osm",
+"lat": -22.7984393,
+"lng": -43.0321235
 },
 "RJ|SAO GONCALO|MUTUAPIRA|RUA DIOGENES CAMPOS, N. 98": {
 "fonte": "google",
@@ -98834,6 +100234,11 @@
 "lat": -22.8046265,
 "lng": -43.0311273
 },
+"RJ|SAO GONCALO|MUTUA|RUA BELARMINO FERREIRA, N. 60, CS 01": {
+"fonte": "osm",
+"lat": -22.8136286,
+"lng": -43.0458891
+},
 "RJ|SAO GONCALO|MUTUA|RUA CORONEL RODRIGO DE CARVALHO, N. 776, LT 12 QD 15": {
 "fonte": "google",
 "lat": -22.8123055,
@@ -98863,6 +100268,11 @@
 "fonte": "google",
 "lat": -22.8479884,
 "lng": -43.0988342
+},
+"RJ|SAO GONCALO|NEVES (NEVES)|RUA BARAO DE SAO GONCALO, N. 220, APTO 304, BL 09B": {
+"fonte": "osm",
+"lat": -22.8505456,
+"lng": -43.0976117
 },
 "RJ|SAO GONCALO|NEVES (NEVES)|RUA BARAO DE SAO GONCALO, N. 220, APTO 503, BL 02B": {
 "fonte": "google",
@@ -98959,6 +100369,11 @@
 "lat": -22.8333784,
 "lng": -42.9941261
 },
+"RJ|SAO GONCALO|NOVA CIDADE|RUA FORTUNATO LUZ, N. 165, CASA 01": {
+"fonte": "osm",
+"lat": -22.8124632,
+"lng": -43.0245297
+},
 "RJ|SAO GONCALO|NOVA CIDADE|RUA GENERAL ALCIO SOUTO, N. 552, APTO 0, CS 07": {
 "fonte": "google",
 "lat": -22.796395,
@@ -98988,6 +100403,11 @@
 "fonte": "google",
 "lat": -22.8054936,
 "lng": -43.0257432
+},
+"RJ|SAO GONCALO|NOVA CIDADE|RUA VICENTE DE LIMA CLETO, N. 597, APTO 1001, BL01": {
+"fonte": "osm",
+"lat": -22.8016367,
+"lng": -43.026728
 },
 "RJ|SAO GONCALO|NOVA CIDADE|RUA VICENTE DE LIMA CLETO, N. 597, APTO 303, BL 02": {
 "fonte": "google",
@@ -99239,10 +100659,20 @@
 "lat": -22.828707,
 "lng": -43.0684066
 },
+"RJ|SAO GONCALO|PARAISO|RUA COSTA BRAGA, N. 75, TIPO DE LOGRADOURO NO SIOPI CONSTA COM": {
+"fonte": "osm",
+"lat": -22.8299358,
+"lng": -43.0819425
+},
 "RJ|SAO GONCALO|PARAISO|RUA DOUTOR IBERICO, N. 697": {
 "fonte": "google",
 "lat": -22.8298704,
 "lng": -43.0806422
+},
+"RJ|SAO GONCALO|PARAISO|RUA ERCILIA FIGUEIREDO, N. 355, CS 01": {
+"fonte": "osm",
+"lat": -22.8343419,
+"lng": -43.0787767
 },
 "RJ|SAO GONCALO|PARAISO|RUA IDELFONSO PRACA, N. 44, CS 3": {
 "fonte": "google",
@@ -99289,15 +100719,30 @@
 "lat": -22.8541788,
 "lng": -43.0015669
 },
+"RJ|SAO GONCALO|PATRONATO|TRAVESSA ARLETE, N. 423, APTO 302": {
+"fonte": "osm",
+"lat": -22.8290469,
+"lng": -43.074692
+},
 "RJ|SAO GONCALO|PITA|RUA ALFREDO CINTRA, N. 70, CASA01": {
 "fonte": "google",
 "lat": -22.8487796,
 "lng": -43.0714317
 },
+"RJ|SAO GONCALO|PITA|RUA DOUTOR PIO BORGES, N. 2235, CS 18": {
+"fonte": "osm",
+"lat": -22.849299,
+"lng": -43.0767993
+},
 "RJ|SAO GONCALO|PITA|RUA PASCOAL DE MELO, N. 130, APTO 303": {
 "fonte": "google",
 "lat": -22.8470616,
 "lng": -43.07459559999999
+},
+"RJ|SAO GONCALO|PITA|RUA PASCOAL DE MELO, N. 36, APTO 202, BL B": {
+"fonte": "osm",
+"lat": -22.848799,
+"lng": -43.072248
 },
 "RJ|SAO GONCALO|PITA|RUA SIQUEIRA CAMPOS, N. 936, CS 01": {
 "fonte": "google",
@@ -99368,6 +100813,11 @@
 "fonte": "google",
 "lat": -22.8190333,
 "lng": -43.0680323
+},
+"RJ|SAO GONCALO|PORTO DA PEDRA|RUA CID ARAUJO MATA, N. 35, UN 03": {
+"fonte": "osm",
+"lat": -22.8185203,
+"lng": -43.0669204
 },
 "RJ|SAO GONCALO|PORTO DO ROSA|AVENIDA FLAVIO MONTEIRO DE BARROS, N. 1150, LT 3987": {
 "fonte": "google",
@@ -99484,6 +100934,11 @@
 "lat": -22.7947965,
 "lng": -43.0490341
 },
+"RJ|SAO GONCALO|PORTO DO ROSA|RUA LATINO COELHO, N. 235, CS 03": {
+"fonte": "osm",
+"lat": -22.795499,
+"lng": -43.0481085
+},
 "RJ|SAO GONCALO|PORTO DO ROSA|RUA LATINO COELHO, N. 245, CS 02": {
 "fonte": "google",
 "lat": -22.7952967,
@@ -99498,6 +100953,16 @@
 "fonte": "google",
 "lat": -22.8230748,
 "lng": -43.0727554
+},
+"RJ|SAO GONCALO|PORTO NOVO|RUA MARIA RITA, N. 1207, APTO 407, BLOCO 03": {
+"fonte": "osm",
+"lat": -22.8289545,
+"lng": -43.0739722
+},
+"RJ|SAO GONCALO|PORTO NOVO|RUA OTAVIO MAFRA, N. 290, C 03": {
+"fonte": "osm",
+"lat": -22.8225902,
+"lng": -43.068686
 },
 "RJ|SAO GONCALO|PORTO NOVO|TRAVESSA LEONIDIA, N. 741, CASA 03": {
 "fonte": "google",
@@ -99523,6 +100988,11 @@
 "fonte": "google",
 "lat": -22.8210598,
 "lng": -42.99422999999999
+},
+"RJ|SAO GONCALO|RIO DO OURO|AVENIDA DAKAR, N. 2021, LT98 QD B": {
+"fonte": "osm",
+"lat": -22.9041647,
+"lng": -42.9794973
 },
 "RJ|SAO GONCALO|RIO DO OURO|ESTRADA AUSTRIA, N. 340, 241 A": {
 "fonte": "google",
@@ -99554,10 +101024,20 @@
 "lat": -22.8308603,
 "lng": -43.04909019999999
 },
+"RJ|SAO GONCALO|ROCHA|RUA FRANCISCA MARQUES, N. 214, CASA 01, LT 15, QD 04": {
+"fonte": "osm",
+"lat": -22.8302207,
+"lng": -43.048859
+},
 "RJ|SAO GONCALO|ROCHA|RUA FRANCISCA MARQUES, N. 214, LOTE 15 QUADRA 04": {
 "fonte": "google",
 "lat": -22.8306921,
 "lng": -43.0486563
+},
+"RJ|SAO GONCALO|ROCHA|RUA FRANCISCA MARQUES, N. 641, APTO 201, LT 52 QD 01": {
+"fonte": "osm",
+"lat": -22.8302207,
+"lng": -43.048859
 },
 "RJ|SAO GONCALO|ROCHA|RUA GILSON NUNES, N. 78, LT 17 CS 553": {
 "fonte": "google",
@@ -99593,6 +101073,11 @@
 "fonte": "google",
 "lat": -22.8347368,
 "lng": -43.0430086
+},
+"RJ|SAO GONCALO|ROCHA|TRAVESSA FRANCISCA MARQUES, N. 33, CASA 02 QD01 LT75": {
+"fonte": "osm",
+"lat": -22.8286997,
+"lng": -43.0494201
 },
 "RJ|SAO GONCALO|SACRAMENTO|ESTRADA MONTE FORMOSO, N. 290, CS BASE": {
 "fonte": "google",
@@ -99658,6 +101143,11 @@
 "fonte": "google",
 "lat": -22.8379903,
 "lng": -43.0712481
+},
+"RJ|SAO GONCALO|SANTA CATARINA|TRAVESSA BATISTA, N. 607, CASA 02": {
+"fonte": "osm",
+"lat": -22.838245,
+"lng": -43.0708654
 },
 "RJ|SAO GONCALO|SANTA CATARINA|TRAVESSA DONA ZULMIRA, N. 966, DISTRITO 04 CASA 09": {
 "fonte": "google",
@@ -99869,6 +101359,11 @@
 "lat": -22.8039193,
 "lng": -42.9758285
 },
+"RJ|SAO GONCALO|SANTA LUZIA|RUA EXPEDICIONARIO JOSE LEITE DA SILVA, N. 1040, CS 09, LT 13B, QD 136": {
+"fonte": "osm",
+"lat": -22.7913833,
+"lng": -42.9819834
+},
 "RJ|SAO GONCALO|SANTA LUZIA|RUA EXPEDICIONARIO JOSE LEITE DA SILVA, N. 113, CS 15": {
 "fonte": "google",
 "lat": -22.7917707,
@@ -99948,6 +101443,11 @@
 "fonte": "google",
 "lat": -22.7939223,
 "lng": -42.9843144
+},
+"RJ|SAO GONCALO|SANTA LUZIA|RUA GUATEMALA, N. 210, APTO 304, BL 02, LT 19, QD 138": {
+"fonte": "osm",
+"lat": -22.7944625,
+"lng": -42.9827495
 },
 "RJ|SAO GONCALO|SANTA LUZIA|RUA GUATEMALA, N. 210, APTO 307, BL 03, LT 19, QD 138": {
 "fonte": "google",
@@ -100288,6 +101788,11 @@
 "fonte": "google",
 "lat": -22.8637831,
 "lng": -43.02040059999999
+},
+"RJ|SAO GONCALO|TRIBOBO|RUA DALVA RAPOSO, N. 260, APTO 104, BL 05": {
+"fonte": "osm",
+"lat": -22.858865,
+"lng": -43.0224727
 },
 "RJ|SAO GONCALO|TRIBOBO|RUA DALVA RAPOSO, N. 260, APTO 104, BL 06": {
 "fonte": "google",
@@ -100889,6 +102394,11 @@
 "lat": -22.8015885,
 "lng": -43.0161567
 },
+"RJ|SAO GONCALO|TRINDADE|RUA BARRA MANSA, N. 336, 1DIST QD113 LT05 CS 5": {
+"fonte": "osm",
+"lat": -22.8013951,
+"lng": -43.0138521
+},
 "RJ|SAO GONCALO|TRINDADE|RUA BARRA MANSA, N. 336, CASA 01, LT 05, QD 113": {
 "fonte": "google",
 "lat": -22.8013529,
@@ -100914,15 +102424,35 @@
 "lat": -22.8049994,
 "lng": -43.0115394
 },
+"RJ|SAO GONCALO|TRINDADE|RUA CABO FRIO, N. 208, CS 01": {
+"fonte": "osm",
+"lat": -22.8030155,
+"lng": -43.011908
+},
+"RJ|SAO GONCALO|TRINDADE|RUA CABO FRIO, N. 208, CS 02": {
+"fonte": "osm",
+"lat": -22.8030155,
+"lng": -43.011908
+},
 "RJ|SAO GONCALO|TRINDADE|RUA CABO FRIO, N. 471, CS 01": {
 "fonte": "google",
 "lat": -22.8030814,
 "lng": -43.0118639
 },
+"RJ|SAO GONCALO|TRINDADE|RUA CABO FRIO, N. 706, LT 05, QD 18": {
+"fonte": "osm",
+"lat": -22.8030155,
+"lng": -43.011908
+},
 "RJ|SAO GONCALO|TRINDADE|RUA CRISTALINA, N. 85, APTO 204": {
 "fonte": "google",
 "lat": -22.7990176,
 "lng": -43.0174855
+},
+"RJ|SAO GONCALO|TRINDADE|RUA CURITIBA, N. 1012, CS 02": {
+"fonte": "osm",
+"lat": -22.8084946,
+"lng": -43.0124491
 },
 "RJ|SAO GONCALO|TRINDADE|RUA CURITIBA, N. 413, APTO 101, CASA 02 LT 13, QD 118": {
 "fonte": "google",
@@ -100968,6 +102498,11 @@
 "fonte": "google",
 "lat": -22.8139802,
 "lng": -43.0099172
+},
+"RJ|SAO GONCALO|TRINDADE|RUA ITAOCARA, N. 366, APTO 405": {
+"fonte": "osm",
+"lat": -22.8132278,
+"lng": -43.0086623
 },
 "RJ|SAO GONCALO|TRINDADE|RUA ITAOCARA, N. 400, APTO 101, BL 02": {
 "fonte": "google",
@@ -101049,6 +102584,11 @@
 "lat": -22.8114751,
 "lng": -43.0085835
 },
+"RJ|SAO GONCALO|TRINDADE|RUA MACAE, N. 435, QD 115, LT 29": {
+"fonte": "osm",
+"lat": -22.8051147,
+"lng": -43.0122219
+},
 "RJ|SAO GONCALO|TRINDADE|RUA MARABA, N. 12": {
 "fonte": "google",
 "lat": -22.8480559,
@@ -101083,6 +102623,11 @@
 "fonte": "google",
 "lat": -22.85901,
 "lng": -43.09004789999999
+},
+"RJ|SAO GONCALO|VENDA DA CRUZ|RUA DA CRUZ, N. 84, CS": {
+"fonte": "osm",
+"lat": -22.861148,
+"lng": -43.0909937
 },
 "RJ|SAO GONCALO|VILA CANDOZA|ESTRADA DO COELHO, N. 1545, CS 11": {
 "fonte": "google",
@@ -101243,6 +102788,11 @@
 "fonte": "google",
 "lat": -22.8474363,
 "lng": -43.088521
+},
+"RJ|SAO GONCALO|VILA LAGE|RUA FRANCISCO GUEDES, N. 25, APTO 301, 0": {
+"fonte": "osm",
+"lat": -22.8474733,
+"lng": -43.0882634
 },
 "RJ|SAO GONCALO|VILA LAGE|RUA FRANCISCO GUEDES, N. 30, APTO 304": {
 "fonte": "google",
@@ -106404,6 +107954,11 @@
 "lat": -29.9854894,
 "lng": -51.0650961
 },
+"RS|ARROIO DO MEIO|BARRA DO FORQUETA|RUA SAO CRISTOVAO, N. 191, LT 16, QD A, ZN 04": {
+"fonte": "osm",
+"lat": -29.4107703,
+"lng": -51.9627122
+},
 "RS|ARROIO DOS RATOS|POCO TRES|RUA GETULIO AZZI, N, QUADRA 64 LOTE P/02 LADO IMPAR": {
 "fonte": "google",
 "lat": -30.0746866,
@@ -108959,6 +110514,11 @@
 "lat": -30.0367085,
 "lng": -51.1201591
 },
+"RS|PORTO ALEGRE|MARIO QUINTANA|RUA DEODORO, N. 205, VAGA 217": {
+"fonte": "osm",
+"lat": -30.0361701,
+"lng": -51.1162194
+},
 "RS|PORTO ALEGRE|MARIO QUINTANA|RUA IRMA TERESILDA STEFFEN, N. 255, APTO 504, QD C23": {
 "fonte": "google",
 "lat": -30.0261847,
@@ -110558,6 +112118,11 @@
 "fonte": "google",
 "lat": -29.7798652,
 "lng": -57.1102196
+},
+"RS|URUGUAIANA|TABAJARA BRITES|RUA ALBERTINO PIRES, N. 4460, CS 67 RUA B": {
+"fonte": "osm",
+"lat": -29.7760857,
+"lng": -57.1100497
 },
 "RS|VALE DO SOL|CENTRO|RUA DOS LÍRIOS, N, QD E LT 007": {
 "fonte": "google",
@@ -115548,6 +117113,11 @@
 "fonte": "google",
 "lat": -23.4085849,
 "lng": -46.8613843
+},
+"SP|CAMPINAS|CENTRO|AVENIDA OROZIMBO MAIA, N. 80, APTO 174, BLOCO 01, 2° ANDAR": {
+"fonte": "osm",
+"lat": -22.9003946,
+"lng": -47.0635622
 },
 "SP|CAMPINAS|CENTRO|RUA JOSE PAULINO, N. 1195, APTO 161": {
 "fonte": "google",
@@ -122454,6 +124024,11 @@
 "lat": -21.1497045,
 "lng": -47.8313499
 },
+"SP|RIBEIRAO PRETO|VILA VIRGINIA|RUA BARAO DE MAUA, N. 306": {
+"fonte": "osm",
+"lat": -21.1848074,
+"lng": -47.8260443
+},
 "SP|RIBEIRAO PRETO|VILA VIRGINIA|RUA CARDEAL LEME, N. 315, APTO 13, BL 10 C": {
 "fonte": "google",
 "lat": -21.1920013,
@@ -123334,6 +124909,11 @@
 "lat": -20.8064917,
 "lng": -49.4291458
 },
+"SP|SAO JOSE DO RIO PRETO|JARDINS RIO PRETO|RUA WANDERLEY LIBERIO TELLES, N. 915, APTO 403, BL 22 VG 243": {
+"fonte": "osm",
+"lat": -20.8058936,
+"lng": -49.4296185
+},
 "SP|SAO JOSE DO RIO PRETO|JARDINS RIO PRETO|RUA WANDERLEY LIBERIO TELLES, N. 915, CS 304 2 PAVA BL 21": {
 "fonte": "google",
 "lat": -20.8064917,
@@ -123353,6 +124933,11 @@
 "fonte": "google",
 "lat": -20.7779803,
 "lng": -49.3785385
+},
+"SP|SAO JOSE DO RIO PRETO|LOTEAMENTO CLUBE V|RUA LUZIA MINELLI CAPELLO, N. 550, APTO 403, BL 09 BOX 48": {
+"fonte": "osm",
+"lat": -20.7774614,
+"lng": -49.3778433
 },
 "SP|SAO JOSE DO RIO PRETO|LOTEAMENTO RESIDENCIAL MARIA ADELIA|RUA PROJETADA 1, N. 302, APTO 14, BL D TORRE 07": {
 "fonte": "google",

@@ -3182,7 +3182,9 @@
    "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 300.00 de área do terreno.",
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10286351",
-   "tipo": "terreno"
+   "tipo": "terreno",
+   "geo": null,
+   "geo_pendente": true
   },
   {
    "id": "10218510",
@@ -3239,7 +3241,9 @@
    "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 375.57 de área do terreno.",
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10286360",
-   "tipo": "terreno"
+   "tipo": "terreno",
+   "geo": null,
+   "geo_pendente": true
   },
   {
    "id": "1444405826926",
@@ -3275,7 +3279,9 @@
    "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 200.00 de área do terreno.",
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10286352",
-   "tipo": "terreno"
+   "tipo": "terreno",
+   "geo": null,
+   "geo_pendente": true
   },
   {
    "id": "10286363",
@@ -3290,7 +3296,13 @@
    "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 434.75 de área do terreno.",
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10286363",
-   "tipo": "terreno"
+   "tipo": "terreno",
+   "geo": {
+    "lat": -22.2366668,
+    "lng": -54.8181558,
+    "fonte": "osm"
+   },
+   "geo_pendente": false
   },
   {
    "id": "10286359",
@@ -3305,7 +3317,9 @@
    "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 285.61 de área do terreno.",
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10286359",
-   "tipo": "terreno"
+   "tipo": "terreno",
+   "geo": null,
+   "geo_pendente": true
   },
   {
    "id": "10286365",
@@ -3320,7 +3334,9 @@
    "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 356.58 de área do terreno.",
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10286365",
-   "tipo": "terreno"
+   "tipo": "terreno",
+   "geo": null,
+   "geo_pendente": true
   },
   {
    "id": "10286354",
@@ -3335,7 +3351,9 @@
    "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 300.00 de área do terreno.",
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10286354",
-   "tipo": "terreno"
+   "tipo": "terreno",
+   "geo": null,
+   "geo_pendente": true
   },
   {
    "id": "10286364",
@@ -3350,7 +3368,9 @@
    "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 503.55 de área do terreno.",
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10286364",
-   "tipo": "terreno"
+   "tipo": "terreno",
+   "geo": null,
+   "geo_pendente": true
   },
   {
    "id": "8787705793781",

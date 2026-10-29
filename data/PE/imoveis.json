@@ -2426,7 +2426,9 @@
    "descricao": "Casa, 0.00 de área total, 67.15 de área privativa, 125.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco, 1 vaga(s) de garagem.",
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444408329409",
-   "tipo": "casa"
+   "tipo": "casa",
+   "geo": null,
+   "geo_pendente": true
   },
   {
    "id": "8444422862275",
@@ -10862,7 +10864,13 @@
    "descricao": "Apartamento, 85.87 de área total, 41.79 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787710309272",
-   "tipo": "apartamento"
+   "tipo": "apartamento",
+   "geo": {
+    "lat": -8.2244666,
+    "lng": -34.9455205,
+    "fonte": "osm"
+   },
+   "geo_pendente": false
   },
   {
    "id": "8555535350077",
@@ -16673,7 +16681,13 @@
    "descricao": "Apartamento, 67.15 de área total, 46.52 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787711523863",
-   "tipo": "apartamento"
+   "tipo": "apartamento",
+   "geo": {
+    "lat": -7.8905695,
+    "lng": -34.8378608,
+    "fonte": "osm"
+   },
+   "geo_pendente": false
   },
   {
    "id": "8444405755482",
