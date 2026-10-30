@@ -1,9 +1,9 @@
 {
  "uf": "SC",
- "data_geracao_caixa": "28/10/2026",
- "coletado_em": "29/10/2026 03:57",
+ "data_geracao_caixa": "29/10/2026",
+ "coletado_em": "30/10/2026 04:00",
  "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_SC.csv",
- "total": 161,
+ "total": 159,
  "colunas": [
   "id",
   "uf",
@@ -615,7 +615,7 @@
    "desconto": 36.27,
    "financiamento": "Sim",
    "descricao": "Casa, 0.00 de área total, 251.71 de área privativa, 400.00 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), cozinha, 2 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1555525723727",
    "tipo": "casa",
    "geo": {
@@ -967,27 +967,6 @@
     "fonte": "google",
     "lat": -28.7898521,
     "lng": -49.3665889
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8555534417380",
-   "uf": "SC",
-   "cidade": "CRICIUMA",
-   "bairro": "SANTO ANTONIO",
-   "endereco": "RUA BENEVUTO JOSE SCOTTI, N. 196, Apto 301, BL 3",
-   "preco": 215000.0,
-   "valor_avaliacao": 215000.0,
-   "desconto": 0.0,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 72.52 de área total, 64.16 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",
-   "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555534417380",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -28.683464,
-    "lng": -49.40128000000001
    },
    "geo_pendente": false
   },
@@ -3105,7 +3084,7 @@
    "desconto": 36.27,
    "financiamento": "Sim",
    "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 23311.00 de área do terreno.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1555536433040",
    "tipo": "terreno",
    "geo": {
@@ -3238,27 +3217,6 @@
     "fonte": "google",
     "lat": -26.8597856,
     "lng": -52.3905353
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8787708021798",
-   "uf": "SC",
-   "cidade": "XANXERE",
-   "bairro": "BAIRRO SAO JORGE",
-   "endereco": "ARMANDO MARINHO, N. 1370, Apto 401, BL B",
-   "preco": 124509.18,
-   "valor_avaliacao": 206000.0,
-   "desconto": 39.56,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 55.80 de área total, 45.18 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787708021798",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "osm",
-    "lat": -26.8681284,
-    "lng": -52.3908203
    },
    "geo_pendente": false
   },

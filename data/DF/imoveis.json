@@ -1,7 +1,7 @@
 {
  "uf": "DF",
- "data_geracao_caixa": "28/10/2026",
- "coletado_em": "29/10/2026 03:57",
+ "data_geracao_caixa": "29/10/2026",
+ "coletado_em": "30/10/2026 03:59",
  "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_DF.csv",
  "total": 74,
  "colunas": [
@@ -300,7 +300,7 @@
    "desconto": 37.06,
    "financiamento": "Não",
    "descricao": "Loja, 0.00 de área total, 50.00 de área privativa, 0.00 de área do terreno.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10300591",
    "tipo": "loja",
    "geo": {
@@ -321,7 +321,7 @@
    "desconto": 37.06,
    "financiamento": "Não",
    "descricao": "Loja, 0.00 de área total, 50.00 de área privativa, 0.00 de área do terreno.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10300792",
    "tipo": "loja",
    "geo": {
@@ -803,27 +803,6 @@
    "tipo": "casa"
   },
   {
-   "id": "1444418600590",
-   "uf": "DF",
-   "cidade": "CEILANDIA",
-   "bairro": "CEILANDIA NORTE",
-   "endereco": "QNQ 5, N. SN, CJ 05 LT 13",
-   "preco": 210313.72,
-   "valor_avaliacao": 330000.0,
-   "desconto": 36.27,
-   "financiamento": "Sim",
-   "descricao": "Casa, 132.75 de área total, 130.00 de área privativa, 144.00 de área do terreno,  4 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444418600590",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -15.8059008,
-    "lng": -48.1472944
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "1555515916255",
    "uf": "DF",
    "cidade": "CEILANDIA",
@@ -834,7 +813,7 @@
    "desconto": 36.27,
    "financiamento": "Não",
    "descricao": "Casa, 160.00 de área total, 91.13 de área privativa, 132.00 de área do terreno.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1555515916255",
    "tipo": "casa",
    "geo": {
@@ -1072,6 +1051,27 @@
     "fonte": "google",
     "lat": -15.8767211,
     "lng": -48.0966905
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "1444419158416",
+   "uf": "DF",
+   "cidade": "SAMAMBAIA",
+   "bairro": "SAMAMBAIA SUL",
+   "endereco": "QUADRA QR 325, N. SN, LT 19 CJ 04",
+   "preco": 170162.92,
+   "valor_avaliacao": 267000.0,
+   "desconto": 36.27,
+   "financiamento": "Sim",
+   "descricao": "Casa, 115.00 de área total, 100.00 de área privativa, 126.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444419158416",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -15.875144,
+    "lng": -48.11658560000001
    },
    "geo_pendente": false
   },
