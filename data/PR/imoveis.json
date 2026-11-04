@@ -1,9 +1,9 @@
 {
  "uf": "PR",
- "data_geracao_caixa": "30/10/2026",
- "coletado_em": "31/10/2026 10:35",
+ "data_geracao_caixa": "03/11/2026",
+ "coletado_em": "04/11/2026 04:27",
  "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_PR.csv",
- "total": 448,
+ "total": 457,
  "colunas": [
   "id",
   "uf",
@@ -323,27 +323,6 @@
    "tipo": "casa"
   },
   {
-   "id": "8555524055907",
-   "uf": "PR",
-   "cidade": "ALVORADA DO SUL",
-   "bairro": "JARDIM NOVO IDEAL",
-   "endereco": "RUA EULITO FERREIRA DA SILVA, N. 46, LT 16 QD 11",
-   "preco": 56527.62,
-   "valor_avaliacao": 96000.0,
-   "desconto": 41.12,
-   "financiamento": "Não",
-   "descricao": "Casa, 0.00 de área total, 35.88 de área privativa, 204.00 de área do terreno.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555524055907",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -22.7857398,
-    "lng": -51.23194360000001
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8444420180185",
    "uf": "PR",
    "cidade": "AMAPORA",
@@ -422,27 +401,6 @@
    "tipo": "casa"
   },
   {
-   "id": "8787712923539",
-   "uf": "PR",
-   "cidade": "APUCARANA",
-   "bairro": "CJ HAB SOLO SAGRADO",
-   "endereco": "R CAIO AUGUSTO PEZARINI SALINET, N. 18, QD NR04",
-   "preco": 75817.45,
-   "valor_avaliacao": 140000.0,
-   "desconto": 45.85,
-   "financiamento": "Não",
-   "descricao": "Casa, 42.37 de área total, 42.37 de área privativa, 199.11 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787712923539",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -23.5135438,
-    "lng": -51.4143323
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "10285154",
    "uf": "PR",
    "cidade": "APUCARANA",
@@ -453,7 +411,7 @@
    "desconto": 39.46,
    "financiamento": "Sim",
    "descricao": "Imóvel rural, 0.00 de área total, 558.00 de área privativa, 217463.00 de área do terreno.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10285154",
    "tipo": "imovel rural",
    "geo": {
@@ -1788,7 +1746,7 @@
    "desconto": 46.43,
    "financiamento": "Sim",
    "descricao": "Apartamento, 45.91 de área total, 40.00 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787702208306",
    "tipo": "apartamento",
    "geo": {
@@ -1797,6 +1755,21 @@
     "lng": -49.5791638
    },
    "geo_pendente": false
+  },
+  {
+   "id": "8787705475852",
+   "uf": "PR",
+   "cidade": "CAMPO LARGO",
+   "bairro": "BOM JESUS",
+   "endereco": "AVENIDA DOS EXPEDICIONARIOS, N. 1145, Apto 1526, BL 15",
+   "preco": 111514.29,
+   "valor_avaliacao": 205000.0,
+   "desconto": 45.61,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 45.82 de área total, 40.00 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787705475852",
+   "tipo": "apartamento"
   },
   {
    "id": "8787710407215",
@@ -1881,6 +1854,21 @@
     "lng": -49.5592064
    },
    "geo_pendente": false
+  },
+  {
+   "id": "8787705273699",
+   "uf": "PR",
+   "cidade": "CAMPO LARGO",
+   "bairro": "BOM JESUS",
+   "endereco": "AVENIDA DOS EXPEDICIONARIOS, N. 1145, Apto 3328, BL 32",
+   "preco": 108522.44,
+   "valor_avaliacao": 189000.0,
+   "desconto": 42.59,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 49.94 de área total, 43.61 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787705273699",
+   "tipo": "apartamento"
   },
   {
    "id": "8787705391900",
@@ -2124,7 +2112,7 @@
    "desconto": 41.07,
    "financiamento": "Não",
    "descricao": "Apartamento, 45.91 de área total, 40.00 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787701698989",
    "tipo": "apartamento",
    "geo": {
@@ -2133,6 +2121,42 @@
     "lng": -49.5791638
    },
    "geo_pendente": false
+  },
+  {
+   "id": "8787704497623",
+   "uf": "PR",
+   "cidade": "CAMPO LARGO",
+   "bairro": "BOM JESUS",
+   "endereco": "AVENIDA DOS EXPEDICIONARIOS, N. 1145, Apto 2617, BL 26",
+   "preco": 117860.63,
+   "valor_avaliacao": 200000.0,
+   "desconto": 41.07,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 65.96 de área total, 40.00 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, Terraco, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787704497623",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -25.4623449,
+    "lng": -49.5592064
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8787705691571",
+   "uf": "PR",
+   "cidade": "CAMPO LARGO",
+   "bairro": "BOM JESUS",
+   "endereco": "AVENIDA DOS EXPEDICIONARIOS, N. 1145, Apto 1636, BL 16",
+   "preco": 127205.56,
+   "valor_avaliacao": 215857.6,
+   "desconto": 41.07,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 45.82 de área total, 40.00 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787705691571",
+   "tipo": "apartamento"
   },
   {
    "id": "8787701731650",
@@ -2313,7 +2337,7 @@
    "desconto": 40.75,
    "financiamento": "Não",
    "descricao": "Apartamento, 46.12 de área total, 40.00 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787714169181",
    "tipo": "apartamento",
    "geo": {
@@ -2904,7 +2928,7 @@
    "desconto": 39.56,
    "financiamento": "Não",
    "descricao": "Apartamento, 0.00 de área total, 40.00 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787714176617",
    "tipo": "apartamento",
    "geo": {
@@ -2988,7 +3012,7 @@
    "desconto": 39.56,
    "financiamento": "Não",
    "descricao": "Apartamento, 58.68 de área total, 40.31 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787717029607",
    "tipo": "apartamento",
    "geo": {
@@ -2997,6 +3021,21 @@
     "lng": -49.541076
    },
    "geo_pendente": false
+  },
+  {
+   "id": "8787705230418",
+   "uf": "PR",
+   "cidade": "CAMPO LARGO",
+   "bairro": "BOM JESUS",
+   "endereco": "AVENIDA DOS EXPEDICIONARIOS, N. 1145, Apto 2328, BL 23",
+   "preco": 116047.39,
+   "valor_avaliacao": 192000.0,
+   "desconto": 39.56,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 46.17 de área total, 40.31 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787705230418",
+   "tipo": "apartamento"
   },
   {
    "id": "8787705237501",
@@ -3018,6 +3057,51 @@
     "lng": -49.5592064
    },
    "geo_pendente": false
+  },
+  {
+   "id": "8787705624556",
+   "uf": "PR",
+   "cidade": "CAMPO LARGO",
+   "bairro": "BOM JESUS",
+   "endereco": "AVENIDA DOS EXPEDICIONARIOS, N. 1145, Apto 1322, BL 13",
+   "preco": 121487.11,
+   "valor_avaliacao": 201000.0,
+   "desconto": 39.56,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 40.00 de área total, 40.00 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787705624556",
+   "tipo": "apartamento"
+  },
+  {
+   "id": "8787705639308",
+   "uf": "PR",
+   "cidade": "CAMPO LARGO",
+   "bairro": "BOM JESUS",
+   "endereco": "AVENIDA DOS EXPEDICIONARIOS, N. 1145, Apto 1545, BL 15",
+   "preco": 122091.53,
+   "valor_avaliacao": 202000.0,
+   "desconto": 39.56,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 40.31 de área total, 40.31 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787705639308",
+   "tipo": "apartamento"
+  },
+  {
+   "id": "8787705647980",
+   "uf": "PR",
+   "cidade": "CAMPO LARGO",
+   "bairro": "BOM JESUS",
+   "endereco": "AVENIDA DOS EXPEDICIONARIOS, N. 1145, Apto 1946, BL 19",
+   "preco": 121487.11,
+   "valor_avaliacao": 201000.0,
+   "desconto": 39.56,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 0.00 de área total, 40.00 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787705647980",
+   "tipo": "apartamento"
   },
   {
    "id": "8787702847805",
@@ -3072,7 +3156,7 @@
    "desconto": 39.56,
    "financiamento": "Não",
    "descricao": "Apartamento, 46.27 de área total, 52.31 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787703961342",
    "tipo": "apartamento",
    "geo": {
@@ -3839,18 +3923,18 @@
    "geo_pendente": false
   },
   {
-   "id": "1444412140643",
+   "id": "1555527102053",
    "uf": "PR",
    "cidade": "COLOMBO",
-   "bairro": "VILA PETROPOLIS",
-   "endereco": "RUA ANITA MALGATTI, N. 110, Apto 03, LT 30 QD E",
-   "preco": 138473.13,
-   "valor_avaliacao": 220000.0,
-   "desconto": 37.06,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 56.13 de área total, 47.62 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "bairro": "ATUBA",
+   "endereco": "RUA ABEL SCUISSIATO, N. 2829, Apto 404, TORRE 35",
+   "preco": 164861.81,
+   "valor_avaliacao": 242000.0,
+   "desconto": 31.88,
+   "financiamento": "Sim",
+   "descricao": "Apartamento, 0.00 de área total, 66.15 de área privativa, 0.00 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco.",
    "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444412140643",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1555527102053",
    "tipo": "apartamento"
   },
   {
@@ -4086,48 +4170,6 @@
    "modalidade": "Leilão SFI - Edital Único",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444422026371",
    "tipo": "casa"
-  },
-  {
-   "id": "10275690",
-   "uf": "PR",
-   "cidade": "CRUZEIRO DO OESTE",
-   "bairro": "JARDIM DAS FLORES",
-   "endereco": "AVENIDA BRASIL, N. 00, QD 256, LT 21-R, PLANTA 01",
-   "preco": 48759.7,
-   "valor_avaliacao": 87283.95,
-   "desconto": 44.14,
-   "financiamento": "Não",
-   "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 245.00 de área do terreno.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10275690",
-   "tipo": "terreno",
-   "geo": {
-    "fonte": "google",
-    "lat": -23.7906997,
-    "lng": -53.0515677
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8444429116242",
-   "uf": "PR",
-   "cidade": "CRUZEIRO DO OESTE",
-   "bairro": "JARDOM CRUZEIRO",
-   "endereco": "RUA FLORIANOPOLIS, N. 138, QD 69",
-   "preco": 50365.85,
-   "valor_avaliacao": 87000.0,
-   "desconto": 42.11,
-   "financiamento": "Não",
-   "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 350.00 de área do terreno.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444429116242",
-   "tipo": "terreno",
-   "geo": {
-    "fonte": "google",
-    "lat": -23.7838772,
-    "lng": -53.0818261
-   },
-   "geo_pendente": false
   },
   {
    "id": "1555528553075",
@@ -5259,7 +5301,7 @@
    "desconto": 42.08,
    "financiamento": "Não",
    "descricao": "Casa, 56.05 de área total, 56.05 de área privativa, 148.12 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444422324354",
    "tipo": "casa",
    "geo": {
@@ -5322,7 +5364,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Casa, 55.20 de área total, 55.20 de área privativa, 337.50 de área do terreno.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444420598244",
    "tipo": "casa",
    "geo": {
@@ -5359,12 +5401,12 @@
    "cidade": "IRATI",
    "bairro": "NHAPINDAZAL",
    "endereco": "RUA MIECESLAU LEONARDO DUSZCZAK(ANTIGA RUA C), N. SN, LT13",
-   "preco": 145168.23,
+   "preco": 141445.97,
    "valor_avaliacao": 255000.0,
-   "desconto": 43.08,
+   "desconto": 44.54,
    "financiamento": "Não",
    "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 2870.00 de área do terreno.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10175621",
    "tipo": "terreno",
    "geo": {
@@ -5501,6 +5543,42 @@
    "geo_pendente": false
   },
   {
+   "id": "8787712778865",
+   "uf": "PR",
+   "cidade": "LONDRINA",
+   "bairro": "CONJUNTO HABITACIONAL VIOLIM",
+   "endereco": "RUA ELZIRA BITTENCOURT GUIDES, N. 55, Apto 402, BL 11 TÉRREO VG 177",
+   "preco": 118993.91,
+   "valor_avaliacao": 225000.0,
+   "desconto": 47.12,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 43.31 de área total, 43.31 de área privativa, 0.00 de área do terreno,  2 qto(s), 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787712778865",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -23.2659202,
+    "lng": -51.14358590000001
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8787710707197",
+   "uf": "PR",
+   "cidade": "LONDRINA",
+   "bairro": "JARDIM MARIA CELINA",
+   "endereco": "AVENIDA ROSALVO MARQUES BONFIM, N. 955, Apto 204, BL 08",
+   "preco": 111816.49,
+   "valor_avaliacao": 200000.0,
+   "desconto": 44.1,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 90.14 de área total, 47.44 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787710707197",
+   "tipo": "apartamento"
+  },
+  {
    "id": "8787708426801",
    "uf": "PR",
    "cidade": "LONDRINA",
@@ -5543,6 +5621,27 @@
    "geo_pendente": false
   },
   {
+   "id": "8787712986263",
+   "uf": "PR",
+   "cidade": "LONDRINA",
+   "bairro": "JARDIM MARIA CELINA",
+   "endereco": "AVENIDA ROSALVO MARQUES BONFIM, N. 1550, Apto 304, BL 06",
+   "preco": 102518.87,
+   "valor_avaliacao": 179884.43,
+   "desconto": 43.01,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 55.66 de área total, 48.96 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787712986263",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -23.2620119,
+    "lng": -51.2060963
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8787713152501",
    "uf": "PR",
    "cidade": "LONDRINA",
@@ -5553,7 +5652,7 @@
    "desconto": 42.92,
    "financiamento": "Não",
    "descricao": "Apartamento, 74.93 de área total, 37.64 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787713152501",
    "tipo": "apartamento",
    "geo": {
@@ -5597,6 +5696,27 @@
    "descricao": "Apartamento, 47.44 de área total, 47.44 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787713008753",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -23.264604,
+    "lng": -51.1997146
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8787713097829",
+   "uf": "PR",
+   "cidade": "LONDRINA",
+   "bairro": "JARDIM MARIA CELINA",
+   "endereco": "AVENIDA ROSALVO MARQUES BONFIM, N. 955, Apto 401, TIPO B, BL 12 BOX 113",
+   "preco": 134935.31,
+   "valor_avaliacao": 235000.0,
+   "desconto": 42.59,
+   "financiamento": "Sim",
+   "descricao": "Apartamento, 47.44 de área total, 47.44 de área privativa, 0.00 de área do terreno,  2 qto(s), 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787713097829",
    "tipo": "apartamento",
    "geo": {
     "fonte": "google",
@@ -5658,7 +5778,7 @@
    "desconto": 42.08,
    "financiamento": "Não",
    "descricao": "Apartamento, 45.88 de área total, 44.22 de área privativa, 0.00 de área do terreno, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787716789039",
    "tipo": "apartamento",
    "geo": {
@@ -5690,6 +5810,27 @@
    "geo_pendente": false
   },
   {
+   "id": "8787713132810",
+   "uf": "PR",
+   "cidade": "LONDRINA",
+   "bairro": "JARDIM MARIA CELINA",
+   "endereco": "AVENIDA ROSALVO MARQUES BONFIM, N. 955, Apto 204, BL 04 VG 247",
+   "preco": 111223.42,
+   "valor_avaliacao": 188737.2,
+   "desconto": 41.07,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 90.13 de área total, 47.44 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787713132810",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -23.264604,
+    "lng": -51.1997146
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8444427548668",
    "uf": "PR",
    "cidade": "LONDRINA",
@@ -5700,7 +5841,7 @@
    "desconto": 41.07,
    "financiamento": "Não",
    "descricao": "Casa, 54.70 de área total, 54.70 de área privativa, 126.15 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444427548668",
    "tipo": "casa",
    "geo": {
@@ -5742,7 +5883,7 @@
    "desconto": 40.75,
    "financiamento": "Não",
    "descricao": "Apartamento, 60.01 de área total, 46.38 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787702327356",
    "tipo": "apartamento",
    "geo": {
@@ -5879,27 +6020,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8555521292444",
-   "uf": "PR",
-   "cidade": "LONDRINA",
-   "bairro": "CONJUNTO RESIDENCIAL MARAJOARA",
-   "endereco": "RUA JOSE FREITAS DOS SANTOS, N. 250, Apto T02, BL 06 QD 04 VG 46",
-   "preco": 97778.11,
-   "valor_avaliacao": 165000.0,
-   "desconto": 40.75,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 76.73 de área total, 45.43 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555521292444",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -23.2727644,
-    "lng": -51.18647430000001
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8787713717339",
    "uf": "PR",
    "cidade": "LONDRINA",
@@ -5910,7 +6030,7 @@
    "desconto": 40.75,
    "financiamento": "Não",
    "descricao": "Apartamento, 94.83 de área total, 48.96 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787713717339",
    "tipo": "apartamento",
    "geo": {
@@ -6089,6 +6209,42 @@
    "geo_pendente": false
   },
   {
+   "id": "8787710704210",
+   "uf": "PR",
+   "cidade": "LONDRINA",
+   "bairro": "JARDIM MARIA CELINA",
+   "endereco": "AVENIDA ROSALVO MARQUES BONFIM, N. 955, Apto 103, BL 09",
+   "preco": 111816.5,
+   "valor_avaliacao": 185000.0,
+   "desconto": 39.56,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 90.58 de área total, 47.71 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787710704210",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -23.264604,
+    "lng": -51.1997146
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8787710859876",
+   "uf": "PR",
+   "cidade": "LONDRINA",
+   "bairro": "JARDIM MARIA CELINA",
+   "endereco": "AVENIDA ROSALVO MARQUES BONFIM, N. 955, Apto 402, BL 10, VAGA 365",
+   "preco": 120882.7,
+   "valor_avaliacao": 200000.0,
+   "desconto": 39.56,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 90.58 de área total, 47.71 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787710859876",
+   "tipo": "apartamento"
+  },
+  {
    "id": "8787711654283",
    "uf": "PR",
    "cidade": "LONDRINA",
@@ -6108,6 +6264,51 @@
     "lng": -51.20083349999999
    },
    "geo_pendente": false
+  },
+  {
+   "id": "8787712299266",
+   "uf": "PR",
+   "cidade": "LONDRINA",
+   "bairro": "JARDIM MARIA CELINA",
+   "endereco": "AVENIDA ROSALVO MARQUES BONFIM, N. 955, Apto 204, BL 11, TIPO B",
+   "preco": 111816.5,
+   "valor_avaliacao": 185000.0,
+   "desconto": 39.56,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 0.00 de área total, 47.44 de área privativa, 0.00 de área do terreno, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787712299266",
+   "tipo": "apartamento"
+  },
+  {
+   "id": "8787713115860",
+   "uf": "PR",
+   "cidade": "LONDRINA",
+   "bairro": "JARDIM MARIA CELINA",
+   "endereco": "AVENIDA ROSALVO MARQUES BONFIM, N. 955, Apto 303, BL 04 VG 211",
+   "preco": 117860.63,
+   "valor_avaliacao": 195000.0,
+   "desconto": 39.56,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 0.00 de área total, 47.71 de área privativa, 0.00 de área do terreno, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787713115860",
+   "tipo": "apartamento"
+  },
+  {
+   "id": "8787713408999",
+   "uf": "PR",
+   "cidade": "LONDRINA",
+   "bairro": "JARDIM MARIA CELINA",
+   "endereco": "AVENIDA ROSALVO MARQUES BONFIM, N. 955, Apto 502, BL 05 VG 249",
+   "preco": 116651.81,
+   "valor_avaliacao": 193000.0,
+   "desconto": 39.56,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 90.58 de área total, 47.71 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787713408999",
+   "tipo": "apartamento"
   },
   {
    "id": "8787713765210",
@@ -6183,7 +6384,7 @@
    "desconto": 39.56,
    "financiamento": "Não",
    "descricao": "Apartamento, 82.54 de área total, 42.38 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787716835731",
    "tipo": "apartamento",
    "geo": {
@@ -6204,7 +6405,7 @@
    "desconto": 39.56,
    "financiamento": "Não",
    "descricao": "Apartamento, 42.38 de área total, 42.38 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787718461316",
    "tipo": "apartamento",
    "geo": {
@@ -6815,6 +7016,27 @@
    "geo_pendente": false
   },
   {
+   "id": "8555529682209",
+   "uf": "PR",
+   "cidade": "MANDAGUACU",
+   "bairro": "CENTRO",
+   "endereco": "RUA JOSÉ PRAXEDES SANTANA, N. SN, Apto 04, BLOCO 02",
+   "preco": 81964.82,
+   "valor_avaliacao": 140000.0,
+   "desconto": 41.46,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 61.34 de área total, 52.40 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555529682209",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -23.3525608,
+    "lng": -52.0935327
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8444409016072",
    "uf": "PR",
    "cidade": "MANDIRITUBA",
@@ -6908,6 +7130,27 @@
    "geo_pendente": false
   },
   {
+   "id": "1155533600153",
+   "uf": "PR",
+   "cidade": "MARINGA",
+   "bairro": "PARQUE INDUSTRIAL",
+   "endereco": "RUA RUBENS SEBASTIAO MARIN, N. 1076, Apto 204, BL-B, VG188, VG189",
+   "preco": 314833.26,
+   "valor_avaliacao": 520000.0,
+   "desconto": 39.46,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 0.00 de área total, 79.98 de área privativa, 0.00 de área do terreno, 2 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1155533600153",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -23.4274939,
+    "lng": -51.8942305
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "1155533600021",
    "uf": "PR",
    "cidade": "MARINGA",
@@ -6920,27 +7163,6 @@
    "descricao": "Apartamento, 0.00 de área total, 79.98 de área privativa, 0.00 de área do terreno, 2 vaga(s) de garagem.",
    "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1155533600021",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -23.4274939,
-    "lng": -51.8942305
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "1155533600153",
-   "uf": "PR",
-   "cidade": "MARINGA",
-   "bairro": "PARQUE INDUSTRIAL",
-   "endereco": "RUA RUBENS SEBASTIAO MARIN, N. 1076, Apto 204, BL-B, VG188, VG189",
-   "preco": 323118.35,
-   "valor_avaliacao": 520000.0,
-   "desconto": 37.87,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 0.00 de área total, 79.98 de área privativa, 0.00 de área do terreno, 2 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1155533600153",
    "tipo": "apartamento",
    "geo": {
     "fonte": "google",
@@ -7128,7 +7350,7 @@
    "desconto": 36.27,
    "financiamento": "Sim",
    "descricao": "Apartamento, 0.00 de área total, 79.98 de área privativa, 0.00 de área do terreno, 2 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1155533600102",
    "tipo": "apartamento",
    "geo": {
@@ -7149,7 +7371,7 @@
    "desconto": 36.27,
    "financiamento": "Sim",
    "descricao": "Apartamento, 0.00 de área total, 192.08 de área privativa, 0.00 de área do terreno, 4 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1155533600110",
    "tipo": "apartamento",
    "geo": {
@@ -7520,27 +7742,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8555530688649",
-   "uf": "PR",
-   "cidade": "PEROLA",
-   "bairro": "CENTRO",
-   "endereco": "RUA HERMINIO SCALCO, N. 323, LT 02 QD 06",
-   "preco": 41967.41,
-   "valor_avaliacao": 95000.0,
-   "desconto": 55.83,
-   "financiamento": "Não",
-   "descricao": "Casa, 41.49 de área total, 41.49 de área privativa, 166.50 de área do terreno,  1 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555530688649",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -23.8028984,
-    "lng": -53.6981419
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8444414363338",
    "uf": "PR",
    "cidade": "PEROLA",
@@ -7588,39 +7789,18 @@
    "cidade": "PIRAQUARA",
    "bairro": "VILA SAO TIAGO",
    "endereco": "RUA TUBARAO, N. 617,",
-   "preco": 465876.75,
+   "preco": 438472.24,
    "valor_avaliacao": 860000.0,
-   "desconto": 45.83,
+   "desconto": 49.02,
    "financiamento": "Não",
    "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 3328.92 de área do terreno.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444422825932",
    "tipo": "terreno",
    "geo": {
     "fonte": "google",
     "lat": -25.4665915,
     "lng": -49.0618601
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "1444423232773",
-   "uf": "PR",
-   "cidade": "PIRAQUARA",
-   "bairro": "VILA SAO CRISTOVAO",
-   "endereco": "RUA ELIAS ALVES FERREIRA, N. 1111",
-   "preco": 436241.63,
-   "valor_avaliacao": 740000.0,
-   "desconto": 41.05,
-   "financiamento": "Não",
-   "descricao": "Casa, 0.00 de área total, 192.39 de área privativa, 302.52 de área do terreno,  4 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444423232773",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -25.45258,
-    "lng": -49.0541621
    },
    "geo_pendente": false
   },
@@ -7740,7 +7920,7 @@
    "desconto": 40.75,
    "financiamento": "Não",
    "descricao": "Apartamento, 53.59 de área total, 46.93 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555532364336",
    "tipo": "apartamento",
    "geo": {
@@ -7881,7 +8061,7 @@
    "desconto": 39.56,
    "financiamento": "Não",
    "descricao": "Apartamento, 49.62 de área total, 48.79 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787711121773",
    "tipo": "apartamento",
    "geo": {
@@ -7902,7 +8082,7 @@
    "desconto": 39.46,
    "financiamento": "Sim",
    "descricao": "Casa, 204.22 de área total, 204.22 de área privativa, 288.00 de área do terreno,  3 qto(s), a.serv, WC, 2 sala(s), cozinha, 2 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444416368541",
    "tipo": "casa",
    "geo": {
@@ -8115,34 +8295,13 @@
    "desconto": 42.08,
    "financiamento": "Não",
    "descricao": "Casa, 43.26 de área total, 43.26 de área privativa, 236.72 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787702542842",
    "tipo": "casa",
    "geo": {
     "fonte": "google",
     "lat": -23.0420237,
     "lng": -51.4509003
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8444425455883",
-   "uf": "PR",
-   "cidade": "QUERENCIA DO NORTE",
-   "bairro": "CENTRO",
-   "endereco": "HELMUTH JACOB ROSS, N. 26, CASA",
-   "preco": 65864.58,
-   "valor_avaliacao": 150000.0,
-   "desconto": 56.1,
-   "financiamento": "Não",
-   "descricao": "Casa, 60.07 de área total, 60.07 de área privativa, 179.67 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444425455883",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -23.0784205,
-    "lng": -53.485649
    },
    "geo_pendente": false
   },
@@ -8325,7 +8484,7 @@
    "desconto": 46.58,
    "financiamento": "Sim",
    "descricao": "Casa, 320.00 de área total, 104.00 de área privativa, 440.00 de área do terreno.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1600000016830",
    "tipo": "casa",
    "geo": {
@@ -8681,21 +8840,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8444424554535",
-   "uf": "PR",
-   "cidade": "SARANDI",
-   "bairro": "JARDIM LEBLON",
-   "endereco": "RUA JOAQUIM PAULISTA, N. 682-B, RESIDENCIA B",
-   "preco": 111495.81,
-   "valor_avaliacao": 193000.0,
-   "desconto": 42.24,
-   "financiamento": "Não",
-   "descricao": "Casa, 59.90 de área total, 59.90 de área privativa, 125.11 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444424554535",
-   "tipo": "casa"
-  },
-  {
    "id": "8787707383777",
    "uf": "PR",
    "cidade": "SARANDI",
@@ -8727,34 +8871,13 @@
    "desconto": 36.27,
    "financiamento": "Sim",
    "descricao": "Casa, 149.12 de área total, 149.12 de área privativa, 504.32 de área do terreno.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1555514798712",
    "tipo": "casa",
    "geo": {
     "fonte": "google",
     "lat": -22.8613928,
     "lng": -50.8498673
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8444421742560",
-   "uf": "PR",
-   "cidade": "TAPEJARA",
-   "bairro": "JARDIM ITALIA",
-   "endereco": "RUA MANCHINI, N. 713, RES 02",
-   "preco": 93381.88,
-   "valor_avaliacao": 206000.0,
-   "desconto": 54.67,
-   "financiamento": "Sim",
-   "descricao": "Casa, 84.70 de área total, 84.70 de área privativa, 163.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, cozinha.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444421742560",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -23.4588991,
-    "lng": -51.8984597
    },
    "geo_pendente": false
   },
@@ -8832,7 +8955,7 @@
    "desconto": 36.27,
    "financiamento": "Sim",
    "descricao": "Casa, 171.94 de área total, 171.94 de área privativa, 302.50 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1072500300502",
    "tipo": "casa",
    "geo": {
@@ -8874,7 +8997,7 @@
    "desconto": 41.05,
    "financiamento": "Sim",
    "descricao": "Apartamento, 257.76 de área total, 257.76 de área privativa, 0.00 de área do terreno,  4 qto(s), a.serv, WC, 3 sala(s), cozinha, 2 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444411995211",
    "tipo": "apartamento",
    "geo": {
