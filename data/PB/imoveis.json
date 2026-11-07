@@ -1,9 +1,9 @@
 {
  "uf": "PB",
- "data_geracao_caixa": "05/11/2026",
- "coletado_em": "05/11/2026 22:29",
+ "data_geracao_caixa": "06/11/2026",
+ "coletado_em": "07/11/2026 04:00",
  "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_PB.csv",
- "total": 700,
+ "total": 681,
  "colunas": [
   "id",
   "uf",
@@ -282,7 +282,7 @@
    "desconto": 64.95,
    "financiamento": "Não",
    "descricao": "Casa, 75.50 de área total, 45.66 de área privativa, 90.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, Terraco, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444425524990",
    "tipo": "casa",
    "geo": {
@@ -899,27 +899,6 @@
    "tipo": "casa"
   },
   {
-   "id": "8444422659607",
-   "uf": "PB",
-   "cidade": "BAYEUX",
-   "bairro": "COMERCIAL NORTE",
-   "endereco": "RUA PROJETADA, N. 36, CS A",
-   "preco": 76464.05,
-   "valor_avaliacao": 132000.0,
-   "desconto": 42.08,
-   "financiamento": "Não",
-   "descricao": "Casa, 79.63 de área total, 59.63 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444422659607",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -7.147291699999999,
-    "lng": -34.9202193
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8444419455338",
    "uf": "PB",
    "cidade": "BAYEUX",
@@ -1386,13 +1365,34 @@
    "desconto": 45.01,
    "financiamento": "Não",
    "descricao": "Casa, 0.00 de área total, 50.00 de área privativa, 148.20 de área do terreno,  2 qto(s), 1 sala(s), 1 lavabo(s), cozinha, Terraco.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787707289940",
    "tipo": "casa",
    "geo": {
     "fonte": "google",
     "lat": -7.286619300000001,
     "lng": -35.9302737
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8444402783825",
+   "uf": "PB",
+   "cidade": "CAMPINA GRANDE",
+   "bairro": "ALTO BRANCO",
+   "endereco": "RUA AVANI CASSIMIRO DE ALBUQUERQUE, N. 150, LT 11, QD B, CS 03",
+   "preco": 61142.59,
+   "valor_avaliacao": 107000.0,
+   "desconto": 42.86,
+   "financiamento": "Não",
+   "descricao": "Casa, 63.46 de área total, 63.46 de área privativa, 360.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444402783825",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -7.2016198,
+    "lng": -35.8791988
    },
    "geo_pendente": false
   },
@@ -1506,7 +1506,7 @@
    "desconto": 42.11,
    "financiamento": "Não",
    "descricao": "Apartamento, 51.27 de área total, 51.27 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444405328533",
    "tipo": "apartamento",
    "geo": {
@@ -1590,7 +1590,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Apartamento, 66.49 de área total, 52.05 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444417195622",
    "tipo": "apartamento",
    "geo": {
@@ -2610,7 +2610,7 @@
    "desconto": 61.33,
    "financiamento": "Não",
    "descricao": "Apartamento, 0.00 de área total, 44.30 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555539299300",
    "tipo": "apartamento"
   },
@@ -2646,7 +2646,7 @@
    "desconto": 60.39,
    "financiamento": "Não",
    "descricao": "Apartamento, 0.00 de área total, 46.54 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555539293817",
    "tipo": "apartamento"
   },
@@ -2661,7 +2661,7 @@
    "desconto": 59.02,
    "financiamento": "Não",
    "descricao": "Apartamento, 0.00 de área total, 44.30 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787707387110",
    "tipo": "apartamento"
   },
@@ -2739,7 +2739,7 @@
    "desconto": 58.1,
    "financiamento": "Não",
    "descricao": "Apartamento, 61.25 de área total, 43.17 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444423027027",
    "tipo": "apartamento",
    "geo": {
@@ -2760,7 +2760,7 @@
    "desconto": 58.1,
    "financiamento": "Não",
    "descricao": "Apartamento, 72.75 de área total, 43.17 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444423113969",
    "tipo": "apartamento",
    "geo": {
@@ -2769,21 +2769,6 @@
     "lng": -34.8894911
    },
    "geo_pendente": false
-  },
-  {
-   "id": "8787705718488",
-   "uf": "PB",
-   "cidade": "JOAO PESSOA",
-   "bairro": "ERNANI SATIRO",
-   "endereco": "RUA ANA ESPINOLA NAVARRO, N. 400, Apto 105, BL A09, TERREO, SUBCOND A",
-   "preco": 58668.54,
-   "valor_avaliacao": 135000.0,
-   "desconto": 56.55,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 0.00 de área total, 44.81 de área privativa, 0.01 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787705718488",
-   "tipo": "apartamento"
   },
   {
    "id": "8555539075321",
@@ -2796,7 +2781,7 @@
    "desconto": 56.28,
    "financiamento": "Não",
    "descricao": "Apartamento, 66.62 de área total, 45.06 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555539075321",
    "tipo": "apartamento"
   },
@@ -2811,30 +2796,9 @@
    "desconto": 56.05,
    "financiamento": "Não",
    "descricao": "Apartamento, 0.00 de área total, 45.09 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787707298761",
    "tipo": "apartamento"
-  },
-  {
-   "id": "8787712918357",
-   "uf": "PB",
-   "cidade": "JOAO PESSOA",
-   "bairro": "GRAMAME",
-   "endereco": "RUA INACIO ALBINO NETO, N. 240, Apto 202, BL 22",
-   "preco": 56581.95,
-   "valor_avaliacao": 128000.0,
-   "desconto": 55.8,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 81.15 de área total, 44.63 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787712918357",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -7.193015399999999,
-    "lng": -34.8691982
-   },
-   "geo_pendente": false
   },
   {
    "id": "8787701967548",
@@ -2889,7 +2853,7 @@
    "desconto": 54.73,
    "financiamento": "Não",
    "descricao": "Apartamento, 81.83 de área total, 45.09 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787704681777",
    "tipo": "apartamento"
   },
@@ -2904,7 +2868,7 @@
    "desconto": 53.55,
    "financiamento": "Não",
    "descricao": "Apartamento, 66.61 de área total, 45.06 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787703996634",
    "tipo": "apartamento"
   },
@@ -2919,7 +2883,7 @@
    "desconto": 53.17,
    "financiamento": "Não",
    "descricao": "Apartamento, 81.83 de área total, 45.09 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787712507268",
    "tipo": "apartamento"
   },
@@ -2934,7 +2898,7 @@
    "desconto": 53.04,
    "financiamento": "Não",
    "descricao": "Apartamento, 0.00 de área total, 46.54 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787706559146",
    "tipo": "apartamento"
   },
@@ -2991,7 +2955,7 @@
    "desconto": 53.04,
    "financiamento": "Não",
    "descricao": "Apartamento, 0.00 de área total, 44.63 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787708465742",
    "tipo": "apartamento"
   },
@@ -3090,7 +3054,7 @@
    "desconto": 50.82,
    "financiamento": "Não",
    "descricao": "Apartamento, 53.82 de área total, 66.71 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787706561140",
    "tipo": "apartamento"
   },
@@ -3105,7 +3069,7 @@
    "desconto": 50.77,
    "financiamento": "Não",
    "descricao": "Apartamento, 66.61 de área total, 45.06 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787704890341",
    "tipo": "apartamento"
   },
@@ -3120,7 +3084,7 @@
    "desconto": 50.27,
    "financiamento": "Não",
    "descricao": "Apartamento, 81.15 de área total, 44.63 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787711113290",
    "tipo": "apartamento"
   },
@@ -3135,7 +3099,7 @@
    "desconto": 50.27,
    "financiamento": "Não",
    "descricao": "Apartamento, 81.15 de área total, 44.63 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787716857395",
    "tipo": "apartamento"
   },
@@ -3171,7 +3135,7 @@
    "desconto": 50.24,
    "financiamento": "Não",
    "descricao": "Apartamento, 66.77 de área total, 45.90 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787716573443",
    "tipo": "apartamento",
    "geo": {
@@ -3213,7 +3177,7 @@
    "desconto": 49.85,
    "financiamento": "Não",
    "descricao": "Apartamento, 65.69 de área total, 44.30 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555538812381",
    "tipo": "apartamento"
   },
@@ -3228,7 +3192,7 @@
    "desconto": 49.85,
    "financiamento": "Não",
    "descricao": "Apartamento, 66.39 de área total, 44.81 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787707169546",
    "tipo": "apartamento"
   },
@@ -3243,7 +3207,7 @@
    "desconto": 49.85,
    "financiamento": "Não",
    "descricao": "Apartamento, 45.09 de área total, 45.09 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787712510641",
    "tipo": "apartamento"
   },
@@ -3258,7 +3222,7 @@
    "desconto": 49.72,
    "financiamento": "Não",
    "descricao": "Apartamento, 0.00 de área total, 45.09 de área privativa, 0.00 de área do terreno.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787716036715",
    "tipo": "apartamento"
   },
@@ -3294,7 +3258,7 @@
    "desconto": 49.62,
    "financiamento": "Não",
    "descricao": "Apartamento, 57.00 de área total, 46.54 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787707818099",
    "tipo": "apartamento"
   },
@@ -3309,7 +3273,7 @@
    "desconto": 49.62,
    "financiamento": "Não",
    "descricao": "Apartamento, 81.83 de área total, 45.09 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787717074629",
    "tipo": "apartamento"
   },
@@ -3324,7 +3288,7 @@
    "desconto": 49.32,
    "financiamento": "Não",
    "descricao": "Apartamento, 65.69 de área total, 44.30 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787706560217",
    "tipo": "apartamento"
   },
@@ -3339,7 +3303,7 @@
    "desconto": 49.32,
    "financiamento": "Não",
    "descricao": "Apartamento, 57.00 de área total, 46.54 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787710449686",
    "tipo": "apartamento"
   },
@@ -3386,27 +3350,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8787700802570",
-   "uf": "PB",
-   "cidade": "JOAO PESSOA",
-   "bairro": "MUCUMAGRO",
-   "endereco": "RUA DOMINGOS JOSE DA PAIXAO, N. SN, Apto 307, BL B",
-   "preco": 67412.9,
-   "valor_avaliacao": 133000.0,
-   "desconto": 49.32,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 64.84 de área total, 46.30 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787700802570",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -7.2157688,
-    "lng": -34.8388244
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8444422998681",
    "uf": "PB",
    "cidade": "JOAO PESSOA",
@@ -3417,7 +3360,7 @@
    "desconto": 49.32,
    "financiamento": "Não",
    "descricao": "Apartamento, 72.34 de área total, 42.82 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444422998681",
    "tipo": "apartamento",
    "geo": {
@@ -3459,7 +3402,7 @@
    "desconto": 49.32,
    "financiamento": "Não",
    "descricao": "Apartamento, 81.15 de área total, 44.63 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787701446483",
    "tipo": "apartamento",
    "geo": {
@@ -3480,7 +3423,7 @@
    "desconto": 48.78,
    "financiamento": "Não",
    "descricao": "Apartamento, 61.25 de área total, 43.17 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444423076320",
    "tipo": "apartamento",
    "geo": {
@@ -3585,7 +3528,7 @@
    "desconto": 48.41,
    "financiamento": "Não",
    "descricao": "Apartamento, 81.15 de área total, 44.63 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787710756996",
    "tipo": "apartamento"
   },
@@ -3684,7 +3627,7 @@
    "desconto": 47.87,
    "financiamento": "Não",
    "descricao": "Apartamento, 66.61 de área total, 45.06 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787710369259",
    "tipo": "apartamento"
   },
@@ -3720,7 +3663,7 @@
    "desconto": 47.87,
    "financiamento": "Não",
    "descricao": "Apartamento, 60.84 de área total, 42.82 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444422814602",
    "tipo": "apartamento",
    "geo": {
@@ -3941,6 +3884,21 @@
    "geo_pendente": false
   },
   {
+   "id": "8787705718488",
+   "uf": "PB",
+   "cidade": "JOAO PESSOA",
+   "bairro": "ERNANI SATIRO",
+   "endereco": "RUA ANA ESPINOLA NAVARRO, N. 400, Apto 105, BL A09, TERREO, SUBCOND A",
+   "preco": 72730.45,
+   "valor_avaliacao": 135000.0,
+   "desconto": 46.13,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 0.00 de área total, 44.81 de área privativa, 0.01 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787705718488",
+   "tipo": "apartamento"
+  },
+  {
    "id": "8444426165811",
    "uf": "PB",
    "cidade": "JOAO PESSOA",
@@ -4014,7 +3972,7 @@
    "desconto": 45.85,
    "financiamento": "Não",
    "descricao": "Apartamento, 68.58 de área total, 44.81 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555539184678",
    "tipo": "apartamento"
   },
@@ -4071,7 +4029,7 @@
    "desconto": 45.55,
    "financiamento": "Não",
    "descricao": "Apartamento, 72.34 de área total, 42.82 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444422907678",
    "tipo": "apartamento"
   },
@@ -4107,7 +4065,7 @@
    "desconto": 45.55,
    "financiamento": "Não",
    "descricao": "Apartamento, 81.83 de área total, 45.09 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787709184631",
    "tipo": "apartamento",
    "geo": {
@@ -4128,7 +4086,7 @@
    "desconto": 45.55,
    "financiamento": "Não",
    "descricao": "Apartamento, 81.83 de área total, 45.09 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787710776660",
    "tipo": "apartamento"
   },
@@ -4173,6 +4131,21 @@
     "lng": -34.8500437
    },
    "geo_pendente": false
+  },
+  {
+   "id": "8444432087088",
+   "uf": "PB",
+   "cidade": "JOAO PESSOA",
+   "bairro": "ERNANI SATIRO",
+   "endereco": "RUA ANA ESPINOLA NAVARRO, N. 400, Apto 206, BL A11, 1º AND, SUBCOND A",
+   "preco": 78700.85,
+   "valor_avaliacao": 141500.0,
+   "desconto": 44.39,
+   "financiamento": "Sim",
+   "descricao": "Apartamento, 56.61 de área total, 46.29 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444432087088",
+   "tipo": "apartamento"
   },
   {
    "id": "8787709184410",
@@ -4301,6 +4274,27 @@
    "geo_pendente": false
   },
   {
+   "id": "8444430835699",
+   "uf": "PB",
+   "cidade": "JOAO PESSOA",
+   "bairro": "MUMBABA",
+   "endereco": "RUA ESTUDANTE HUMBERLUCIO S DE OLIVEIRA JUNIOR, N. 234, CS 236",
+   "preco": 94578.09,
+   "valor_avaliacao": 168000.0,
+   "desconto": 43.71,
+   "financiamento": "Sim",
+   "descricao": "Casa, 100.00 de área total, 57.00 de área privativa, 100.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444430835699",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -7.103242,
+    "lng": -34.8474345
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8787704345181",
    "uf": "PB",
    "cidade": "JOAO PESSOA",
@@ -4364,21 +4358,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8444432087088",
-   "uf": "PB",
-   "cidade": "JOAO PESSOA",
-   "bairro": "ERNANI SATIRO",
-   "endereco": "RUA ANA ESPINOLA NAVARRO, N. 400, Apto 206, BL A11, 1º AND, SUBCOND A",
-   "preco": 80771.93,
-   "valor_avaliacao": 141500.0,
-   "desconto": 42.92,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 56.61 de área total, 46.29 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444432087088",
-   "tipo": "apartamento"
-  },
-  {
    "id": "8787706146666",
    "uf": "PB",
    "cidade": "JOAO PESSOA",
@@ -4389,7 +4368,7 @@
    "desconto": 42.86,
    "financiamento": "Não",
    "descricao": "Apartamento, 65.69 de área total, 44.30 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787706146666",
    "tipo": "apartamento"
   },
@@ -4404,7 +4383,7 @@
    "desconto": 42.86,
    "financiamento": "Não",
    "descricao": "Apartamento, 0.00 de área total, 36.33 de área privativa, 0.00 de área do terreno,  1 qto(s), a.serv, WC, cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787711017410",
    "tipo": "apartamento"
   },
@@ -4503,7 +4482,7 @@
    "desconto": 42.68,
    "financiamento": "Não",
    "descricao": "Apartamento, 61.25 de área total, 43.17 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444422828689",
    "tipo": "apartamento"
   },
@@ -4518,7 +4497,7 @@
    "desconto": 42.68,
    "financiamento": "Não",
    "descricao": "Apartamento, 61.25 de área total, 43.17 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444422833755",
    "tipo": "apartamento"
   },
@@ -4575,7 +4554,7 @@
    "desconto": 42.68,
    "financiamento": "Não",
    "descricao": "Apartamento, 81.15 de área total, 44.63 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787707011730",
    "tipo": "apartamento"
   },
@@ -4590,7 +4569,7 @@
    "desconto": 42.68,
    "financiamento": "Não",
    "descricao": "Apartamento, 81.83 de área total, 45.09 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787718291046",
    "tipo": "apartamento"
   },
@@ -4612,27 +4591,6 @@
     "fonte": "google",
     "lat": -7.201002099999999,
     "lng": -34.8572744
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8444430835699",
-   "uf": "PB",
-   "cidade": "JOAO PESSOA",
-   "bairro": "MUMBABA",
-   "endereco": "RUA ESTUDANTE HUMBERLUCIO S DE OLIVEIRA JUNIOR, N. 234, CS 236",
-   "preco": 97066.99,
-   "valor_avaliacao": 168000.0,
-   "desconto": 42.23,
-   "financiamento": "Não",
-   "descricao": "Casa, 100.00 de área total, 57.00 de área privativa, 100.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444430835699",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -7.103242,
-    "lng": -34.8474345
    },
    "geo_pendente": false
   },
@@ -4707,7 +4665,7 @@
    "desconto": 42.08,
    "financiamento": "Não",
    "descricao": "Apartamento, 0.00 de área total, 44.81 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787703276917",
    "tipo": "apartamento"
   },
@@ -4722,7 +4680,7 @@
    "desconto": 42.08,
    "financiamento": "Não",
    "descricao": "Apartamento, 65.69 de área total, 44.30 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787703737396",
    "tipo": "apartamento"
   },
@@ -4779,30 +4737,9 @@
    "desconto": 42.08,
    "financiamento": "Não",
    "descricao": "Apartamento, 60.84 de área total, 42.82 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444422962113",
    "tipo": "apartamento"
-  },
-  {
-   "id": "8444425025536",
-   "uf": "PB",
-   "cidade": "JOAO PESSOA",
-   "bairro": "GRAMAME",
-   "endereco": "RUA MANOEL FELISBERTO DA SILVA, N. 361, Apto 303, BL B",
-   "preco": 78201.87,
-   "valor_avaliacao": 135000.0,
-   "desconto": 42.08,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 69.07 de área total, 48.36 de área privativa, 0.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444425025536",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -7.196288399999999,
-    "lng": -34.8704144
-   },
-   "geo_pendente": false
   },
   {
    "id": "8444426418752",
@@ -5013,7 +4950,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Apartamento, 56.61 de área total, 46.29 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555539124020",
    "tipo": "apartamento"
   },
@@ -5028,7 +4965,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Apartamento, 0.00 de área total, 44.30 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787709265445",
    "tipo": "apartamento"
   },
@@ -5418,7 +5355,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Apartamento, 81.83 de área total, 45.09 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787715668203",
    "tipo": "apartamento",
    "geo": {
@@ -5643,7 +5580,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Apartamento, 56.14 de área total, 40.55 de área privativa, 0.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787721734875",
    "tipo": "apartamento",
    "geo": {
@@ -6135,7 +6072,7 @@
    "desconto": 40.75,
    "financiamento": "Não",
    "descricao": "Apartamento, 57.68 de área total, 52.67 de área privativa, 0.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444427583676",
    "tipo": "apartamento",
    "geo": {
@@ -6371,27 +6308,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8787719024025",
-   "uf": "PB",
-   "cidade": "JOAO PESSOA",
-   "bairro": "GRAMAME",
-   "endereco": "RUA DELMO ALVES SOARES, N. 22, Apto 203,",
-   "preco": 92908.21,
-   "valor_avaliacao": 156782.08,
-   "desconto": 40.75,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 44.05 de área total, 44.05 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787719024025",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -7.222651699999999,
-    "lng": -34.8484906
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8787719667163",
    "uf": "PB",
    "cidade": "JOAO PESSOA",
@@ -6486,7 +6402,7 @@
    "desconto": 40.75,
    "financiamento": "Não",
    "descricao": "Apartamento, 93.75 de área total, 55.10 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787707140483",
    "tipo": "apartamento",
    "geo": {
@@ -9179,27 +9095,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8555529892459",
-   "uf": "PB",
-   "cidade": "SANTA RITA",
-   "bairro": "TIBIRI",
-   "endereco": "RUA SEBASTIAO MENDES, N. 45A, CS 15 QD 06-B LT 12-A",
-   "preco": 23276.21,
-   "valor_avaliacao": 84000.0,
-   "desconto": 72.3,
-   "financiamento": "Não",
-   "descricao": "Casa, 0.00 de área total, 42.00 de área privativa, 48.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555529892459",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -7.1600782,
-    "lng": -34.9719791
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8444404105484",
    "uf": "PB",
    "cidade": "SANTA RITA",
@@ -9557,27 +9452,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8444408761238",
-   "uf": "PB",
-   "cidade": "SANTA RITA",
-   "bairro": "VALE DE SANTA RITA",
-   "endereco": "RUA PROJETADA, N. 461, LT A-29 QD 04",
-   "preco": 53485.8,
-   "valor_avaliacao": 116631.89,
-   "desconto": 54.15,
-   "financiamento": "Não",
-   "descricao": "Casa, 62.00 de área total, 62.00 de área privativa, 151.58 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444408761238",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -7.165992499999999,
-    "lng": -34.9613314
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8444409802167",
    "uf": "PB",
    "cidade": "SANTA RITA",
@@ -9798,7 +9672,7 @@
    "desconto": 51.94,
    "financiamento": "Não",
    "descricao": "Casa, 52.31 de área total, 52.31 de área privativa, 171.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444403475598",
    "tipo": "casa",
    "geo": {
@@ -9914,27 +9788,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8444408494400",
-   "uf": "PB",
-   "cidade": "SANTA RITA",
-   "bairro": "LOT PORTAL TIBIRI II",
-   "endereco": "RUA PROJETADA, N. 338, LT 36 QD 36",
-   "preco": 63191.15,
-   "valor_avaliacao": 125000.0,
-   "desconto": 49.45,
-   "financiamento": "Não",
-   "descricao": "Casa, 0.00 de área total, 60.90 de área privativa, 160.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444408494400",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -7.165992499999999,
-    "lng": -34.9613314
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8444408737191",
    "uf": "PB",
    "cidade": "SANTA RITA",
@@ -10015,27 +9868,6 @@
     "fonte": "google",
     "lat": -7.158839599999999,
     "lng": -34.9857138
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8444401745962",
-   "uf": "PB",
-   "cidade": "SANTA RITA",
-   "bairro": "TIBIRI",
-   "endereco": "RUA AECIO DE FARIAS, N. 109-B, LT 17-A QD 05-B",
-   "preco": 91672.49,
-   "valor_avaliacao": 180000.0,
-   "desconto": 49.08,
-   "financiamento": "Sim",
-   "descricao": "Casa, 0.00 de área total, 69.85 de área privativa, 150.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444401745962",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -7.160089399999999,
-    "lng": -34.9741436
    },
    "geo_pendente": false
   },
@@ -10544,6 +10376,27 @@
    "geo_pendente": false
   },
   {
+   "id": "8444408761238",
+   "uf": "PB",
+   "cidade": "SANTA RITA",
+   "bairro": "VALE DE SANTA RITA",
+   "endereco": "RUA PROJETADA, N. 461, LT A-29 QD 04",
+   "preco": 62147.9,
+   "valor_avaliacao": 116631.89,
+   "desconto": 46.72,
+   "financiamento": "Não",
+   "descricao": "Casa, 62.00 de área total, 62.00 de área privativa, 151.58 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444408761238",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -7.165992499999999,
+    "lng": -34.9613314
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8444411554590",
    "uf": "PB",
    "cidade": "SANTA RITA",
@@ -10722,7 +10575,7 @@
    "desconto": 45.8,
    "financiamento": "Não",
    "descricao": "Casa, 55.06 de área total, 55.06 de área privativa, 100.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444407036629",
    "tipo": "casa",
    "geo": {
@@ -10750,27 +10603,6 @@
     "fonte": "google",
     "lat": -7.1576738,
     "lng": -34.9670415
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8444409639630",
-   "uf": "PB",
-   "cidade": "SANTA RITA",
-   "bairro": "Lot Plan Tibiri I",
-   "endereco": "RUA DEP CLODOMIR LEITE (ANTIGA R PROJETADA), N. 1011B, QD 9B LT 32A",
-   "preco": 81716.89,
-   "valor_avaliacao": 150000.0,
-   "desconto": 45.53,
-   "financiamento": "Não",
-   "descricao": "Casa, 0.00 de área total, 70.75 de área privativa, 125.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444409639630",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -7.1484449,
-    "lng": -34.9593154
    },
    "geo_pendente": false
   },
@@ -11126,27 +10958,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8444404879064",
-   "uf": "PB",
-   "cidade": "SANTA RITA",
-   "bairro": "COND VITORIA I",
-   "endereco": "RUA JÚLIO FRANCISCO DE LIMA, N. 73,",
-   "preco": 71728.48,
-   "valor_avaliacao": 127000.0,
-   "desconto": 43.53,
-   "financiamento": "Não",
-   "descricao": "Casa, 56.98 de área total, 56.98 de área privativa, 94.56 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444404879064",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -7.1529491,
-    "lng": -34.9760349
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8444410510000",
    "uf": "PB",
    "cidade": "SANTA RITA",
@@ -11164,27 +10975,6 @@
     "fonte": "google",
     "lat": -7.157228000000001,
     "lng": -34.977165
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8444411423240",
-   "uf": "PB",
-   "cidade": "SANTA RITA",
-   "bairro": "MARCOS MOURA",
-   "endereco": "RUA PROJETADA, N. 61, Apto 102, LT 26 QD 20",
-   "preco": 77941.19,
-   "valor_avaliacao": 138000.0,
-   "desconto": 43.53,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 119.50 de área total, 70.50 de área privativa, 0.00 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444411423240",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -7.1603643,
-    "lng": -34.986184
    },
    "geo_pendente": false
   },
@@ -11586,7 +11376,7 @@
    "desconto": 42.68,
    "financiamento": "Não",
    "descricao": "Casa, 64.46 de área total, 64.46 de área privativa, 132.63 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444408936666",
    "tipo": "casa",
    "geo": {
@@ -11607,7 +11397,7 @@
    "desconto": 42.68,
    "financiamento": "Não",
    "descricao": "Casa, 68.98 de área total, 68.98 de área privativa, 180.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444409189864",
    "tipo": "casa",
    "geo": {
@@ -11649,7 +11439,7 @@
    "desconto": 42.68,
    "financiamento": "Não",
    "descricao": "Casa, 62.00 de área total, 62.00 de área privativa, 125.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, Terraco, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444419727982",
    "tipo": "casa",
    "geo": {
@@ -11769,34 +11559,13 @@
    "desconto": 42.68,
    "financiamento": "Não",
    "descricao": "Casa, 67.23 de área total, 67.23 de área privativa, 125.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444405304812",
    "tipo": "casa",
    "geo": {
     "fonte": "google",
     "lat": -7.1651031,
     "lng": -34.953765
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8444408432161",
-   "uf": "PB",
-   "cidade": "SANTA RITA",
-   "bairro": "TIBIRI",
-   "endereco": "RUA PROJETADA, N. 265, QD 01C, LT 51B",
-   "preco": 71654.14,
-   "valor_avaliacao": 125000.0,
-   "desconto": 42.68,
-   "financiamento": "Não",
-   "descricao": "Casa, 0.00 de área total, 67.00 de área privativa, 125.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444408432161",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -7.1651556,
-    "lng": -34.9534958
    },
    "geo_pendente": false
   },
@@ -11942,27 +11711,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8444417061022",
-   "uf": "PB",
-   "cidade": "SANTA RITA",
-   "bairro": "PLANO DE VIDA",
-   "endereco": "RUA ADELITA LUZIA DA SILVA, N. 91, LT 311 QD 12",
-   "preco": 57312.86,
-   "valor_avaliacao": 99000.0,
-   "desconto": 42.11,
-   "financiamento": "Não",
-   "descricao": "Casa, 86.29 de área total, 51.02 de área privativa, 54.78 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444417061022",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -7.332528699999999,
-    "lng": -35.33155
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8555519878470",
    "uf": "PB",
    "cidade": "SANTA RITA",
@@ -11984,48 +11732,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8444404892362",
-   "uf": "PB",
-   "cidade": "SANTA RITA",
-   "bairro": "VALE DE SANTA RITA",
-   "endereco": "RUA PROJETADA, N. 92, QD 05 LT 29 CS 103",
-   "preco": 56155.03,
-   "valor_avaliacao": 97000.0,
-   "desconto": 42.11,
-   "financiamento": "Não",
-   "descricao": "Casa, 49.17 de área total, 49.17 de área privativa, 82.55 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444404892362",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -7.1633781,
-    "lng": -34.9617418
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8444405042737",
-   "uf": "PB",
-   "cidade": "SANTA RITA",
-   "bairro": "VALE DE SANTA RITA",
-   "endereco": "RUA PROJETADA, N. 22, CS 102M QD 10, LT A-01",
-   "preco": 53839.36,
-   "valor_avaliacao": 93000.0,
-   "desconto": 42.11,
-   "financiamento": "Não",
-   "descricao": "Casa, 375.40 de área total, 54.80 de área privativa, 120.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444405042737",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -7.1633781,
-    "lng": -34.9617418
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8444408783169",
    "uf": "PB",
    "cidade": "SANTA RITA",
@@ -12036,7 +11742,7 @@
    "desconto": 42.11,
    "financiamento": "Não",
    "descricao": "Casa, 69.00 de área total, 69.00 de área privativa, 180.00 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444408783169",
    "tipo": "casa",
    "geo": {
@@ -12255,7 +11961,7 @@
    "desconto": 42.08,
    "financiamento": "Não",
    "descricao": "Casa, 97.47 de área total, 56.94 de área privativa, 100.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444417422645",
    "tipo": "casa",
    "geo": {
@@ -12350,27 +12056,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8444418962562",
-   "uf": "PB",
-   "cidade": "SANTA RITA",
-   "bairro": "CENTRO",
-   "endereco": "PRACA ANTENOR NAVARRO, N. 402, Apto 101, LOT PLANO DE VIDA 1 PV TERREO",
-   "preco": 79360.41,
-   "valor_avaliacao": 137000.0,
-   "desconto": 42.08,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 83.99 de área total, 52.96 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444418962562",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -7.1544529,
-    "lng": -34.98305879999999
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8444412190940",
    "uf": "PB",
    "cidade": "SANTA RITA",
@@ -12409,27 +12094,6 @@
     "fonte": "google",
     "lat": -7.127352999999999,
     "lng": -34.95926499999999
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8444403744530",
-   "uf": "PB",
-   "cidade": "SANTA RITA",
-   "bairro": "PORTAL DE TIBIRI",
-   "endereco": "RUA PADRE ROMA, N. 421-B,  QD 23",
-   "preco": 78201.87,
-   "valor_avaliacao": 135000.0,
-   "desconto": 42.08,
-   "financiamento": "Não",
-   "descricao": "Casa, 67.60 de área total, 67.60 de área privativa, 150.00 de área do terreno,  3 qto(s), WC, 1 sala(s), cozinha, Terraco.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444403744530",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -7.1488839,
-    "lng": -34.9739002
    },
    "geo_pendente": false
   },
@@ -12486,7 +12150,7 @@
    "desconto": 42.08,
    "financiamento": "Não",
    "descricao": "Casa, 0.00 de área total, 69.30 de área privativa, 150.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444404227490",
    "tipo": "casa",
    "geo": {
@@ -12528,7 +12192,7 @@
    "desconto": 42.08,
    "financiamento": "Não",
    "descricao": "Casa, 66.26 de área total, 66.26 de área privativa, 125.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444410546160",
    "tipo": "casa",
    "geo": {
@@ -12655,27 +12319,6 @@
     "fonte": "google",
     "lat": -7.145331799999999,
     "lng": -34.9634808
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8444406664286",
-   "uf": "PB",
-   "cidade": "SANTA RITA",
-   "bairro": "Lot Vale Sta Rita I",
-   "endereco": "RUA PROJETADA, N. 343, QD 04 LT A-1E",
-   "preco": 87233.99,
-   "valor_avaliacao": 149000.0,
-   "desconto": 41.46,
-   "financiamento": "Não",
-   "descricao": "Casa, 69.68 de área total, 62.00 de área privativa, 151.58 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444406664286",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -7.135889499999999,
-    "lng": -34.9662323
    },
    "geo_pendente": false
   },
@@ -12998,27 +12641,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8555514902780",
-   "uf": "PB",
-   "cidade": "SANTA RITA",
-   "bairro": "TIBIRI",
-   "endereco": "PADRE ROMA, N. 391, LT 33A QD 23",
-   "preco": 82550.28,
-   "valor_avaliacao": 141000.0,
-   "desconto": 41.46,
-   "financiamento": "Não",
-   "descricao": "Casa, 64.86 de área total, 64.86 de área privativa, 150.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555514902780",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -7.1485835,
-    "lng": -34.9751175
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8555519677270",
    "uf": "PB",
    "cidade": "SANTA RITA",
@@ -13296,7 +12918,7 @@
    "desconto": 40.36,
    "financiamento": "Não",
    "descricao": "Apartamento, 47.90 de área total, 47.90 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444400660912",
    "tipo": "apartamento",
    "geo": {
@@ -13324,27 +12946,6 @@
     "fonte": "google",
     "lat": -7.1600489,
     "lng": -34.9670624
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8444423981758",
-   "uf": "PB",
-   "cidade": "SANTA RITA",
-   "bairro": "Lot Boa Vista",
-   "endereco": "RUA CAPITÃO TOMAZ PANDA E SILVA, N. 12, Apto 101, PAV TERREO",
-   "preco": 76743.93,
-   "valor_avaliacao": 127000.0,
-   "desconto": 39.58,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 72.80 de área total, 72.80 de área privativa, 0.00 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444423981758",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -7.1302292,
-    "lng": -34.952933
    },
    "geo_pendente": false
   },

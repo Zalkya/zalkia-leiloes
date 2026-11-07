@@ -1,9 +1,9 @@
 {
  "uf": "RN",
- "data_geracao_caixa": "05/11/2026",
- "coletado_em": "05/11/2026 22:29",
+ "data_geracao_caixa": "06/11/2026",
+ "coletado_em": "07/11/2026 04:01",
  "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_RN.csv",
- "total": 632,
+ "total": 645,
  "colunas": [
   "id",
   "uf",
@@ -330,7 +330,7 @@
    "desconto": 41.91,
    "financiamento": "Não",
    "descricao": "Casa, 52.00 de área total, 52.00 de área privativa, 200.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, Terraco.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444408218453",
    "tipo": "casa",
    "geo": {
@@ -393,7 +393,7 @@
    "desconto": 40.18,
    "financiamento": "Não",
    "descricao": "Casa, 100.41 de área total, 100.41 de área privativa, 220.00 de área do terreno,  2 qto(s), a.serv, WC, 2 sala(s), DCE, cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555501843763",
    "tipo": "casa",
    "geo": {
@@ -1026,7 +1026,7 @@
    "desconto": 81.61,
    "financiamento": "Não",
    "descricao": "Casa, 0.00 de área total, 119.37 de área privativa, 220.21 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, Terraco, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444425846700",
    "tipo": "casa",
    "geo": {
@@ -1278,7 +1278,7 @@
    "desconto": 78.91,
    "financiamento": "Não",
    "descricao": "Casa, 46.94 de área total, 46.94 de área privativa, 200.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555534887930",
    "tipo": "casa"
   },
@@ -2805,7 +2805,7 @@
    "desconto": 55.83,
    "financiamento": "Não",
    "descricao": "Casa, 58.41 de área total, 58.41 de área privativa, 133.33 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444425288979",
    "tipo": "casa",
    "geo": {
@@ -4668,7 +4668,7 @@
    "desconto": 42.08,
    "financiamento": "Não",
    "descricao": "Casa, 69.32 de área total, 69.32 de área privativa, 200.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), Terraco.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444421078600",
    "tipo": "casa",
    "geo": {
@@ -4719,7 +4719,7 @@
    "desconto": 41.91,
    "financiamento": "Não",
    "descricao": "Casa, 46.94 de área total, 46.94 de área privativa, 200.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555535812917",
    "tipo": "casa",
    "geo": {
@@ -4824,7 +4824,7 @@
    "desconto": 39.41,
    "financiamento": "Não",
    "descricao": "Casa, 102.85 de área total, 102.85 de área privativa, 2500.00 de área do terreno,  3 qto(s), a.serv, WC, 2 sala(s), cozinha, Terraco.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444405799722",
    "tipo": "casa",
    "geo": {
@@ -5024,6 +5024,27 @@
    "geo_pendente": false
   },
   {
+   "id": "8444424909384",
+   "uf": "RN",
+   "cidade": "EXTREMOZ",
+   "bairro": "LOT VILA MARIA I",
+   "endereco": "RUA MARIA DO SOCORRO ROCHA GABRIEL, N. 993, LT 25 QD 06",
+   "preco": 82031.91,
+   "valor_avaliacao": 158203.87,
+   "desconto": 48.15,
+   "financiamento": "Não",
+   "descricao": "Casa, 82.03 de área total, 82.03 de área privativa, 200.00 de área do terreno,  3 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444424909384",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -5.6965995,
+    "lng": -35.2798099
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8444425211402",
    "uf": "RN",
    "cidade": "EXTREMOZ",
@@ -5087,6 +5108,27 @@
    "geo_pendente": false
   },
   {
+   "id": "8787721188420",
+   "uf": "RN",
+   "cidade": "EXTREMOZ",
+   "bairro": "LOT PORTAL DO SOL",
+   "endereco": "RUA ONOFRE LOPES, N. 96, CS01 LT1379 QD49",
+   "preco": 78146.13,
+   "valor_avaliacao": 144300.0,
+   "desconto": 45.85,
+   "financiamento": "Não",
+   "descricao": "Casa, 100.00 de área total, 57.32 de área privativa, 100.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787721188420",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -5.6928849,
+    "lng": -35.2360645
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8444427418578",
    "uf": "RN",
    "cidade": "EXTREMOZ",
@@ -5125,6 +5167,48 @@
     "fonte": "google",
     "lat": -5.6975752,
     "lng": -35.2822494
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8555536070167",
+   "uf": "RN",
+   "cidade": "EXTREMOZ",
+   "bairro": "LOTEAMENTO PARQUE DA",
+   "endereco": "RUA LAGOA DE GRAÇANDU, N. SN, LT 22, QD 02",
+   "preco": 78448.21,
+   "valor_avaliacao": 144000.0,
+   "desconto": 45.53,
+   "financiamento": "Não",
+   "descricao": "Casa, 0.00 de área total, 64.73 de área privativa, 200.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555536070167",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -5.6984255,
+    "lng": -35.2895344
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8444427849129",
+   "uf": "RN",
+   "cidade": "EXTREMOZ",
+   "bairro": "LOT PASSAGEM DA VILA",
+   "endereco": "AVENIDA DOS COQUEIROS, N. 678, LT 1R",
+   "preco": 97022.54,
+   "valor_avaliacao": 177000.0,
+   "desconto": 45.19,
+   "financiamento": "Não",
+   "descricao": "Casa, 103.77 de área total, 69.42 de área privativa, 103.77 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), DCE, cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444427849129",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -5.703029000000001,
+    "lng": -35.286314
    },
    "geo_pendente": false
   },
@@ -5171,6 +5255,69 @@
    "geo_pendente": false
   },
   {
+   "id": "8787721587660",
+   "uf": "RN",
+   "cidade": "EXTREMOZ",
+   "bairro": "EXTREMOZ",
+   "endereco": "RUA CAMARA CASCUDO, N. 887-01, LT 1470, QD 52",
+   "preco": 74291.77,
+   "valor_avaliacao": 135000.0,
+   "desconto": 44.97,
+   "financiamento": "Não",
+   "descricao": "Casa, 89.93 de área total, 57.34 de área privativa, 100.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787721587660",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -5.690737299999999,
+    "lng": -35.2355629
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8444418093947",
+   "uf": "RN",
+   "cidade": "EXTREMOZ",
+   "bairro": "MOINHO",
+   "endereco": "BASÍLIO LICKS DE JESUS ANTIGA RUA DIANOPOLIS, N. 245, LT 04 QD 04",
+   "preco": 77866.57,
+   "valor_avaliacao": 140000.0,
+   "desconto": 44.39,
+   "financiamento": "Não",
+   "descricao": "Casa, 71.90 de área total, 71.90 de área privativa, 200.00 de área do terreno,  3 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444418093947",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -5.7489129,
+    "lng": -35.2690122
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8444422268403",
+   "uf": "RN",
+   "cidade": "EXTREMOZ",
+   "bairro": "MOINHO",
+   "endereco": "RUA DA AMOREIRA, N. 224, LT 46 QD G",
+   "preco": 85375.14,
+   "valor_avaliacao": 153500.0,
+   "desconto": 44.39,
+   "financiamento": "Não",
+   "descricao": "Casa, 60.94 de área total, 60.94 de área privativa, 200.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 2 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444422268403",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -5.6931794,
+    "lng": -35.28291540000001
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8444435782070",
    "uf": "RN",
    "cidade": "EXTREMOZ",
@@ -5188,6 +5335,27 @@
     "fonte": "google",
     "lat": -5.6926005,
     "lng": -35.2953137
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8787705870069",
+   "uf": "RN",
+   "cidade": "EXTREMOZ",
+   "bairro": "LOT VILLAGE DE EXTRE",
+   "endereco": "RUA MOGNO, N. 168, UNIDADE 02 LT 31 QD G",
+   "preco": 81203.72,
+   "valor_avaliacao": 146000.0,
+   "desconto": 44.39,
+   "financiamento": "Não",
+   "descricao": "Casa, 57.62 de área total, 57.62 de área privativa, 132.00 de área do terreno,  2 qto(s), varanda, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787705870069",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -5.6839192,
+    "lng": -35.2820033
    },
    "geo_pendente": false
   },
@@ -5255,6 +5423,48 @@
    "geo_pendente": false
   },
   {
+   "id": "8444416758968",
+   "uf": "RN",
+   "cidade": "EXTREMOZ",
+   "bairro": "ESTIVAS",
+   "endereco": "RUA PIAUI, N. 177, L 1063 Q 59",
+   "preco": 88948.45,
+   "valor_avaliacao": 158000.0,
+   "desconto": 43.71,
+   "financiamento": "Não",
+   "descricao": "Casa, 66.43 de área total, 66.43 de área privativa, 207.99 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444416758968",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -5.6841594,
+    "lng": -35.2787524
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8444417691930",
+   "uf": "RN",
+   "cidade": "EXTREMOZ",
+   "bairro": "LOTEAMENTO RIVIERA",
+   "endereco": "RUA MAR EGEU, N. 70, CS C LT 42  QD 06",
+   "preco": 71728.48,
+   "valor_avaliacao": 127000.0,
+   "desconto": 43.53,
+   "financiamento": "Não",
+   "descricao": "Casa, 68.33 de área total, 68.33 de área privativa, 121.90 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, Terraco.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444417691930",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -5.6972653,
+    "lng": -35.2821918
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8555518156756",
    "uf": "RN",
    "cidade": "EXTREMOZ",
@@ -5293,6 +5503,27 @@
     "fonte": "google",
     "lat": -5.6923211,
     "lng": -35.2922806
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8444411361199",
+   "uf": "RN",
+   "cidade": "EXTREMOZ",
+   "bairro": "MOINHO",
+   "endereco": "RUA ATLÂNTICO, N. 77, LT 38, QD A",
+   "preco": 82199.0,
+   "valor_avaliacao": 144000.0,
+   "desconto": 42.92,
+   "financiamento": "Não",
+   "descricao": "Casa, 69.78 de área total, 69.78 de área privativa, 200.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444411361199",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -5.6816203,
+    "lng": -35.2801002
    },
    "geo_pendente": false
   },
@@ -5411,6 +5642,27 @@
    "tipo": "casa"
   },
   {
+   "id": "8444406987891",
+   "uf": "RN",
+   "cidade": "EXTREMOZ",
+   "bairro": "LOT PARAISO",
+   "endereco": "RUA CARDEAL, N. SN, QD 10 LT 212",
+   "preco": 68787.97,
+   "valor_avaliacao": 120000.0,
+   "desconto": 42.68,
+   "financiamento": "Não",
+   "descricao": "Casa, 65.48 de área total, 65.48 de área privativa, 200.52 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444406987891",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -5.6946774,
+    "lng": -35.2994807
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8444408695880",
    "uf": "RN",
    "cidade": "EXTREMOZ",
@@ -5442,13 +5694,34 @@
    "desconto": 42.68,
    "financiamento": "Não",
    "descricao": "Casa, 72.39 de área total, 72.39 de área privativa, 155.98 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444420516388",
    "tipo": "casa",
    "geo": {
     "fonte": "google",
     "lat": -5.6991438,
     "lng": -35.2807303
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8444429163739",
+   "uf": "RN",
+   "cidade": "EXTREMOZ",
+   "bairro": "LOT JD BOTANICO EXTR",
+   "endereco": "RUA DAS VITORIAS REGIAS, N. 97, CS 02 LT 103 QD 01",
+   "preco": 71080.9,
+   "valor_avaliacao": 124000.0,
+   "desconto": 42.68,
+   "financiamento": "Não",
+   "descricao": "Casa, 70.58 de área total, 55.71 de área privativa, 87.78 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444429163739",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -6.2545439,
+    "lng": -35.2109402
    },
    "geo_pendente": false
   },
@@ -5537,6 +5810,48 @@
    "geo_pendente": false
   },
   {
+   "id": "8444411001664",
+   "uf": "RN",
+   "cidade": "EXTREMOZ",
+   "bairro": "ESTIVAS MOINHOS",
+   "endereco": "RUA  ATLANTICO, N. 76, LT 17 QD A",
+   "preco": 73567.68,
+   "valor_avaliacao": 127000.0,
+   "desconto": 42.08,
+   "financiamento": "Não",
+   "descricao": "Casa, 70.00 de área total, 70.00 de área privativa, 200.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444411001664",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -5.681134000000001,
+    "lng": -35.28019099999999
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8444411013689",
+   "uf": "RN",
+   "cidade": "EXTREMOZ",
+   "bairro": "MOINHO",
+   "endereco": "RUA ATLANTICO, N. 66, LOTE 19 QUADRA A",
+   "preco": 77622.6,
+   "valor_avaliacao": 134000.0,
+   "desconto": 42.08,
+   "financiamento": "Não",
+   "descricao": "Casa, 65.00 de área total, 65.00 de área privativa, 200.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444411013689",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -5.6811934,
+    "lng": -35.2801259
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8444411869249",
    "uf": "RN",
    "cidade": "EXTREMOZ",
@@ -5579,6 +5894,27 @@
    "geo_pendente": false
   },
   {
+   "id": "8444415624348",
+   "uf": "RN",
+   "cidade": "EXTREMOZ",
+   "bairro": "LOTEAMENTO VILA NOVA",
+   "endereco": "RUA ILHA GRANDE, N. 127, LT 116 QD 01",
+   "preco": 77622.6,
+   "valor_avaliacao": 134000.0,
+   "desconto": 42.08,
+   "financiamento": "Não",
+   "descricao": "Casa, 72.40 de área total, 72.40 de área privativa, 200.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444415624348",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -5.6958269,
+    "lng": -35.2960257
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8444417989262",
    "uf": "RN",
    "cidade": "EXTREMOZ",
@@ -5596,6 +5932,27 @@
     "fonte": "google",
     "lat": -5.700764599999999,
     "lng": -35.3095871
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8444419217771",
+   "uf": "RN",
+   "cidade": "EXTREMOZ",
+   "bairro": "RIVIERA",
+   "endereco": "RUA NOSSA SENHORA DAS GRACAS, N. 556, LT 25 QD 04",
+   "preco": 79939.69,
+   "valor_avaliacao": 138000.0,
+   "desconto": 42.08,
+   "financiamento": "Não",
+   "descricao": "Casa, 68.05 de área total, 68.05 de área privativa, 223.75 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444419217771",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -5.6984802,
+    "lng": -35.2813026
    },
    "geo_pendente": false
   },
@@ -5705,6 +6062,27 @@
    "geo_pendente": false
   },
   {
+   "id": "1444417992087",
+   "uf": "RN",
+   "cidade": "EXTREMOZ",
+   "bairro": "PQ DAS JAQUEIRAS",
+   "endereco": "RUA DAS ORQUIDEAS, N. 82, LT 42 QD 11 GLEBA E",
+   "preco": 68137.23,
+   "valor_avaliacao": 116816.0,
+   "desconto": 41.68,
+   "financiamento": "Não",
+   "descricao": "Casa, 71.89 de área total, 71.89 de área privativa, 200.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444417992087",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -5.7030375,
+    "lng": -35.3022533
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8444409626547",
    "uf": "RN",
    "cidade": "EXTREMOZ",
@@ -5778,7 +6156,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Casa, 65.46 de área total, 65.46 de área privativa, 207.36 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444410203239",
    "tipo": "casa",
    "geo": {
@@ -5820,7 +6198,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Casa, 66.43 de área total, 66.43 de área privativa, 210.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444418671614",
    "tipo": "casa",
    "geo": {
@@ -5841,7 +6219,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Casa, 63.06 de área total, 63.06 de área privativa, 115.33 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444433529874",
    "tipo": "casa",
    "geo": {
@@ -5904,7 +6282,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Casa, 57.34 de área total, 57.34 de área privativa, 100.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787720341306",
    "tipo": "casa",
    "geo": {
@@ -6051,7 +6429,7 @@
    "desconto": 40.75,
    "financiamento": "Não",
    "descricao": "Casa, 86.04 de área total, 86.04 de área privativa, 200.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444434055019",
    "tipo": "casa",
    "geo": {
@@ -6348,7 +6726,7 @@
    "desconto": 41.91,
    "financiamento": "Não",
    "descricao": "Casa, 50.80 de área total, 50.80 de área privativa, 136.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, Terraco.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444401574807",
    "tipo": "casa",
    "geo": {
@@ -6485,6 +6863,27 @@
    "geo_pendente": false
   },
   {
+   "id": "8444412120152",
+   "uf": "RN",
+   "cidade": "MACAIBA",
+   "bairro": "CENTRO",
+   "endereco": "RUA CARLOS ROBERTO SOUZA DO NASCIMENTO, N. 57, LT 13, QD 16",
+   "preco": 31685.8,
+   "valor_avaliacao": 134000.0,
+   "desconto": 76.36,
+   "financiamento": "Não",
+   "descricao": "Casa, 0.00 de área total, 64.81 de área privativa, 400.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), DCE, cozinha, Terraco, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444412120152",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -5.9315507,
+    "lng": -35.2939478
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8555508984354",
    "uf": "RN",
    "cidade": "MACAIBA",
@@ -6506,21 +6905,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8444407422014",
-   "uf": "RN",
-   "cidade": "MACAIBA",
-   "bairro": "CENTRO",
-   "endereco": "RUA PORTO DE SANTA HELENA, N. 354, LT 594, QD 22",
-   "preco": 35534.18,
-   "valor_avaliacao": 117000.0,
-   "desconto": 69.63,
-   "financiamento": "Não",
-   "descricao": "Casa, 0.00 de área total, 67.37 de área privativa, 200.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444407422014",
-   "tipo": "casa"
-  },
-  {
    "id": "8444411716302",
    "uf": "RN",
    "cidade": "MACAIBA",
@@ -6538,27 +6922,6 @@
     "fonte": "google",
     "lat": -5.8511238,
     "lng": -35.2836834
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8444411202406",
-   "uf": "RN",
-   "cidade": "MACAIBA",
-   "bairro": "ZONA DE EXPANSAO URBANA SUL",
-   "endereco": "RUA NOSSA SENHORA DO RESGATE, N. 113, LT 305, QD 14",
-   "preco": 38238.72,
-   "valor_avaliacao": 108000.0,
-   "desconto": 64.6,
-   "financiamento": "Não",
-   "descricao": "Casa, 0.00 de área total, 63.62 de área privativa, 283.96 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444411202406",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -5.8567493,
-    "lng": -35.3521828
    },
    "geo_pendente": false
   },
@@ -7432,12 +7795,12 @@
    "cidade": "MOSSORO",
    "bairro": "SANTA JULIA",
    "endereco": "ESTRADA DA RAIZ, N. S/N, TABOLEIRO ALTO, PERIMETRO URBANO",
-   "preco": 254413.53,
+   "preco": 234843.26,
    "valor_avaliacao": 777000.0,
-   "desconto": 67.26,
-   "financiamento": "Sim",
+   "desconto": 69.78,
+   "financiamento": "Não",
    "descricao": "Gleba, 0.00 de área total, 0.00 de área privativa, 125000.00 de área do terreno.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1555534749750",
    "tipo": "gleba",
    "geo": {
@@ -7500,7 +7863,7 @@
    "desconto": 44.29,
    "financiamento": "Não",
    "descricao": "Casa, 58.60 de área total, 58.60 de área privativa, 200.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444403313466",
    "tipo": "casa",
    "geo": {
@@ -7532,23 +7895,23 @@
    "geo_pendente": false
   },
   {
-   "id": "8444409108783",
+   "id": "8444409647811",
    "uf": "RN",
    "cidade": "MOSSORO",
-   "bairro": "SANTA JULIA",
-   "endereco": "RUA ASSOCIACAO CULTURAL E DESPORTIVA POTIGUAR, N. 10, QD 20 LT 28",
-   "preco": 72293.28,
-   "valor_avaliacao": 128000.0,
-   "desconto": 43.53,
-   "financiamento": "Não",
-   "descricao": "Casa, 66.32 de área total, 66.32 de área privativa, 200.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "bairro": "SANTO ANTONIO",
+   "endereco": "RUA HORTENCIA, N. 96, L 12 Q 8",
+   "preco": 90637.34,
+   "valor_avaliacao": 161000.0,
+   "desconto": 43.71,
+   "financiamento": "Sim",
+   "descricao": "Casa, 58.60 de área total, 58.60 de área privativa, 200.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
    "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444409108783",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444409647811",
    "tipo": "casa",
    "geo": {
     "fonte": "google",
-    "lat": -5.2176696,
-    "lng": -37.3386917
+    "lat": -5.1470205,
+    "lng": -37.3419791
    },
    "geo_pendente": false
   },
@@ -7626,7 +7989,7 @@
    "desconto": 42.86,
    "financiamento": "Não",
    "descricao": "Casa, 58.60 de área total, 58.60 de área privativa, 200.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444410442705",
    "tipo": "casa",
    "geo": {
@@ -7647,7 +8010,7 @@
    "desconto": 42.86,
    "financiamento": "Não",
    "descricao": "Casa, 49.81 de área total, 49.81 de área privativa, 200.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444422756190",
    "tipo": "casa",
    "geo": {
@@ -7752,7 +8115,7 @@
    "desconto": 42.68,
    "financiamento": "Não",
    "descricao": "Casa, 58.60 de área total, 58.60 de área privativa, 240.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444402295758",
    "tipo": "casa",
    "geo": {
@@ -7864,27 +8227,6 @@
     "fonte": "google",
     "lat": -5.147923599999999,
     "lng": -37.3622474
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8444409647811",
-   "uf": "RN",
-   "cidade": "MOSSORO",
-   "bairro": "SANTO ANTONIO",
-   "endereco": "RUA HORTENCIA, N. 96, L 12 Q 8",
-   "preco": 93022.53,
-   "valor_avaliacao": 161000.0,
-   "desconto": 42.23,
-   "financiamento": "Não",
-   "descricao": "Casa, 58.60 de área total, 58.60 de área privativa, 200.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444409647811",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -5.1470205,
-    "lng": -37.3419791
    },
    "geo_pendente": false
   },
@@ -8172,7 +8514,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Casa, 58.60 de área total, 58.60 de área privativa, 200.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444403608253",
    "tipo": "casa",
    "geo": {
@@ -8235,7 +8577,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Casa, 59.84 de área total, 59.84 de área privativa, 325.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444405627468",
    "tipo": "casa",
    "geo": {
@@ -8277,7 +8619,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Casa, 58.60 de área total, 58.60 de área privativa, 200.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444407984012",
    "tipo": "casa",
    "geo": {
@@ -8298,7 +8640,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Casa, 58.60 de área total, 58.60 de área privativa, 200.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444408003015",
    "tipo": "casa",
    "geo": {
@@ -8340,7 +8682,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Casa, 64.25 de área total, 64.25 de área privativa, 200.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444408753162",
    "tipo": "casa",
    "geo": {
@@ -8361,7 +8703,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Casa, 56.00 de área total, 56.00 de área privativa, 300.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444408852640",
    "tipo": "casa",
    "geo": {
@@ -8508,7 +8850,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Casa, 64.00 de área total, 64.00 de área privativa, 200.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444417976888",
    "tipo": "casa",
    "geo": {
@@ -8529,7 +8871,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Casa, 63.45 de área total, 63.45 de área privativa, 200.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444419635662",
    "tipo": "casa",
    "geo": {
@@ -8550,7 +8892,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Casa, 64.67 de área total, 64.67 de área privativa, 200.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444423628080",
    "tipo": "casa",
    "geo": {
@@ -8571,7 +8913,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Casa, 60.73 de área total, 60.73 de área privativa, 200.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444424986338",
    "tipo": "casa",
    "geo": {
@@ -8634,7 +8976,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Casa, 64.36 de área total, 64.36 de área privativa, 200.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444433063239",
    "tipo": "casa",
    "geo": {
@@ -8676,7 +9018,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Casa, 55.81 de área total, 55.81 de área privativa, 200.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787701434132",
    "tipo": "casa",
    "geo": {
@@ -8697,7 +9039,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Casa, 60.84 de área total, 60.84 de área privativa, 249.92 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444425721060",
    "tipo": "casa",
    "geo": {
@@ -8949,7 +9291,7 @@
    "desconto": 40.75,
    "financiamento": "Não",
    "descricao": "Casa, 82.03 de área total, 82.03 de área privativa, 200.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444424192366",
    "tipo": "casa",
    "geo": {
@@ -9054,7 +9396,7 @@
    "desconto": 40.75,
    "financiamento": "Não",
    "descricao": "Casa, 66.62 de área total, 66.62 de área privativa, 200.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha, Terraco.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444436913403",
    "tipo": "casa",
    "geo": {
@@ -9096,7 +9438,7 @@
    "desconto": 40.75,
    "financiamento": "Não",
    "descricao": "Casa, 68.74 de área total, 68.74 de área privativa, 200.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444417879084",
    "tipo": "casa",
    "geo": {
@@ -9159,13 +9501,34 @@
    "desconto": 39.58,
    "financiamento": "Não",
    "descricao": "Casa, 81.23 de área total, 81.23 de área privativa, 150.00 de área do terreno,  1 qto(s), WC, cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444417829850",
    "tipo": "casa",
    "geo": {
     "fonte": "google",
     "lat": -5.1410462,
     "lng": -37.3557859
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8555530607002",
+   "uf": "RN",
+   "cidade": "MOSSORO",
+   "bairro": "AEROPORTO",
+   "endereco": "RUA ESPANHA, N. 50, Apto 308, BL E",
+   "preco": 112420.91,
+   "valor_avaliacao": 186000.0,
+   "desconto": 39.56,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 91.17 de área total, 47.09 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555530607002",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -5.1951493,
+    "lng": -37.3745173
    },
    "geo_pendente": false
   },
@@ -9180,7 +9543,7 @@
    "desconto": 38.96,
    "financiamento": "Não",
    "descricao": "Casa, 63.42 de área total, 63.42 de área privativa, 250.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444415751889",
    "tipo": "casa",
    "geo": {
@@ -9264,7 +9627,7 @@
    "desconto": 37.06,
    "financiamento": "Não",
    "descricao": "Casa, 78.14 de área total, 78.14 de área privativa, 87.95 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1555510699574",
    "tipo": "casa",
    "geo": {
@@ -9782,27 +10145,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8003300228625",
-   "uf": "RN",
-   "cidade": "NATAL",
-   "bairro": "PAJUCARA",
-   "endereco": "RUA ACUDE MENDOBIM, N. 46, LT 04 QD 07",
-   "preco": 80973.91,
-   "valor_avaliacao": 134000.0,
-   "desconto": 39.58,
-   "financiamento": "Não",
-   "descricao": "Casa, 76.05 de área total, 76.05 de área privativa, 126.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8003300228625",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -5.7396636,
-    "lng": -35.2330815
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8444408656361",
    "uf": "RN",
    "cidade": "NATAL",
@@ -10235,6 +10577,27 @@
    "geo_pendente": false
   },
   {
+   "id": "8444406238970",
+   "uf": "RN",
+   "cidade": "PARNAMIRIM",
+   "bairro": "CAJUPIRANGA",
+   "endereco": "RUA CAMPO REAL  (ANTIGA RUA PROJETADA 21 ), N. 138, LT - 26, QD 26",
+   "preco": 86992.37,
+   "valor_avaliacao": 150000.0,
+   "desconto": 42.01,
+   "financiamento": "Sim",
+   "descricao": "Casa, 66.50 de área total, 66.50 de área privativa, 200.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444406238970",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -5.9504353,
+    "lng": -35.2568104
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8787719550606",
    "uf": "RN",
    "cidade": "PARNAMIRIM",
@@ -10252,27 +10615,6 @@
     "fonte": "google",
     "lat": -5.907191,
     "lng": -35.198366
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8444406238970",
-   "uf": "RN",
-   "cidade": "PARNAMIRIM",
-   "bairro": "CAJUPIRANGA",
-   "endereco": "RUA CAMPO REAL  (ANTIGA RUA PROJETADA 21 ), N. 138, LT - 26, QD 26",
-   "preco": 89281.64,
-   "valor_avaliacao": 150000.0,
-   "desconto": 40.48,
-   "financiamento": "Não",
-   "descricao": "Casa, 66.50 de área total, 66.50 de área privativa, 200.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444406238970",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -5.9504353,
-    "lng": -35.2568104
    },
    "geo_pendente": false
   },
@@ -10485,7 +10827,7 @@
    "desconto": 42.68,
    "financiamento": "Não",
    "descricao": "Casa, 66.17 de área total, 66.17 de área privativa, 200.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444420985841",
    "tipo": "casa",
    "geo": {
@@ -10784,23 +11126,23 @@
    "geo_pendente": false
   },
   {
-   "id": "8555532349086",
+   "id": "8444427101329",
    "uf": "RN",
    "cidade": "SAO GONCALO DO AMARANTE",
-   "bairro": "JARDINS",
-   "endereco": "RUA MANOEL PATRICIO DE MEDEIROS, N. 2100, Apto 302, BL 18",
-   "preco": 70167.73,
-   "valor_avaliacao": 141000.0,
-   "desconto": 50.24,
+   "bairro": "SANTO ANTONIO DO POTENGI",
+   "endereco": "RUA DO CRICIUMA, N. 45, CS06 QD 09 LTS 174/176",
+   "preco": 62532.52,
+   "valor_avaliacao": 127000.0,
+   "desconto": 50.77,
    "financiamento": "Não",
-   "descricao": "Apartamento, 0.00 de área total, 45.50 de área privativa, 0.00 de área do terreno.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555532349086",
-   "tipo": "apartamento",
+   "descricao": "Casa, 66.15 de área total, 65.52 de área privativa, 150.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444427101329",
+   "tipo": "casa",
    "geo": {
     "fonte": "google",
-    "lat": -5.732954899999999,
-    "lng": -35.2947596
+    "lat": -5.782706999999999,
+    "lng": -35.299308
    },
    "geo_pendente": false
   },
@@ -11137,48 +11479,6 @@
     "fonte": "google",
     "lat": -5.7899093,
     "lng": -35.3018721
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8555532265842",
-   "uf": "RN",
-   "cidade": "SAO GONCALO DO AMARANTE",
-   "bairro": "JARDINS",
-   "endereco": "RUA MANOEL PATRICIO DE MEDEIROS, N. 2100, Apto 404, BL 17",
-   "preco": 76359.0,
-   "valor_avaliacao": 141000.0,
-   "desconto": 45.85,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 49.57 de área total, 45.50 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555532265842",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -5.732954899999999,
-    "lng": -35.2947596
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8555535336473",
-   "uf": "RN",
-   "cidade": "SAO GONCALO DO AMARANTE",
-   "bairro": "JARDINS",
-   "endereco": "RUA MANOEL PATRICIO DE MEDEIROS, N. 2100, Apto 201, BLOCO 11 TIPO 1",
-   "preco": 75817.45,
-   "valor_avaliacao": 140000.0,
-   "desconto": 45.85,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 49.57 de área total, 45.50 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555535336473",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -5.732954899999999,
-    "lng": -35.2947596
    },
    "geo_pendente": false
   },
@@ -11571,7 +11871,7 @@
    "desconto": 42.86,
    "financiamento": "Não",
    "descricao": "Casa, 65.18 de área total, 62.88 de área privativa, 150.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444409548910",
    "tipo": "casa",
    "geo": {
@@ -11613,7 +11913,7 @@
    "desconto": 42.86,
    "financiamento": "Não",
    "descricao": "Sobrado, 84.35 de área total, 53.45 de área privativa, 81.60 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444401802036",
    "tipo": "sobrado",
    "geo": {
@@ -11870,27 +12170,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8444426873760",
-   "uf": "RN",
-   "cidade": "SAO GONCALO DO AMARANTE",
-   "bairro": "JARDINS",
-   "endereco": "RUA MANOEL PATRICIO DE MEDEIROS, N. 2100, Apto 203, BL 69",
-   "preco": 77622.6,
-   "valor_avaliacao": 134000.0,
-   "desconto": 42.08,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 49.57 de área total, 45.50 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444426873760",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -5.732954899999999,
-    "lng": -35.2947596
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8444434720888",
    "uf": "RN",
    "cidade": "SAO GONCALO DO AMARANTE",
@@ -11964,7 +12243,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Casa, 49.99 de área total, 49.99 de área privativa, 200.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444436518571",
    "tipo": "casa",
    "geo": {
@@ -11985,7 +12264,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Casa, 92.67 de área total, 61.10 de área privativa, 81.68 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), 1 lavabo(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555530189090",
    "tipo": "casa",
    "geo": {
@@ -12006,7 +12285,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Casa, 60.02 de área total, 60.02 de área privativa, 200.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787719007988",
    "tipo": "casa",
    "geo": {
@@ -12132,7 +12411,7 @@
    "desconto": 40.75,
    "financiamento": "Não",
    "descricao": "Casa, 72.40 de área total, 72.40 de área privativa, 200.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444419187678",
    "tipo": "casa",
    "geo": {
@@ -12789,7 +13068,7 @@
    "desconto": 42.86,
    "financiamento": "Não",
    "descricao": "Casa, 78.10 de área total, 78.10 de área privativa, 156.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444409505103",
    "tipo": "casa",
    "geo": {

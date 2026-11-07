@@ -1,7 +1,7 @@
 {
  "uf": "RO",
- "data_geracao_caixa": "05/11/2026",
- "coletado_em": "05/11/2026 22:29",
+ "data_geracao_caixa": "06/11/2026",
+ "coletado_em": "07/11/2026 04:01",
  "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_RO.csv",
  "total": 32,
  "colunas": [
@@ -275,6 +275,27 @@
    "geo_pendente": false
   },
   {
+   "id": "8444403917728",
+   "uf": "RO",
+   "cidade": "JI-PARANA",
+   "bairro": "JARDIM SAO CRISTOVAO",
+   "endereco": "RUA ALDO CAVICHIOLI, N. 440, QD 55 LT 31",
+   "preco": 107370.52,
+   "valor_avaliacao": 183000.0,
+   "desconto": 41.33,
+   "financiamento": "Sim",
+   "descricao": "Casa, 63.62 de área total, 63.62 de área privativa, 360.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444403917728",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -10.9066517,
+    "lng": -61.9233644
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8444415401179",
    "uf": "RO",
    "cidade": "JI-PARANA",
@@ -292,27 +313,6 @@
     "fonte": "google",
     "lat": -10.8598109,
     "lng": -61.90566059999999
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8444403917728",
-   "uf": "RO",
-   "cidade": "JI-PARANA",
-   "bairro": "JARDIM SAO CRISTOVAO",
-   "endereco": "RUA ALDO CAVICHIOLI, N. 440, QD 55 LT 31",
-   "preco": 110196.06,
-   "valor_avaliacao": 183000.0,
-   "desconto": 39.79,
-   "financiamento": "Não",
-   "descricao": "Casa, 63.62 de área total, 63.62 de área privativa, 360.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444403917728",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -10.9066517,
-    "lng": -61.9233644
    },
    "geo_pendente": false
   },
@@ -390,7 +390,7 @@
    "desconto": 68.41,
    "financiamento": "Não",
    "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 7273.85 de área do terreno.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10202885",
    "tipo": "terreno"
   },
@@ -645,7 +645,7 @@
    "desconto": 51.45,
    "financiamento": "Sim",
    "descricao": "Loja, 0.00 de área total, 240.00 de área privativa, 240.00 de área do terreno.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10279404",
    "tipo": "loja"
   }

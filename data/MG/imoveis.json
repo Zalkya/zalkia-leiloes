@@ -1,9 +1,9 @@
 {
  "uf": "MG",
- "data_geracao_caixa": "05/11/2026",
- "coletado_em": "05/11/2026 22:29",
+ "data_geracao_caixa": "06/11/2026",
+ "coletado_em": "07/11/2026 04:00",
  "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_MG.csv",
- "total": 862,
+ "total": 853,
  "colunas": [
   "id",
   "uf",
@@ -66,7 +66,7 @@
    "desconto": 36.27,
    "financiamento": "Sim",
    "descricao": "Casa, 0.00 de área total, 490.31 de área privativa, 600.00 de área do terreno.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10290991",
    "tipo": "casa",
    "geo": {
@@ -75,21 +75,6 @@
     "lng": -45.9380637
    },
    "geo_pendente": false
-  },
-  {
-   "id": "1555539999061",
-   "uf": "MG",
-   "cidade": "ALMENARA",
-   "bairro": "CENTRO",
-   "endereco": "RUA CANDIDO MARES, N. 601, Apto 1, CS 601 RESIDENCIAL CEU AZUL",
-   "preco": 124256.95,
-   "valor_avaliacao": 260000.0,
-   "desconto": 52.21,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 0.00 de área total, 310.44 de área privativa, 0.00 de área do terreno,  1 qto(s), a.serv, WC, cozinha.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1555539999061",
-   "tipo": "apartamento"
   },
   {
    "id": "10300070",
@@ -1931,27 +1916,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8444433105187",
-   "uf": "MG",
-   "cidade": "CAMPO BELO",
-   "bairro": "NOVO BANDEIRANTES",
-   "endereco": "RUA JOSE MUNGAIA, N. 130, LT 03 QD B",
-   "preco": 56182.63,
-   "valor_avaliacao": 115306.0,
-   "desconto": 51.28,
-   "financiamento": "Não",
-   "descricao": "Casa, 32.98 de área total, 32.98 de área privativa, 193.25 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444433105187",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -20.8801765,
-    "lng": -45.2868058
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8555501328613",
    "uf": "MG",
    "cidade": "CAMPO BELO",
@@ -3190,12 +3154,12 @@
    "cidade": "CORONEL FABRICIANO",
    "bairro": "BOM JESUS",
    "endereco": "RUA AUGUSTA, N. 300, Apto 302,",
-   "preco": 113532.22,
+   "preco": 110621.14,
    "valor_avaliacao": 185000.0,
-   "desconto": 38.64,
-   "financiamento": "Não",
+   "desconto": 40.21,
+   "financiamento": "Sim",
    "descricao": "Apartamento, 91.82 de área total, 91.82 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8233200010967",
    "tipo": "apartamento",
    "geo": {
@@ -3216,7 +3180,7 @@
    "desconto": 43.56,
    "financiamento": "Não",
    "descricao": "Casa, 57.88 de área total, 57.88 de área privativa, 200.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s).",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444409080145",
    "tipo": "casa",
    "geo": {
@@ -3232,12 +3196,12 @@
    "cidade": "DIVINOPOLIS",
    "bairro": "COPACABANA",
    "endereco": "RUA GUALTER TEIXEIRA MALTA, N. 1037, LT 280 QD 064 ZN 53",
-   "preco": 93333.65,
+   "preco": 90666.97,
    "valor_avaliacao": 180000.0,
-   "desconto": 48.15,
-   "financiamento": "Não",
+   "desconto": 49.63,
+   "financiamento": "Sim",
    "descricao": "Casa, 105.50 de área total, 39.00 de área privativa, 187.50 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444435862643",
    "tipo": "casa",
    "geo": {
@@ -3489,7 +3453,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Apartamento, 122.51 de área total, 45.83 de área privativa, 0.00 de área do terreno, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787709993157",
    "tipo": "apartamento",
    "geo": {
@@ -4409,27 +4373,6 @@
    "tipo": "casa"
   },
   {
-   "id": "8444405617241",
-   "uf": "MG",
-   "cidade": "FORMOSO",
-   "bairro": "AEROPORTO",
-   "endereco": "RUA TIRADENTES, N. 105, LT 10-A QD 30-F",
-   "preco": 40000.83,
-   "valor_avaliacao": 99000.0,
-   "desconto": 59.6,
-   "financiamento": "Não",
-   "descricao": "Casa, 64.13 de área total, 64.13 de área privativa, 192.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444405617241",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -14.952257,
-    "lng": -46.2405747
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8444421360160",
    "uf": "MG",
    "cidade": "FRUTAL",
@@ -4814,21 +4757,6 @@
    "geo_pendente": false
   },
   {
-   "id": "1444415527328",
-   "uf": "MG",
-   "cidade": "IBIRITE",
-   "bairro": "QUINTAS DA JANGADA - 2A SECAO",
-   "endereco": "ALAMEDA DO ITABIRITO, N. SN, CHAC 15A QD 02",
-   "preco": 195974.14,
-   "valor_avaliacao": 412000.0,
-   "desconto": 52.44,
-   "financiamento": "Sim",
-   "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 1198.50 de área do terreno.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444415527328",
-   "tipo": "terreno"
-  },
-  {
    "id": "8444419556215",
    "uf": "MG",
    "cidade": "IBIRITE",
@@ -5118,7 +5046,7 @@
    "desconto": 36.27,
    "financiamento": "Sim",
    "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 2195.95 de área do terreno.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10291036",
    "tipo": "terreno",
    "geo": {
@@ -5181,7 +5109,7 @@
    "desconto": 60.34,
    "financiamento": "Não",
    "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 495.52 de área do terreno.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1555529910432",
    "tipo": "terreno",
    "geo": {
@@ -5475,7 +5403,7 @@
    "desconto": 36.27,
    "financiamento": "Sim",
    "descricao": "Casa, 238.85 de área total, 239.85 de área privativa, 324.00 de área do terreno,  3 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444423626194",
    "tipo": "casa",
    "geo": {
@@ -5832,7 +5760,7 @@
    "desconto": 36.27,
    "financiamento": "Sim",
    "descricao": "Comercial, 0.00 de área total, 309.83 de área privativa, 528.00 de área do terreno.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10290986",
    "tipo": "comercial",
    "geo": {
@@ -5921,6 +5849,21 @@
    "geo_pendente": false
   },
   {
+   "id": "8444410872211",
+   "uf": "MG",
+   "cidade": "JUIZ DE FORA",
+   "bairro": "SAO DAMIAO",
+   "endereco": "RUA SEBASTIAO ROBERTO SCHNEIDER, N. 43/202,",
+   "preco": 112506.78,
+   "valor_avaliacao": 205000.0,
+   "desconto": 45.12,
+   "financiamento": "Sim",
+   "descricao": "Casa, 75.85 de área total, 75.85 de área privativa, 266.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444410872211",
+   "tipo": "casa"
+  },
+  {
    "id": "8444412565316",
    "uf": "MG",
    "cidade": "JUIZ DE FORA",
@@ -5940,21 +5883,6 @@
     "lng": -43.3593332
    },
    "geo_pendente": false
-  },
-  {
-   "id": "8444410872211",
-   "uf": "MG",
-   "cidade": "JUIZ DE FORA",
-   "bairro": "SAO DAMIAO",
-   "endereco": "RUA SEBASTIAO ROBERTO SCHNEIDER, N. 43/202,",
-   "preco": 115467.48,
-   "valor_avaliacao": 205000.0,
-   "desconto": 43.68,
-   "financiamento": "Não",
-   "descricao": "Casa, 75.85 de área total, 75.85 de área privativa, 266.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444410872211",
-   "tipo": "casa"
   },
   {
    "id": "10278708",
@@ -5978,6 +5906,27 @@
    "geo_pendente": false
   },
   {
+   "id": "8444418647713",
+   "uf": "MG",
+   "cidade": "JUIZ DE FORA",
+   "bairro": "SAO DAMIAO",
+   "endereco": "RUA CELINIA FORTINI TOSCANO, N. 52, LT 06 QD 14",
+   "preco": 107342.85,
+   "valor_avaliacao": 185811.2,
+   "desconto": 42.24,
+   "financiamento": "Não",
+   "descricao": "Casa, 0.00 de área total, 139.67 de área privativa, 332.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444418647713",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -21.7035927,
+    "lng": -43.4457101
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8444429069627",
    "uf": "MG",
    "cidade": "JUIZ DE FORA",
@@ -5988,7 +5937,7 @@
    "desconto": 42.08,
    "financiamento": "Não",
    "descricao": "Apartamento, 38.29 de área total, 38.29 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444429069627",
    "tipo": "apartamento",
    "geo": {
@@ -6083,27 +6032,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8787700039566",
-   "uf": "MG",
-   "cidade": "JUIZ DE FORA",
-   "bairro": "SANTO ANTONIO",
-   "endereco": "RUA ANTONIO GUIMARAES, N. 300, Apto 303, BL 3",
-   "preco": 82190.89,
-   "valor_avaliacao": 140386.14,
-   "desconto": 41.46,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 45.70 de área total, 45.70 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787700039566",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -21.772432,
-    "lng": -43.30896310000001
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8787705294262",
    "uf": "MG",
    "cidade": "JUIZ DE FORA",
@@ -6121,27 +6049,6 @@
     "fonte": "google",
     "lat": -21.7131063,
     "lng": -43.42706279999999
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8787711630678",
-   "uf": "MG",
-   "cidade": "JUIZ DE FORA",
-   "bairro": "GRAMA",
-   "endereco": "AVENIDA JUIZ DE FORA, N. 1801, Apto 1105, TORRE III",
-   "preco": 116374.92,
-   "valor_avaliacao": 197478.88,
-   "desconto": 41.07,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 79.15 de área total, 79.15 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787711630678",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -21.6859747,
-    "lng": -43.3486226
    },
    "geo_pendente": false
   },
@@ -6277,27 +6184,6 @@
     "fonte": "google",
     "lat": -21.7259844,
     "lng": -43.3960488
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8444418647713",
-   "uf": "MG",
-   "cidade": "JUIZ DE FORA",
-   "bairro": "SAO DAMIAO",
-   "endereco": "RUA CELINIA FORTINI TOSCANO, N. 52, LT 06 QD 14",
-   "preco": 112306.8,
-   "valor_avaliacao": 185811.2,
-   "desconto": 39.56,
-   "financiamento": "Não",
-   "descricao": "Casa, 0.00 de área total, 139.67 de área privativa, 332.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444418647713",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -21.7035927,
-    "lng": -43.4457101
    },
    "geo_pendente": false
   },
@@ -6801,7 +6687,7 @@
    "desconto": 82.48,
    "financiamento": "Não",
    "descricao": "Apartamento, 0.00 de área total, 65.70 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444407324721",
    "tipo": "apartamento",
    "geo": {
@@ -7463,21 +7349,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8444413028195",
-   "uf": "MG",
-   "cidade": "NOVA SERRANA",
-   "bairro": "REGINA AMARAL II",
-   "endereco": "AVENIDA PROJETADA CINCO, N. 1529, 0263-C",
-   "preco": 119000.0,
-   "valor_avaliacao": 119000.0,
-   "desconto": 0.0,
-   "financiamento": "Não",
-   "descricao": "Casa, 0.00 de área total, 59.20 de área privativa, 144.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444413028195",
-   "tipo": "casa"
-  },
-  {
    "id": "8555533981312",
    "uf": "MG",
    "cidade": "NOVA SERRANA",
@@ -7722,7 +7593,7 @@
    "desconto": 36.27,
    "financiamento": "Sim",
    "descricao": "Casa, 192.97 de área total, 192.97 de área privativa, 360.00 de área do terreno,  3 qto(s).",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444419045506",
    "tipo": "casa",
    "geo": {
@@ -7738,12 +7609,12 @@
    "cidade": "PATOS DE MINAS",
    "bairro": "JARDIM QUEBEC",
    "endereco": "RUA MARIA JOANA ENVANGELISTA, N. 8, QD A8 LT 23",
-   "preco": 104000.35,
+   "preco": 101333.67,
    "valor_avaliacao": 180000.0,
-   "desconto": 42.23,
-   "financiamento": "Não",
+   "desconto": 43.71,
+   "financiamento": "Sim",
    "descricao": "Casa, 62.84 de área total, 62.84 de área privativa, 264.43 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 2 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787708381255",
    "tipo": "casa",
    "geo": {
@@ -7939,6 +7810,27 @@
     "fonte": "google",
     "lat": -18.5738074,
     "lng": -46.5163944
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8444415046395",
+   "uf": "MG",
+   "cidade": "PEDRO LEOPOLDO",
+   "bairro": "CENTRO",
+   "endereco": "RUA JOCKEY CLUBE, N. 482D, UN 05 PAV 2",
+   "preco": 91570.92,
+   "valor_avaliacao": 150000.0,
+   "desconto": 38.96,
+   "financiamento": "Não",
+   "descricao": "Casa, 34.38 de área total, 34.38 de área privativa, 197.95 de área do terreno,  1 qto(s), WC, 1 sala(s), cozinha.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444415046395",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -19.62773,
+    "lng": -44.0325042
    },
    "geo_pendente": false
   },
@@ -8416,48 +8308,6 @@
     "fonte": "google",
     "lat": -20.7439106,
     "lng": -46.8604236
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8444408979195",
-   "uf": "MG",
-   "cidade": "PRESIDENTE OLEGARIO",
-   "bairro": "SALTADOR",
-   "endereco": "AVENIDA SÃO TIAGO, N. 235, LT 134 ST 05 QD 102",
-   "preco": 126926.84,
-   "valor_avaliacao": 210000.0,
-   "desconto": 39.56,
-   "financiamento": "Não",
-   "descricao": "Casa, 91.07 de área total, 59.50 de área privativa, 200.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444408979195",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -18.4225626,
-    "lng": -46.407763
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8555517661694",
-   "uf": "MG",
-   "cidade": "PRESIDENTE OLEGARIO",
-   "bairro": "SALTADOR",
-   "endereco": "RUA PIMPIM MOREIRA, N. SN, LOTE 02, QUADRA 103, SETOR 05",
-   "preco": 98816.7,
-   "valor_avaliacao": 160000.0,
-   "desconto": 38.24,
-   "financiamento": "Não",
-   "descricao": "Casa, 101.11 de área total, 46.61 de área privativa, 150.00 de área do terreno.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555517661694",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -18.4223796,
-    "lng": -46.4123533
    },
    "geo_pendente": false
   },
@@ -9993,7 +9843,7 @@
    "desconto": 39.56,
    "financiamento": "Não",
    "descricao": "Apartamento, 51.49 de área total, 44.94 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555519597969",
    "tipo": "apartamento",
    "geo": {
@@ -10670,27 +10520,6 @@
    "tipo": "apartamento"
   },
   {
-   "id": "8444419051113",
-   "uf": "MG",
-   "cidade": "SETE LAGOAS",
-   "bairro": "ITAPOA II",
-   "endereco": "RUA TANGARA, N. 0, LT 08 QD 13",
-   "preco": 60560.36,
-   "valor_avaliacao": 137000.0,
-   "desconto": 55.8,
-   "financiamento": "Não",
-   "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 360.00 de área do terreno.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444419051113",
-   "tipo": "terreno",
-   "geo": {
-    "fonte": "google",
-    "lat": -19.4738014,
-    "lng": -44.1967281
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8555527710655",
    "uf": "MG",
    "cidade": "SETE LAGOAS",
@@ -10794,7 +10623,7 @@
    "desconto": 36.27,
    "financiamento": "Sim",
    "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 540.00 de área do terreno.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444409008608",
    "tipo": "terreno",
    "geo": {
@@ -10876,9 +10705,9 @@
    "preco": 1098092.54,
    "valor_avaliacao": 1723000.0,
    "desconto": 36.27,
-   "financiamento": "Sim",
+   "financiamento": "Não",
    "descricao": "Gleba, 0.00 de área total, 0.00 de área privativa, 12159.57 de área do terreno.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10289413",
    "tipo": "gleba",
    "geo": {
@@ -11169,13 +10998,34 @@
    "desconto": 51.28,
    "financiamento": "Não",
    "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 200.00 de área do terreno.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444422920631",
    "tipo": "terreno",
    "geo": {
     "fonte": "google",
     "lat": -19.7305409,
     "lng": -47.9846915
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8787708660553",
+   "uf": "MG",
+   "cidade": "UBERABA",
+   "bairro": "CACHIMBO",
+   "endereco": "AVENIDA PEDRO LUCAS, N. 601, Apto 104, BL 02 VG 03",
+   "preco": 92815.12,
+   "valor_avaliacao": 179000.0,
+   "desconto": 48.15,
+   "financiamento": "Sim",
+   "descricao": "Apartamento, 0.00 de área total, 42.90 de área privativa, 0.00 de área do terreno.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787708660553",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -19.7185737,
+    "lng": -47.9420928
    },
    "geo_pendente": false
   },
@@ -11201,27 +11051,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8787708660553",
-   "uf": "MG",
-   "cidade": "UBERABA",
-   "bairro": "CACHIMBO",
-   "endereco": "AVENIDA PEDRO LUCAS, N. 601, Apto 104, BL 02 VG 03",
-   "preco": 95466.98,
-   "valor_avaliacao": 179000.0,
-   "desconto": 46.67,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 0.00 de área total, 42.90 de área privativa, 0.00 de área do terreno.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787708660553",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -19.7185737,
-    "lng": -47.9420928
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8787712719745",
    "uf": "MG",
    "cidade": "UBERABA",
@@ -11239,6 +11068,27 @@
     "fonte": "google",
     "lat": -19.7828154,
     "lng": -47.9398596
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8787712043407",
+   "uf": "MG",
+   "cidade": "UBERABA",
+   "bairro": "VALLIM",
+   "endereco": "RUA DONA CECÍLIA BORGES PAULUK, N. 70, Apto 204,  BL26 VG164",
+   "preco": 90074.38,
+   "valor_avaliacao": 160000.0,
+   "desconto": 43.71,
+   "financiamento": "Sim",
+   "descricao": "Apartamento, 45.56 de área total, 40.57 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787712043407",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -19.7902026,
+    "lng": -47.9109863
    },
    "geo_pendente": false
   },
@@ -11612,27 +11462,6 @@
    "descricao": "Apartamento, 45.56 de área total, 40.57 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
    "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787712043644",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -19.7902026,
-    "lng": -47.9109863
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8787712043407",
-   "uf": "MG",
-   "cidade": "UBERABA",
-   "bairro": "VALLIM",
-   "endereco": "RUA DONA CECÍLIA BORGES PAULUK, N. 70, Apto 204,  BL26 VG164",
-   "preco": 92444.76,
-   "valor_avaliacao": 160000.0,
-   "desconto": 42.23,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 45.56 de área total, 40.57 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787712043407",
    "tipo": "apartamento",
    "geo": {
     "fonte": "google",
@@ -12453,34 +12282,13 @@
    "desconto": 39.56,
    "financiamento": "Não",
    "descricao": "Apartamento, 83.59 de área total, 41.97 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787717426690",
    "tipo": "apartamento",
    "geo": {
     "fonte": "google",
     "lat": -19.7528237,
     "lng": -47.905948
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8787706298040",
-   "uf": "MG",
-   "cidade": "UBERABA",
-   "bairro": "LOTEAMENTO ANTONIO CAIADO",
-   "endereco": "RUA MARIA IZABEL DOS REIS, N. 410, LT 21, QD Z",
-   "preco": 142037.17,
-   "valor_avaliacao": 235000.0,
-   "desconto": 39.56,
-   "financiamento": "Não",
-   "descricao": "Casa, 46.49 de área total, 46.49 de área privativa, 200.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787706298040",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -19.7963765,
-    "lng": -47.9233882
    },
    "geo_pendente": false
   },
@@ -13348,12 +13156,12 @@
    "cidade": "UBERLANDIA",
    "bairro": "MANSOUR",
    "endereco": "AVENIDA AMERICO ATTIE, N. 121, Apto 403, BL 07, QD 03 LT 02",
-   "preco": 91000.3,
+   "preco": 88666.96,
    "valor_avaliacao": 157500.0,
-   "desconto": 42.23,
-   "financiamento": "Não",
+   "desconto": 43.71,
+   "financiamento": "Sim",
    "descricao": "Apartamento, 64.45 de área total, 44.14 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555522530276",
    "tipo": "apartamento",
    "geo": {
@@ -13770,7 +13578,7 @@
    "desconto": 40.75,
    "financiamento": "Não",
    "descricao": "Apartamento, 63.51 de área total, 45.77 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444429066784",
    "tipo": "apartamento",
    "geo": {
@@ -13812,7 +13620,7 @@
    "desconto": 40.75,
    "financiamento": "Não",
    "descricao": "Apartamento, 61.00 de área total, 43.61 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555522148363",
    "tipo": "apartamento",
    "geo": {
@@ -13842,21 +13650,6 @@
     "lng": -48.313967
    },
    "geo_pendente": false
-  },
-  {
-   "id": "8787703084414",
-   "uf": "MG",
-   "cidade": "UBERLANDIA",
-   "bairro": "JARDIM HOLANDA",
-   "endereco": "ALAMEDA CORRETOR DE IMOVEIS, N. 1035, Apto 104, BL 03",
-   "preco": 99852.19,
-   "valor_avaliacao": 168500.0,
-   "desconto": 40.75,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 59.80 de área total, 52.30 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787703084414",
-   "tipo": "apartamento"
   },
   {
    "id": "8444438385560",
@@ -16190,39 +15983,18 @@
    "geo_pendente": false
   },
   {
-   "id": "10285654",
+   "id": "10285649",
    "uf": "MG",
    "cidade": "UNAI",
    "bairro": "RESIDENCIAL VITORIA",
-   "endereco": "AVENIDA MARIA APARECIDA BRANQUINHO SILVA, N. 00, QD 12, LT 17",
-   "preco": 47507.91,
-   "valor_avaliacao": 80500.0,
-   "desconto": 40.99,
+   "endereco": "AVENIDA MARIA APARECIDA BRANQUINHO SILVA, N. 00, QD 12, LT 14",
+   "preco": 46257.48,
+   "valor_avaliacao": 78300.0,
+   "desconto": 40.93,
    "financiamento": "Não",
-   "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 245.67 de área do terreno.",
+   "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 239.52 de área do terreno.",
    "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10285654",
-   "tipo": "terreno",
-   "geo": {
-    "fonte": "google",
-    "lat": -16.3630302,
-    "lng": -46.8977131
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "10285653",
-   "uf": "MG",
-   "cidade": "UNAI",
-   "bairro": "RESIDENCIAL VITORIA",
-   "endereco": "AVENIDA MARIA APARECIDA BRANQUINHO SILVA, N. 00, QD 12, LT 16",
-   "preco": 47258.72,
-   "valor_avaliacao": 79600.0,
-   "desconto": 40.63,
-   "financiamento": "Não",
-   "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 243.62 de área do terreno.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10285653",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10285649",
    "tipo": "terreno",
    "geo": {
     "fonte": "google",
@@ -16237,55 +16009,13 @@
    "cidade": "UNAI",
    "bairro": "RESIDENCIAL VITORIA",
    "endereco": "AVENIDA MARIA APARECIDA BRANQUINHO SILVA, N. 00, QD 12, LT 15",
-   "preco": 47009.84,
+   "preco": 46671.01,
    "valor_avaliacao": 79000.0,
-   "desconto": 40.5,
+   "desconto": 40.93,
    "financiamento": "Não",
    "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 241.57 de área do terreno.",
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10285650",
-   "tipo": "terreno",
-   "geo": {
-    "fonte": "google",
-    "lat": -16.3630302,
-    "lng": -46.8977131
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "10285649",
-   "uf": "MG",
-   "cidade": "UNAI",
-   "bairro": "RESIDENCIAL VITORIA",
-   "endereco": "AVENIDA MARIA APARECIDA BRANQUINHO SILVA, N. 00, QD 12, LT 14",
-   "preco": 46763.94,
-   "valor_avaliacao": 78300.0,
-   "desconto": 40.28,
-   "financiamento": "Não",
-   "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 239.52 de área do terreno.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10285649",
-   "tipo": "terreno",
-   "geo": {
-    "fonte": "google",
-    "lat": -16.3630302,
-    "lng": -46.8977131
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "10285655",
-   "uf": "MG",
-   "cidade": "UNAI",
-   "bairro": "RESIDENCIAL VITORIA",
-   "endereco": "AVENIDA MARIA APARECIDA BRANQUINHO SILVA, N. 00, QD 13, LT 15",
-   "preco": 46298.31,
-   "valor_avaliacao": 77000.0,
-   "desconto": 39.88,
-   "financiamento": "Não",
-   "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 235.60 de área do terreno.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10285655",
    "tipo": "terreno",
    "geo": {
     "fonte": "google",
@@ -16300,9 +16030,9 @@
    "cidade": "UNAI",
    "bairro": "RESIDENCIAL VITORIA",
    "endereco": "AVENIDA MARIA APARECIDA BRANQUINHO SILVA, N. 00, QD 13, LT 17",
-   "preco": 46302.72,
+   "preco": 45489.47,
    "valor_avaliacao": 77000.0,
-   "desconto": 39.87,
+   "desconto": 40.93,
    "financiamento": "Não",
    "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 235.65 de área do terreno.",
    "modalidade": "Venda Online",
@@ -16316,23 +16046,65 @@
    "geo_pendente": false
   },
   {
-   "id": "10285651",
+   "id": "10285653",
    "uf": "MG",
    "cidade": "UNAI",
    "bairro": "RESIDENCIAL VITORIA",
-   "endereco": "RUA JOAQUIM JOSE DA SILVA, N. 00, QD 09, LT 16",
-   "preco": 55779.02,
-   "valor_avaliacao": 88000.0,
-   "desconto": 36.62,
+   "endereco": "AVENIDA MARIA APARECIDA BRANQUINHO SILVA, N. 00, QD 12, LT 16",
+   "preco": 47025.47,
+   "valor_avaliacao": 79600.0,
+   "desconto": 40.93,
    "financiamento": "Não",
-   "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 309.82 de área do terreno.",
+   "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 243.62 de área do terreno.",
    "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10285651",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10285653",
    "tipo": "terreno",
    "geo": {
     "fonte": "google",
-    "lat": -16.3613391,
-    "lng": -46.8957614
+    "lat": -16.3630302,
+    "lng": -46.8977131
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "10285654",
+   "uf": "MG",
+   "cidade": "UNAI",
+   "bairro": "RESIDENCIAL VITORIA",
+   "endereco": "AVENIDA MARIA APARECIDA BRANQUINHO SILVA, N. 00, QD 12, LT 17",
+   "preco": 47557.17,
+   "valor_avaliacao": 80500.0,
+   "desconto": 40.93,
+   "financiamento": "Não",
+   "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 245.67 de área do terreno.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10285654",
+   "tipo": "terreno",
+   "geo": {
+    "fonte": "google",
+    "lat": -16.3630302,
+    "lng": -46.8977131
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "10285655",
+   "uf": "MG",
+   "cidade": "UNAI",
+   "bairro": "RESIDENCIAL VITORIA",
+   "endereco": "AVENIDA MARIA APARECIDA BRANQUINHO SILVA, N. 00, QD 13, LT 15",
+   "preco": 45489.47,
+   "valor_avaliacao": 77000.0,
+   "desconto": 40.93,
+   "financiamento": "Não",
+   "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 235.60 de área do terreno.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10285655",
+   "tipo": "terreno",
+   "geo": {
+    "fonte": "google",
+    "lat": -16.3630302,
+    "lng": -46.8977131
    },
    "geo_pendente": false
   },
@@ -16342,9 +16114,9 @@
    "cidade": "UNAI",
    "bairro": "RESIDENCIAL VITORIA",
    "endereco": "RUA DEJANIRA MENDES CORNELIO, N. 00, QD 09, LT 15",
-   "preco": 54648.73,
+   "preco": 51937.77,
    "valor_avaliacao": 86000.0,
-   "desconto": 36.46,
+   "desconto": 39.61,
    "financiamento": "Não",
    "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 301.61 de área do terreno.",
    "modalidade": "Venda Online",
@@ -16354,6 +16126,27 @@
     "fonte": "google",
     "lat": -16.357959,
     "lng": -46.8909534
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "10285651",
+   "uf": "MG",
+   "cidade": "UNAI",
+   "bairro": "RESIDENCIAL VITORIA",
+   "endereco": "RUA JOAQUIM JOSE DA SILVA, N. 00, QD 09, LT 16",
+   "preco": 53145.63,
+   "valor_avaliacao": 88000.0,
+   "desconto": 39.61,
+   "financiamento": "Não",
+   "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 309.82 de área do terreno.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10285651",
+   "tipo": "terreno",
+   "geo": {
+    "fonte": "google",
+    "lat": -16.3613391,
+    "lng": -46.8957614
    },
    "geo_pendente": false
   },
@@ -16634,6 +16427,27 @@
    "geo_pendente": false
   },
   {
+   "id": "8444431483028",
+   "uf": "MG",
+   "cidade": "VARZEA DA PALMA",
+   "bairro": "BAIRRO PEDRAS GRANDE",
+   "endereco": "RUA 35, N. 757, LT 03 QD 31",
+   "preco": 74646.53,
+   "valor_avaliacao": 150000.0,
+   "desconto": 50.24,
+   "financiamento": "Não",
+   "descricao": "Casa, 46.36 de área total, 46.36 de área privativa, 180.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444431483028",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -17.6356934,
+    "lng": -44.7095421
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8444403924279",
    "uf": "MG",
    "cidade": "VARZEA DA PALMA",
@@ -16746,6 +16560,27 @@
    "modalidade": "Licitação Aberta",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787716774422",
    "tipo": "apartamento"
+  },
+  {
+   "id": "8787702964283",
+   "uf": "MG",
+   "cidade": "VESPASIANO",
+   "bairro": "BONSUCESSO",
+   "endereco": "AVENIDA DIVINO MARQUES GUIMARAES, N. 2249, Apto 204, BL 03",
+   "preco": 111544.51,
+   "valor_avaliacao": 184550.0,
+   "desconto": 39.56,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 61.96 de área total, 45.04 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787702964283",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -19.7697828,
+    "lng": -43.9657655
+   },
+   "geo_pendente": false
   },
   {
    "id": "8787704037401",

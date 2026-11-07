@@ -1,9 +1,9 @@
 {
  "uf": "PA",
- "data_geracao_caixa": "05/11/2026",
- "coletado_em": "05/11/2026 22:29",
+ "data_geracao_caixa": "06/11/2026",
+ "coletado_em": "07/11/2026 04:00",
  "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_PA.csv",
- "total": 252,
+ "total": 253,
  "colunas": [
   "id",
   "uf",
@@ -1020,7 +1020,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Casa, 63.00 de área total, 51.00 de área privativa, 212.80 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444404613110",
    "tipo": "casa",
    "geo": {
@@ -2363,27 +2363,6 @@
    "geo_pendente": false
   },
   {
-   "id": "1555530841830",
-   "uf": "PA",
-   "cidade": "CURUCA",
-   "bairro": "CENTRO",
-   "endereco": "RUA DA COCA COLA, N. S/N, KM 58",
-   "preco": 44329.79,
-   "valor_avaliacao": 114000.0,
-   "desconto": 61.12,
-   "financiamento": "Não",
-   "descricao": "Casa, 0.00 de área total, 42.00 de área privativa, 2111.05 de área do terreno.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1555530841830",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -0.7333584999999999,
-    "lng": -47.8536893
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "1444402805545",
    "uf": "PA",
    "cidade": "CURUCA",
@@ -2613,7 +2592,7 @@
    "desconto": 76.61,
    "financiamento": "Não",
    "descricao": "Casa, 54.18 de área total, 54.18 de área privativa, 97.50 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444406948756",
    "tipo": "casa",
    "geo": {
@@ -2746,6 +2725,27 @@
     "fonte": "google",
     "lat": -4.2781578,
     "lng": -56.0253413
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8444412632560",
+   "uf": "PA",
+   "cidade": "JACUNDA",
+   "bairro": "SANTA HELENA",
+   "endereco": "RUA DANTE DE OLIVEIRA, N. 238,",
+   "preco": 47123.43,
+   "valor_avaliacao": 159500.0,
+   "desconto": 70.46,
+   "financiamento": "Não",
+   "descricao": "Casa, 0.00 de área total, 69.71 de área privativa, 277.88 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444412632560",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -4.4381865,
+    "lng": -49.1181352
    },
    "geo_pendente": false
   },
@@ -3096,7 +3096,7 @@
    "desconto": 40.75,
    "financiamento": "Não",
    "descricao": "Casa, 73.82 de área total, 22.00 de área privativa, 132.58 de área do terreno,  1 qto(s).",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444425416888",
    "tipo": "casa",
    "geo": {
@@ -3426,7 +3426,7 @@
    "desconto": 36.27,
    "financiamento": "Não",
    "descricao": "Casa, 0.00 de área total, 276.18 de área privativa, 340.00 de área do terreno,  1 qto(s), a.serv, WC, 2 sala(s), 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444407267142",
    "tipo": "casa",
    "geo": {
@@ -3471,6 +3471,27 @@
    "modalidade": "Leilão SFI - Edital Único",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10005877",
    "tipo": "imovel rural"
+  },
+  {
+   "id": "1444405011930",
+   "uf": "PA",
+   "cidade": "NOVO PROGRESSO",
+   "bairro": "SETOR INDUSTRIAL",
+   "endereco": "RUA SUCUPIRA, N. SN, LT 01 QD 510 SETOR 18",
+   "preco": 62111.83,
+   "valor_avaliacao": 152000.0,
+   "desconto": 59.14,
+   "financiamento": "Não",
+   "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 994.00 de área do terreno.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444405011930",
+   "tipo": "terreno",
+   "geo": {
+    "fonte": "google",
+    "lat": -7.0618034,
+    "lng": -55.4284269
+   },
+   "geo_pendente": false
   },
   {
    "id": "1444423382872",
@@ -4128,7 +4149,7 @@
    "desconto": 46.27,
    "financiamento": "Não",
    "descricao": "Casa, 0.00 de área total, 63.00 de área privativa, 211.50 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444407356135",
    "tipo": "casa",
    "geo": {
@@ -4915,12 +4936,12 @@
    "cidade": "TUCURUI",
    "bairro": "SAO JOSE",
    "endereco": "RUA LAURO SODRE, N. SN, BR 422 KM 01",
-   "preco": 144712.03,
+   "preco": 141094.22,
    "valor_avaliacao": 422000.0,
-   "desconto": 65.71,
-   "financiamento": "Sim",
+   "desconto": 66.57,
+   "financiamento": "Não",
    "descricao": "Gleba, 0.00 de área total, 0.00 de área privativa, 2983.46 de área do terreno.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444403794792",
    "tipo": "gleba"
   },

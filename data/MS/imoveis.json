@@ -1,9 +1,9 @@
 {
  "uf": "MS",
- "data_geracao_caixa": "05/11/2026",
- "coletado_em": "05/11/2026 22:29",
+ "data_geracao_caixa": "06/11/2026",
+ "coletado_em": "07/11/2026 04:00",
  "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_MS.csv",
- "total": 230,
+ "total": 233,
  "colunas": [
   "id",
   "uf",
@@ -88,12 +88,12 @@
    "cidade": "AQUIDAUANA",
    "bairro": "PINHEIRO",
    "endereco": "RUA JAIME ARTIGAS, N. 398, LT 07, QD 538 DA PCC",
-   "preco": 102844.79,
+   "preco": 100207.74,
    "valor_avaliacao": 178000.0,
-   "desconto": 42.23,
-   "financiamento": "Não",
+   "desconto": 43.71,
+   "financiamento": "Sim",
    "descricao": "Casa, 70.25 de área total, 70.25 de área privativa, 300.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444405135859",
    "tipo": "casa",
    "geo": {
@@ -349,12 +349,12 @@
    "cidade": "CAMPO GRANDE",
    "bairro": "VILA NHANHÁ",
    "endereco": "RUA SOL NASCENTE, N. 718, LT 01 QD 03",
-   "preco": 104261.33,
+   "preco": 97310.57,
    "valor_avaliacao": 230000.0,
-   "desconto": 54.67,
-   "financiamento": "Não",
+   "desconto": 57.7,
+   "financiamento": "Sim",
    "descricao": "Casa, 41.71 de área total, 41.71 de área privativa, 204.75 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444433095114",
    "tipo": "casa",
    "geo": {
@@ -375,13 +375,34 @@
    "desconto": 54.21,
    "financiamento": "Sim",
    "descricao": "Casa, 0.00 de área total, 142.19 de área privativa, 360.00 de área do terreno.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444405327600",
    "tipo": "casa",
    "geo": {
     "fonte": "google",
     "lat": -20.5381363,
     "lng": -54.6521556
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "1444419087144",
+   "uf": "MS",
+   "cidade": "CAMPO GRANDE",
+   "bairro": "VARANDAS DO CAMPO",
+   "endereco": "RUA CABREUVA, N. 321, Apto 03, BL 10",
+   "preco": 63070.41,
+   "valor_avaliacao": 136500.0,
+   "desconto": 53.8,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 42.91 de área total, 42.91 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444419087144",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -20.559428,
+    "lng": -54.60464700000001
    },
    "geo_pendente": false
   },
@@ -882,7 +903,7 @@
    "desconto": 42.08,
    "financiamento": "Não",
    "descricao": "Apartamento, 47.58 de área total, 42.91 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555517996025",
    "tipo": "apartamento",
    "geo": {
@@ -1437,7 +1458,7 @@
    "desconto": 39.56,
    "financiamento": "Não",
    "descricao": "Casa, 61.39 de área total, 61.39 de área privativa, 227.50 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444411929101",
    "tipo": "casa",
    "geo": {
@@ -1494,7 +1515,7 @@
    "desconto": 39.56,
    "financiamento": "Não",
    "descricao": "Casa, 48.85 de área total, 48.85 de área privativa, 115.65 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444425911994",
    "tipo": "casa",
    "geo": {
@@ -1662,7 +1683,7 @@
    "desconto": 38.77,
    "financiamento": "Não",
    "descricao": "Casa, 60.97 de área total, 60.97 de área privativa, 126.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787700295325",
    "tipo": "casa",
    "geo": {
@@ -1788,7 +1809,7 @@
    "desconto": 37.06,
    "financiamento": "Não",
    "descricao": "Casa, 54.31 de área total, 54.31 de área privativa, 224.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444414648847",
    "tipo": "casa",
    "geo": {
@@ -3522,7 +3543,7 @@
    "desconto": 41.05,
    "financiamento": "Sim",
    "descricao": "Casa, 98.07 de área total, 98.07 de área privativa, 146.41 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1555520769826",
    "tipo": "casa",
    "geo": {
@@ -3546,6 +3567,27 @@
    "modalidade": "Licitação Aberta",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444404590617",
    "tipo": "apartamento"
+  },
+  {
+   "id": "1555520629145",
+   "uf": "MS",
+   "cidade": "CORUMBA",
+   "bairro": "CENTRO",
+   "endereco": "RUA LADARIO, N. SN, LOTE 37-A",
+   "preco": 207127.15,
+   "valor_avaliacao": 325000.0,
+   "desconto": 36.27,
+   "financiamento": "Sim",
+   "descricao": "Casa, 98.08 de área total, 76.80 de área privativa, 146.41 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1555520629145",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -19.0027653,
+    "lng": -57.6451517
+   },
+   "geo_pendente": false
   },
   {
    "id": "8555537622856",
@@ -3783,7 +3825,7 @@
    "desconto": 31.58,
    "financiamento": "Não",
    "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 300.00 de área do terreno.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10286351",
    "tipo": "terreno"
   },
@@ -3993,7 +4035,7 @@
    "desconto": 37.06,
    "financiamento": "Não",
    "descricao": "Casa, 168.68 de área total, 168.68 de área privativa, 300.00 de área do terreno,  1 qto(s).",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1555504182409",
    "tipo": "casa",
    "geo": {
@@ -4113,7 +4155,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Casa, 54.30 de área total, 54.30 de área privativa, 117.60 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444419653148",
    "tipo": "casa",
    "geo": {
@@ -4360,6 +4402,27 @@
     "fonte": "google",
     "lat": -20.7749375,
     "lng": -51.73263919999999
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8787716322220",
+   "uf": "MS",
+   "cidade": "TRES LAGOAS",
+   "bairro": "JARDIM PROGRESSO",
+   "endereco": "RUA ISAC MARQUES GARCIA, N. 69, CASA 69 LOTE 00 QUADRA 00",
+   "preco": 150014.6,
+   "valor_avaliacao": 245000.0,
+   "desconto": 38.77,
+   "financiamento": "Não",
+   "descricao": "Casa, 64.72 de área total, 64.72 de área privativa, 153.20 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787716322220",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -20.7815466,
+    "lng": -51.7213036
    },
    "geo_pendente": false
   },
