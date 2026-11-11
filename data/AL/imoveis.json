@@ -1,9 +1,9 @@
 {
  "uf": "AL",
- "data_geracao_caixa": "09/11/2026",
- "coletado_em": "10/11/2026 00:26",
+ "data_geracao_caixa": "10/11/2026",
+ "coletado_em": "10/11/2026 23:42",
  "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_AL.csv",
- "total": 106,
+ "total": 103,
  "colunas": [
   "id",
   "uf",
@@ -355,12 +355,12 @@
    "cidade": "JARAMATAIA",
    "bairro": "POVOADO CAMPO ALEGRE",
    "endereco": "RUA PROJETADA, N. 7, .",
-   "preco": 28597.33,
+   "preco": 25737.6,
    "valor_avaliacao": 133000.0,
-   "desconto": 78.5,
+   "desconto": 80.65,
    "financiamento": "Não",
    "descricao": "Casa, 0.00 de área total, 73.72 de área privativa, 97.77 de área do terreno,  2 qto(s), WC, 2 sala(s), cozinha.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444427060835",
    "tipo": "casa",
    "geo": {
@@ -493,27 +493,6 @@
     "fonte": "google",
     "lat": -9.5998158,
     "lng": -35.7316526
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8787716977560",
-   "uf": "AL",
-   "cidade": "MACEIO",
-   "bairro": "CIDADE UNIVERSITARIA",
-   "endereco": "RODOVIA AL 105, N. 442, CASA 24, QD C",
-   "preco": 132970.97,
-   "valor_avaliacao": 220000.0,
-   "desconto": 39.56,
-   "financiamento": "Não",
-   "descricao": "Casa, 76.63 de área total, 54.83 de área privativa, 89.96 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787716977560",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -9.518847,
-    "lng": -35.7775149
    },
    "geo_pendente": false
   },
@@ -1065,7 +1044,7 @@
    "desconto": 40.36,
    "financiamento": "Não",
    "descricao": "Terreno, 72.00 de área total, 0.00 de área privativa, 72.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444406779849",
    "tipo": "terreno",
    "geo": {
@@ -1180,6 +1159,27 @@
     "fonte": "google",
     "lat": -9.311405,
     "lng": -35.9400881
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8555520206501",
+   "uf": "AL",
+   "cidade": "OLHO D'AGUA DAS FLORES",
+   "bairro": "Centro",
+   "endereco": "RUA PREFEITO ARNOBIO SILVA, N. 85, CS 01",
+   "preco": 68797.93,
+   "valor_avaliacao": 115000.0,
+   "desconto": 40.18,
+   "financiamento": "Não",
+   "descricao": "Casa, 0.00 de área total, 89.90 de área privativa, 167.96 de área do terreno.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555520206501",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -9.5236904,
+    "lng": -37.29748
    },
    "geo_pendente": false
   },
@@ -1511,27 +1511,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8444432786822",
-   "uf": "AL",
-   "cidade": "RIO LARGO",
-   "bairro": "CENTRO",
-   "endereco": "RUA EM PROJETO, N. 40, QD 04",
-   "preco": 26140.97,
-   "valor_avaliacao": 50000.0,
-   "desconto": 47.72,
-   "financiamento": "Não",
-   "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 140.00 de área do terreno.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444432786822",
-   "tipo": "terreno",
-   "geo": {
-    "fonte": "google",
-    "lat": -9.9198194,
-    "lng": -36.3587665
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8444436352959",
    "uf": "AL",
    "cidade": "RIO LARGO",
@@ -1566,27 +1545,6 @@
    "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555523351936",
    "tipo": "casa"
-  },
-  {
-   "id": "8444404294287",
-   "uf": "AL",
-   "cidade": "RIO LARGO",
-   "bairro": "Pref Antônio L Souza",
-   "endereco": "CONDOMÍNIO RESIDENCIAL UNIÃO, N. SN, CS 04 QD C LT 04",
-   "preco": 68071.43,
-   "valor_avaliacao": 125000.0,
-   "desconto": 45.55,
-   "financiamento": "Não",
-   "descricao": "Casa, 0.00 de área total, 58.91 de área privativa, 76.20 de área do terreno.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444404294287",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -9.5156136,
-    "lng": -35.8088391
-   },
-   "geo_pendente": false
   },
   {
    "id": "8555522233956",
@@ -1749,7 +1707,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Casa, 47.82 de área total, 47.82 de área privativa, 42.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555535973902",
    "tipo": "casa",
    "geo": {
@@ -1779,21 +1737,6 @@
     "lng": -35.8427506
    },
    "geo_pendente": false
-  },
-  {
-   "id": "8444413053513",
-   "uf": "AL",
-   "cidade": "RIO LARGO",
-   "bairro": "TABULEIRO DO PINTO",
-   "endereco": "RUA 6C, N. 06, LT 06, QD C-11",
-   "preco": 58898.61,
-   "valor_avaliacao": 78000.0,
-   "desconto": 24.49,
-   "financiamento": "Não",
-   "descricao": "Casa, 0.00 de área total, 38.03 de área privativa, 101.25 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444413053513",
-   "tipo": "casa"
   },
   {
    "id": "8444418187712",
@@ -1995,7 +1938,7 @@
    "desconto": 44.83,
    "financiamento": "Não",
    "descricao": "Casa, 0.00 de área total, 93.60 de área privativa, 169.00 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444403685550",
    "tipo": "casa",
    "geo": {
