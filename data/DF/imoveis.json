@@ -1,9 +1,9 @@
 {
  "uf": "DF",
- "data_geracao_caixa": "11/11/2026",
- "coletado_em": "11/11/2026 22:28",
+ "data_geracao_caixa": "12/11/2026",
+ "coletado_em": "13/11/2026 04:49",
  "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_DF.csv",
- "total": 80,
+ "total": 79,
  "colunas": [
   "id",
   "uf",
@@ -1315,27 +1315,6 @@
     "fonte": "google",
     "lat": -15.8740629,
     "lng": -48.0679233
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "1555521553460",
-   "uf": "DF",
-   "cidade": "TAGUATINGA",
-   "bairro": "SETOR INDUSTRIAL",
-   "endereco": "LOTES N° 1 A 13 QUADRA QI-24, N. SN, Apto 303, TORRE B VAGA N°499",
-   "preco": 168888.29,
-   "valor_avaliacao": 265000.0,
-   "desconto": 36.27,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 81.55 de área total, 50.46 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Licitação Aberta",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1555521553460",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -15.8335644,
-    "lng": -48.057109
    },
    "geo_pendente": false
   },
