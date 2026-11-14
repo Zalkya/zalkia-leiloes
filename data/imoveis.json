@@ -1,8 +1,8 @@
 {
  "uf": "BR",
- "atualizado_em": "14/11/2026 04:34",
+ "atualizado_em": "14/11/2026 12:46",
  "fonte": "por-UF",
- "total": 23765,
+ "total": 23755,
  "colunas": [
   "bairro",
   "cidade",
@@ -24,56 +24,56 @@
   {
    "uf": "AC",
    "data_geracao_caixa": "13/11/2026",
-   "coletado_em": "14/11/2026 04:31",
+   "coletado_em": "14/11/2026 12:43",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_AC.csv",
    "total": 19
   },
   {
    "uf": "AL",
    "data_geracao_caixa": "13/11/2026",
-   "coletado_em": "14/11/2026 04:31",
+   "coletado_em": "14/11/2026 12:43",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_AL.csv",
    "total": 103
   },
   {
    "uf": "AP",
    "data_geracao_caixa": "13/11/2026",
-   "coletado_em": "14/11/2026 04:31",
+   "coletado_em": "14/11/2026 12:43",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_AP.csv",
    "total": 5
   },
   {
    "uf": "AM",
-   "data_geracao_caixa": "12/11/2026",
-   "coletado_em": "13/11/2026 14:07",
+   "data_geracao_caixa": "13/11/2026",
+   "coletado_em": "14/11/2026 12:43",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_AM.csv",
-   "total": 206
+   "total": 196
   },
   {
    "uf": "BA",
    "data_geracao_caixa": "13/11/2026",
-   "coletado_em": "14/11/2026 04:31",
+   "coletado_em": "14/11/2026 12:43",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_BA.csv",
    "total": 778
   },
   {
    "uf": "CE",
    "data_geracao_caixa": "13/11/2026",
-   "coletado_em": "14/11/2026 04:31",
+   "coletado_em": "14/11/2026 12:43",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_CE.csv",
    "total": 610
   },
   {
    "uf": "DF",
    "data_geracao_caixa": "13/11/2026",
-   "coletado_em": "14/11/2026 04:32",
+   "coletado_em": "14/11/2026 12:44",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_DF.csv",
    "total": 80
   },
   {
    "uf": "ES",
    "data_geracao_caixa": "13/11/2026",
-   "coletado_em": "14/11/2026 04:32",
+   "coletado_em": "14/11/2026 12:44",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_ES.csv",
    "total": 44
   },
@@ -87,126 +87,126 @@
   {
    "uf": "MA",
    "data_geracao_caixa": "13/11/2026",
-   "coletado_em": "14/11/2026 04:32",
+   "coletado_em": "14/11/2026 12:44",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_MA.csv",
    "total": 187
   },
   {
    "uf": "MT",
    "data_geracao_caixa": "13/11/2026",
-   "coletado_em": "14/11/2026 04:32",
+   "coletado_em": "14/11/2026 12:44",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_MT.csv",
    "total": 143
   },
   {
    "uf": "MS",
    "data_geracao_caixa": "13/11/2026",
-   "coletado_em": "14/11/2026 04:32",
+   "coletado_em": "14/11/2026 12:44",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_MS.csv",
    "total": 239
   },
   {
    "uf": "MG",
    "data_geracao_caixa": "13/11/2026",
-   "coletado_em": "14/11/2026 04:32",
+   "coletado_em": "14/11/2026 12:44",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_MG.csv",
    "total": 856
   },
   {
    "uf": "PA",
    "data_geracao_caixa": "13/11/2026",
-   "coletado_em": "14/11/2026 04:32",
+   "coletado_em": "14/11/2026 12:44",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_PA.csv",
    "total": 254
   },
   {
    "uf": "PB",
    "data_geracao_caixa": "13/11/2026",
-   "coletado_em": "14/11/2026 04:32",
+   "coletado_em": "14/11/2026 12:44",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_PB.csv",
    "total": 702
   },
   {
    "uf": "PR",
    "data_geracao_caixa": "13/11/2026",
-   "coletado_em": "14/11/2026 04:32",
+   "coletado_em": "14/11/2026 12:44",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_PR.csv",
    "total": 444
   },
   {
    "uf": "PE",
    "data_geracao_caixa": "13/11/2026",
-   "coletado_em": "14/11/2026 04:32",
+   "coletado_em": "14/11/2026 12:44",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_PE.csv",
    "total": 1095
   },
   {
    "uf": "PI",
    "data_geracao_caixa": "13/11/2026",
-   "coletado_em": "14/11/2026 04:32",
+   "coletado_em": "14/11/2026 12:44",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_PI.csv",
    "total": 746
   },
   {
    "uf": "RJ",
    "data_geracao_caixa": "13/11/2026",
-   "coletado_em": "14/11/2026 04:32",
+   "coletado_em": "14/11/2026 12:44",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_RJ.csv",
    "total": 8119
   },
   {
    "uf": "RN",
    "data_geracao_caixa": "13/11/2026",
-   "coletado_em": "14/11/2026 04:32",
+   "coletado_em": "14/11/2026 12:44",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_RN.csv",
    "total": 645
   },
   {
    "uf": "RS",
    "data_geracao_caixa": "13/11/2026",
-   "coletado_em": "14/11/2026 04:32",
+   "coletado_em": "14/11/2026 12:44",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_RS.csv",
    "total": 1069
   },
   {
    "uf": "RO",
    "data_geracao_caixa": "13/11/2026",
-   "coletado_em": "14/11/2026 04:32",
+   "coletado_em": "14/11/2026 12:44",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_RO.csv",
    "total": 29
   },
   {
    "uf": "RR",
    "data_geracao_caixa": "13/11/2026",
-   "coletado_em": "14/11/2026 04:32",
+   "coletado_em": "14/11/2026 12:44",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_RR.csv",
    "total": 2
   },
   {
    "uf": "SC",
    "data_geracao_caixa": "13/11/2026",
-   "coletado_em": "14/11/2026 04:32",
+   "coletado_em": "14/11/2026 12:44",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_SC.csv",
    "total": 176
   },
   {
    "uf": "SP",
    "data_geracao_caixa": "13/11/2026",
-   "coletado_em": "14/11/2026 04:32",
+   "coletado_em": "14/11/2026 12:44",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_SP.csv",
    "total": 3316
   },
   {
    "uf": "SE",
    "data_geracao_caixa": "13/11/2026",
-   "coletado_em": "14/11/2026 04:32",
+   "coletado_em": "14/11/2026 12:44",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_SE.csv",
    "total": 431
   },
   {
    "uf": "TO",
    "data_geracao_caixa": "13/11/2026",
-   "coletado_em": "14/11/2026 04:32",
+   "coletado_em": "14/11/2026 12:44",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_TO.csv",
    "total": 26
   }
@@ -2733,21 +2733,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8444406059471",
-   "uf": "AM",
-   "cidade": "BORBA",
-   "bairro": "IPIRANGA",
-   "endereco": "RUA LUIZ PEDRO FADOUL, N. SN, ANTIGA RUA LO 4",
-   "preco": 50291.39,
-   "valor_avaliacao": 83000.0,
-   "desconto": 39.41,
-   "financiamento": "Não",
-   "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 405.00 de área do terreno,  2 qto(s), varanda, WC, 1 sala(s), cozinha.",
-   "modalidade": "Licitação Aberta",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444406059471",
-   "tipo": "terreno"
-  },
-  {
    "id": "8444408437317",
    "uf": "AM",
    "cidade": "COARI",
@@ -3204,27 +3189,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8787711398864",
-   "uf": "AM",
-   "cidade": "IRANDUBA",
-   "bairro": "LOT NOVA AMAZONAS I",
-   "endereco": "ESTRADA CARLOS BRAGA KM 08, N. SN, RUA LAGO DO TESTE  LT 20 QD 40",
-   "preco": 97778.11,
-   "valor_avaliacao": 165000.0,
-   "desconto": 40.75,
-   "financiamento": "Não",
-   "descricao": "Casa, 52.30 de área total, 52.30 de área privativa, 200.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787711398864",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -3.2117448,
-    "lng": -60.1817264
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8787714466607",
    "uf": "AM",
    "cidade": "IRANDUBA",
@@ -3654,27 +3618,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8444406755842",
-   "uf": "AM",
-   "cidade": "MANAUS",
-   "bairro": "SAO JOSE OPERARIO",
-   "endereco": "RUA CASTANHO, N. 2, ETAPA I",
-   "preco": 81094.4,
-   "valor_avaliacao": 236000.0,
-   "desconto": 65.64,
-   "financiamento": "Sim",
-   "descricao": "Casa, 0.00 de área total, 257.66 de área privativa, 190.00 de área do terreno, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444406755842",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -3.0727223,
-    "lng": -59.957574
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8555503230386",
    "uf": "AM",
    "cidade": "MANAUS",
@@ -4015,7 +3958,7 @@
    "desconto": 48.06,
    "financiamento": "Não",
    "descricao": "Casa, 0.00 de área total, 0.00 de área privativa, 250.69 de área do terreno.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444406639311",
    "tipo": "casa",
    "geo": {
@@ -4120,7 +4063,7 @@
    "desconto": 45.19,
    "financiamento": "Não",
    "descricao": "Apartamento, 102.46 de área total, 41.86 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555522712234",
    "tipo": "apartamento",
    "geo": {
@@ -4316,6 +4259,27 @@
     "fonte": "google",
     "lat": -2.958359,
     "lng": -60.0236955
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "1444401888412",
+   "uf": "AM",
+   "cidade": "MANAUS",
+   "bairro": "PONTA NEGRA",
+   "endereco": "AVENIDA DO TURISMO, N. SN, QD E LT 02",
+   "preco": 344493.87,
+   "valor_avaliacao": 600600.0,
+   "desconto": 42.65,
+   "financiamento": "Sim",
+   "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 794.40 de área do terreno.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444401888412",
+   "tipo": "terreno",
+   "geo": {
+    "fonte": "google",
+    "lat": -3.1057432,
+    "lng": -60.01619179999999
    },
    "geo_pendente": false
   },
@@ -4572,27 +4536,6 @@
    "geo_pendente": false
   },
   {
-   "id": "1444401888412",
-   "uf": "AM",
-   "cidade": "MANAUS",
-   "bairro": "PONTA NEGRA",
-   "endereco": "AVENIDA DO TURISMO, N. SN, QD E LT 02",
-   "preco": 354063.14,
-   "valor_avaliacao": 600600.0,
-   "desconto": 41.05,
-   "financiamento": "Sim",
-   "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 794.40 de área do terreno.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444401888412",
-   "tipo": "terreno",
-   "geo": {
-    "fonte": "google",
-    "lat": -3.1057432,
-    "lng": -60.01619179999999
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8444400208734",
    "uf": "AM",
    "cidade": "MANAUS",
@@ -4603,7 +4546,7 @@
    "desconto": 40.75,
    "financiamento": "Não",
    "descricao": "Apartamento, 116.26 de área total, 42.84 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444400208734",
    "tipo": "apartamento",
    "geo": {
@@ -5062,7 +5005,7 @@
    "desconto": 40.75,
    "financiamento": "Não",
    "descricao": "Apartamento, 84.13 de área total, 41.51 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787707661190",
    "tipo": "apartamento",
    "geo": {
@@ -5071,21 +5014,6 @@
     "lng": -60.00899800000001
    },
    "geo_pendente": false
-  },
-  {
-   "id": "8787710504865",
-   "uf": "AM",
-   "cidade": "MANAUS",
-   "bairro": "LAGO AZUL",
-   "endereco": "AVENIDA COMENDADOR JOSE CRUZ, N. 1081, Apto 503,  5º PAV BL 07 LT 09",
-   "preco": 106667.03,
-   "valor_avaliacao": 180000.0,
-   "desconto": 40.75,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 90.76 de área total, 41.37 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Licitação Aberta",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787710504865",
-   "tipo": "apartamento"
   },
   {
    "id": "8787710729425",
@@ -5484,21 +5412,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8787710714134",
-   "uf": "AM",
-   "cidade": "MANAUS",
-   "bairro": "PLANALTO",
-   "endereco": "AVENIDA JOSE MOACIR TEBERGA DE TOLEDO, N. 1564, Apto 403, 1º PAV BL 04",
-   "preco": 147565.38,
-   "valor_avaliacao": 241000.0,
-   "desconto": 38.77,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 66.40 de área total, 43.14 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Licitação Aberta",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787710714134",
-   "tipo": "apartamento"
-  },
-  {
    "id": "1444413083350",
    "uf": "AM",
    "cidade": "MANAUS",
@@ -5533,27 +5446,6 @@
    "modalidade": "Licitação Aberta",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1787701252648",
    "tipo": "apartamento"
-  },
-  {
-   "id": "8444420897128",
-   "uf": "AM",
-   "cidade": "MANAUS",
-   "bairro": "RAIZ",
-   "endereco": "RUA BENVENUTO CELLINI (ANTIGA RUA CINCO), N. 307, BL 153",
-   "preco": 108080.77,
-   "valor_avaliacao": 175000.0,
-   "desconto": 38.24,
-   "financiamento": "Não",
-   "descricao": "Casa, 37.00 de área total, 37.00 de área privativa, 98.00 de área do terreno.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444420897128",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -3.1236197,
-    "lng": -59.9955877
-   },
-   "geo_pendente": false
   },
   {
    "id": "8787707356826",
@@ -5632,21 +5524,6 @@
     "lng": -60.0055558
    },
    "geo_pendente": false
-  },
-  {
-   "id": "1787702019530",
-   "uf": "AM",
-   "cidade": "MANAUS",
-   "bairro": "TARUMA",
-   "endereco": "AVENIDA DO TURISMO, N. 13830, Apto 404, BL.16",
-   "preco": 120219.85,
-   "valor_avaliacao": 191000.0,
-   "desconto": 37.06,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 0.00 de área total, 41.12 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Licitação Aberta",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1787702019530",
-   "tipo": "apartamento"
   },
   {
    "id": "8787701964522",
@@ -5763,27 +5640,6 @@
    "tipo": "apartamento"
   },
   {
-   "id": "1444406481566",
-   "uf": "AM",
-   "cidade": "MANAUS",
-   "bairro": "ALVORADA",
-   "endereco": "TRAVESSA MATSES, N. 509, ANTIGA RUA C-02",
-   "preco": 224971.95,
-   "valor_avaliacao": 353000.0,
-   "desconto": 36.27,
-   "financiamento": "Sim",
-   "descricao": "Casa, 215.00 de área total, 70.00 de área privativa, 300.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444406481566",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -3.072141,
-    "lng": -60.0370979
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "1444416801334",
    "uf": "AM",
    "cidade": "MANAUS",
@@ -5820,27 +5676,6 @@
    "geo_pendente": false
   },
   {
-   "id": "1444414846527",
-   "uf": "AM",
-   "cidade": "MANAUS",
-   "bairro": "CIDADE NOVA",
-   "endereco": "RUA 180, N. 75, QD 343",
-   "preco": 165701.72,
-   "valor_avaliacao": 260000.0,
-   "desconto": 36.27,
-   "financiamento": "Sim",
-   "descricao": "Casa, 181.13 de área total, 40.53 de área privativa, 250.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444414846527",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -3.0499276,
-    "lng": -59.972849
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "1444419008520",
    "uf": "AM",
    "cidade": "MANAUS",
@@ -5858,27 +5693,6 @@
     "fonte": "google",
     "lat": -3.0273073,
     "lng": -60.08950799999999
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "1555536520717",
-   "uf": "AM",
-   "cidade": "MANAUS",
-   "bairro": "COLONIA TERRA NOVA",
-   "endereco": "AVENIDA TORQUATO TAPAJOS, N. 6930, Apto 404, TR 38",
-   "preco": 180997.26,
-   "valor_avaliacao": 284000.0,
-   "desconto": 36.27,
-   "financiamento": "Sim",
-   "descricao": "Apartamento, 84.73 de área total, 73.07 de área privativa, 0.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1555536520717",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -3.0171486,
-    "lng": -60.02466909999999
    },
    "geo_pendente": false
   },

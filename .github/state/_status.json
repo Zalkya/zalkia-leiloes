@@ -1,8 +1,8 @@
 {
- "executado_em": "14/11/2026 04:34",
+ "executado_em": "14/11/2026 12:46",
  "modo": "ufs",
- "ufs_ok": 25,
- "ufs_falha": 2,
+ "ufs_ok": 26,
+ "ufs_falha": 1,
  "status": {
   "AC": {
    "ok": true,
@@ -20,10 +20,9 @@
    "gerado_em": "13/11/2026"
   },
   "AM": {
-   "ok": false,
-   "total": 206,
-   "gerado_em": "12/11/2026",
-   "erro": "falha no download — dado anterior preservado"
+   "ok": true,
+   "total": 196,
+   "gerado_em": "13/11/2026"
   },
   "BA": {
    "ok": true,
