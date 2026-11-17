@@ -1,8 +1,8 @@
 {
- "executado_em": "17/11/2026 11:20",
+ "executado_em": "17/11/2026 19:54",
  "modo": "ufs",
- "ufs_ok": 21,
- "ufs_falha": 6,
+ "ufs_ok": 24,
+ "ufs_falha": 3,
  "status": {
   "AC": {
    "ok": true,
@@ -15,10 +15,9 @@
    "gerado_em": "16/11/2026"
   },
   "AP": {
-   "ok": false,
+   "ok": true,
    "total": 5,
-   "gerado_em": "16/11/2026",
-   "erro": "falha no download — dado anterior preservado"
+   "gerado_em": "16/11/2026"
   },
   "AM": {
    "ok": true,
@@ -41,16 +40,14 @@
    "gerado_em": "16/11/2026"
   },
   "ES": {
-   "ok": false,
-   "total": 44,
-   "gerado_em": "13/11/2026",
-   "erro": "falha no download — dado anterior preservado"
+   "ok": true,
+   "total": 43,
+   "gerado_em": "16/11/2026"
   },
   "GO": {
-   "ok": false,
-   "total": 3455,
-   "gerado_em": "13/11/2026",
-   "erro": "falha no download — dado anterior preservado"
+   "ok": true,
+   "total": 3507,
+   "gerado_em": "16/11/2026"
   },
   "MA": {
    "ok": true,
@@ -58,9 +55,10 @@
    "gerado_em": "16/11/2026"
   },
   "MT": {
-   "ok": true,
+   "ok": false,
    "total": 141,
-   "gerado_em": "16/11/2026"
+   "gerado_em": "16/11/2026",
+   "erro": "falha no download — dado anterior preservado"
   },
   "MS": {
    "ok": true,
@@ -73,9 +71,10 @@
    "gerado_em": "16/11/2026"
   },
   "PA": {
-   "ok": true,
+   "ok": false,
    "total": 253,
-   "gerado_em": "16/11/2026"
+   "gerado_em": "16/11/2026",
+   "erro": "falha no download — dado anterior preservado"
   },
   "PB": {
    "ok": true,
@@ -88,9 +87,10 @@
    "gerado_em": "16/11/2026"
   },
   "PE": {
-   "ok": true,
+   "ok": false,
    "total": 1100,
-   "gerado_em": "16/11/2026"
+   "gerado_em": "16/11/2026",
+   "erro": "falha no download — dado anterior preservado"
   },
   "PI": {
    "ok": true,
@@ -118,10 +118,9 @@
    "gerado_em": "16/11/2026"
   },
   "RR": {
-   "ok": false,
+   "ok": true,
    "total": 3,
-   "gerado_em": "16/11/2026",
-   "erro": "falha no download — dado anterior preservado"
+   "gerado_em": "16/11/2026"
   },
   "SC": {
    "ok": true,
@@ -129,16 +128,14 @@
    "gerado_em": "16/11/2026"
   },
   "SP": {
-   "ok": false,
-   "total": 3316,
-   "gerado_em": "13/11/2026",
-   "erro": "falha no download — dado anterior preservado"
+   "ok": true,
+   "total": 3280,
+   "gerado_em": "16/11/2026"
   },
   "SE": {
-   "ok": false,
-   "total": 431,
-   "gerado_em": "13/11/2026",
-   "erro": "falha no download — dado anterior preservado"
+   "ok": true,
+   "total": 430,
+   "gerado_em": "16/11/2026"
   },
   "TO": {
    "ok": true,
