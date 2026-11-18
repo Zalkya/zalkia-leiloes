@@ -1,13 +1,14 @@
 {
- "executado_em": "17/11/2026 19:54",
+ "executado_em": "18/11/2026 01:15",
  "modo": "ufs",
- "ufs_ok": 24,
- "ufs_falha": 3,
+ "ufs_ok": 20,
+ "ufs_falha": 7,
  "status": {
   "AC": {
-   "ok": true,
+   "ok": false,
    "total": 18,
-   "gerado_em": "16/11/2026"
+   "gerado_em": "16/11/2026",
+   "erro": "falha no download — dado anterior preservado"
   },
   "AL": {
    "ok": true,
@@ -17,42 +18,44 @@
   "AP": {
    "ok": true,
    "total": 5,
-   "gerado_em": "16/11/2026"
+   "gerado_em": "17/11/2026"
   },
   "AM": {
-   "ok": true,
+   "ok": false,
    "total": 196,
-   "gerado_em": "16/11/2026"
+   "gerado_em": "16/11/2026",
+   "erro": "falha no download — dado anterior preservado"
   },
   "BA": {
    "ok": true,
-   "total": 781,
-   "gerado_em": "16/11/2026"
+   "total": 799,
+   "gerado_em": "17/11/2026"
   },
   "CE": {
    "ok": true,
-   "total": 609,
-   "gerado_em": "16/11/2026"
+   "total": 654,
+   "gerado_em": "17/11/2026"
   },
   "DF": {
    "ok": true,
-   "total": 81,
-   "gerado_em": "16/11/2026"
+   "total": 84,
+   "gerado_em": "17/11/2026"
   },
   "ES": {
-   "ok": true,
+   "ok": false,
    "total": 43,
-   "gerado_em": "16/11/2026"
+   "gerado_em": "16/11/2026",
+   "erro": "falha no download — dado anterior preservado"
   },
   "GO": {
    "ok": true,
-   "total": 3507,
-   "gerado_em": "16/11/2026"
+   "total": 3566,
+   "gerado_em": "17/11/2026"
   },
   "MA": {
    "ok": true,
-   "total": 182,
-   "gerado_em": "16/11/2026"
+   "total": 193,
+   "gerado_em": "17/11/2026"
   },
   "MT": {
    "ok": false,
@@ -61,86 +64,87 @@
    "erro": "falha no download — dado anterior preservado"
   },
   "MS": {
-   "ok": true,
+   "ok": false,
    "total": 239,
-   "gerado_em": "16/11/2026"
+   "gerado_em": "16/11/2026",
+   "erro": "falha no download — dado anterior preservado"
   },
   "MG": {
    "ok": true,
-   "total": 845,
-   "gerado_em": "16/11/2026"
+   "total": 900,
+   "gerado_em": "17/11/2026"
   },
   "PA": {
-   "ok": false,
-   "total": 253,
-   "gerado_em": "16/11/2026",
-   "erro": "falha no download — dado anterior preservado"
+   "ok": true,
+   "total": 265,
+   "gerado_em": "17/11/2026"
   },
   "PB": {
    "ok": true,
-   "total": 695,
-   "gerado_em": "16/11/2026"
+   "total": 700,
+   "gerado_em": "17/11/2026"
   },
   "PR": {
    "ok": true,
-   "total": 445,
-   "gerado_em": "16/11/2026"
+   "total": 466,
+   "gerado_em": "17/11/2026"
   },
   "PE": {
+   "ok": true,
+   "total": 1111,
+   "gerado_em": "17/11/2026"
+  },
+  "PI": {
    "ok": false,
-   "total": 1100,
+   "total": 757,
    "gerado_em": "16/11/2026",
    "erro": "falha no download — dado anterior preservado"
   },
-  "PI": {
-   "ok": true,
-   "total": 757,
-   "gerado_em": "16/11/2026"
-  },
   "RJ": {
    "ok": true,
-   "total": 8099,
-   "gerado_em": "16/11/2026"
+   "total": 8122,
+   "gerado_em": "17/11/2026"
   },
   "RN": {
    "ok": true,
-   "total": 647,
-   "gerado_em": "16/11/2026"
+   "total": 642,
+   "gerado_em": "17/11/2026"
   },
   "RS": {
    "ok": true,
-   "total": 1070,
-   "gerado_em": "16/11/2026"
+   "total": 1151,
+   "gerado_em": "17/11/2026"
   },
   "RO": {
    "ok": true,
    "total": 29,
-   "gerado_em": "16/11/2026"
+   "gerado_em": "17/11/2026"
   },
   "RR": {
    "ok": true,
-   "total": 3,
-   "gerado_em": "16/11/2026"
+   "total": 4,
+   "gerado_em": "17/11/2026"
   },
   "SC": {
    "ok": true,
-   "total": 176,
-   "gerado_em": "16/11/2026"
+   "total": 192,
+   "gerado_em": "17/11/2026"
   },
   "SP": {
    "ok": true,
-   "total": 3280,
-   "gerado_em": "16/11/2026"
+   "total": 3471,
+   "gerado_em": "17/11/2026"
   },
   "SE": {
-   "ok": true,
+   "ok": false,
    "total": 430,
-   "gerado_em": "16/11/2026"
+   "gerado_em": "16/11/2026",
+   "erro": "falha no download — dado anterior preservado"
   },
   "TO": {
    "ok": true,
-   "total": 26,
-   "gerado_em": "16/11/2026"
+   "total": 28,
+   "gerado_em": "17/11/2026"
   }
  }
 }
