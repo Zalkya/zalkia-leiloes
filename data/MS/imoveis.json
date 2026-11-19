@@ -1,9 +1,9 @@
 {
  "uf": "MS",
- "data_geracao_caixa": "17/11/2026",
- "coletado_em": "18/11/2026 19:33",
+ "data_geracao_caixa": "18/11/2026",
+ "coletado_em": "19/11/2026 11:18",
  "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_MS.csv",
- "total": 251,
+ "total": 253,
  "colunas": [
   "id",
   "uf",
@@ -323,6 +323,27 @@
    "tipo": "casa"
   },
   {
+   "id": "8444407840355",
+   "uf": "MS",
+   "cidade": "CAMPO GRANDE",
+   "bairro": "JARDIM BALSAMO",
+   "endereco": "RUA EVARISTO ROBERTO FERREIRA, N. 371,",
+   "preco": 87332.43,
+   "valor_avaliacao": 207000.0,
+   "desconto": 57.82,
+   "financiamento": "Sim",
+   "descricao": "Casa, 63.24 de área total, 63.24 de área privativa, 360.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444407840355",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -20.545226,
+    "lng": -54.614999
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8444416627715",
    "uf": "MS",
    "cidade": "CAMPO GRANDE",
@@ -357,27 +378,6 @@
    "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444406667722",
    "tipo": "casa"
-  },
-  {
-   "id": "8444407840355",
-   "uf": "MS",
-   "cidade": "CAMPO GRANDE",
-   "bairro": "JARDIM BALSAMO",
-   "endereco": "RUA EVARISTO ROBERTO FERREIRA, N. 371,",
-   "preco": 93570.46,
-   "valor_avaliacao": 207000.0,
-   "desconto": 54.8,
-   "financiamento": "Não",
-   "descricao": "Casa, 63.24 de área total, 63.24 de área privativa, 360.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444407840355",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -20.545226,
-    "lng": -54.614999
-   },
-   "geo_pendente": false
   },
   {
    "id": "8444405327600",
@@ -521,6 +521,27 @@
    "geo_pendente": false
   },
   {
+   "id": "8444410276562",
+   "uf": "MS",
+   "cidade": "CAMPO GRANDE",
+   "bairro": "JARDIM SANTA EMILIA",
+   "endereco": "RUA CAMBOATÁ, N. 50, CASA 01 LOTE 17 QUADRA 34",
+   "preco": 104986.62,
+   "valor_avaliacao": 193000.0,
+   "desconto": 45.61,
+   "financiamento": "Sim",
+   "descricao": "Casa, 68.71 de área total, 61.29 de área privativa, 132.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444410276562",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -20.4978125,
+    "lng": -54.6853034
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8444417259493",
    "uf": "MS",
    "cidade": "CAMPO GRANDE",
@@ -563,23 +584,23 @@
    "geo_pendente": false
   },
   {
-   "id": "8444410276562",
+   "id": "8444400602165",
    "uf": "MS",
    "cidade": "CAMPO GRANDE",
-   "bairro": "JARDIM SANTA EMILIA",
-   "endereco": "RUA CAMBOATÁ, N. 50, CASA 01 LOTE 17 QUADRA 34",
-   "preco": 107902.92,
-   "valor_avaliacao": 193000.0,
-   "desconto": 44.1,
-   "financiamento": "Não",
-   "descricao": "Casa, 68.71 de área total, 61.29 de área privativa, 132.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444410276562",
+   "bairro": "PORTAL CAIOBA",
+   "endereco": "RUA DAS VALQUIRIAS, N. 57, QUADRA 40, LOTE 19",
+   "preco": 100051.91,
+   "valor_avaliacao": 180000.0,
+   "desconto": 44.42,
+   "financiamento": "Sim",
+   "descricao": "Casa, 69.93 de área total, 69.93 de área privativa, 360.00 de área do terreno, 2 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444400602165",
    "tipo": "casa",
    "geo": {
     "fonte": "google",
-    "lat": -20.4978125,
-    "lng": -54.6853034
+    "lat": -20.5195092,
+    "lng": -54.68206840000001
    },
    "geo_pendente": false
   },
@@ -685,27 +706,6 @@
     "fonte": "google",
     "lat": -20.5015023,
     "lng": -54.6700184
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8444400602165",
-   "uf": "MS",
-   "cidade": "CAMPO GRANDE",
-   "bairro": "PORTAL CAIOBA",
-   "endereco": "RUA DAS VALQUIRIAS, N. 57, QUADRA 40, LOTE 19",
-   "preco": 102831.13,
-   "valor_avaliacao": 180000.0,
-   "desconto": 42.88,
-   "financiamento": "Não",
-   "descricao": "Casa, 69.93 de área total, 69.93 de área privativa, 360.00 de área do terreno, 2 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444400602165",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -20.5195092,
-    "lng": -54.68206840000001
    },
    "geo_pendente": false
   },
@@ -1427,6 +1427,21 @@
    "tipo": "apartamento"
   },
   {
+   "id": "8444411368932",
+   "uf": "MS",
+   "cidade": "CAMPO GRANDE",
+   "bairro": "JARDIM SAO CONRADO",
+   "endereco": "RUA ITANHOIM, N. 18, CASA 03",
+   "preco": 111212.08,
+   "valor_avaliacao": 184000.0,
+   "desconto": 39.56,
+   "financiamento": "Não",
+   "descricao": "Casa, 48.62 de área total, 48.62 de área privativa, 98.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444411368932",
+   "tipo": "casa"
+  },
+  {
    "id": "8787710109249",
    "uf": "MS",
    "cidade": "CAMPO GRANDE",
@@ -1725,7 +1740,7 @@
    "desconto": 38.77,
    "financiamento": "Sim",
    "descricao": "Sala, 58.00 de área total, 58.00 de área privativa, 0.00 de área do terreno,  1 qto(s), WC, 1 sala(s).",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444431797634",
    "tipo": "sala",
    "geo": {
@@ -3918,7 +3933,7 @@
    "desconto": 42.08,
    "financiamento": "Não",
    "descricao": "Casa, 43.27 de área total, 43.27 de área privativa, 105.36 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787711998055",
    "tipo": "casa",
    "geo": {
@@ -4659,6 +4674,21 @@
     "lng": -51.7210528
    },
    "geo_pendente": false
+  },
+  {
+   "id": "8787716458164",
+   "uf": "MS",
+   "cidade": "TRES LAGOAS",
+   "bairro": "JARDIM PROGRESSO",
+   "endereco": "RUA ISAC MARQUES GARCIA, N. SN, CASA 22  QUADRA 00  LOTE 00",
+   "preco": 150014.6,
+   "valor_avaliacao": 245000.0,
+   "desconto": 38.77,
+   "financiamento": "Não",
+   "descricao": "Casa, 64.72 de área total, 64.72 de área privativa, 153.20 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787716458164",
+   "tipo": "casa"
   },
   {
    "id": "8555505682012",
