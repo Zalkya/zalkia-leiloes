@@ -1,149 +1,145 @@
 {
- "executado_em": "20/11/2026 11:00",
+ "executado_em": "24/11/2026 03:57",
  "modo": "ufs",
- "ufs_ok": 21,
- "ufs_falha": 6,
+ "ufs_ok": 25,
+ "ufs_falha": 2,
  "status": {
   "AC": {
    "ok": true,
    "total": 18,
-   "gerado_em": "19/11/2026"
+   "gerado_em": "23/11/2026"
   },
   "AL": {
    "ok": true,
-   "total": 111,
-   "gerado_em": "19/11/2026"
+   "total": 110,
+   "gerado_em": "23/11/2026"
   },
   "AP": {
    "ok": true,
    "total": 5,
-   "gerado_em": "19/11/2026"
+   "gerado_em": "23/11/2026"
   },
   "AM": {
    "ok": true,
-   "total": 219,
-   "gerado_em": "19/11/2026"
+   "total": 212,
+   "gerado_em": "23/11/2026"
   },
   "BA": {
    "ok": true,
-   "total": 826,
-   "gerado_em": "19/11/2026"
+   "total": 823,
+   "gerado_em": "23/11/2026"
   },
   "CE": {
    "ok": true,
-   "total": 672,
-   "gerado_em": "19/11/2026"
+   "total": 653,
+   "gerado_em": "23/11/2026"
   },
   "DF": {
    "ok": true,
    "total": 85,
-   "gerado_em": "19/11/2026"
+   "gerado_em": "23/11/2026"
   },
   "ES": {
    "ok": true,
    "total": 46,
-   "gerado_em": "19/11/2026"
+   "gerado_em": "23/11/2026"
   },
   "GO": {
    "ok": true,
-   "total": 3537,
-   "gerado_em": "19/11/2026"
+   "total": 3533,
+   "gerado_em": "23/11/2026"
   },
   "MA": {
    "ok": true,
-   "total": 202,
-   "gerado_em": "19/11/2026"
+   "total": 195,
+   "gerado_em": "23/11/2026"
   },
   "MT": {
-   "ok": false,
-   "total": 176,
-   "gerado_em": "19/11/2026",
-   "erro": "falha no download — dado anterior preservado"
+   "ok": true,
+   "total": 178,
+   "gerado_em": "23/11/2026"
   },
   "MS": {
-   "ok": true,
+   "ok": false,
    "total": 258,
-   "gerado_em": "19/11/2026"
+   "gerado_em": "19/11/2026",
+   "erro": "falha no download — dado anterior preservado"
   },
   "MG": {
    "ok": true,
-   "total": 968,
-   "gerado_em": "19/11/2026"
+   "total": 952,
+   "gerado_em": "23/11/2026"
   },
   "PA": {
-   "ok": false,
-   "total": 263,
-   "gerado_em": "19/11/2026",
-   "erro": "falha no download — dado anterior preservado"
+   "ok": true,
+   "total": 254,
+   "gerado_em": "23/11/2026"
   },
   "PB": {
    "ok": true,
-   "total": 731,
-   "gerado_em": "19/11/2026"
+   "total": 722,
+   "gerado_em": "23/11/2026"
   },
   "PR": {
-   "ok": true,
-   "total": 481,
-   "gerado_em": "19/11/2026"
-  },
-  "PE": {
    "ok": false,
-   "total": 1115,
+   "total": 481,
    "gerado_em": "19/11/2026",
    "erro": "falha no download — dado anterior preservado"
+  },
+  "PE": {
+   "ok": true,
+   "total": 1102,
+   "gerado_em": "23/11/2026"
   },
   "PI": {
    "ok": true,
-   "total": 781,
-   "gerado_em": "19/11/2026"
+   "total": 767,
+   "gerado_em": "23/11/2026"
   },
   "RJ": {
    "ok": true,
-   "total": 8489,
-   "gerado_em": "19/11/2026"
+   "total": 8421,
+   "gerado_em": "23/11/2026"
   },
   "RN": {
-   "ok": false,
-   "total": 658,
-   "gerado_em": "19/11/2026",
-   "erro": "falha no download — dado anterior preservado"
+   "ok": true,
+   "total": 659,
+   "gerado_em": "23/11/2026"
   },
   "RS": {
    "ok": true,
-   "total": 1218,
-   "gerado_em": "19/11/2026"
+   "total": 1202,
+   "gerado_em": "23/11/2026"
   },
   "RO": {
-   "ok": false,
-   "total": 30,
-   "gerado_em": "19/11/2026",
-   "erro": "falha no download — dado anterior preservado"
+   "ok": true,
+   "total": 29,
+   "gerado_em": "23/11/2026"
   },
   "RR": {
    "ok": true,
    "total": 3,
-   "gerado_em": "19/11/2026"
+   "gerado_em": "23/11/2026"
   },
   "SC": {
    "ok": true,
-   "total": 205,
-   "gerado_em": "19/11/2026"
+   "total": 202,
+   "gerado_em": "23/11/2026"
   },
   "SP": {
    "ok": true,
-   "total": 3657,
-   "gerado_em": "19/11/2026"
+   "total": 3593,
+   "gerado_em": "23/11/2026"
   },
   "SE": {
    "ok": true,
-   "total": 441,
-   "gerado_em": "19/11/2026"
+   "total": 439,
+   "gerado_em": "23/11/2026"
   },
   "TO": {
-   "ok": false,
-   "total": 28,
-   "gerado_em": "19/11/2026",
-   "erro": "falha no download — dado anterior preservado"
+   "ok": true,
+   "total": 29,
+   "gerado_em": "23/11/2026"
   }
  }
 }
