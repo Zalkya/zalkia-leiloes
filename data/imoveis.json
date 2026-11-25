@@ -1,8 +1,8 @@
 {
  "uf": "BR",
- "atualizado_em": "25/11/2026 00:02",
+ "atualizado_em": "25/11/2026 09:40",
  "fonte": "por-UF",
- "total": 25631,
+ "total": 25651,
  "colunas": [
   "bairro",
   "cidade",
@@ -24,98 +24,98 @@
   {
    "uf": "AC",
    "data_geracao_caixa": "24/11/2026",
-   "coletado_em": "24/11/2026 23:59",
+   "coletado_em": "25/11/2026 09:37",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_AC.csv",
    "total": 19
   },
   {
    "uf": "AL",
    "data_geracao_caixa": "24/11/2026",
-   "coletado_em": "24/11/2026 23:59",
+   "coletado_em": "25/11/2026 09:37",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_AL.csv",
    "total": 116
   },
   {
    "uf": "AP",
    "data_geracao_caixa": "24/11/2026",
-   "coletado_em": "24/11/2026 23:59",
+   "coletado_em": "25/11/2026 09:37",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_AP.csv",
    "total": 5
   },
   {
    "uf": "AM",
-   "data_geracao_caixa": "23/11/2026",
-   "coletado_em": "24/11/2026 15:48",
+   "data_geracao_caixa": "24/11/2026",
+   "coletado_em": "25/11/2026 09:37",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_AM.csv",
-   "total": 212
+   "total": 208
   },
   {
    "uf": "BA",
    "data_geracao_caixa": "24/11/2026",
-   "coletado_em": "24/11/2026 23:59",
+   "coletado_em": "25/11/2026 09:37",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_BA.csv",
    "total": 884
   },
   {
    "uf": "CE",
    "data_geracao_caixa": "24/11/2026",
-   "coletado_em": "24/11/2026 23:59",
+   "coletado_em": "25/11/2026 09:37",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_CE.csv",
    "total": 655
   },
   {
    "uf": "DF",
    "data_geracao_caixa": "24/11/2026",
-   "coletado_em": "24/11/2026 23:59",
+   "coletado_em": "25/11/2026 09:37",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_DF.csv",
    "total": 93
   },
   {
    "uf": "ES",
    "data_geracao_caixa": "24/11/2026",
-   "coletado_em": "24/11/2026 23:59",
+   "coletado_em": "25/11/2026 09:37",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_ES.csv",
    "total": 47
   },
   {
    "uf": "GO",
    "data_geracao_caixa": "24/11/2026",
-   "coletado_em": "24/11/2026 23:59",
+   "coletado_em": "25/11/2026 09:37",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_GO.csv",
    "total": 3613
   },
   {
    "uf": "MA",
    "data_geracao_caixa": "24/11/2026",
-   "coletado_em": "24/11/2026 23:59",
+   "coletado_em": "25/11/2026 09:37",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_MA.csv",
    "total": 202
   },
   {
    "uf": "MT",
    "data_geracao_caixa": "24/11/2026",
-   "coletado_em": "24/11/2026 23:59",
+   "coletado_em": "25/11/2026 09:37",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_MT.csv",
    "total": 193
   },
   {
    "uf": "MS",
    "data_geracao_caixa": "24/11/2026",
-   "coletado_em": "24/11/2026 23:59",
+   "coletado_em": "25/11/2026 09:37",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_MS.csv",
    "total": 264
   },
   {
    "uf": "MG",
    "data_geracao_caixa": "24/11/2026",
-   "coletado_em": "24/11/2026 23:59",
+   "coletado_em": "25/11/2026 09:37",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_MG.csv",
    "total": 1040
   },
   {
    "uf": "PA",
    "data_geracao_caixa": "24/11/2026",
-   "coletado_em": "24/11/2026 23:59",
+   "coletado_em": "25/11/2026 09:37",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_PA.csv",
    "total": 273
   },
@@ -128,64 +128,64 @@
   },
   {
    "uf": "PR",
-   "data_geracao_caixa": "19/11/2026",
-   "coletado_em": "20/11/2026 10:57",
+   "data_geracao_caixa": "24/11/2026",
+   "coletado_em": "25/11/2026 09:37",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_PR.csv",
-   "total": 481
+   "total": 505
   },
   {
    "uf": "PE",
    "data_geracao_caixa": "24/11/2026",
-   "coletado_em": "25/11/2026 00:00",
+   "coletado_em": "25/11/2026 09:37",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_PE.csv",
    "total": 1129
   },
   {
    "uf": "PI",
    "data_geracao_caixa": "24/11/2026",
-   "coletado_em": "25/11/2026 00:00",
+   "coletado_em": "25/11/2026 09:37",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_PI.csv",
    "total": 770
   },
   {
    "uf": "RJ",
    "data_geracao_caixa": "24/11/2026",
-   "coletado_em": "25/11/2026 00:00",
+   "coletado_em": "25/11/2026 09:37",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_RJ.csv",
    "total": 8616
   },
   {
    "uf": "RN",
    "data_geracao_caixa": "24/11/2026",
-   "coletado_em": "25/11/2026 00:00",
+   "coletado_em": "25/11/2026 09:37",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_RN.csv",
    "total": 633
   },
   {
    "uf": "RS",
    "data_geracao_caixa": "24/11/2026",
-   "coletado_em": "25/11/2026 00:00",
+   "coletado_em": "25/11/2026 09:37",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_RS.csv",
    "total": 1322
   },
   {
    "uf": "RO",
    "data_geracao_caixa": "24/11/2026",
-   "coletado_em": "25/11/2026 00:00",
+   "coletado_em": "25/11/2026 09:37",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_RO.csv",
    "total": 30
   },
   {
    "uf": "RR",
-   "data_geracao_caixa": "23/11/2026",
-   "coletado_em": "24/11/2026 15:49",
+   "data_geracao_caixa": "24/11/2026",
+   "coletado_em": "25/11/2026 09:37",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_RR.csv",
    "total": 3
   },
   {
    "uf": "SC",
    "data_geracao_caixa": "24/11/2026",
-   "coletado_em": "25/11/2026 00:00",
+   "coletado_em": "25/11/2026 09:37",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_SC.csv",
    "total": 211
   },
@@ -199,14 +199,14 @@
   {
    "uf": "SE",
    "data_geracao_caixa": "24/11/2026",
-   "coletado_em": "25/11/2026 00:00",
+   "coletado_em": "25/11/2026 09:37",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_SE.csv",
    "total": 459
   },
   {
    "uf": "TO",
    "data_geracao_caixa": "24/11/2026",
-   "coletado_em": "25/11/2026 00:00",
+   "coletado_em": "25/11/2026 09:37",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_TO.csv",
    "total": 30
   }
@@ -2964,36 +2964,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8444418739278",
-   "uf": "AM",
-   "cidade": "BORBA",
-   "bairro": "CENTRO",
-   "endereco": "RUA PROJETADA A ESTRADA BORBA/MAPIA, N. 07",
-   "preco": 31659.63,
-   "valor_avaliacao": 54500.0,
-   "desconto": 41.91,
-   "financiamento": "Não",
-   "descricao": "Casa, 0.00 de área total, 41.76 de área privativa, 125.96 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444418739278",
-   "tipo": "casa"
-  },
-  {
-   "id": "8444406059471",
-   "uf": "AM",
-   "cidade": "BORBA",
-   "bairro": "IPIRANGA",
-   "endereco": "RUA LUIZ PEDRO FADOUL, N. SN, ANTIGA RUA LO 4",
-   "preco": 50291.39,
-   "valor_avaliacao": 83000.0,
-   "desconto": 39.41,
-   "financiamento": "Não",
-   "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 405.00 de área do terreno,  2 qto(s), varanda, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444406059471",
-   "tipo": "terreno"
-  },
-  {
    "id": "8444408437317",
    "uf": "AM",
    "cidade": "COARI",
@@ -3137,6 +3107,27 @@
     "fonte": "google",
     "lat": -3.2126094,
     "lng": -60.1813034
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "1444415385477",
+   "uf": "AM",
+   "cidade": "IRANDUBA",
+   "bairro": "KM 11",
+   "endereco": "RODOVIA MANOEL URBANO, N. SN, LT 05 QD 45 KM 11",
+   "preco": 37327.72,
+   "valor_avaliacao": 66600.0,
+   "desconto": 43.96,
+   "financiamento": "Não",
+   "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 200.00 de área do terreno.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444415385477",
+   "tipo": "terreno",
+   "geo": {
+    "fonte": "google",
+    "lat": -3.1683588,
+    "lng": -60.2278905
    },
    "geo_pendente": false
   },
@@ -3393,27 +3384,6 @@
    "geo_pendente": false
   },
   {
-   "id": "1444415385477",
-   "uf": "AM",
-   "cidade": "IRANDUBA",
-   "bairro": "KM 11",
-   "endereco": "RODOVIA MANOEL URBANO, N. SN, LT 05 QD 45 KM 11",
-   "preco": 38336.58,
-   "valor_avaliacao": 66600.0,
-   "desconto": 42.44,
-   "financiamento": "Não",
-   "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 200.00 de área do terreno.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444415385477",
-   "tipo": "terreno",
-   "geo": {
-    "fonte": "google",
-    "lat": -3.1683588,
-    "lng": -60.2278905
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8787716479250",
    "uf": "AM",
    "cidade": "IRANDUBA",
@@ -3433,21 +3403,6 @@
     "lng": -60.1666773
    },
    "geo_pendente": false
-  },
-  {
-   "id": "8555533151476",
-   "uf": "AM",
-   "cidade": "IRANDUBA",
-   "bairro": "CENTRO",
-   "endereco": "ESTRADA MANOEL URBANO KM 09, N. 8, Apto 303, JSUBCONDOMINIO ORQUIDEA",
-   "preco": 88404.91,
-   "valor_avaliacao": 151000.0,
-   "desconto": 41.46,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 73.62 de área total, 59.86 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Licitação Aberta",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555533151476",
-   "tipo": "apartamento"
   },
   {
    "id": "8787711364374",
@@ -3670,7 +3625,7 @@
    "desconto": 38.24,
    "financiamento": "Não",
    "descricao": "Apartamento, 73.62 de área total, 59.86 de área privativa, 0.00 de área do terreno,  3 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1555530084400",
    "tipo": "apartamento",
    "geo": {
@@ -3984,6 +3939,27 @@
    "geo_pendente": false
   },
   {
+   "id": "8444406593435",
+   "uf": "AM",
+   "cidade": "MANAUS",
+   "bairro": "PRACA 14 DE JANEIRO",
+   "endereco": "AVENIDA NHAMUNDA, N. 143,",
+   "preco": 112826.99,
+   "valor_avaliacao": 234000.0,
+   "desconto": 51.79,
+   "financiamento": "Não",
+   "descricao": "Casa, 107.92 de área total, 107.92 de área privativa, 177.44 de área do terreno,  2 qto(s), a.serv, WC, WC Emp, 1 sala(s), cozinha.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444406593435",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -3.1202203,
+    "lng": -60.02049210000001
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8555525672543",
    "uf": "AM",
    "cidade": "MANAUS",
@@ -4188,23 +4164,23 @@
    "geo_pendente": false
   },
   {
-   "id": "8444406593435",
+   "id": "8555506233319",
    "uf": "AM",
    "cidade": "MANAUS",
-   "bairro": "PRACA 14 DE JANEIRO",
-   "endereco": "AVENIDA NHAMUNDA, N. 143,",
-   "preco": 119878.67,
-   "valor_avaliacao": 234000.0,
-   "desconto": 48.77,
+   "bairro": "LAGO AZUL",
+   "endereco": "AVENIDA PROFESSOR PAULO GRACA, N. 1302, Apto 101, BL 40",
+   "preco": 66650.61,
+   "valor_avaliacao": 130000.0,
+   "desconto": 48.74,
    "financiamento": "Não",
-   "descricao": "Casa, 107.92 de área total, 107.92 de área privativa, 177.44 de área do terreno,  2 qto(s), a.serv, WC, WC Emp, 1 sala(s), cozinha.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444406593435",
-   "tipo": "casa",
+   "descricao": "Apartamento, 0.00 de área total, 40.39 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555506233319",
+   "tipo": "apartamento",
    "geo": {
     "fonte": "google",
-    "lat": -3.1202203,
-    "lng": -60.02049210000001
+    "lat": -2.958359,
+    "lng": -60.0236955
    },
    "geo_pendente": false
   },
@@ -4230,27 +4206,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8555506233319",
-   "uf": "AM",
-   "cidade": "MANAUS",
-   "bairro": "LAGO AZUL",
-   "endereco": "AVENIDA PROFESSOR PAULO GRACA, N. 1302, Apto 101, BL 40",
-   "preco": 68359.6,
-   "valor_avaliacao": 130000.0,
-   "desconto": 47.42,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 0.00 de área total, 40.39 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555506233319",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -2.958359,
-    "lng": -60.0236955
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8555522712234",
    "uf": "AM",
    "cidade": "MANAUS",
@@ -4272,6 +4227,27 @@
    "geo_pendente": false
   },
   {
+   "id": "8444400909309",
+   "uf": "AM",
+   "cidade": "MANAUS",
+   "bairro": "PETROPOLIS",
+   "endereco": "RUA ANIBAL MELO, N. 245, Apto 303, BL A1 PAV 03",
+   "preco": 74782.91,
+   "valor_avaliacao": 140000.0,
+   "desconto": 46.59,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 61.53 de área total, 43.53 de área privativa, 0.00 de área do terreno,  1 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444400909309",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -3.102735,
+    "lng": -59.988682
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8555508054268",
    "uf": "AM",
    "cidade": "MANAUS",
@@ -4289,27 +4265,6 @@
     "fonte": "google",
     "lat": -2.958359,
     "lng": -60.0236955
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8444400909309",
-   "uf": "AM",
-   "cidade": "MANAUS",
-   "bairro": "PETROPOLIS",
-   "endereco": "RUA ANIBAL MELO, N. 245, Apto 303, BL A1 PAV 03",
-   "preco": 76919.57,
-   "valor_avaliacao": 140000.0,
-   "desconto": 45.06,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 61.53 de área total, 43.53 de área privativa, 0.00 de área do terreno,  1 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444400909309",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -3.102735,
-    "lng": -59.988682
    },
    "geo_pendente": false
   },
@@ -4419,27 +4374,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8787718893232",
-   "uf": "AM",
-   "cidade": "MANAUS",
-   "bairro": "LAGO AZUL",
-   "endereco": "RUA DONA DEBLA HENRIQUES, N. 244, Apto 106, BL 05",
-   "preco": 112375.57,
-   "valor_avaliacao": 201000.0,
-   "desconto": 44.1,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 102.97 de área total, 57.67 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787718893232",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -3.0608499,
-    "lng": -60.0239585
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8555500570380",
    "uf": "AM",
    "cidade": "MANAUS",
@@ -4541,27 +4475,6 @@
     "fonte": "google",
     "lat": -3.1057432,
     "lng": -60.01619179999999
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "1444418236537",
-   "uf": "AM",
-   "cidade": "MANAUS",
-   "bairro": "PONTA NEGRA",
-   "endereco": "AVENIDA EQUADOR, N. 275, LOT NÚCLEO RES INTEGRADO PONTA NEGRA",
-   "preco": 283636.72,
-   "valor_avaliacao": 494500.0,
-   "desconto": 42.65,
-   "financiamento": "Sim",
-   "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 600.00 de área do terreno.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444418236537",
-   "tipo": "terreno",
-   "geo": {
-    "fonte": "google",
-    "lat": -3.0722539,
-    "lng": -60.0775853
    },
    "geo_pendente": false
   },
@@ -4839,21 +4752,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8787707005551",
-   "uf": "AM",
-   "cidade": "MANAUS",
-   "bairro": "TARUMA",
-   "endereco": "AVENIDA DO TURISMO, N. 13830, Apto 203, BL 05",
-   "preco": 104296.65,
-   "valor_avaliacao": 176000.0,
-   "desconto": 40.75,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 76.06 de área total, 41.12 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Licitação Aberta",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787707005551",
-   "tipo": "apartamento"
-  },
-  {
    "id": "8787707429130",
    "uf": "AM",
    "cidade": "MANAUS",
@@ -4906,7 +4804,7 @@
    "desconto": 40.75,
    "financiamento": "Não",
    "descricao": "Apartamento, 123.98 de área total, 41.46 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787707975674",
    "tipo": "apartamento",
    "geo": {
@@ -4959,19 +4857,25 @@
    "geo_pendente": false
   },
   {
-   "id": "8787711042598",
+   "id": "8787711068252",
    "uf": "AM",
    "cidade": "MANAUS",
    "bairro": "TARUMA",
-   "endereco": "AVENIDA DO TURISMO, N. 13830, Apto 402, BL 06",
-   "preco": 101926.27,
-   "valor_avaliacao": 172000.0,
+   "endereco": "AVENIDA DO TURISMO, N. 13830, Apto 302, BL 25",
+   "preco": 99555.89,
+   "valor_avaliacao": 168000.0,
    "desconto": 40.75,
    "financiamento": "Não",
-   "descricao": "Apartamento, 76.06 de área total, 41.12 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "descricao": "Apartamento, 76.06 de área total, 41.12 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, 1 sala(s), 1 lavabo(s), cozinha.",
    "modalidade": "Licitação Aberta",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787711042598",
-   "tipo": "apartamento"
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787711068252",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -2.9883731,
+    "lng": -60.03835909999999
+   },
+   "geo_pendente": false
   },
   {
    "id": "8787712134704",
@@ -5041,7 +4945,7 @@
    "desconto": 40.75,
    "financiamento": "Não",
    "descricao": "Apartamento, 83.86 de área total, 41.46 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 2 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787705711270",
    "tipo": "apartamento"
   },
@@ -5056,7 +4960,7 @@
    "desconto": 40.75,
    "financiamento": "Não",
    "descricao": "Apartamento, 83.86 de área total, 41.46 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787705719158",
    "tipo": "apartamento",
    "geo": {
@@ -5302,7 +5206,7 @@
    "desconto": 40.75,
    "financiamento": "Não",
    "descricao": "Apartamento, 90.76 de área total, 41.37 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787710504865",
    "tipo": "apartamento"
   },
@@ -5366,6 +5270,27 @@
     "fonte": "google",
     "lat": -2.972077,
     "lng": -60.0055558
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8787713934712",
+   "uf": "AM",
+   "cidade": "MANAUS",
+   "bairro": "LAGO AZUL",
+   "endereco": "AVENIDA DAS TORRES, N. 8292, Apto AP 30, BL 2",
+   "preco": 103111.46,
+   "valor_avaliacao": 174000.0,
+   "desconto": 40.75,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 83.36 de área total, 41.57 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787713934712",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -2.9679797,
+    "lng": -60.0018616
    },
    "geo_pendente": false
   },
@@ -5469,6 +5394,27 @@
    "geo_pendente": false
   },
   {
+   "id": "8787706238528",
+   "uf": "AM",
+   "cidade": "MANAUS",
+   "bairro": "TARUMA",
+   "endereco": "AVENIDA DO TURISMO, N. 14164, Apto 102, BL 17",
+   "preco": 112420.91,
+   "valor_avaliacao": 186000.0,
+   "desconto": 39.56,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 123.98 de área total, 41.46 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787706238528",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -2.9915537,
+    "lng": -60.0384245
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8787715939142",
    "uf": "AM",
    "cidade": "MANAUS",
@@ -5494,7 +5440,7 @@
    "desconto": 39.56,
    "financiamento": "Não",
    "descricao": "Apartamento, 83.86 de área total, 42.40 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787702754815",
    "tipo": "apartamento",
    "geo": {
@@ -5566,7 +5512,7 @@
    "desconto": 39.56,
    "financiamento": "Não",
    "descricao": "Apartamento, 83.86 de área total, 41.46 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787705215907",
    "tipo": "apartamento",
    "geo": {
@@ -5769,21 +5715,6 @@
    "geo_pendente": false
   },
   {
-   "id": "1787701252648",
-   "uf": "AM",
-   "cidade": "MANAUS",
-   "bairro": "TARUMA",
-   "endereco": "AVENIDA DO TURISMO, N. 13830, Apto 504, BL 07",
-   "preco": 108698.37,
-   "valor_avaliacao": 176000.0,
-   "desconto": 38.24,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 76.06 de área total, 41.12 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Licitação Aberta",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1787701252648",
-   "tipo": "apartamento"
-  },
-  {
    "id": "8444420897128",
    "uf": "AM",
    "cidade": "MANAUS",
@@ -5893,7 +5824,7 @@
    "desconto": 37.06,
    "financiamento": "Não",
    "descricao": "Apartamento, 0.00 de área total, 41.12 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1787702019530",
    "tipo": "apartamento"
   },
@@ -6027,19 +5958,46 @@
    "tipo": "apartamento"
   },
   {
-   "id": "1444416801334",
+   "id": "1787703429936",
    "uf": "AM",
    "cidade": "MANAUS",
-   "bairro": "COROADO",
-   "endereco": "AVENIDA COSME FERREIRA, N. 2214, Apto 204, BL C CD ARBORETTO",
-   "preco": 235806.29,
-   "valor_avaliacao": 370000.0,
+   "bairro": "SAO JORGE",
+   "endereco": "AVENIDA SAO JORGE, N. 529, Apto 203, T6 ROYALE SUBCOND C PLACE DE LA CONCOR",
+   "preco": 635402.36,
+   "valor_avaliacao": 997000.0,
+   "desconto": 36.27,
+   "financiamento": "Sim",
+   "descricao": "Apartamento, 223.57 de área total, 96.97 de área privativa, 0.00 de área do terreno,  3 qto(s), varanda, a.serv, WC, WC Emp, 1 sala(s), 1 lavabo(s), DCE, cozinha, 2 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1787703429936",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -3.0964926,
+    "lng": -60.04941280000001
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "1787701959075",
+   "uf": "AM",
+   "cidade": "MANAUS",
+   "bairro": "DA PAZ",
+   "endereco": "AVENIDA SENADOR RAIMUNDO PARENTE, N. 789, Apto 508, VG 14",
+   "preco": 186095.78,
+   "valor_avaliacao": 292000.0,
    "desconto": 36.27,
    "financiamento": "Não",
-   "descricao": "Apartamento, 0.00 de área total, 73.27 de área privativa, 0.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "descricao": "Apartamento, 92.36 de área total, 51.20 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
    "modalidade": "Licitação Aberta",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444416801334",
-   "tipo": "apartamento"
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1787701959075",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -3.0688544,
+    "lng": -60.0269343
+   },
+   "geo_pendente": false
   },
   {
    "id": "1444419008520",
@@ -6133,21 +6091,6 @@
     "lng": -60.0124216
    },
    "geo_pendente": false
-  },
-  {
-   "id": "1787700743761",
-   "uf": "AM",
-   "cidade": "MANAUS",
-   "bairro": "GILBERTO MESTRINHO",
-   "endereco": "RUA RAUL PAVON, N. SN, Apto 603, TORRE 05",
-   "preco": 150406.17,
-   "valor_avaliacao": 236000.0,
-   "desconto": 36.27,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 75.81 de área total, 43.58 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Licitação Aberta",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1787700743761",
-   "tipo": "apartamento"
   },
   {
    "id": "8787708908563",
@@ -6884,9 +6827,9 @@
    "cidade": "PARINTINS",
    "bairro": "DJARD VIEIRA",
    "endereco": "ESTRADA DO PARINTINSMACURANY, N. SN, CS 12 QD 07 LT 12",
-   "preco": 83500.0,
+   "preco": 53458.73,
    "valor_avaliacao": 83500.0,
-   "desconto": 0.0,
+   "desconto": 35.98,
    "financiamento": "Não",
    "descricao": "Casa, 0.00 de área total, 40.33 de área privativa, 250.00 de área do terreno.",
    "modalidade": "Leilão SFI - Edital Único",
@@ -6964,6 +6907,27 @@
    "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444426228317",
    "tipo": "casa"
+  },
+  {
+   "id": "10004400",
+   "uf": "AM",
+   "cidade": "TEFE",
+   "bairro": "SANTA LUZIA",
+   "endereco": "TRAVESSA SAO BENTO, N. 35",
+   "preco": 145580.66,
+   "valor_avaliacao": 289000.0,
+   "desconto": 49.63,
+   "financiamento": "Não",
+   "descricao": "Casa, 0.00 de área total, 216.00 de área privativa, 410.00 de área do terreno,  6 qto(s), a.serv, WC, 2 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10004400",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -3.3539045,
+    "lng": -64.7093659
+   },
+   "geo_pendente": false
   },
   {
    "id": "1444411590041",
@@ -162249,21 +162213,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8787710168725",
-   "uf": "PR",
-   "cidade": "ALMIRANTE TAMANDARE",
-   "bairro": "JARDIM CAMPO VERDE",
-   "endereco": "RUA MANOEL BARBOSA, N. 207, Apto 5412, BLOCO 54 VG 174",
-   "preco": 86084.73,
-   "valor_avaliacao": 159663.17,
-   "desconto": 46.09,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 0.00 de área total, 40.32 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787710168725",
-   "tipo": "apartamento"
-  },
-  {
    "id": "8787708036302",
    "uf": "PR",
    "cidade": "ALMIRANTE TAMANDARE",
@@ -162334,6 +162283,21 @@
     "lng": -49.2854612
    },
    "geo_pendente": false
+  },
+  {
+   "id": "8787711027912",
+   "uf": "PR",
+   "cidade": "ALMIRANTE TAMANDARE",
+   "bairro": "CAMPINA DO ARRUDA",
+   "endereco": "RUA RUSSIA, N. 12, Apto AP 10, BL 6",
+   "preco": 123300.35,
+   "valor_avaliacao": 204000.0,
+   "desconto": 39.56,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 46.04 de área total, 40.00 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787711027912",
+   "tipo": "apartamento"
   },
   {
    "id": "8787716480186",
@@ -162428,7 +162392,7 @@
    "cidade": "ALMIRANTE TAMANDARE",
    "bairro": "BONFIM",
    "endereco": "RUA ALFREDO DE ANDRADE, N. 75, Apto 406, BL 30  VG 1043",
-   "preco": 190000.0,
+   "preco": 182369.28,
    "valor_avaliacao": 177000.0,
    "desconto": 0.0,
    "financiamento": "Não",
@@ -162604,7 +162568,7 @@
    "desconto": 44.14,
    "financiamento": "Não",
    "descricao": "Casa, 0.00 de área total, 35.88 de área privativa, 204.00 de área do terreno.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555524055907",
    "tipo": "casa",
    "geo": {
@@ -162625,7 +162589,7 @@
    "desconto": 43.71,
    "financiamento": "Não",
    "descricao": "Casa, 51.28 de área total, 51.28 de área privativa, 315.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444420180185",
    "tipo": "casa",
    "geo": {
@@ -162646,7 +162610,7 @@
    "desconto": 39.41,
    "financiamento": "Não",
    "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 585.00 de área do terreno.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10286327",
    "tipo": "terreno",
    "geo": {
@@ -162662,12 +162626,12 @@
    "cidade": "ANDIRA",
    "bairro": "SAO GABRIEL",
    "endereco": "RUA A, N. SN, QD 01 LT 11",
-   "preco": 74404.2,
+   "preco": 72393.28,
    "valor_avaliacao": 144400.0,
-   "desconto": 48.48,
-   "financiamento": "Sim",
+   "desconto": 49.87,
+   "financiamento": "Não",
    "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 449.32 de área do terreno.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444406719252",
    "tipo": "terreno",
    "geo": {
@@ -162708,6 +162672,27 @@
    "tipo": "casa"
   },
   {
+   "id": "8787708094876",
+   "uf": "PR",
+   "cidade": "APUCARANA",
+   "bairro": "CONJUNTO HABITACIONAL SOLO SAGRADO",
+   "endereco": "RUA CAIO AUGUSTO PEZARINI SALINET, N. 1098, LT 28  QD 11",
+   "preco": 124018.85,
+   "valor_avaliacao": 130500.0,
+   "desconto": 4.97,
+   "financiamento": "Não",
+   "descricao": "Casa, 42.37 de área total, 42.37 de área privativa, 180.20 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787708094876",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -23.5163731,
+    "lng": -51.4169752
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8444420600893",
    "uf": "PR",
    "cidade": "APUCARANA",
@@ -162725,27 +162710,6 @@
     "fonte": "google",
     "lat": -23.5354533,
     "lng": -51.4367514
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8787708094876",
-   "uf": "PR",
-   "cidade": "APUCARANA",
-   "bairro": "CONJUNTO HABITACIONAL SOLO SAGRADO",
-   "endereco": "RUA CAIO AUGUSTO PEZARINI SALINET, N. 1098, LT 28  QD 11",
-   "preco": 130500.0,
-   "valor_avaliacao": 130500.0,
-   "desconto": 0.0,
-   "financiamento": "Não",
-   "descricao": "Casa, 42.37 de área total, 42.37 de área privativa, 180.20 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787708094876",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -23.5163731,
-    "lng": -51.4169752
    },
    "geo_pendente": false
   },
@@ -162864,18 +162828,48 @@
    "tipo": "apartamento"
   },
   {
-   "id": "8787718793041",
+   "id": "8555527547843",
    "uf": "PR",
    "cidade": "ARAUCARIA",
-   "bairro": "TINDIQUERA",
-   "endereco": "RUA MARCELINO JASINSKI, N. 800, Apto 303, BL 02 VAGA 37",
-   "preco": 119069.46,
-   "valor_avaliacao": 197000.0,
+   "bairro": "COSTEIRA",
+   "endereco": "RUA MINAS GERAIS, N. 985, Apto 105,  BL 13",
+   "preco": 116047.39,
+   "valor_avaliacao": 192000.0,
    "desconto": 39.56,
    "financiamento": "Não",
-   "descricao": "Apartamento, 43.52 de área total, 40.82 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "descricao": "Apartamento, 54.59 de área total, 48.73 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
    "modalidade": "Licitação Aberta",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787718793041",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555527547843",
+   "tipo": "apartamento"
+  },
+  {
+   "id": "8555537414927",
+   "uf": "PR",
+   "cidade": "ARAUCARIA",
+   "bairro": "CAPELA VELHA",
+   "endereco": "TRAVESSA GREEN VILLAGE, N. 40, Apto AP 30, BL 16",
+   "preco": 117860.63,
+   "valor_avaliacao": 195000.0,
+   "desconto": 39.56,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 59.10 de área total, 50.28 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555537414927",
+   "tipo": "apartamento"
+  },
+  {
+   "id": "8787700356782",
+   "uf": "PR",
+   "cidade": "ARAUCARIA",
+   "bairro": "CAPELA VELHA",
+   "endereco": "RUA YOSHIAKI NAGANO, N. 510, Apto 402, BLOCO 3  3 ANDAR OU 4 PAV. VAGA 196N",
+   "preco": 142011.7,
+   "valor_avaliacao": 234957.85,
+   "desconto": 39.56,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 47.93 de área total, 42.75 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787700356782",
    "tipo": "apartamento"
   },
   {
@@ -162889,7 +162883,7 @@
    "desconto": 38.77,
    "financiamento": "Não",
    "descricao": "Apartamento, 53.13 de área total, 47.43 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555524044050",
    "tipo": "apartamento",
    "geo": {
@@ -162898,72 +162892,6 @@
     "lng": -49.3685584
    },
    "geo_pendente": false
-  },
-  {
-   "id": "8787703546892",
-   "uf": "PR",
-   "cidade": "ARAUCARIA",
-   "bairro": "CACHOEIRA",
-   "endereco": "RUA JOSE TULIO, N. 174, Apto 404, BL 09 VAGA 153 VAGA M11",
-   "preco": 149402.3,
-   "valor_avaliacao": 244000.0,
-   "desconto": 38.77,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 46.35 de área total, 38.40 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Licitação Aberta",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787703546892",
-   "tipo": "apartamento"
-  },
-  {
-   "id": "8787708431163",
-   "uf": "PR",
-   "cidade": "ARAUCARIA",
-   "bairro": "CAPELA VELHA",
-   "endereco": "RUA DAS PALMEIRAS, N. 670, Apto 401, BL 1B VAGA 91",
-   "preco": 145728.47,
-   "valor_avaliacao": 238000.0,
-   "desconto": 38.77,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 47.14 de área total, 38.40 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Licitação Aberta",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787708431163",
-   "tipo": "apartamento"
-  },
-  {
-   "id": "8787708492456",
-   "uf": "PR",
-   "cidade": "ARAUCARIA",
-   "bairro": "CAPELA VELHA",
-   "endereco": "RUA DAS PALMEIRAS, N. 670, Apto 203, BLOCO 1A, 2º PAVIMENTO VAGA 68",
-   "preco": 148789.99,
-   "valor_avaliacao": 243000.0,
-   "desconto": 38.77,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 47.20 de área total, 38.40 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787708492456",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -25.5589264,
-    "lng": -49.3987927
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8444412479622",
-   "uf": "PR",
-   "cidade": "ARAUCARIA",
-   "bairro": "CAMPINA DA BARRA",
-   "endereco": "RUA HORTENSIA, N. 1164, Apto APT 1, J14",
-   "preco": 170006.34,
-   "valor_avaliacao": 277650.0,
-   "desconto": 38.77,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 68.53 de área total, 60.99 de área privativa, 0.00 de área do terreno,  3 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Licitação Aberta",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444412479622",
-   "tipo": "apartamento"
   },
   {
    "id": "8444404482830",
@@ -163012,7 +162940,7 @@
    "desconto": 36.27,
    "financiamento": "Sim",
    "descricao": "Apartamento, 106.53 de área total, 72.91 de área privativa, 0.00 de área do terreno,  3 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444410233237",
    "tipo": "apartamento"
   },
@@ -163233,27 +163161,6 @@
    "tipo": "apartamento"
   },
   {
-   "id": "8555536950051",
-   "uf": "PR",
-   "cidade": "ARAUCARIA",
-   "bairro": "COSTEIRA",
-   "endereco": "RUA JOSE GONDEK, N. 133, Apto 36, BL B  VG 28",
-   "preco": 218000.0,
-   "valor_avaliacao": 218000.0,
-   "desconto": 0.0,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 55.34 de área total, 49.25 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555536950051",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -25.5965911,
-    "lng": -49.3790212
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8787703898500",
    "uf": "PR",
    "cidade": "ARAUCARIA",
@@ -163297,27 +163204,6 @@
    "modalidade": "Leilão SFI - Edital Único",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787716570576",
    "tipo": "apartamento"
-  },
-  {
-   "id": "1555518050585",
-   "uf": "PR",
-   "cidade": "ARAUCARIA",
-   "bairro": "CACHOEIRA",
-   "endereco": "RUA LEONARDO JOAO WIECZORKOWSKI, N. 47, RESIDENCIA 02",
-   "preco": 316000.0,
-   "valor_avaliacao": 316000.0,
-   "desconto": 0.0,
-   "financiamento": "Não",
-   "descricao": "Casa, 48.06 de área total, 48.06 de área privativa, 93.62 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1555518050585",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -25.5957177,
-    "lng": -49.3862992
-   },
-   "geo_pendente": false
   },
   {
    "id": "8444434265692",
@@ -163515,6 +163401,27 @@
    "geo_pendente": false
   },
   {
+   "id": "1555518050585",
+   "uf": "PR",
+   "cidade": "ARAUCARIA",
+   "bairro": "CACHOEIRA",
+   "endereco": "RUA LEONARDO JOAO WIECZORKOWSKI, N. 47, RESIDENCIA 02",
+   "preco": 342503.51,
+   "valor_avaliacao": 316000.0,
+   "desconto": 0.0,
+   "financiamento": "Não",
+   "descricao": "Casa, 48.06 de área total, 48.06 de área privativa, 93.62 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1555518050585",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -25.5957177,
+    "lng": -49.3862992
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8787718977401",
    "uf": "PR",
    "cidade": "ARAUCARIA",
@@ -163528,6 +163435,27 @@
    "modalidade": "Leilão SFI - Edital Único",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787718977401",
    "tipo": "apartamento"
+  },
+  {
+   "id": "8555536950051",
+   "uf": "PR",
+   "cidade": "ARAUCARIA",
+   "bairro": "COSTEIRA",
+   "endereco": "RUA JOSE GONDEK, N. 133, Apto 36, BL B  VG 28",
+   "preco": 298746.35,
+   "valor_avaliacao": 218000.0,
+   "desconto": 0.0,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 55.34 de área total, 49.25 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555536950051",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -25.5965911,
+    "lng": -49.3790212
+   },
+   "geo_pendente": false
   },
   {
    "id": "10286372",
@@ -163612,6 +163540,21 @@
     "lng": -50.852148
    },
    "geo_pendente": false
+  },
+  {
+   "id": "10152483",
+   "uf": "PR",
+   "cidade": "ASTORGA",
+   "bairro": "VILA FRANCISCO SILVA",
+   "endereco": "AVENIDA GETULIO VARGAS, QD 02, LT 1A/1",
+   "preco": 505072.95,
+   "valor_avaliacao": 906498.16,
+   "desconto": 44.29,
+   "financiamento": "Não",
+   "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 445.50 de área do terreno.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10152483",
+   "tipo": "terreno"
   },
   {
    "id": "1444403057542",
@@ -163702,7 +163645,7 @@
    "desconto": 36.27,
    "financiamento": "Sim",
    "descricao": "Casa, 0.00 de área total, 179.70 de área privativa, 300.00 de área do terreno.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10289417",
    "tipo": "casa",
    "geo": {
@@ -163718,12 +163661,12 @@
    "cidade": "BANDEIRANTES",
    "bairro": "VILA SANTA MARIA",
    "endereco": "CHACARA 11A, N. SN,",
-   "preco": 522062.4,
+   "preco": 508323.91,
    "valor_avaliacao": 900000.0,
-   "desconto": 42.0,
+   "desconto": 43.52,
    "financiamento": "Sim",
    "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 6162.00 de área do terreno.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444405869528",
    "tipo": "terreno",
    "geo": {
@@ -163759,13 +163702,34 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Apartamento, 62.96 de área total, 38.40 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787707781578",
    "tipo": "apartamento",
    "geo": {
     "fonte": "google",
     "lat": -23.2740524,
     "lng": -51.2483285
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8787702771370",
+   "uf": "PR",
+   "cidade": "CAMBE",
+   "bairro": "GLEBA RIBEIRAO CAFES",
+   "endereco": "RUA OCEANO PACIFICO, N. 965, Apto 101, BL A VG 152",
+   "preco": 92444.76,
+   "valor_avaliacao": 156000.0,
+   "desconto": 40.75,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 50.33 de área total, 44.95 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787702771370",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -23.310764,
+    "lng": -51.2376711
    },
    "geo_pendente": false
   },
@@ -163780,7 +163744,7 @@
    "desconto": 40.75,
    "financiamento": "Não",
    "descricao": "Apartamento, 98.71 de área total, 38.40 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787705859170",
    "tipo": "apartamento",
    "geo": {
@@ -163789,6 +163753,21 @@
     "lng": -51.8687845
    },
    "geo_pendente": false
+  },
+  {
+   "id": "8787703979098",
+   "uf": "PR",
+   "cidade": "CAMBE",
+   "bairro": "CHACARA MANELLA",
+   "endereco": "AVENIDA PEDRO VIRIATO PARIGOT DE SOUZA, N. 243, Apto 204, BL 10 PAV 02 VG 281",
+   "preco": 112420.91,
+   "valor_avaliacao": 186000.0,
+   "desconto": 39.56,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 76.73 de área total, 38.40 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787703979098",
+   "tipo": "apartamento"
   },
   {
    "id": "8787712011580",
@@ -163801,7 +163780,7 @@
    "desconto": 38.77,
    "financiamento": "Não",
    "descricao": "Apartamento, 80.85 de área total, 46.00 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787712011580",
    "tipo": "apartamento",
    "geo": {
@@ -164103,36 +164082,6 @@
    "tipo": "apartamento"
   },
   {
-   "id": "8787701858951",
-   "uf": "PR",
-   "cidade": "CAMPO LARGO",
-   "bairro": "JARDIM ITAQUI",
-   "endereco": "RUA MARIA JOAQUINA VAZ, N. 721, Apto 302, BL 24 VAGA GARAGEM 746",
-   "preco": 85477.6,
-   "valor_avaliacao": 146000.0,
-   "desconto": 41.46,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 46.27 de área total, 40.31 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Licitação Aberta",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787701858951",
-   "tipo": "apartamento"
-  },
-  {
-   "id": "8787705749626",
-   "uf": "PR",
-   "cidade": "CAMPO LARGO",
-   "bairro": "BOM JESUS",
-   "endereco": "RODOVIA DOS EXPEDICIONARIOS, N. 1145, Apto 217, TERREO BL 02 VAGA GARAGEM 48",
-   "preco": 84892.14,
-   "valor_avaliacao": 145000.0,
-   "desconto": 41.46,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 45.87 de área total, 40.00 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Licitação Aberta",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787705749626",
-   "tipo": "apartamento"
-  },
-  {
    "id": "8787702847805",
    "uf": "PR",
    "cidade": "CAMPO LARGO",
@@ -164150,6 +164099,27 @@
     "fonte": "google",
     "lat": -25.4770264,
     "lng": -49.5791638
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "10284141",
+   "uf": "PR",
+   "cidade": "CAMPO LARGO",
+   "bairro": "MORADIAS BOM JESUS",
+   "endereco": "RUA JOÃO TIGRINHO DE FREITAS/ ANTIGA UA 16, N. CS 16, CASA",
+   "preco": 2240159.76,
+   "valor_avaliacao": 3800000.0,
+   "desconto": 41.05,
+   "financiamento": "Não",
+   "descricao": "Casa, 0.00 de área total, 547.75 de área privativa, 1468.00 de área do terreno,  5 qto(s), varanda, a.serv, WC, WC Emp, 2 sala(s), 1 lavabo(s), cozinha, Terraco.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10284141",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -25.4664498,
+    "lng": -49.5566304
    },
    "geo_pendente": false
   },
@@ -164215,6 +164185,21 @@
     "lng": -49.5791638
    },
    "geo_pendente": false
+  },
+  {
+   "id": "8787716369161",
+   "uf": "PR",
+   "cidade": "CAMPO LARGO",
+   "bairro": "OURO VERDE",
+   "endereco": "RUA CAETANO MUNHOZ DA ROCHA, N. 1080, Apto 207,  BLOCO 10",
+   "preco": 104889.24,
+   "valor_avaliacao": 177000.0,
+   "desconto": 40.75,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 45.67 de área total, 40.00 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787716369161",
+   "tipo": "apartamento"
   },
   {
    "id": "8787717151232",
@@ -164409,21 +164394,6 @@
    "tipo": "apartamento"
   },
   {
-   "id": "8787705103572",
-   "uf": "PR",
-   "cidade": "CAMPO LARGO",
-   "bairro": "BOM JESUS",
-   "endereco": "RODOVIA DOS EXPEDICIONARIOS, N. 1145, Apto 121, TP 02 BL 01 VG 09",
-   "preco": 94815.14,
-   "valor_avaliacao": 160000.0,
-   "desconto": 40.75,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 46.17 de área total, 40.31 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Licitação Aberta",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787705103572",
-   "tipo": "apartamento"
-  },
-  {
    "id": "8787705246837",
    "uf": "PR",
    "cidade": "CAMPO LARGO",
@@ -164434,8 +164404,23 @@
    "desconto": 40.75,
    "financiamento": "Não",
    "descricao": "Apartamento, 45.87 de área total, 40.00 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787705246837",
+   "tipo": "apartamento"
+  },
+  {
+   "id": "8787705407920",
+   "uf": "PR",
+   "cidade": "CAMPO LARGO",
+   "bairro": "BOM JESUS",
+   "endereco": "RODOVIA DOS EXPEDICIONARIOS, N. 1145, Apto 117, BL 01. VAGA 07",
+   "preco": 97778.11,
+   "valor_avaliacao": 165000.0,
+   "desconto": 40.75,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 45.87 de área total, 40.00 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787705407920",
    "tipo": "apartamento"
   },
   {
@@ -164449,7 +164434,7 @@
    "desconto": 40.75,
    "financiamento": "Não",
    "descricao": "Apartamento, 46.17 de área total, 40.31 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787705518853",
    "tipo": "apartamento",
    "geo": {
@@ -164475,27 +164460,6 @@
    "tipo": "apartamento"
   },
   {
-   "id": "8787706366283",
-   "uf": "PR",
-   "cidade": "CAMPO LARGO",
-   "bairro": "CAMPO DO MEIO",
-   "endereco": "RUA MARIA JOAQUINA VAZ, N. SN, Apto 206, TP 01 2º PAV BL 31 VG 774",
-   "preco": 102518.87,
-   "valor_avaliacao": 173000.0,
-   "desconto": 40.75,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 45.90 de área total, 51.00 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787706366283",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -25.4755869,
-    "lng": -49.5767014
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8787702354132",
    "uf": "PR",
    "cidade": "CAMPO LARGO",
@@ -164506,7 +164470,7 @@
    "desconto": 39.56,
    "financiamento": "Não",
    "descricao": "Apartamento, 45.91 de área total, 40.00 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787702354132",
    "tipo": "apartamento",
    "geo": {
@@ -164527,7 +164491,7 @@
    "desconto": 39.56,
    "financiamento": "Não",
    "descricao": "Apartamento, 45.91 de área total, 40.00 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787703207141",
    "tipo": "apartamento"
   },
@@ -164563,7 +164527,7 @@
    "desconto": 39.56,
    "financiamento": "Não",
    "descricao": "Apartamento, 46.27 de área total, 40.31 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787703728761",
    "tipo": "apartamento"
   },
@@ -164610,6 +164574,27 @@
    "geo_pendente": false
   },
   {
+   "id": "8787716012891",
+   "uf": "PR",
+   "cidade": "CAMPO LARGO",
+   "bairro": "OURO VERDE",
+   "endereco": "RUA CAETANO MUNHOZ DA ROCHA, N. 1080, Apto 102, PAVIMENTO TÉRREO BLCO 04 VAGA 115",
+   "preco": 119673.87,
+   "valor_avaliacao": 198000.0,
+   "desconto": 39.56,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 45.67 de área total, 40.00 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787716012891",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -25.4398549,
+    "lng": -49.5313413
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8787716261387",
    "uf": "PR",
    "cidade": "CAMPO LARGO",
@@ -164620,7 +164605,7 @@
    "desconto": 39.56,
    "financiamento": "Não",
    "descricao": "Apartamento, 0.00 de área total, 40.31 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787716261387",
    "tipo": "apartamento",
    "geo": {
@@ -164662,7 +164647,7 @@
    "desconto": 39.56,
    "financiamento": "Não",
    "descricao": "Apartamento, 46.01 de área total, 40.31 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787716326640",
    "tipo": "apartamento",
    "geo": {
@@ -164692,6 +164677,21 @@
     "lng": -49.5313413
    },
    "geo_pendente": false
+  },
+  {
+   "id": "8787714085565",
+   "uf": "PR",
+   "cidade": "CAMPO LARGO",
+   "bairro": "BOTIATUVA",
+   "endereco": "RUA MANOEL LOPES VIEIRA, N. 143, Apto 207, TIPO I PAV 01 BL 06 VG 94",
+   "preco": 114838.57,
+   "valor_avaliacao": 190000.0,
+   "desconto": 39.56,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 46.12 de área total, 40.00 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787714085565",
+   "tipo": "apartamento"
   },
   {
    "id": "8787714176617",
@@ -164725,7 +164725,7 @@
    "desconto": 39.56,
    "financiamento": "Não",
    "descricao": "Apartamento, 0.00 de área total, 40.31 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787714200887",
    "tipo": "apartamento",
    "geo": {
@@ -164746,7 +164746,7 @@
    "desconto": 39.56,
    "financiamento": "Não",
    "descricao": "Apartamento, 0.00 de área total, 40.31 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787714595962",
    "tipo": "apartamento",
    "geo": {
@@ -164778,6 +164778,21 @@
    "geo_pendente": false
   },
   {
+   "id": "8787716993450",
+   "uf": "PR",
+   "cidade": "CAMPO LARGO",
+   "bairro": "BOTIATUVA",
+   "endereco": "RUA MANOEL LOPES VIEIRA, N. 143, Apto 204, TIPO G PAV 01 BL 04 VG 317",
+   "preco": 122695.94,
+   "valor_avaliacao": 203000.0,
+   "desconto": 39.56,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 46.45 de área total, 40.31 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787716993450",
+   "tipo": "apartamento"
+  },
+  {
    "id": "8787717029607",
    "uf": "PR",
    "cidade": "CAMPO LARGO",
@@ -164797,6 +164812,21 @@
     "lng": -49.541076
    },
    "geo_pendente": false
+  },
+  {
+   "id": "8787704989380",
+   "uf": "PR",
+   "cidade": "CAMPO LARGO",
+   "bairro": "BOM JESUS",
+   "endereco": "RODOVIA DOS EXPEDICIONARIOS, N. 1145, Apto 1612, TIPO 03  BLOCO 16  VAGA 160",
+   "preco": 117860.63,
+   "valor_avaliacao": 195000.0,
+   "desconto": 39.56,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 58.37 de área total, 40.00 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787704989380",
+   "tipo": "apartamento"
   },
   {
    "id": "8787705230418",
@@ -164932,34 +164962,13 @@
    "desconto": 39.56,
    "financiamento": "Não",
    "descricao": "Apartamento, 45.67 de área total, 40.00 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787718488990",
    "tipo": "apartamento",
    "geo": {
     "fonte": "google",
     "lat": -25.4398549,
     "lng": -49.5313413
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "10284141",
-   "uf": "PR",
-   "cidade": "CAMPO LARGO",
-   "bairro": "MORADIAS BOM JESUS",
-   "endereco": "RUA JOÃO TIGRINHO DE FREITAS/ ANTIGA UA 16, N. CS 16, CASA",
-   "preco": 2300704.62,
-   "valor_avaliacao": 3800000.0,
-   "desconto": 39.46,
-   "financiamento": "Não",
-   "descricao": "Casa, 0.00 de área total, 547.75 de área privativa, 1468.00 de área do terreno,  5 qto(s), varanda, a.serv, WC, WC Emp, 2 sala(s), 1 lavabo(s), cozinha, Terraco.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10284141",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -25.4664498,
-    "lng": -49.5566304
    },
    "geo_pendente": false
   },
@@ -164974,7 +164983,7 @@
    "desconto": 38.77,
    "financiamento": "Sim",
    "descricao": "Apartamento, 46.02 de área total, 52.31 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787715736152",
    "tipo": "apartamento",
    "geo": {
@@ -165016,7 +165025,7 @@
    "desconto": 38.77,
    "financiamento": "Não",
    "descricao": "Apartamento, 45.67 de área total, 40.00 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787716933091",
    "tipo": "apartamento",
    "geo": {
@@ -165048,27 +165057,6 @@
    "geo_pendente": false
   },
   {
-   "id": "1787700180341",
-   "uf": "PR",
-   "cidade": "CAMPO LARGO",
-   "bairro": "JARDIM ITAQUI",
-   "endereco": "RUA MARIA JOAQUINA VAZ, N. 721, Apto 108, PAVIMENTO TÉRREO BLOCO 08 VAGA 24",
-   "preco": 101904.73,
-   "valor_avaliacao": 165000.0,
-   "desconto": 38.24,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 50.13 de área total, 43.61 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1787700180341",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -25.4770264,
-    "lng": -49.5791638
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "1787700268214",
    "uf": "PR",
    "cidade": "CAMPO LARGO",
@@ -165081,6 +165069,27 @@
    "descricao": "Apartamento, 46.17 de área total, 40.31 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
    "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1787700268214",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -25.4623449,
+    "lng": -49.5592064
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8787704801632",
+   "uf": "PR",
+   "cidade": "CAMPO LARGO",
+   "bairro": "BOM JESUS",
+   "endereco": "RODOVIA DOS EXPEDICIONARIOS, N. 1145, Apto 1432, BL 14  VG 549",
+   "preco": 158010.97,
+   "valor_avaliacao": 212454.4,
+   "desconto": 25.63,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 0.00 de área total, 40.00 de área privativa, 0.00 de área do terreno, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787704801632",
    "tipo": "apartamento",
    "geo": {
     "fonte": "google",
@@ -165175,27 +165184,6 @@
    "modalidade": "Leilão SFI - Edital Único",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444414901110",
    "tipo": "casa"
-  },
-  {
-   "id": "8787704801632",
-   "uf": "PR",
-   "cidade": "CAMPO LARGO",
-   "bairro": "BOM JESUS",
-   "endereco": "RODOVIA DOS EXPEDICIONARIOS, N. 1145, Apto 1432, BL 14  VG 549",
-   "preco": 212454.4,
-   "valor_avaliacao": 212454.4,
-   "desconto": 0.0,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 0.00 de área total, 40.00 de área privativa, 0.00 de área do terreno, 1 vaga(s) de garagem.",
-   "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787704801632",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -25.4623449,
-    "lng": -49.5592064
-   },
-   "geo_pendente": false
   },
   {
    "id": "8787704840697",
@@ -165429,27 +165417,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8787705451325",
-   "uf": "PR",
-   "cidade": "CAMPO LARGO",
-   "bairro": "BOM JESUS",
-   "endereco": "RODOVIA DOS EXPEDICIONARIOS, N. 1145, Apto 815, BL 8  VG 223",
-   "preco": 178478.86,
-   "valor_avaliacao": 159000.0,
-   "desconto": 0.0,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 46.27 de área total, 40.31 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787705451325",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -25.4623449,
-    "lng": -49.5592064
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8787704965848",
    "uf": "PR",
    "cidade": "CAMPO LARGO",
@@ -165486,6 +165453,27 @@
    "tipo": "apartamento"
   },
   {
+   "id": "8787705451325",
+   "uf": "PR",
+   "cidade": "CAMPO LARGO",
+   "bairro": "BOM JESUS",
+   "endereco": "RODOVIA DOS EXPEDICIONARIOS, N. 1145, Apto 815, BL 8  VG 223",
+   "preco": 198970.14,
+   "valor_avaliacao": 159000.0,
+   "desconto": 0.0,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 46.27 de área total, 40.31 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787705451325",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -25.4623449,
+    "lng": -49.5592064
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8787714098543",
    "uf": "PR",
    "cidade": "CAMPO LARGO",
@@ -165506,12 +165494,12 @@
    "cidade": "CAMPO MOURAO",
    "bairro": "JARDIM RESIDENCIAL ARAUCARIA",
    "endereco": "RUA DAS CEREJEIRAS, N. 46, QD 29, METADE LT 05",
-   "preco": 765309.89,
+   "preco": 744625.84,
    "valor_avaliacao": 1355000.0,
-   "desconto": 43.52,
+   "desconto": 45.05,
    "financiamento": "Sim",
    "descricao": "Casa, 0.00 de área total, 237.83 de área privativa, 245.00 de área do terreno.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10217331",
    "tipo": "casa",
    "geo": {
@@ -165527,12 +165515,12 @@
    "cidade": "CAMPO MOURAO",
    "bairro": "JARDIM ALVORADA",
    "endereco": "RUA LAMBARI, N. 243, CHÁCARA G-2",
-   "preco": 124673.08,
+   "preco": 121392.21,
    "valor_avaliacao": 217741.86,
-   "desconto": 42.75,
-   "financiamento": "Sim",
+   "desconto": 44.25,
+   "financiamento": "Não",
    "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 730.80 de área do terreno.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10218088",
    "tipo": "terreno",
    "geo": {
@@ -165564,6 +165552,21 @@
    "geo_pendente": false
   },
   {
+   "id": "10309344",
+   "uf": "PR",
+   "cidade": "CANTAGALO",
+   "bairro": "VILA SANTA CRUZ",
+   "endereco": "RUA HORAVIO ANTONIO CORREIA, N. 00, QD 07, LT 02",
+   "preco": 174624.12,
+   "valor_avaliacao": 274000.0,
+   "desconto": 36.27,
+   "financiamento": "Não",
+   "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 425.70 de área do terreno.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10309344",
+   "tipo": "terreno"
+  },
+  {
    "id": "1600000096192",
    "uf": "PR",
    "cidade": "CASCAVEL",
@@ -165574,7 +165577,7 @@
    "desconto": 36.27,
    "financiamento": "Não",
    "descricao": "Casa, 224.27 de área total, 221.55 de área privativa, 280.00 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), 1 lavabo(s), cozinha, 4 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1600000096192",
    "tipo": "casa",
    "geo": {
@@ -165657,21 +165660,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8444406770078",
-   "uf": "PR",
-   "cidade": "CASTRO",
-   "bairro": "NOSSA SENHORA DAS GRACAS",
-   "endereco": "RUA J, N. 5, UND B LT 01 QD 28",
-   "preco": 114838.57,
-   "valor_avaliacao": 190000.0,
-   "desconto": 39.56,
-   "financiamento": "Não",
-   "descricao": "Casa, 56.10 de área total, 56.10 de área privativa, 198.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Licitação Aberta",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444406770078",
-   "tipo": "casa"
-  },
-  {
    "id": "8787700728213",
    "uf": "PR",
    "cidade": "CENTENARIO DO SUL",
@@ -165734,12 +165722,12 @@
    "cidade": "CIANORTE",
    "bairro": "RESIDENCIAL ATLANTICO II",
    "endereco": "RUA PONTAL DO SUL, N. 151, DT 09 QD 01",
-   "preco": 833651.22,
+   "preco": 811120.11,
    "valor_avaliacao": 1476000.0,
-   "desconto": 43.52,
+   "desconto": 45.05,
    "financiamento": "Sim",
    "descricao": "Casa, 0.00 de área total, 459.39 de área privativa, 0.00 de área do terreno.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444415736636",
    "tipo": "casa",
    "geo": {
@@ -165750,19 +165738,55 @@
    "geo_pendente": false
   },
   {
-   "id": "8444416304894",
+   "id": "1555532214352",
+   "uf": "PR",
+   "cidade": "CIANORTE",
+   "bairro": "ZONA DE ARMAZEM",
+   "endereco": "AVENIDA RIO BRANCO, N. 410, Apto 303, PAV 4",
+   "preco": 203940.58,
+   "valor_avaliacao": 320000.0,
+   "desconto": 36.27,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 111.96 de área total, 66.46 de área privativa, 0.00 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1555532214352",
+   "tipo": "apartamento"
+  },
+  {
+   "id": "1555521919074",
    "uf": "PR",
    "cidade": "COLOMBO",
-   "bairro": "RIO VERDE",
-   "endereco": "RUA ANTONIO APPEL, N. 71, Apto 42,",
-   "preco": 112706.45,
-   "valor_avaliacao": 220000.0,
-   "desconto": 48.77,
+   "bairro": "EMBU",
+   "endereco": "RUA DA CANAFISTULA ANTIGA RUA DA MANGUEIRA LT 12 Q, N. SN, LT 12QD 27",
+   "preco": 273012.96,
+   "valor_avaliacao": 490000.0,
+   "desconto": 44.29,
    "financiamento": "Não",
-   "descricao": "Apartamento, 53.80 de área total, 45.69 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444416304894",
-   "tipo": "apartamento"
+   "descricao": "Terreno, 0.00 de área total, 75.00 de área privativa, 1020.00 de área do terreno.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1555521919074",
+   "tipo": "terreno"
+  },
+  {
+   "id": "8555539769463",
+   "uf": "PR",
+   "cidade": "COLOMBO",
+   "bairro": "PALMITAL",
+   "endereco": "RUA ALIPIO DA SILVA, N. 301, Apto 33",
+   "preco": 138629.3,
+   "valor_avaliacao": 230000.0,
+   "desconto": 39.73,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 0.00 de área total, 46.31 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555539769463",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -25.3703267,
+    "lng": -49.1619012
+   },
+   "geo_pendente": false
   },
   {
    "id": "8444416767487",
@@ -165837,44 +165861,23 @@
    "geo_pendente": false
   },
   {
-   "id": "8555539769463",
-   "uf": "PR",
-   "cidade": "COLOMBO",
-   "bairro": "PALMITAL",
-   "endereco": "RUA ALIPIO DA SILVA, N. 301, Apto 33",
-   "preco": 230000.0,
-   "valor_avaliacao": 230000.0,
-   "desconto": 0.0,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 0.00 de área total, 46.31 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555539769463",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -25.3703267,
-    "lng": -49.1619012
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8555515362061",
+   "id": "8444404798498",
    "uf": "PR",
    "cidade": "CONTENDA",
-   "bairro": "JARDIM DAS AMERICAS",
-   "endereco": "RUA JAIME GOOD, N. 86, 15,",
-   "preco": 93600.32,
-   "valor_avaliacao": 162000.0,
-   "desconto": 42.23,
+   "bairro": "PLANALTO",
+   "endereco": "R VALERIA BAUMEL PADILHA 483, N. 483, CASA 04 COND ROMA XXXIV",
+   "preco": 117860.63,
+   "valor_avaliacao": 200000.0,
+   "desconto": 41.07,
    "financiamento": "Não",
-   "descricao": "Casa, 47.30 de área total, 47.30 de área privativa, 127.91 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
+   "descricao": "Casa, 0.00 de área total, 51.43 de área privativa, 0.00 de área do terreno,  3 qto(s), 1 sala(s), cozinha.",
    "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555515362061",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444404798498",
    "tipo": "casa",
    "geo": {
     "fonte": "google",
-    "lat": -25.6825291,
-    "lng": -49.5468935
+    "lat": -25.6744439,
+    "lng": -49.523945
    },
    "geo_pendente": false
   },
@@ -165889,49 +165892,13 @@
    "desconto": 41.07,
    "financiamento": "Não",
    "descricao": "Casa, 43.65 de área total, 43.65 de área privativa, 71.60 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444406189855",
    "tipo": "casa",
    "geo": {
     "fonte": "google",
     "lat": -25.6827808,
     "lng": -49.54643739999999
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8787712225408",
-   "uf": "PR",
-   "cidade": "CONTENDA",
-   "bairro": "SAO JOAO",
-   "endereco": "RUA DR JUVENCIO SOARES DA SILVA, N. 770, CASA 97",
-   "preco": 107852.22,
-   "valor_avaliacao": 182000.0,
-   "desconto": 40.75,
-   "financiamento": "Não",
-   "descricao": "Casa, 42.75 de área total, 42.43 de área privativa, 111.56 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787712225408",
-   "tipo": "casa"
-  },
-  {
-   "id": "8444404798498",
-   "uf": "PR",
-   "cidade": "CONTENDA",
-   "bairro": "PLANALTO",
-   "endereco": "R VALERIA BAUMEL PADILHA 483, N. 483, CASA 04 COND ROMA XXXIV",
-   "preco": 120882.7,
-   "valor_avaliacao": 200000.0,
-   "desconto": 39.56,
-   "financiamento": "Não",
-   "descricao": "Casa, 0.00 de área total, 51.43 de área privativa, 0.00 de área do terreno,  3 qto(s), 1 sala(s), cozinha.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444404798498",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -25.6744439,
-    "lng": -49.523945
    },
    "geo_pendente": false
   },
@@ -165957,27 +165924,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8444421970368",
-   "uf": "PR",
-   "cidade": "CONTENDA",
-   "bairro": "ITALIA I",
-   "endereco": "RUA AFONSO WOJCIK  ANTIGA RUA 04, N. 192, LT 06 QD 02",
-   "preco": 148000.0,
-   "valor_avaliacao": 148000.0,
-   "desconto": 0.0,
-   "financiamento": "Não",
-   "descricao": "Casa, 42.41 de área total, 42.41 de área privativa, 144.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",
-   "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444421970368",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -25.6786655,
-    "lng": -49.5369162
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "1444411026235",
    "uf": "PR",
    "cidade": "CONTENDA",
@@ -165995,6 +165941,27 @@
     "fonte": "google",
     "lat": -25.672845,
     "lng": -49.52718100000001
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8444421970368",
+   "uf": "PR",
+   "cidade": "CONTENDA",
+   "bairro": "ITALIA I",
+   "endereco": "RUA AFONSO WOJCIK  ANTIGA RUA 04, N. 192, LT 06 QD 02",
+   "preco": 157942.14,
+   "valor_avaliacao": 148000.0,
+   "desconto": 0.0,
+   "financiamento": "Não",
+   "descricao": "Casa, 42.41 de área total, 42.41 de área privativa, 144.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444421970368",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -25.6786655,
+    "lng": -49.5369162
    },
    "geo_pendente": false
   },
@@ -166029,17 +165996,32 @@
    "tipo": "apartamento"
   },
   {
+   "id": "1444405800544",
+   "uf": "PR",
+   "cidade": "CURITIBA",
+   "bairro": "TINGUI",
+   "endereco": "RUA DOUTOR SATILAS DO AMARAL CAMARGO, N. 303, Apto 34",
+   "preco": 136506.48,
+   "valor_avaliacao": 245000.0,
+   "desconto": 44.29,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 0.00 de área total, 52.93 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444405800544",
+   "tipo": "apartamento"
+  },
+  {
    "id": "1555528553075",
    "uf": "PR",
    "cidade": "CURITIBA",
    "bairro": "TINGUI",
    "endereco": "RUA JOAO BATISTA TRENTIN, N. 796, 200",
-   "preco": 1307768.94,
+   "preco": 1271442.02,
    "valor_avaliacao": 2280000.0,
-   "desconto": 42.65,
+   "desconto": 44.24,
    "financiamento": "Sim",
    "descricao": "Casa, 410.32 de área total, 410.32 de área privativa, 528.00 de área do terreno,  3 qto(s), a.serv, WC, 4 sala(s), cozinha.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1555528553075",
    "tipo": "casa",
    "geo": {
@@ -166048,6 +166030,63 @@
     "lng": -49.2277797
    },
    "geo_pendente": false
+  },
+  {
+   "id": "8444421533421",
+   "uf": "PR",
+   "cidade": "CURITIBA",
+   "bairro": "CAMPO DE SANTANA",
+   "endereco": "RUA  VADISLAU BURGINSKI VARCHAKI, N. 360, CS 02",
+   "preco": 118200.0,
+   "valor_avaliacao": 197000.0,
+   "desconto": 40.0,
+   "financiamento": "Não",
+   "descricao": "Casa, 0.00 de área total, 41.00 de área privativa, 70.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444421533421",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -25.5903536,
+    "lng": -49.3425302
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8787718024536",
+   "uf": "PR",
+   "cidade": "CURITIBA",
+   "bairro": "CAMPO DE SANTANA",
+   "endereco": "RUA MELANIA ZENI VISINONI, N. 150, Apto 101, BL 8",
+   "preco": 125400.0,
+   "valor_avaliacao": 209000.0,
+   "desconto": 40.0,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 38.68 de área total, 38.68 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787718024536",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -25.5755714,
+    "lng": -49.3179931
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8555532524066",
+   "uf": "PR",
+   "cidade": "CURITIBA",
+   "bairro": "CACHOEIRA",
+   "endereco": "RUA HOWELL LEWIS FRY, N. 341, Apto AP 10, BL 12",
+   "preco": 126926.84,
+   "valor_avaliacao": 210000.0,
+   "desconto": 39.56,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 52.82 de área total, 47.39 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555532524066",
+   "tipo": "apartamento"
   },
   {
    "id": "8444417712449",
@@ -166060,7 +166099,7 @@
    "desconto": 39.56,
    "financiamento": "Não",
    "descricao": "Casa, 77.84 de área total, 38.92 de área privativa, 70.00 de área do terreno, a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444417712449",
    "tipo": "casa",
    "geo": {
@@ -166069,6 +166108,36 @@
     "lng": -49.3429097
    },
    "geo_pendente": false
+  },
+  {
+   "id": "1444416534735",
+   "uf": "PR",
+   "cidade": "CURITIBA",
+   "bairro": "SAO FRANCISCO",
+   "endereco": "RUA JOSE LUIZ DEMETERCO, N. 276, LOTE A1  QUADRA 040",
+   "preco": 764777.16,
+   "valor_avaliacao": 1200000.0,
+   "desconto": 36.27,
+   "financiamento": "Sim",
+   "descricao": "Casa, 0.00 de área total, 342.34 de área privativa, 636.26 de área do terreno.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444416534735",
+   "tipo": "casa"
+  },
+  {
+   "id": "1444420431732",
+   "uf": "PR",
+   "cidade": "CURITIBA",
+   "bairro": "BACACHERI",
+   "endereco": "RUA VINTE E NOVE DE JUNHO, N. 207, Apto 33, PAV 03 BL B LT A2",
+   "preco": 493499.19,
+   "valor_avaliacao": 774341.93,
+   "desconto": 36.27,
+   "financiamento": "Sim",
+   "descricao": "Apartamento, 113.26 de área total, 86.80 de área privativa, 0.00 de área do terreno,  3 qto(s).",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444420431732",
+   "tipo": "apartamento"
   },
   {
    "id": "10301532",
@@ -166081,13 +166150,34 @@
    "desconto": 36.27,
    "financiamento": "Sim",
    "descricao": "Sala, 0.00 de área total, 34.20 de área privativa, 0.00 de área do terreno.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10301532",
    "tipo": "sala",
    "geo": {
     "fonte": "google",
     "lat": -25.431491,
     "lng": -49.2669863
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "10312585",
+   "uf": "PR",
+   "cidade": "CURITIBA",
+   "bairro": "ALTO BOQUEIRAO",
+   "endereco": "RUA LEOCÁDIO ROBINSON DE LIMA DAMÁZIO, N. 144, Apto 203",
+   "preco": 305014.24,
+   "valor_avaliacao": 325000.0,
+   "desconto": 6.15,
+   "financiamento": "Sim",
+   "descricao": "Apartamento, 0.00 de área total, 58.55 de área privativa, 0.00 de área do terreno, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10312585",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -25.532633,
+    "lng": -49.2435075
    },
    "geo_pendente": false
   },
@@ -166452,27 +166542,6 @@
    "geo_pendente": false
   },
   {
-   "id": "10312585",
-   "uf": "PR",
-   "cidade": "CURITIBA",
-   "bairro": "ALTO BOQUEIRAO",
-   "endereco": "RUA LEOCÁDIO ROBINSON DE LIMA DAMÁZIO, N. 144, Apto 203",
-   "preco": 325000.0,
-   "valor_avaliacao": 325000.0,
-   "desconto": 0.0,
-   "financiamento": "Sim",
-   "descricao": "Apartamento, 0.00 de área total, 58.55 de área privativa, 0.00 de área do terreno, 1 vaga(s) de garagem.",
-   "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10312585",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -25.532633,
-    "lng": -49.2435075
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "1555501596229",
    "uf": "PR",
    "cidade": "CURITIBA",
@@ -166539,27 +166608,6 @@
    "tipo": "loja"
   },
   {
-   "id": "8444421533421",
-   "uf": "PR",
-   "cidade": "CURITIBA",
-   "bairro": "CAMPO DE SANTANA",
-   "endereco": "RUA  VADISLAU BURGINSKI VARCHAKI, N. 360, CS 02",
-   "preco": 197000.0,
-   "valor_avaliacao": 197000.0,
-   "desconto": 0.0,
-   "financiamento": "Não",
-   "descricao": "Casa, 0.00 de área total, 41.00 de área privativa, 70.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444421533421",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -25.5903536,
-    "lng": -49.3425302
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8444422772055",
    "uf": "PR",
    "cidade": "CURITIBA",
@@ -166577,27 +166625,6 @@
     "fonte": "google",
     "lat": -25.587535,
     "lng": -49.3428846
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8787718024536",
-   "uf": "PR",
-   "cidade": "CURITIBA",
-   "bairro": "CAMPO DE SANTANA",
-   "endereco": "RUA MELANIA ZENI VISINONI, N. 150, Apto 101, BL 8",
-   "preco": 209000.0,
-   "valor_avaliacao": 209000.0,
-   "desconto": 0.0,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 38.68 de área total, 38.68 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",
-   "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787718024536",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -25.5755714,
-    "lng": -49.3179931
    },
    "geo_pendente": false
   },
@@ -166674,6 +166701,51 @@
    "tipo": "casa"
   },
   {
+   "id": "8444422675637",
+   "uf": "PR",
+   "cidade": "FAZENDA RIO GRANDE",
+   "bairro": "ESTADOS",
+   "endereco": "RUA SALVADOR, N. 67, RESIDENCIA 13",
+   "preco": 135470.3,
+   "valor_avaliacao": 234500.0,
+   "desconto": 42.24,
+   "financiamento": "Não",
+   "descricao": "Casa, 0.00 de área total, 42.00 de área privativa, 88.77 de área do terreno,  2 qto(s), WC, 1 sala(s).",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444422675637",
+   "tipo": "casa"
+  },
+  {
+   "id": "8555530932779",
+   "uf": "PR",
+   "cidade": "FAZENDA RIO GRANDE",
+   "bairro": "NACOES",
+   "endereco": "RUA MONTENEGRO, N. 80, CS 088",
+   "preco": 158109.17,
+   "valor_avaliacao": 270000.0,
+   "desconto": 41.45,
+   "financiamento": "Não",
+   "descricao": "Casa, 0.00 de área total, 38.60 de área privativa, 201.39 de área do terreno, 1 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555530932779",
+   "tipo": "casa"
+  },
+  {
+   "id": "8444429616989",
+   "uf": "PR",
+   "cidade": "FAZENDA RIO GRANDE",
+   "bairro": "ESTADOS",
+   "endereco": "RUA MARANHAO, N. 372, CS 11",
+   "preco": 129948.9,
+   "valor_avaliacao": 215000.0,
+   "desconto": 39.56,
+   "financiamento": "Não",
+   "descricao": "Casa, 43.00 de área total, 43.00 de área privativa, 63.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444429616989",
+   "tipo": "casa"
+  },
+  {
    "id": "8787701801615",
    "uf": "PR",
    "cidade": "FAZENDA RIO GRANDE",
@@ -166695,69 +166767,33 @@
    "geo_pendente": false
   },
   {
-   "id": "8555528772697",
+   "id": "8444433131617",
    "uf": "PR",
    "cidade": "FAZENDA RIO GRANDE",
-   "bairro": "NACOES",
-   "endereco": "RUA SERVIA, N. 800, CASA 146",
-   "preco": 135993.04,
-   "valor_avaliacao": 225000.0,
-   "desconto": 39.56,
+   "bairro": "GRALHA AZUL",
+   "endereco": "RUA ARAPONGAS, N. 196, CS 30",
+   "preco": 171445.26,
+   "valor_avaliacao": 280000.0,
+   "desconto": 38.77,
    "financiamento": "Não",
-   "descricao": "Casa, 39.77 de área total, 38.60 de área privativa, 108.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555528772697",
+   "descricao": "Casa, 42.00 de área total, 42.00 de área privativa, 97.26 de área do terreno,  2 qto(s), varanda, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444433131617",
    "tipo": "casa"
   },
   {
-   "id": "8787705256034",
-   "uf": "PR",
-   "cidade": "FAZENDA RIO GRANDE",
-   "bairro": "NACOES",
-   "endereco": "AVENIDA PORTUGAL, N. 6785, UNIDADE 123 TIPO A",
-   "preco": 186752.87,
-   "valor_avaliacao": 305000.0,
-   "desconto": 38.77,
-   "financiamento": "Sim",
-   "descricao": "Casa, 49.20 de área total, 49.20 de área privativa, 134.97 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787705256034",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -25.7002274,
-    "lng": -49.2961742
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "1787701519350",
+   "id": "8444404607471",
    "uf": "PR",
    "cidade": "FAZENDA RIO GRANDE",
    "bairro": "ESTADOS",
-   "endereco": "RUA JAGUARIAIVA, N. 2109, CS 63",
-   "preco": 191194.29,
-   "valor_avaliacao": 300000.0,
+   "endereco": "RUA MATINHOS, N. 1358, CS 01",
+   "preco": 175261.43,
+   "valor_avaliacao": 275000.0,
    "desconto": 36.27,
    "financiamento": "Não",
-   "descricao": "Casa, 42.00 de área total, 42.00 de área privativa, 78.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
+   "descricao": "Casa, 0.00 de área total, 58.41 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",
    "modalidade": "Licitação Aberta",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1787701519350",
-   "tipo": "casa"
-  },
-  {
-   "id": "8444439697329",
-   "uf": "PR",
-   "cidade": "FAZENDA RIO GRANDE",
-   "bairro": "IGUACU",
-   "endereco": "RUA RIO JAU, N. 1221, UN 02",
-   "preco": 308460.12,
-   "valor_avaliacao": 484000.0,
-   "desconto": 36.27,
-   "financiamento": "Sim",
-   "descricao": "Casa, 0.00 de área total, 66.75 de área privativa, 180.00 de área do terreno.",
-   "modalidade": "Licitação Aberta",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444439697329",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444404607471",
    "tipo": "casa"
   },
   {
@@ -167001,27 +167037,6 @@
    "geo_pendente": false
   },
   {
-   "id": "1444419901577",
-   "uf": "PR",
-   "cidade": "FAZENDA RIO GRANDE",
-   "bairro": "VENEZA",
-   "endereco": "RUA MANUEL BANDEIRA, N. 78, UNIDADE 03",
-   "preco": 250000.0,
-   "valor_avaliacao": 250000.0,
-   "desconto": 0.0,
-   "financiamento": "Não",
-   "descricao": "Casa, 49.85 de área total, 49.85 de área privativa, 120.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444419901577",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -25.693297,
-    "lng": -49.302661
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8444403150524",
    "uf": "PR",
    "cidade": "FAZENDA RIO GRANDE",
@@ -167056,6 +167071,27 @@
    "modalidade": "Leilão SFI - Edital Único",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787718488770",
    "tipo": "apartamento"
+  },
+  {
+   "id": "1444419901577",
+   "uf": "PR",
+   "cidade": "FAZENDA RIO GRANDE",
+   "bairro": "VENEZA",
+   "endereco": "RUA MANUEL BANDEIRA, N. 78, UNIDADE 03",
+   "preco": 256068.18,
+   "valor_avaliacao": 250000.0,
+   "desconto": 0.0,
+   "financiamento": "Não",
+   "descricao": "Casa, 49.85 de área total, 49.85 de área privativa, 120.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444419901577",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -25.693297,
+    "lng": -49.302661
+   },
+   "geo_pendente": false
   },
   {
    "id": "8444433302268",
@@ -167178,21 +167214,6 @@
    "geo_pendente": false
   },
   {
-   "id": "1444425073591",
-   "uf": "PR",
-   "cidade": "FLORESTA",
-   "bairro": "JARDIM ATENAS",
-   "endereco": "RUA 3, N. SN, LT 16 QD 4",
-   "preco": 72985.63,
-   "valor_avaliacao": 122000.0,
-   "desconto": 40.18,
-   "financiamento": "Não",
-   "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 300.00 de área do terreno.",
-   "modalidade": "Licitação Aberta",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444425073591",
-   "tipo": "terreno"
-  },
-  {
    "id": "8444415476098",
    "uf": "PR",
    "cidade": "FLORESTOPOLIS",
@@ -167223,17 +167244,32 @@
    "tipo": "casa"
   },
   {
+   "id": "10309363",
+   "uf": "PR",
+   "cidade": "FRANCISCO BELTRAO",
+   "bairro": "AGUA BRANCA",
+   "endereco": "RUA PRESIDENTE ERNESTO GEISEL, N. 00, QD 1492, LT 12",
+   "preco": 97581.5,
+   "valor_avaliacao": 158000.0,
+   "desconto": 38.24,
+   "financiamento": "Não",
+   "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 337.25 de área do terreno.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10309363",
+   "tipo": "terreno"
+  },
+  {
    "id": "10204783",
    "uf": "PR",
    "cidade": "GENERAL CARNEIRO",
    "bairro": "ÁREA RURAL",
    "endereco": "LINHA FAXINAL DOS SANTOS, N. 00, QUINHÃO 30 - FAZENDA SANTO ANTONIO DO",
-   "preco": 97436.38,
+   "preco": 89941.27,
    "valor_avaliacao": 245500.0,
-   "desconto": 60.32,
+   "desconto": 63.37,
    "financiamento": "Não",
    "descricao": "Imóvel rural, 0.00 de área total, 0.00 de área privativa, 48400.00 de área do terreno.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10204783",
    "tipo": "imovel rural",
    "geo": {
@@ -167249,12 +167285,12 @@
    "cidade": "GUARAPUAVA",
    "bairro": "Dos Estados",
    "endereco": "RUA EUGENIO BRANCO, N. 0, 0,",
-   "preco": 98222.55,
+   "preco": 95704.02,
    "valor_avaliacao": 170000.0,
-   "desconto": 42.23,
-   "financiamento": "Sim",
+   "desconto": 43.71,
+   "financiamento": "Não",
    "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 540.00 de área do terreno.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444424621569",
    "tipo": "terreno",
    "geo": {
@@ -167306,12 +167342,12 @@
    "cidade": "IBAITI",
    "bairro": "LOT RES SOPHIA",
    "endereco": "R HEIACHIRO HOSOUME, N. 60, SN, QD06 LT14",
-   "preco": 285226.2,
+   "preco": 277517.38,
    "valor_avaliacao": 505000.0,
-   "desconto": 43.52,
+   "desconto": 45.05,
    "financiamento": "Sim",
    "descricao": "Casa, 179.26 de área total, 178.26 de área privativa, 275.00 de área do terreno,  4 qto(s), WC, 3 sala(s), 1 lavabo(s), cozinha.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1555520929360",
    "tipo": "casa",
    "geo": {
@@ -167360,27 +167396,6 @@
     "fonte": "google",
     "lat": -24.7084609,
     "lng": -53.087802
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8444411775040",
-   "uf": "PR",
-   "cidade": "IPORA",
-   "bairro": "GLEBA ATLÂNTICA",
-   "endereco": "AVENIDA JOHN F. KENNEDY, N. 210, LOTE 12 QUADRA 262",
-   "preco": 90746.77,
-   "valor_avaliacao": 155000.0,
-   "desconto": 41.46,
-   "financiamento": "Não",
-   "descricao": "Casa, 47.70 de área total, 47.70 de área privativa, 266.79 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444411775040",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -24.0023067,
-    "lng": -53.70856879999999
    },
    "geo_pendente": false
   },
@@ -167442,34 +167457,25 @@
    "tipo": "casa"
   },
   {
-   "id": "8444422939170",
+   "id": "10215013",
    "uf": "PR",
-   "cidade": "JAGUAPITA",
-   "bairro": "RES JARDIM OLIVEIRA",
-   "endereco": "RUA IÇARA, N. 221, LT 09 A QD 01",
-   "preco": 94815.14,
-   "valor_avaliacao": 160000.0,
-   "desconto": 40.75,
+   "cidade": "IVAI",
+   "bairro": "IVAI",
+   "endereco": "SÍTIO TRÊS MONJOLOS, N. 00, ESTRADA IVAI SALTINHO - ÁREA RURAL",
+   "preco": 328502.42,
+   "valor_avaliacao": 538000.0,
+   "desconto": 38.95,
    "financiamento": "Não",
-   "descricao": "Casa, 69.99 de área total, 69.99 de área privativa, 129.40 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Licitação Aberta",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444422939170",
-   "tipo": "casa"
-  },
-  {
-   "id": "8787714652257",
-   "uf": "PR",
-   "cidade": "JAGUARIAIVA",
-   "bairro": "PORTAL DO SERTÃO",
-   "endereco": "RUA PREFEITO MARIO FONSECA, N. SN, LT 23 QD 44",
-   "preco": 111816.5,
-   "valor_avaliacao": 185000.0,
-   "desconto": 39.56,
-   "financiamento": "Não",
-   "descricao": "Casa, 44.92 de área total, 44.92 de área privativa, 250.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Licitação Aberta",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787714652257",
-   "tipo": "casa"
+   "descricao": "Imóvel rural, 0.00 de área total, 0.00 de área privativa, 60500.00 de área do terreno.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10215013",
+   "tipo": "imovel rural",
+   "geo": {
+    "fonte": "google",
+    "lat": -25.0065316,
+    "lng": -50.8549468
+   },
+   "geo_pendente": false
   },
   {
    "id": "8444426942613",
@@ -167535,6 +167541,48 @@
    "geo_pendente": false
   },
   {
+   "id": "8444416698540",
+   "uf": "PR",
+   "cidade": "LONDRINA",
+   "bairro": "JARDIM MARIA LUIZA",
+   "endereco": "RUA OMAR MAZZEI GUIMARAES, N. 74, Apto 101, BL 4",
+   "preco": 100634.85,
+   "valor_avaliacao": 185000.0,
+   "desconto": 45.61,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 76.03 de área total, 42.69 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444416698540",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -23.2790594,
+    "lng": -51.18625950000001
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8787708426801",
+   "uf": "PR",
+   "cidade": "LONDRINA",
+   "bairro": "CONJUNTO SEMIRAMIS BARROS BRAGA",
+   "endereco": "RUA ELOY MELLO GUIDES, N. 45, Apto 103, BL13, VAGA Nº 257",
+   "preco": 87704.0,
+   "valor_avaliacao": 160000.0,
+   "desconto": 45.19,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 63.33 de área total, 43.31 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787708426801",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -23.2674769,
+    "lng": -51.14360079999999
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8787710707197",
    "uf": "PR",
    "cidade": "LONDRINA",
@@ -167571,6 +167619,21 @@
    "geo_pendente": false
   },
   {
+   "id": "8787708334770",
+   "uf": "PR",
+   "cidade": "LONDRINA",
+   "bairro": "COLINAS",
+   "endereco": "RUA OLYMPIO THEODORO, N. 1055, Apto 301, PAV 03 BL 10 VG 282",
+   "preco": 101858.33,
+   "valor_avaliacao": 180000.0,
+   "desconto": 43.42,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 0.00 de área total, 41.14 de área privativa, 0.00 de área do terreno, 1 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787708334770",
+   "tipo": "apartamento"
+  },
+  {
    "id": "8787712986263",
    "uf": "PR",
    "cidade": "LONDRINA",
@@ -167592,27 +167655,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8787713008753",
-   "uf": "PR",
-   "cidade": "LONDRINA",
-   "bairro": "JARDIM MARIA CELINA",
-   "endereco": "AVENIDA ROSALVO MARQUES BONFIM, N. 955, Apto 504, BL 13, L 02, QD 06",
-   "preco": 123451.45,
-   "valor_avaliacao": 215000.0,
-   "desconto": 42.59,
-   "financiamento": "Sim",
-   "descricao": "Apartamento, 47.44 de área total, 47.44 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787713008753",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -23.264604,
-    "lng": -51.1997146
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8787713097829",
    "uf": "PR",
    "cidade": "LONDRINA",
@@ -167630,27 +167672,6 @@
     "fonte": "google",
     "lat": -23.264604,
     "lng": -51.1997146
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8444427548668",
-   "uf": "PR",
-   "cidade": "LONDRINA",
-   "bairro": "CONJUNTO HABITACIONAL MILTON GAVETTI",
-   "endereco": "RODOVIA CARLOS JOAO STRASS, N. 13983, CS  86  QD 01  LT 86",
-   "preco": 107948.25,
-   "valor_avaliacao": 188000.0,
-   "desconto": 42.59,
-   "financiamento": "Sim",
-   "descricao": "Casa, 54.70 de área total, 54.70 de área privativa, 126.15 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444427548668",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -23.1927509,
-    "lng": -51.2053641
    },
    "geo_pendente": false
   },
@@ -167712,21 +167733,6 @@
    "tipo": "casa"
   },
   {
-   "id": "8787716578283",
-   "uf": "PR",
-   "cidade": "LONDRINA",
-   "bairro": "CONJUNTO HABITACIONAL JAMILE DEQUECH",
-   "endereco": "RUA BARTHOLOMEU LOPES, N. 585, Apto 403D, TP 05 BL D VG 95",
-   "preco": 90746.77,
-   "valor_avaliacao": 155000.0,
-   "desconto": 41.46,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 57.66 de área total, 42.55 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Licitação Aberta",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787716578283",
-   "tipo": "apartamento"
-  },
-  {
    "id": "8787718037549",
    "uf": "PR",
    "cidade": "LONDRINA",
@@ -167742,6 +167748,27 @@
    "tipo": "apartamento"
   },
   {
+   "id": "8787708604360",
+   "uf": "PR",
+   "cidade": "LONDRINA",
+   "bairro": "MORADAS DE PORTUGAL",
+   "endereco": "AVENIDA ROSALVO MARQUES BONFIM, N. 1055, Apto 204, BL 05",
+   "preco": 114914.11,
+   "valor_avaliacao": 195000.0,
+   "desconto": 41.07,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 90.09 de área total, 47.44 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787708604360",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -23.264115,
+    "lng": -51.2014445
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8787714972286",
    "uf": "PR",
    "cidade": "LONDRINA",
@@ -167752,7 +167779,7 @@
    "desconto": 41.07,
    "financiamento": "Não",
    "descricao": "Apartamento, 44.70 de área total, 40.34 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787714972286",
    "tipo": "apartamento",
    "geo": {
@@ -167782,6 +167809,21 @@
     "lng": -51.20083349999999
    },
    "geo_pendente": false
+  },
+  {
+   "id": "8787709207143",
+   "uf": "PR",
+   "cidade": "LONDRINA",
+   "bairro": "BOUL PORTAL DO NORTE",
+   "endereco": "AVENIDA PREFEITO MILTON RIBEIRO MENEZES, N. 635, Apto 206, PAV 01 T 09 VG 526",
+   "preco": 106667.03,
+   "valor_avaliacao": 180000.0,
+   "desconto": 40.75,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 43.13 de área total, 43.13 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787709207143",
+   "tipo": "apartamento"
   },
   {
    "id": "8787714625772",
@@ -167857,7 +167899,7 @@
    "desconto": 40.75,
    "financiamento": "Não",
    "descricao": "Apartamento, 52.81 de área total, 43.31 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787715762030",
    "tipo": "apartamento",
    "geo": {
@@ -167889,6 +167931,21 @@
    "geo_pendente": false
   },
   {
+   "id": "8787711717048",
+   "uf": "PR",
+   "cidade": "LONDRINA",
+   "bairro": "JARDIM MARIA CELINA",
+   "endereco": "AVENIDA ROSALVO MARQUES BONFIM, N. 1055, Apto 604, TIPO B  BL 10 VG 75",
+   "preco": 103704.06,
+   "valor_avaliacao": 175000.0,
+   "desconto": 40.75,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 90.09 de área total, 47.44 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787711717048",
+   "tipo": "apartamento"
+  },
+  {
    "id": "8787713717339",
    "uf": "PR",
    "cidade": "LONDRINA",
@@ -167899,7 +167956,7 @@
    "desconto": 40.75,
    "financiamento": "Não",
    "descricao": "Apartamento, 94.83 de área total, 48.96 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787713717339",
    "tipo": "apartamento",
    "geo": {
@@ -167908,6 +167965,21 @@
     "lng": -51.2063517
    },
    "geo_pendente": false
+  },
+  {
+   "id": "8787713747068",
+   "uf": "PR",
+   "cidade": "LONDRINA",
+   "bairro": "JARDIM MARIA CELINA",
+   "endereco": "AVENIDA ROSALVO MARQUES BONFIM, N. 1550, Apto 202,  BLOCO 03  VAGA 20",
+   "preco": 99555.89,
+   "valor_avaliacao": 168000.0,
+   "desconto": 40.75,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 55.66 de área total, 48.96 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787713747068",
+   "tipo": "apartamento"
   },
   {
    "id": "8787705699580",
@@ -167920,13 +167992,34 @@
    "desconto": 40.75,
    "financiamento": "Não",
    "descricao": "Apartamento, 58.18 de área total, 47.70 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787705699580",
    "tipo": "apartamento",
    "geo": {
     "fonte": "google",
     "lat": -23.2721263,
     "lng": -51.187709
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8787716564169",
+   "uf": "PR",
+   "cidade": "LONDRINA",
+   "bairro": "PEROBINHA",
+   "endereco": "RUA YONEKO SHIME, N. 333, Apto 203, BL 06  VG 101",
+   "preco": 132000.0,
+   "valor_avaliacao": 220000.0,
+   "desconto": 40.0,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 0.00 de área total, 46.31 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787716564169",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -23.2637075,
+    "lng": -51.2017278
    },
    "geo_pendente": false
   },
@@ -167941,7 +168034,7 @@
    "desconto": 39.56,
    "financiamento": "Não",
    "descricao": "Apartamento, 77.58 de área total, 46.65 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787702082353",
    "tipo": "apartamento",
    "geo": {
@@ -167952,25 +168045,19 @@
    "geo_pendente": false
   },
   {
-   "id": "8787708604360",
+   "id": "8787718219604",
    "uf": "PR",
    "cidade": "LONDRINA",
    "bairro": "MORADAS DE PORTUGAL",
-   "endereco": "AVENIDA ROSALVO MARQUES BONFIM, N. 1055, Apto 204, BL 05",
+   "endereco": "AVENIDA GIOCONDO MATURI, N. 1500, Apto 701, TIPO 01 PAV 07 BL 02 VG 47",
    "preco": 117860.63,
    "valor_avaliacao": 195000.0,
    "desconto": 39.56,
    "financiamento": "Não",
-   "descricao": "Apartamento, 90.09 de área total, 47.44 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787708604360",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -23.264115,
-    "lng": -51.2014445
-   },
-   "geo_pendente": false
+   "descricao": "Apartamento, 51.07 de área total, 42.38 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787718219604",
+   "tipo": "apartamento"
   },
   {
    "id": "8555524073301",
@@ -167983,7 +168070,7 @@
    "desconto": 39.56,
    "financiamento": "Não",
    "descricao": "Casa, 120.12 de área total, 51.46 de área privativa, 113.70 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555524073301",
    "tipo": "casa",
    "geo": {
@@ -168015,6 +168102,36 @@
    "geo_pendente": false
   },
   {
+   "id": "8787713665118",
+   "uf": "PR",
+   "cidade": "LONDRINA",
+   "bairro": "CONJUNTO HABITACIONAL JAMILE DEQUECH",
+   "endereco": "RUA BARTHOLOMEU LOPES, N. 585, Apto AP 40, BL B",
+   "preco": 119069.46,
+   "valor_avaliacao": 197000.0,
+   "desconto": 39.56,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 74.70 de área total, 42.56 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787713665118",
+   "tipo": "apartamento"
+  },
+  {
+   "id": "8787704475875",
+   "uf": "PR",
+   "cidade": "LONDRINA",
+   "bairro": "COLINAS",
+   "endereco": "RUA OLYMPIO THEODORO, N. 230, Apto 404, 4 PAV BL 17 VAGA 63",
+   "preco": 117860.63,
+   "valor_avaliacao": 195000.0,
+   "desconto": 39.56,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 47.07 de área total, 41.14 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787704475875",
+   "tipo": "apartamento"
+  },
+  {
    "id": "8787709517843",
    "uf": "PR",
    "cidade": "LONDRINA",
@@ -168025,7 +168142,7 @@
    "desconto": 39.56,
    "financiamento": "Não",
    "descricao": "Apartamento, 58.02 de área total, 47.44 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787709517843",
    "tipo": "apartamento",
    "geo": {
@@ -168169,7 +168286,7 @@
    "desconto": 39.56,
    "financiamento": "Não",
    "descricao": "Apartamento, 42.38 de área total, 42.38 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787715675005",
    "tipo": "apartamento",
    "geo": {
@@ -168190,7 +168307,7 @@
    "desconto": 39.56,
    "financiamento": "Não",
    "descricao": "Apartamento, 82.54 de área total, 42.38 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787716835731",
    "tipo": "apartamento",
    "geo": {
@@ -168253,7 +168370,7 @@
    "desconto": 39.56,
    "financiamento": "Não",
    "descricao": "Apartamento, 77.17 de área total, 46.65 de área privativa, 0.00 de área do terreno, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787708468490",
    "tipo": "apartamento",
    "geo": {
@@ -168283,6 +168400,21 @@
     "lng": -51.18625950000001
    },
    "geo_pendente": false
+  },
+  {
+   "id": "8787716390853",
+   "uf": "PR",
+   "cidade": "LONDRINA",
+   "bairro": "PEROBINHA",
+   "endereco": "RUA YONEKO SHIME, N. 333, Apto AP 70, BL 7",
+   "preco": 132970.97,
+   "valor_avaliacao": 220000.0,
+   "desconto": 39.56,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 55.29 de área total, 46.31 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787716390853",
+   "tipo": "apartamento"
   },
   {
    "id": "1444405709083",
@@ -168317,6 +168449,69 @@
     "fonte": "google",
     "lat": -23.2956991,
     "lng": -51.1497047
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8787716960510",
+   "uf": "PR",
+   "cidade": "LONDRINA",
+   "bairro": "JARDIM LAGO NORTE",
+   "endereco": "RUA INALDO GUIMARAES, N. 435, Apto 1108, TR 1  VG 429",
+   "preco": 157780.46,
+   "valor_avaliacao": 228000.0,
+   "desconto": 30.8,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 53.69 de área total, 43.60 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787716960510",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -23.2742662,
+    "lng": -51.1544284
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8787715680033",
+   "uf": "PR",
+   "cidade": "LONDRINA",
+   "bairro": "PEROBINHA",
+   "endereco": "RUA YONEKO SHIME, N. 333, Apto 404, BL 03  VG 174",
+   "preco": 165792.83,
+   "valor_avaliacao": 220000.0,
+   "desconto": 24.64,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 84.98 de área total, 46.31 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787715680033",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -23.2637075,
+    "lng": -51.2017278
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8444426118562",
+   "uf": "PR",
+   "cidade": "LONDRINA",
+   "bairro": "JARDIM MOEMA",
+   "endereco": "RUA ANTONIA RODRIGUES ARANDA, N. 113, QD 4 LT 33B",
+   "preco": 192011.87,
+   "valor_avaliacao": 206337.0,
+   "desconto": 6.95,
+   "financiamento": "Não",
+   "descricao": "Casa, 81.35 de área total, 67.81 de área privativa, 125.44 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444426118562",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -23.279491,
+    "lng": -51.145523
    },
    "geo_pendente": false
   },
@@ -168480,27 +168675,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8787716960510",
-   "uf": "PR",
-   "cidade": "LONDRINA",
-   "bairro": "JARDIM LAGO NORTE",
-   "endereco": "RUA INALDO GUIMARAES, N. 435, Apto 1108, TR 1  VG 429",
-   "preco": 228000.0,
-   "valor_avaliacao": 228000.0,
-   "desconto": 0.0,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 53.69 de área total, 43.60 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787716960510",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -23.2742662,
-    "lng": -51.1544284
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8787709139830",
    "uf": "PR",
    "cidade": "LONDRINA",
@@ -168645,27 +168819,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8444426118562",
-   "uf": "PR",
-   "cidade": "LONDRINA",
-   "bairro": "JARDIM MOEMA",
-   "endereco": "RUA ANTONIA RODRIGUES ARANDA, N. 113, QD 4 LT 33B",
-   "preco": 206337.0,
-   "valor_avaliacao": 206337.0,
-   "desconto": 0.0,
-   "financiamento": "Não",
-   "descricao": "Casa, 81.35 de área total, 67.81 de área privativa, 125.44 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444426118562",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -23.279491,
-    "lng": -51.145523
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8555521817695",
    "uf": "PR",
    "cidade": "LONDRINA",
@@ -168681,27 +168834,6 @@
    "tipo": "apartamento"
   },
   {
-   "id": "8787715680033",
-   "uf": "PR",
-   "cidade": "LONDRINA",
-   "bairro": "PEROBINHA",
-   "endereco": "RUA YONEKO SHIME, N. 333, Apto 404, BL 03  VG 174",
-   "preco": 220000.0,
-   "valor_avaliacao": 220000.0,
-   "desconto": 0.0,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 84.98 de área total, 46.31 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787715680033",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -23.2637075,
-    "lng": -51.2017278
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8787716527069",
    "uf": "PR",
    "cidade": "LONDRINA",
@@ -168715,27 +168847,6 @@
    "modalidade": "Leilão SFI - Edital Único",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787716527069",
    "tipo": "apartamento"
-  },
-  {
-   "id": "8787716564169",
-   "uf": "PR",
-   "cidade": "LONDRINA",
-   "bairro": "PEROBINHA",
-   "endereco": "RUA YONEKO SHIME, N. 333, Apto 203, BL 06  VG 101",
-   "preco": 220000.0,
-   "valor_avaliacao": 220000.0,
-   "desconto": 0.0,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 0.00 de área total, 46.31 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787716564169",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -23.2637075,
-    "lng": -51.2017278
-   },
-   "geo_pendente": false
   },
   {
    "id": "8787708391366",
@@ -169096,7 +169207,7 @@
    "desconto": 48.1,
    "financiamento": "Sim",
    "descricao": "Casa, 243.11 de área total, 243.11 de área privativa, 825.00 de área do terreno,  3 qto(s).",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444421293384",
    "tipo": "casa",
    "geo": {
@@ -169143,36 +169254,6 @@
    "tipo": "casa"
   },
   {
-   "id": "8787713162051",
-   "uf": "PR",
-   "cidade": "MARIALVA",
-   "bairro": "MARIALVA",
-   "endereco": "RUA JOSE BERTÃO, N. 435, Apto 103, BLOCO 8 VG 19",
-   "preco": 111816.5,
-   "valor_avaliacao": 185000.0,
-   "desconto": 39.56,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 60.63 de área total, 52.23 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787713162051",
-   "tipo": "apartamento"
-  },
-  {
-   "id": "10302316",
-   "uf": "PR",
-   "cidade": "MARIALVA",
-   "bairro": "VILA BRASIL",
-   "endereco": "RUA CEZÁRIO BOSCHINI, N. 98",
-   "preco": 211588.35,
-   "valor_avaliacao": 332000.0,
-   "desconto": 36.27,
-   "financiamento": "Sim",
-   "descricao": "Casa, 0.00 de área total, 85.75 de área privativa, 340.92 de área do terreno.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10302316",
-   "tipo": "casa"
-  },
-  {
    "id": "8444405096187",
    "uf": "PR",
    "cidade": "MARIALVA",
@@ -169193,9 +169274,9 @@
    "cidade": "MARILUZ",
    "bairro": "CENTRO",
    "endereco": "RUA PRESIDENTE ROOSEVELT, N. 448, DATA 03A SUBDIV DA DATA 03  QD 103",
-   "preco": 220000.0,
+   "preco": 138699.3,
    "valor_avaliacao": 220000.0,
-   "desconto": 0.0,
+   "desconto": 36.96,
    "financiamento": "Não",
    "descricao": "Casa, 62.00 de área total, 62.00 de área privativa, 225.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
    "modalidade": "Leilão SFI - Edital Único",
@@ -169251,6 +169332,27 @@
    "geo_pendente": false
   },
   {
+   "id": "1155533600072",
+   "uf": "PR",
+   "cidade": "MARINGA",
+   "bairro": "PARQUE INDUSTRIAL",
+   "endereco": "RUA RUBENS SEBASTIAO MARIN, N. 1076, Apto 1704, BL-A, VG258. VG285",
+   "preco": 407004.84,
+   "valor_avaliacao": 655000.0,
+   "desconto": 37.87,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 0.00 de área total, 79.98 de área privativa, 0.00 de área do terreno, 2 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1155533600072",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -23.4274939,
+    "lng": -51.8942305
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "1155533600129",
    "uf": "PR",
    "cidade": "MARINGA",
@@ -169261,7 +169363,7 @@
    "desconto": 37.87,
    "financiamento": "Não",
    "descricao": "Apartamento, 0.00 de área total, 79.98 de área privativa, 0.00 de área do terreno, 2 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1155533600129",
    "tipo": "apartamento",
    "geo": {
@@ -169282,8 +169384,29 @@
    "desconto": 37.87,
    "financiamento": "Não",
    "descricao": "Apartamento, 0.00 de área total, 79.98 de área privativa, 0.00 de área do terreno, 2 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1155533600137",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -23.4274939,
+    "lng": -51.8942305
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "1155533600170",
+   "uf": "PR",
+   "cidade": "MARINGA",
+   "bairro": "PARQUE INDUSTRIAL",
+   "endereco": "RUA RUBENS SEBASTIAO MARIN, N. 1076, Apto 302, BL-B, VG-192, VG-193",
+   "preco": 357294.32,
+   "valor_avaliacao": 575000.0,
+   "desconto": 37.87,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 0.00 de área total, 79.98 de área privativa, 0.00 de área do terreno, 2 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1155533600170",
    "tipo": "apartamento",
    "geo": {
     "fonte": "google",
@@ -169303,7 +169426,7 @@
    "desconto": 37.87,
    "financiamento": "Não",
    "descricao": "Apartamento, 0.00 de área total, 79.98 de área privativa, 0.00 de área do terreno, 2 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1155533600188",
    "tipo": "apartamento",
    "geo": {
@@ -169324,50 +169447,8 @@
    "desconto": 37.87,
    "financiamento": "Não",
    "descricao": "Apartamento, 0.00 de área total, 79.98 de área privativa, 0.00 de área do terreno, 2 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1155533600196",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -23.4274939,
-    "lng": -51.8942305
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "1155533600072",
-   "uf": "PR",
-   "cidade": "MARINGA",
-   "bairro": "PARQUE INDUSTRIAL",
-   "endereco": "RUA RUBENS SEBASTIAO MARIN, N. 1076, Apto 1704, BL-A, VG258. VG285",
-   "preco": 417440.87,
-   "valor_avaliacao": 655000.0,
-   "desconto": 36.27,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 0.00 de área total, 79.98 de área privativa, 0.00 de área do terreno, 2 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1155533600072",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -23.4274939,
-    "lng": -51.8942305
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "1155533600170",
-   "uf": "PR",
-   "cidade": "MARINGA",
-   "bairro": "PARQUE INDUSTRIAL",
-   "endereco": "RUA RUBENS SEBASTIAO MARIN, N. 1076, Apto 302, BL-B, VG-192, VG-193",
-   "preco": 366455.72,
-   "valor_avaliacao": 575000.0,
-   "desconto": 36.27,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 0.00 de área total, 79.98 de área privativa, 0.00 de área do terreno, 2 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1155533600170",
    "tipo": "apartamento",
    "geo": {
     "fonte": "google",
@@ -169382,13 +169463,49 @@
    "cidade": "MARINGA",
    "bairro": "PARQUE INDUSTRIAL",
    "endereco": "RUA RUBENS SEBASTIAO MARIN, N. 1076, Apto 404, BL-B, VG204, VG205",
-   "preco": 366455.72,
+   "preco": 357294.32,
    "valor_avaliacao": 575000.0,
-   "desconto": 36.27,
+   "desconto": 37.87,
    "financiamento": "Não",
    "descricao": "Apartamento, 0.00 de área total, 79.98 de área privativa, 0.00 de área do terreno, 2 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1155533600218",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -23.4274939,
+    "lng": -51.8942305
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "10311518",
+   "uf": "PR",
+   "cidade": "MARINGA",
+   "bairro": "ZONA 01",
+   "endereco": "AVENIDA BRASIL, N. 00, QD 11, LT 01/02, LJ 310",
+   "preco": 151680.8,
+   "valor_avaliacao": 238000.0,
+   "desconto": 36.27,
+   "financiamento": "Não",
+   "descricao": "Loja, 0.00 de área total, 20.72 de área privativa, 0.00 de área do terreno.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10311518",
+   "tipo": "loja"
+  },
+  {
+   "id": "1155533600013",
+   "uf": "PR",
+   "cidade": "MARINGA",
+   "bairro": "PARQUE INDUSTRIAL I",
+   "endereco": "RUA RUBENS SEBASTIAO MARIN, N. 1076, Apto 203, TORRE  A",
+   "preco": 354984.07,
+   "valor_avaliacao": 557000.0,
+   "desconto": 36.27,
+   "financiamento": "Sim",
+   "descricao": "Apartamento, 0.00 de área total, 79.98 de área privativa, 0.00 de área do terreno, 2 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1155533600013",
    "tipo": "apartamento",
    "geo": {
     "fonte": "google",
@@ -169408,7 +169525,7 @@
    "desconto": 36.27,
    "financiamento": "Sim",
    "descricao": "Apartamento, 0.00 de área total, 192.08 de área privativa, 0.00 de área do terreno, 4 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1155533600110",
    "tipo": "apartamento",
    "geo": {
@@ -169599,18 +169716,18 @@
    "geo_pendente": false
   },
   {
-   "id": "8444403158444",
+   "id": "8555524250254",
    "uf": "PR",
-   "cidade": "MEDIANEIRA",
-   "bairro": "JARDIM IRENE",
-   "endereco": "RUA NAPOLES, N. 350, L 10 Q 21",
-   "preco": 190426.7,
-   "valor_avaliacao": 311000.0,
-   "desconto": 38.77,
-   "financiamento": "Sim",
-   "descricao": "Casa, 0.00 de área total, 62.30 de área privativa, 212.35 de área do terreno,  1 qto(s), WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444403158444",
+   "cidade": "NOSSA SENHORA DAS GRACAS",
+   "bairro": "CENTRO",
+   "endereco": "ESTRADA MUNICIPAL, N. SN, QD Z  LT 18",
+   "preco": 50291.39,
+   "valor_avaliacao": 83000.0,
+   "desconto": 39.41,
+   "financiamento": "Não",
+   "descricao": "Casa, 35.00 de área total, 35.88 de área privativa, 187.50 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555524250254",
    "tipo": "casa"
   },
   {
@@ -169619,9 +169736,9 @@
    "cidade": "NOVA ESPERANCA",
    "bairro": "CENTRO",
    "endereco": "RUA ROMARIO MARTINS, N. 641, LT 6A QD 68",
-   "preco": 525000.0,
+   "preco": 315000.0,
    "valor_avaliacao": 525000.0,
-   "desconto": 0.0,
+   "desconto": 40.0,
    "financiamento": "Não",
    "descricao": "Casa, 0.00 de área total, 155.88 de área privativa, 267.00 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), cozinha.",
    "modalidade": "Leilão SFI - Edital Único",
@@ -169635,17 +169752,62 @@
    "geo_pendente": false
   },
   {
+   "id": "1555519391653",
+   "uf": "PR",
+   "cidade": "NOVA OLIMPIA",
+   "bairro": "CENTRO",
+   "endereco": "RUA NOVA IORQUE, N. 314, LT 09 QD 105",
+   "preco": 168684.47,
+   "valor_avaliacao": 318000.0,
+   "desconto": 46.96,
+   "financiamento": "Não",
+   "descricao": "Casa, 0.00 de área total, 278.80 de área privativa, 450.40 de área do terreno,  4 qto(s), a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1555519391653",
+   "tipo": "casa"
+  },
+  {
+   "id": "8787715569485",
+   "uf": "PR",
+   "cidade": "NOVA OLIMPIA",
+   "bairro": "RESID BELA VISTA",
+   "endereco": "RUA PROJETADA A, N. SN, LT 01 QD 05",
+   "preco": 73567.68,
+   "valor_avaliacao": 127000.0,
+   "desconto": 42.08,
+   "financiamento": "Não",
+   "descricao": "Casa, 45.13 de área total, 45.13 de área privativa, 210.49 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787715569485",
+   "tipo": "casa"
+  },
+  {
+   "id": "8444430603631",
+   "uf": "PR",
+   "cidade": "PAICANDU",
+   "bairro": "JD MADRID",
+   "endereco": "RUA EDISON MARQUES, N. 119, CS B LT 08 QD 05",
+   "preco": 174422.19,
+   "valor_avaliacao": 284861.85,
+   "desconto": 38.77,
+   "financiamento": "Não",
+   "descricao": "Casa, 84.21 de área total, 84.21 de área privativa, 140.00 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444430603631",
+   "tipo": "casa"
+  },
+  {
    "id": "10277173",
    "uf": "PR",
    "cidade": "PALMAS",
    "bairro": "SANTA CRUZ",
    "endereco": "RUA 7 DE SETEMBRO, N. 2437, QD 24, LT 360",
-   "preco": 1143724.23,
+   "preco": 1111954.12,
    "valor_avaliacao": 1994000.0,
-   "desconto": 42.65,
+   "desconto": 44.24,
    "financiamento": "Sim",
    "descricao": "Comercial, 0.00 de área total, 900.00 de área privativa, 545.00 de área do terreno.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10277173",
    "tipo": "comercial",
    "geo": {
@@ -169677,18 +169839,18 @@
    "geo_pendente": false
   },
   {
-   "id": "1555513380200",
+   "id": "8444406691798",
    "uf": "PR",
-   "cidade": "PARANAGUA",
-   "bairro": "JARDIM GUARAITUBA",
-   "endereco": "TRAVESSA SOLDADO ALIPIO FERREIRA DE AMOR, N. 35, LT 14 QD B",
-   "preco": 248552.58,
-   "valor_avaliacao": 390000.0,
-   "desconto": 36.27,
+   "cidade": "PARANAVAI",
+   "bairro": "CENTRO",
+   "endereco": "RUA AMAZONAS, N. 4142, CS 2",
+   "preco": 75305.5,
+   "valor_avaliacao": 130000.0,
+   "desconto": 42.08,
    "financiamento": "Não",
-   "descricao": "Casa, 69.82 de área total, 69.82 de área privativa, 231.00 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), cozinha.",
+   "descricao": "Casa, 51.30 de área total, 51.30 de área privativa, 85.54 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
    "modalidade": "Licitação Aberta",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1555513380200",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444406691798",
    "tipo": "casa"
   },
   {
@@ -169816,7 +169978,7 @@
    "desconto": 43.42,
    "financiamento": "Não",
    "descricao": "Casa, 45.13 de área total, 45.13 de área privativa, 180.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787709709556",
    "tipo": "casa",
    "geo": {
@@ -169825,6 +169987,21 @@
     "lng": -52.3284914
    },
    "geo_pendente": false
+  },
+  {
+   "id": "8444406144878",
+   "uf": "PR",
+   "cidade": "PEROBAL",
+   "bairro": "CENTRO",
+   "endereco": "RUA PROJETADA C, N. 1369, 0204",
+   "preco": 106667.03,
+   "valor_avaliacao": 180000.0,
+   "desconto": 40.75,
+   "financiamento": "Não",
+   "descricao": "Casa, 77.56 de área total, 77.56 de área privativa, 180.00 de área do terreno,  2 qto(s), a.serv, WC, cozinha, 2 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444406144878",
+   "tipo": "casa"
   },
   {
    "id": "8444414363338",
@@ -169837,7 +170014,7 @@
    "desconto": 42.08,
    "financiamento": "Não",
    "descricao": "Casa, 47.32 de área total, 47.22 de área privativa, 120.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444414363338",
    "tipo": "casa",
    "geo": {
@@ -169853,7 +170030,7 @@
    "cidade": "PINHAIS",
    "bairro": "NUCLEO COLONIAL DE PINHAIS",
    "endereco": "RUA CASSIANO RICARDO, N. 1337, LT 684A2",
-   "preco": 1049030.5,
+   "preco": 1230168.64,
    "valor_avaliacao": 836000.0,
    "desconto": 0.0,
    "financiamento": "Não",
@@ -169890,6 +170067,27 @@
    "geo_pendente": false
   },
   {
+   "id": "8444403320616",
+   "uf": "PR",
+   "cidade": "PIRAQUARA",
+   "bairro": "JARDIM BELA VISTA",
+   "endereco": "RUA DOM PEDRO II, N. 153, CS 04 PARTE LT 08 QD 35",
+   "preco": 149047.11,
+   "valor_avaliacao": 202036.74,
+   "desconto": 26.23,
+   "financiamento": "Não",
+   "descricao": "Casa, 0.00 de área total, 61.75 de área privativa, 117.00 de área do terreno, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444403320616",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -25.4523267,
+    "lng": -49.0843888
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "1444419090854",
    "uf": "PR",
    "cidade": "PIRAQUARA",
@@ -169905,27 +170103,6 @@
    "tipo": "terreno"
   },
   {
-   "id": "8444403320616",
-   "uf": "PR",
-   "cidade": "PIRAQUARA",
-   "bairro": "JARDIM BELA VISTA",
-   "endereco": "RUA DOM PEDRO II, N. 153, CS 04 PARTE LT 08 QD 35",
-   "preco": 202036.74,
-   "valor_avaliacao": 202036.74,
-   "desconto": 0.0,
-   "financiamento": "Não",
-   "descricao": "Casa, 0.00 de área total, 61.75 de área privativa, 117.00 de área do terreno, 1 vaga(s) de garagem.",
-   "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444403320616",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -25.4523267,
-    "lng": -49.0843888
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8444407145967",
    "uf": "PR",
    "cidade": "PONTA GROSSA",
@@ -169936,7 +170113,7 @@
    "desconto": 42.23,
    "financiamento": "Não",
    "descricao": "Casa, 50.11 de área total, 48.96 de área privativa, 99.31 de área do terreno,  2 qto(s), a.serv, WC.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444407145967",
    "tipo": "casa",
    "geo": {
@@ -169952,12 +170129,12 @@
    "cidade": "PONTA GROSSA",
    "bairro": "OLARIAS",
    "endereco": "RUA JACOB FAINTYCK, N. 38A, LT 17 QD 08",
-   "preco": 106667.03,
+   "preco": 104000.35,
    "valor_avaliacao": 180000.0,
-   "desconto": 40.75,
+   "desconto": 42.23,
    "financiamento": "Não",
    "descricao": "Casa, 58.70 de área total, 53.60 de área privativa, 107.25 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555518549030",
    "tipo": "casa",
    "geo": {
@@ -169966,6 +170143,57 @@
     "lng": -50.12757939999999
    },
    "geo_pendente": false
+  },
+  {
+   "id": "1444416368541",
+   "uf": "PR",
+   "cidade": "PONTA GROSSA",
+   "bairro": "CONTORNO",
+   "endereco": "RUA JABUTICABEIRA, N. 853, LT 08 QD 58",
+   "preco": 337514.69,
+   "valor_avaliacao": 572528.73,
+   "desconto": 41.05,
+   "financiamento": "Sim",
+   "descricao": "Casa, 204.22 de área total, 204.22 de área privativa, 288.00 de área do terreno,  3 qto(s), a.serv, WC, 2 sala(s), cozinha, 2 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444416368541",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -25.0951676,
+    "lng": -50.2088499
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8444429413638",
+   "uf": "PR",
+   "cidade": "PONTA GROSSA",
+   "bairro": "PIRIQUITOS",
+   "endereco": "AVENIDA NOROESTE, N. 213, CS 24",
+   "preco": 104296.65,
+   "valor_avaliacao": 176000.0,
+   "desconto": 40.75,
+   "financiamento": "Não",
+   "descricao": "Casa, 40.90 de área total, 40.90 de área privativa, 107.84 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444429413638",
+   "tipo": "casa"
+  },
+  {
+   "id": "8555505013170",
+   "uf": "PR",
+   "cidade": "PONTA GROSSA",
+   "bairro": "BOA VISTA",
+   "endereco": "RUA ANTONIO SAAD, N. 2510, CASA 186",
+   "preco": 96000.33,
+   "valor_avaliacao": 162000.0,
+   "desconto": 40.75,
+   "financiamento": "Não",
+   "descricao": "Casa, 41.08 de área total, 40.47 de área privativa, 169.29 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555505013170",
+   "tipo": "casa"
   },
   {
    "id": "8555532364336",
@@ -169989,18 +170217,33 @@
    "geo_pendente": false
   },
   {
-   "id": "8787717423488",
+   "id": "8787711183302",
    "uf": "PR",
    "cidade": "PONTA GROSSA",
-   "bairro": "NEVES",
-   "endereco": "RUA TENENTE CORONEL VALDIR COPETTI NEVES, N. 540, RES 03 LT 44 QD 06",
-   "preco": 94222.54,
-   "valor_avaliacao": 159000.0,
+   "bairro": "UVARANAS",
+   "endereco": "AVENIDA SIQUEIRA CAMPOS, N. 2013, Apto AP 10, TR 4",
+   "preco": 103704.06,
+   "valor_avaliacao": 175000.0,
    "desconto": 40.75,
    "financiamento": "Não",
-   "descricao": "Casa, 45.10 de área total, 45.10 de área privativa, 108.98 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
+   "descricao": "Apartamento, 49.97 de área total, 49.10 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
    "modalidade": "Licitação Aberta",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787717423488",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787711183302",
+   "tipo": "apartamento"
+  },
+  {
+   "id": "8555530024058",
+   "uf": "PR",
+   "cidade": "PONTA GROSSA",
+   "bairro": "PIRIQUITOS",
+   "endereco": "RUA RIO AMAZONAS, N. 55, CS 34",
+   "preco": 120882.7,
+   "valor_avaliacao": 200000.0,
+   "desconto": 39.56,
+   "financiamento": "Não",
+   "descricao": "Casa, 68.76 de área total, 40.50 de área privativa, 100.90 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555530024058",
    "tipo": "casa"
   },
   {
@@ -170014,7 +170257,7 @@
    "desconto": 39.56,
    "financiamento": "Não",
    "descricao": "Casa, 42.34 de área total, 42.34 de área privativa, 152.20 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787718072123",
    "tipo": "casa"
   },
@@ -170031,6 +170274,21 @@
    "descricao": "Casa, 42.34 de área total, 42.34 de área privativa, 150.50 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
    "modalidade": "Licitação Aberta",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787719284884",
+   "tipo": "casa"
+  },
+  {
+   "id": "8444429887532",
+   "uf": "PR",
+   "cidade": "PONTA GROSSA",
+   "bairro": "UVARANAS",
+   "endereco": "RUA DOUTOR CID CORDEIRO PRESTES, N. 611, LT 01 QD A",
+   "preco": 124509.18,
+   "valor_avaliacao": 206000.0,
+   "desconto": 39.56,
+   "financiamento": "Não",
+   "descricao": "Casa, 54.93 de área total, 54.93 de área privativa, 122.29 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444429887532",
    "tipo": "casa"
   },
   {
@@ -170055,27 +170313,6 @@
    "geo_pendente": false
   },
   {
-   "id": "1444416368541",
-   "uf": "PR",
-   "cidade": "PONTA GROSSA",
-   "bairro": "CONTORNO",
-   "endereco": "RUA JABUTICABEIRA, N. 853, LT 08 QD 58",
-   "preco": 346636.71,
-   "valor_avaliacao": 572528.73,
-   "desconto": 39.46,
-   "financiamento": "Sim",
-   "descricao": "Casa, 204.22 de área total, 204.22 de área privativa, 288.00 de área do terreno,  3 qto(s), a.serv, WC, 2 sala(s), cozinha, 2 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444416368541",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -25.0951676,
-    "lng": -50.2088499
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8555526925356",
    "uf": "PR",
    "cidade": "PONTA GROSSA",
@@ -170089,6 +170326,21 @@
    "modalidade": "Licitação Aberta",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555526925356",
    "tipo": "apartamento"
+  },
+  {
+   "id": "8555504526483",
+   "uf": "PR",
+   "cidade": "PONTA GROSSA",
+   "bairro": "JARDIM CARVALHO",
+   "endereco": "RUA REFIDIM, N. 52, LT 08 QD 14",
+   "preco": 116908.68,
+   "valor_avaliacao": 185739.36,
+   "desconto": 37.06,
+   "financiamento": "Não",
+   "descricao": "Casa, 129.90 de área total, 129.90 de área privativa, 275.00 de área do terreno,  3 qto(s), WC, 2 sala(s), cozinha.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555504526483",
+   "tipo": "casa"
   },
   {
    "id": "1787701254918",
@@ -170106,14 +170358,56 @@
    "tipo": "apartamento"
   },
   {
+   "id": "8787712974290",
+   "uf": "PR",
+   "cidade": "PONTA GROSSA",
+   "bairro": "UVARANAS",
+   "endereco": "AVENIDA SIQUEIRA CAMPOS, N. 2013, Apto 103, TR 24",
+   "preco": 140825.33,
+   "valor_avaliacao": 205000.0,
+   "desconto": 31.31,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 49.63 de área total, 48.79 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787712974290",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -25.1094984,
+    "lng": -50.1240257
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8444423146310",
+   "uf": "PR",
+   "cidade": "PONTA GROSSA",
+   "bairro": "CARA-CARA",
+   "endereco": "RUA ELISEU DA SILVA, N. 603, RESIDENCIA 03",
+   "preco": 123871.22,
+   "valor_avaliacao": 165000.0,
+   "desconto": 24.93,
+   "financiamento": "Não",
+   "descricao": "Casa, 46.15 de área total, 45.14 de área privativa, 68.16 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444423146310",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -25.1106695,
+    "lng": -50.1165107
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "1444411381531",
    "uf": "PR",
    "cidade": "PONTA GROSSA",
    "bairro": "BOA VISTA",
    "endereco": "AVENIDA ANTONIO SAAD, N. 2500, CS 201 MODELO B3 SETOR F",
-   "preco": 205000.0,
+   "preco": 199145.01,
    "valor_avaliacao": 205000.0,
-   "desconto": 0.0,
+   "desconto": 2.86,
    "financiamento": "Não",
    "descricao": "Casa, 59.83 de área total, 58.64 de área privativa, 143.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 2 vaga(s) de garagem.",
    "modalidade": "Leilão SFI - Edital Único",
@@ -170176,48 +170470,6 @@
    "modalidade": "Leilão SFI - Edital Único",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787711454543",
    "tipo": "apartamento"
-  },
-  {
-   "id": "8787712974290",
-   "uf": "PR",
-   "cidade": "PONTA GROSSA",
-   "bairro": "UVARANAS",
-   "endereco": "AVENIDA SIQUEIRA CAMPOS, N. 2013, Apto 103, TR 24",
-   "preco": 205000.0,
-   "valor_avaliacao": 205000.0,
-   "desconto": 0.0,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 49.63 de área total, 48.79 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787712974290",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -25.1094984,
-    "lng": -50.1240257
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8444423146310",
-   "uf": "PR",
-   "cidade": "PONTA GROSSA",
-   "bairro": "CARA-CARA",
-   "endereco": "RUA ELISEU DA SILVA, N. 603, RESIDENCIA 03",
-   "preco": 165000.0,
-   "valor_avaliacao": 165000.0,
-   "desconto": 0.0,
-   "financiamento": "Não",
-   "descricao": "Casa, 46.15 de área total, 45.14 de área privativa, 68.16 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444423146310",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -25.1106695,
-    "lng": -50.1165107
-   },
-   "geo_pendente": false
   },
   {
    "id": "8787712521562",
@@ -170373,6 +170625,21 @@
    "geo_pendente": false
   },
   {
+   "id": "8787703769387",
+   "uf": "PR",
+   "cidade": "PRADO FERREIRA",
+   "bairro": "LOT RES MITACUNHA",
+   "endereco": "RUA MANOEL GONÇALVES CARRASCO, N. 61, LT 06 QD 16",
+   "preco": 66495.04,
+   "valor_avaliacao": 116000.0,
+   "desconto": 42.68,
+   "financiamento": "Não",
+   "descricao": "Casa, 43.26 de área total, 43.26 de área privativa, 210.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787703769387",
+   "tipo": "casa"
+  },
+  {
    "id": "8787702542842",
    "uf": "PR",
    "cidade": "PRADO FERREIRA",
@@ -170394,6 +170661,21 @@
    "geo_pendente": false
   },
   {
+   "id": "10007449",
+   "uf": "PR",
+   "cidade": "PRIMEIRO DE MAIO",
+   "bairro": "MARINA 2000",
+   "endereco": "EST EST MUN AGUA SÃO XAVIER, N. S/N, Apto 02, BL 01",
+   "preco": 425155.97,
+   "valor_avaliacao": 844000.0,
+   "desconto": 49.63,
+   "financiamento": "Sim",
+   "descricao": "Apartamento, 0.00 de área total, 184.48 de área privativa, 0.00 de área do terreno,  1 qto(s), a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10007449",
+   "tipo": "apartamento"
+  },
+  {
    "id": "8444405655704",
    "uf": "PR",
    "cidade": "QUERENCIA DO NORTE",
@@ -170404,7 +170686,7 @@
    "desconto": 50.24,
    "financiamento": "Não",
    "descricao": "Casa, 69.87 de área total, 69.87 de área privativa, 300.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444405655704",
    "tipo": "casa",
    "geo": {
@@ -170529,27 +170811,6 @@
    "tipo": "predio"
   },
   {
-   "id": "8444426887175",
-   "uf": "PR",
-   "cidade": "SANTA ISABEL DO IVAI",
-   "bairro": "CIDADE DE SANTA ISAB",
-   "endereco": "RUA ENÍ PAIVA SCHELL, N. 129, LOTE 10, QD 196-B",
-   "preco": 78897.85,
-   "valor_avaliacao": 136201.48,
-   "desconto": 42.08,
-   "financiamento": "Não",
-   "descricao": "Casa, 47.04 de área total, 47.04 de área privativa, 250.80 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444426887175",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -23.0024837,
-    "lng": -53.2063983
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8555528863064",
    "uf": "PR",
    "cidade": "SANTA MONICA",
@@ -170576,12 +170837,12 @@
    "cidade": "SANTO ANTONIO DA PLATINA",
    "bairro": "VILA SÃO PEDRO",
    "endereco": "RUA FLORIANO PEIXOTO, N. 727, LT A QD 102",
-   "preco": 401386.3,
+   "preco": 389918.12,
    "valor_avaliacao": 751273.73,
-   "desconto": 46.58,
+   "desconto": 48.1,
    "financiamento": "Sim",
    "descricao": "Casa, 320.00 de área total, 104.00 de área privativa, 440.00 de área do terreno.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1600000016830",
    "tipo": "casa",
    "geo": {
@@ -170628,25 +170889,19 @@
    "tipo": "terreno"
   },
   {
-   "id": "1444418887481",
+   "id": "8555536541984",
    "uf": "PR",
    "cidade": "SAO JOSE DOS PINHAIS",
-   "bairro": "ACADEMIA",
-   "endereco": "RUA MARIA ALICE SADEMBERG, N. 324, LT 11 QD 05",
-   "preco": 161718.5,
-   "valor_avaliacao": 290000.0,
-   "desconto": 44.24,
-   "financiamento": "Sim",
-   "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 480.00 de área do terreno.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444418887481",
-   "tipo": "terreno",
-   "geo": {
-    "fonte": "google",
-    "lat": -25.5162794,
-    "lng": -49.1443095
-   },
-   "geo_pendente": false
+   "bairro": "SANTO ANTONIO",
+   "endereco": "RUA ADOLFO SAVISKI, N. 601, Apto 104, BL 09",
+   "preco": 139718.63,
+   "valor_avaliacao": 250000.0,
+   "desconto": 44.12,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 0.00 de área total, 42.01 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555536541984",
+   "tipo": "apartamento"
   },
   {
    "id": "8787714156152",
@@ -170662,6 +170917,27 @@
    "modalidade": "Licitação Aberta",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787714156152",
    "tipo": "apartamento"
+  },
+  {
+   "id": "8787707911838",
+   "uf": "PR",
+   "cidade": "SAO JOSE DOS PINHAIS",
+   "bairro": "ITALIA",
+   "endereco": "RUA PEDRINA COSTA VISKI, N. 788, Apto 102, BLOCO 04",
+   "preco": 114156.73,
+   "valor_avaliacao": 185000.0,
+   "desconto": 38.3,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 0.00 de área total, 38.40 de área privativa, 0.00 de área do terreno,  1 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787707911838",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -25.567328,
+    "lng": -49.1890659
+   },
+   "geo_pendente": false
   },
   {
    "id": "8787704492249",
@@ -170850,25 +171126,19 @@
    "geo_pendente": false
   },
   {
-   "id": "8787707911838",
+   "id": "8444438304820",
    "uf": "PR",
-   "cidade": "SAO JOSE DOS PINHAIS",
-   "bairro": "ITALIA",
-   "endereco": "RUA PEDRINA COSTA VISKI, N. 788, Apto 102, BLOCO 04",
-   "preco": 185000.0,
-   "valor_avaliacao": 185000.0,
-   "desconto": 0.0,
+   "cidade": "SARANDI",
+   "bairro": "JARDIM DOS IPES",
+   "endereco": "RUA ONOFRE RODOLFO, N. 846, D  474 A 9LOTE 04 05 06 07 08 09",
+   "preco": 139015.11,
+   "valor_avaliacao": 230000.0,
+   "desconto": 39.56,
    "financiamento": "Não",
-   "descricao": "Apartamento, 0.00 de área total, 38.40 de área privativa, 0.00 de área do terreno,  1 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787707911838",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -25.567328,
-    "lng": -49.1890659
-   },
-   "geo_pendente": false
+   "descricao": "Casa, 69.66 de área total, 69.66 de área privativa, 128.50 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444438304820",
+   "tipo": "casa"
   },
   {
    "id": "8444402616074",
@@ -170911,7 +171181,7 @@
    "desconto": 36.27,
    "financiamento": "Sim",
    "descricao": "Casa, 149.12 de área total, 149.12 de área privativa, 504.32 de área do terreno.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1555514798712",
    "tipo": "casa",
    "geo": {
@@ -170932,7 +171202,7 @@
    "desconto": 49.78,
    "financiamento": "Não",
    "descricao": "Casa, 0.00 de área total, 104.40 de área privativa, 490.00 de área do terreno.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1555525514702",
    "tipo": "casa",
    "geo": {
@@ -170985,6 +171255,21 @@
    "geo_pendente": false
   },
   {
+   "id": "1444423942720",
+   "uf": "PR",
+   "cidade": "TIBAGI",
+   "bairro": "Centro",
+   "endereco": "RUA DO CONDOMÍNIO, N. SN, QD 128  LT 303",
+   "preco": 175261.43,
+   "valor_avaliacao": 275000.0,
+   "desconto": 36.27,
+   "financiamento": "Não",
+   "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 938.56 de área do terreno.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444423942720",
+   "tipo": "terreno"
+  },
+  {
    "id": "8444418226076",
    "uf": "PR",
    "cidade": "TIJUCAS DO SUL",
@@ -171016,7 +171301,7 @@
    "desconto": 42.23,
    "financiamento": "Não",
    "descricao": "Casa, 55.88 de área total, 35.88 de área privativa, 248.41 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555523337410",
    "tipo": "casa",
    "geo": {
@@ -171053,12 +171338,12 @@
    "cidade": "UMUARAMA",
    "bairro": "ZONA V",
    "endereco": "RUA VITORIA, N. 5800, Apto 402, BL I, 4º PAV, 3º ANDAR, GARAGEM Nº 219",
-   "preco": 120882.7,
+   "preco": 117860.63,
    "valor_avaliacao": 200000.0,
-   "desconto": 39.56,
+   "desconto": 41.07,
    "financiamento": "Não",
    "descricao": "Apartamento, 70.25 de área total, 44.95 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787707672779",
    "tipo": "apartamento",
    "geo": {
@@ -171100,7 +171385,7 @@
    "desconto": 36.27,
    "financiamento": "Sim",
    "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 540.64 de área do terreno.",
-   "modalidade": "Venda Direta Online",
+   "modalidade": "Venda Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10300791",
    "tipo": "terreno",
    "geo": {
@@ -171130,6 +171415,21 @@
     "lng": -53.319202
    },
    "geo_pendente": false
+  },
+  {
+   "id": "1444424716286",
+   "uf": "PR",
+   "cidade": "UNIAO DA VITORIA",
+   "bairro": "CRISTO REI",
+   "endereco": "RUA INACIO MARTINS, N. 128, LT 30 QD 05",
+   "preco": 248552.58,
+   "valor_avaliacao": 390000.0,
+   "desconto": 36.27,
+   "financiamento": "Não",
+   "descricao": "Casa, 129.11 de área total, 91.00 de área privativa, 264.00 de área do terreno,  4 qto(s), a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444424716286",
+   "tipo": "casa"
   },
   {
    "id": "8444433804662",
