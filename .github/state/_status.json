@@ -1,5 +1,5 @@
 {
- "executado_em": "26/11/2026 01:58",
+ "executado_em": "26/11/2026 12:02",
  "modo": "ufs",
  "ufs_ok": 26,
  "ufs_falha": 1,
@@ -70,10 +70,9 @@
    "gerado_em": "25/11/2026"
   },
   "PA": {
-   "ok": false,
-   "total": 273,
-   "gerado_em": "24/11/2026",
-   "erro": "falha no download — dado anterior preservado"
+   "ok": true,
+   "total": 301,
+   "gerado_em": "25/11/2026"
   },
   "PB": {
    "ok": true,
@@ -111,9 +110,10 @@
    "gerado_em": "25/11/2026"
   },
   "RO": {
-   "ok": true,
+   "ok": false,
    "total": 34,
-   "gerado_em": "25/11/2026"
+   "gerado_em": "25/11/2026",
+   "erro": "falha no download — dado anterior preservado"
   },
   "RR": {
    "ok": true,

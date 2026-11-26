@@ -1,8 +1,8 @@
 {
  "uf": "BR",
- "atualizado_em": "26/11/2026 01:58",
+ "atualizado_em": "26/11/2026 12:02",
  "fonte": "por-UF",
- "total": 26118,
+ "total": 26146,
  "colunas": [
   "bairro",
   "cidade",
@@ -24,147 +24,147 @@
   {
    "uf": "AC",
    "data_geracao_caixa": "25/11/2026",
-   "coletado_em": "26/11/2026 01:55",
+   "coletado_em": "26/11/2026 11:58",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_AC.csv",
    "total": 18
   },
   {
    "uf": "AL",
    "data_geracao_caixa": "25/11/2026",
-   "coletado_em": "26/11/2026 01:55",
+   "coletado_em": "26/11/2026 11:58",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_AL.csv",
    "total": 125
   },
   {
    "uf": "AP",
    "data_geracao_caixa": "25/11/2026",
-   "coletado_em": "26/11/2026 01:55",
+   "coletado_em": "26/11/2026 11:58",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_AP.csv",
    "total": 3
   },
   {
    "uf": "AM",
    "data_geracao_caixa": "25/11/2026",
-   "coletado_em": "26/11/2026 01:55",
+   "coletado_em": "26/11/2026 11:58",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_AM.csv",
    "total": 205
   },
   {
    "uf": "BA",
    "data_geracao_caixa": "25/11/2026",
-   "coletado_em": "26/11/2026 01:55",
+   "coletado_em": "26/11/2026 11:58",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_BA.csv",
    "total": 921
   },
   {
    "uf": "CE",
    "data_geracao_caixa": "25/11/2026",
-   "coletado_em": "26/11/2026 01:55",
+   "coletado_em": "26/11/2026 11:58",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_CE.csv",
    "total": 671
   },
   {
    "uf": "DF",
    "data_geracao_caixa": "25/11/2026",
-   "coletado_em": "26/11/2026 01:55",
+   "coletado_em": "26/11/2026 11:59",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_DF.csv",
    "total": 93
   },
   {
    "uf": "ES",
    "data_geracao_caixa": "25/11/2026",
-   "coletado_em": "26/11/2026 01:55",
+   "coletado_em": "26/11/2026 11:59",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_ES.csv",
    "total": 51
   },
   {
    "uf": "GO",
    "data_geracao_caixa": "25/11/2026",
-   "coletado_em": "26/11/2026 01:55",
+   "coletado_em": "26/11/2026 11:59",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_GO.csv",
    "total": 3551
   },
   {
    "uf": "MA",
    "data_geracao_caixa": "25/11/2026",
-   "coletado_em": "26/11/2026 01:55",
+   "coletado_em": "26/11/2026 11:59",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_MA.csv",
    "total": 208
   },
   {
    "uf": "MT",
    "data_geracao_caixa": "25/11/2026",
-   "coletado_em": "26/11/2026 01:55",
+   "coletado_em": "26/11/2026 11:59",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_MT.csv",
    "total": 202
   },
   {
    "uf": "MS",
    "data_geracao_caixa": "25/11/2026",
-   "coletado_em": "26/11/2026 01:55",
+   "coletado_em": "26/11/2026 11:59",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_MS.csv",
    "total": 272
   },
   {
    "uf": "MG",
    "data_geracao_caixa": "25/11/2026",
-   "coletado_em": "26/11/2026 01:56",
+   "coletado_em": "26/11/2026 11:59",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_MG.csv",
    "total": 1106
   },
   {
    "uf": "PA",
-   "data_geracao_caixa": "24/11/2026",
-   "coletado_em": "25/11/2026 19:25",
+   "data_geracao_caixa": "25/11/2026",
+   "coletado_em": "26/11/2026 11:59",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_PA.csv",
-   "total": 273
+   "total": 301
   },
   {
    "uf": "PB",
    "data_geracao_caixa": "25/11/2026",
-   "coletado_em": "26/11/2026 01:56",
+   "coletado_em": "26/11/2026 11:59",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_PB.csv",
    "total": 730
   },
   {
    "uf": "PR",
    "data_geracao_caixa": "25/11/2026",
-   "coletado_em": "26/11/2026 01:56",
+   "coletado_em": "26/11/2026 11:59",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_PR.csv",
    "total": 520
   },
   {
    "uf": "PE",
    "data_geracao_caixa": "25/11/2026",
-   "coletado_em": "26/11/2026 01:56",
+   "coletado_em": "26/11/2026 11:59",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_PE.csv",
    "total": 1108
   },
   {
    "uf": "PI",
    "data_geracao_caixa": "25/11/2026",
-   "coletado_em": "26/11/2026 01:56",
+   "coletado_em": "26/11/2026 11:59",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_PI.csv",
    "total": 771
   },
   {
    "uf": "RJ",
    "data_geracao_caixa": "25/11/2026",
-   "coletado_em": "26/11/2026 01:56",
+   "coletado_em": "26/11/2026 11:59",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_RJ.csv",
    "total": 8497
   },
   {
    "uf": "RN",
    "data_geracao_caixa": "25/11/2026",
-   "coletado_em": "26/11/2026 01:56",
+   "coletado_em": "26/11/2026 11:59",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_RN.csv",
    "total": 612
   },
   {
    "uf": "RS",
    "data_geracao_caixa": "25/11/2026",
-   "coletado_em": "26/11/2026 01:56",
+   "coletado_em": "26/11/2026 11:59",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_RS.csv",
    "total": 1385
   },
@@ -178,35 +178,35 @@
   {
    "uf": "RR",
    "data_geracao_caixa": "25/11/2026",
-   "coletado_em": "26/11/2026 01:56",
+   "coletado_em": "26/11/2026 11:59",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_RR.csv",
    "total": 3
   },
   {
    "uf": "SC",
    "data_geracao_caixa": "25/11/2026",
-   "coletado_em": "26/11/2026 01:56",
+   "coletado_em": "26/11/2026 11:59",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_SC.csv",
    "total": 227
   },
   {
    "uf": "SP",
    "data_geracao_caixa": "25/11/2026",
-   "coletado_em": "26/11/2026 01:56",
+   "coletado_em": "26/11/2026 11:59",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_SP.csv",
    "total": 4040
   },
   {
    "uf": "SE",
    "data_geracao_caixa": "25/11/2026",
-   "coletado_em": "26/11/2026 01:56",
+   "coletado_em": "26/11/2026 11:59",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_SE.csv",
    "total": 462
   },
   {
    "uf": "TO",
    "data_geracao_caixa": "25/11/2026",
-   "coletado_em": "26/11/2026 01:56",
+   "coletado_em": "26/11/2026 11:59",
    "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_TO.csv",
    "total": 30
   }
@@ -143527,7 +143527,7 @@
    "desconto": 59.13,
    "financiamento": "Sim",
    "descricao": "Casa, 0.00 de área total, 120.00 de área privativa, 120.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444416307435",
    "tipo": "casa",
    "geo": {
@@ -143548,7 +143548,7 @@
    "desconto": 45.05,
    "financiamento": "Sim",
    "descricao": "Casa, 161.30 de área total, 100.80 de área privativa, 274.75 de área do terreno,  2 qto(s), a.serv, WC, 2 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444420607024",
    "tipo": "casa",
    "geo": {
@@ -143572,6 +143572,27 @@
    "modalidade": "Licitação Aberta",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444417875323",
    "tipo": "casa"
+  },
+  {
+   "id": "10007630",
+   "uf": "PA",
+   "cidade": "ANAJAS",
+   "bairro": "FAZENDA SÃO JOSÉ",
+   "endereco": "FAZENDA SÃO JOSÉ MARGEM DIREITA RIO ANAJÁS, N. S/N, IGARAPÉ SAPARARÁ",
+   "preco": 1565621.74,
+   "valor_avaliacao": 4440000.0,
+   "desconto": 64.74,
+   "financiamento": "Não",
+   "descricao": "Imóvel rural, 0.00 de área total, 0.00 de área privativa, 333000.00 de área do terreno.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10007630",
+   "tipo": "imovel rural",
+   "geo": {
+    "fonte": "google",
+    "lat": -0.5523973999999999,
+    "lng": -50.1180501
+   },
+   "geo_pendente": false
   },
   {
    "id": "8555531879782",
@@ -143608,6 +143629,90 @@
    "modalidade": "Licitação Aberta",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787714648110",
    "tipo": "apartamento"
+  },
+  {
+   "id": "8787717311000",
+   "uf": "PA",
+   "cidade": "ANANINDEUA",
+   "bairro": "COQUEIRO",
+   "endereco": "AVENIDA GOVERNADOR HELIO DA MOTA GUEIROS, N. 528, Apto 103, BL 27 PAV SUPERIOR",
+   "preco": 136800.0,
+   "valor_avaliacao": 228000.0,
+   "desconto": 40.0,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 114.65 de área total, 52.82 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787717311000",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -1.3684785,
+    "lng": -48.4209683
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8787717313780",
+   "uf": "PA",
+   "cidade": "ANANINDEUA",
+   "bairro": "COQUEIRO",
+   "endereco": "AVENIDA GOVERNADOR HELIO DA MOTA GUEIROS, N. 528, Apto 101, BL 22 PAV SUPERIOR",
+   "preco": 136800.0,
+   "valor_avaliacao": 228000.0,
+   "desconto": 40.0,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 114.65 de área total, 52.82 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787717313780",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -1.3684785,
+    "lng": -48.4209683
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8787717056442",
+   "uf": "PA",
+   "cidade": "ANANINDEUA",
+   "bairro": "COQUEIRO",
+   "endereco": "AVENIDA GOVERNADOR HELIO DA MOTA GUEIROS, N. 528, Apto 101, BL 05 PAV SUPERIOR",
+   "preco": 144600.0,
+   "valor_avaliacao": 241000.0,
+   "desconto": 40.0,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 114.65 de área total, 52.82 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787717056442",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -1.3684785,
+    "lng": -48.4209683
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8787717281969",
+   "uf": "PA",
+   "cidade": "ANANINDEUA",
+   "bairro": "COQUEIRO",
+   "endereco": "AVENIDA GOVERNADOR HELIO DA MOTA GUEIROS, N. 528, Apto 102, BL 28 PAV SUPERIOR",
+   "preco": 144600.0,
+   "valor_avaliacao": 241000.0,
+   "desconto": 40.0,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 114.65 de área total, 52.82 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787717281969",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -1.3684785,
+    "lng": -48.4209683
+   },
+   "geo_pendente": false
   },
   {
    "id": "8444409945782",
@@ -143715,6 +143820,27 @@
    "tipo": "casa"
   },
   {
+   "id": "1787700529085",
+   "uf": "PA",
+   "cidade": "ANANINDEUA",
+   "bairro": "COQUEIRO",
+   "endereco": "PASSAGEM SAO PEDRO, N. 108, Apto 301, BL 04",
+   "preco": 204577.89,
+   "valor_avaliacao": 321000.0,
+   "desconto": 36.27,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 87.05 de área total, 59.68 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1787700529085",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -1.3841128,
+    "lng": -48.420084
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "1444415592294",
    "uf": "PA",
    "cidade": "ANANINDEUA",
@@ -143740,7 +143866,7 @@
    "desconto": 36.27,
    "financiamento": "Não",
    "descricao": "Casa, 0.00 de área total, 74.82 de área privativa, 0.00 de área do terreno.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444419150040",
    "tipo": "casa",
    "geo": {
@@ -143791,7 +143917,7 @@
    "desconto": 36.27,
    "financiamento": "Não",
    "descricao": "Casa, 148.63 de área total, 148.63 de área privativa, 250.00 de área do terreno,  4 qto(s), a.serv, WC, 2 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444418355552",
    "tipo": "casa",
    "geo": {
@@ -143802,18 +143928,18 @@
    "geo_pendente": false
   },
   {
-   "id": "8787717311000",
+   "id": "8787717291891",
    "uf": "PA",
    "cidade": "ANANINDEUA",
    "bairro": "COQUEIRO",
-   "endereco": "AVENIDA GOVERNADOR HELIO DA MOTA GUEIROS, N. 528, Apto 103, BL 27 PAV SUPERIOR",
-   "preco": 228000.0,
-   "valor_avaliacao": 228000.0,
-   "desconto": 0.0,
+   "endereco": "AVENIDA GOVERNADOR HELIO DA MOTA GUEIROS, N. 528, Apto 101, BL 28 PAV SUPERIOR",
+   "preco": 135516.55,
+   "valor_avaliacao": 206000.0,
+   "desconto": 34.22,
    "financiamento": "Não",
-   "descricao": "Apartamento, 114.65 de área total, 52.82 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "descricao": "Apartamento, 114.65 de área total, 52.82 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
    "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787717311000",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787717291891",
    "tipo": "apartamento",
    "geo": {
     "fonte": "google",
@@ -143823,23 +143949,86 @@
    "geo_pendente": false
   },
   {
-   "id": "8787717313780",
+   "id": "8787717883101",
    "uf": "PA",
    "cidade": "ANANINDEUA",
    "bairro": "COQUEIRO",
-   "endereco": "AVENIDA GOVERNADOR HELIO DA MOTA GUEIROS, N. 528, Apto 101, BL 22 PAV SUPERIOR",
-   "preco": 228000.0,
-   "valor_avaliacao": 228000.0,
-   "desconto": 0.0,
+   "endereco": "AVENIDA GOVERNADOR HELIO DA MOTA GUEIROS, N. 528, Apto 105, BL 28 PAV SUPERIOR",
+   "preco": 163295.81,
+   "valor_avaliacao": 241000.0,
+   "desconto": 32.25,
    "financiamento": "Não",
    "descricao": "Apartamento, 114.65 de área total, 52.82 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
    "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787717313780",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787717883101",
    "tipo": "apartamento",
    "geo": {
     "fonte": "google",
     "lat": -1.3684785,
     "lng": -48.4209683
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8787717244834",
+   "uf": "PA",
+   "cidade": "ANANINDEUA",
+   "bairro": "COQUEIRO",
+   "endereco": "AVENIDA GOVERNADOR HELIO DA MOTA GUEIROS, N. 528, Apto 02, BL 17",
+   "preco": 177680.74,
+   "valor_avaliacao": 259000.0,
+   "desconto": 31.4,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 134.67 de área total, 66.24 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787717244834",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -1.3684785,
+    "lng": -48.4209683
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8787718542960",
+   "uf": "PA",
+   "cidade": "ANANINDEUA",
+   "bairro": "COQUEIRO",
+   "endereco": "AVENIDA GOVERNADOR HELIO DA MOTA GUEIROS, N. 528, Apto 102, BL 02",
+   "preco": 179980.82,
+   "valor_avaliacao": 241000.0,
+   "desconto": 25.32,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 114.65 de área total, 52.82 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787718542960",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -1.3684785,
+    "lng": -48.4209683
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8787719226167",
+   "uf": "PA",
+   "cidade": "ANANINDEUA",
+   "bairro": "COQUEIRO",
+   "endereco": "AVENIDA GOVERNADOR HELIO DA MOTA GUEIROS, N. 436, Apto 166B, BL 33 PAV 01",
+   "preco": 217839.26,
+   "valor_avaliacao": 237000.0,
+   "desconto": 8.09,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 118.85 de área total, 52.82 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787719226167",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -1.3319461,
+    "lng": -48.4269334
    },
    "geo_pendente": false
   },
@@ -143859,6 +144048,36 @@
    "tipo": "casa"
   },
   {
+   "id": "1555517104142",
+   "uf": "PA",
+   "cidade": "ANANINDEUA",
+   "bairro": "COQUEIRO",
+   "endereco": "TRAVESSA WE 79, N. 522,",
+   "preco": 235000.0,
+   "valor_avaliacao": 235000.0,
+   "desconto": 0.0,
+   "financiamento": "Não",
+   "descricao": "Casa, 0.00 de área total, 39.86 de área privativa, 155.00 de área do terreno,  4 qto(s), a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1555517104142",
+   "tipo": "casa"
+  },
+  {
+   "id": "8444426823460",
+   "uf": "PA",
+   "cidade": "ANANINDEUA",
+   "bairro": "COQUEIRO",
+   "endereco": "RODOVIA MARIO COVAS, N. 640, Apto 203, BL 03",
+   "preco": 233000.0,
+   "valor_avaliacao": 233000.0,
+   "desconto": 0.0,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 125.31 de área total, 57.87 de área privativa, 0.00 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444426823460",
+   "tipo": "apartamento"
+  },
+  {
    "id": "8555526901198",
    "uf": "PA",
    "cidade": "ANANINDEUA",
@@ -143871,6 +144090,21 @@
    "descricao": "Apartamento, 61.38 de área total, 48.88 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
    "modalidade": "Leilão SFI - Edital Único",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555526901198",
+   "tipo": "apartamento"
+  },
+  {
+   "id": "8555538379548",
+   "uf": "PA",
+   "cidade": "ANANINDEUA",
+   "bairro": "COQUEIRO",
+   "endereco": "TRAVESSA SAO PEDRO, N. SN, Apto 003, BL BBROMÉLIA",
+   "preco": 267000.0,
+   "valor_avaliacao": 267000.0,
+   "desconto": 0.0,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 84.33 de área total, 54.85 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555538379548",
    "tipo": "apartamento"
   },
   {
@@ -143891,111 +144125,6 @@
     "fonte": "google",
     "lat": -1.3636454,
     "lng": -48.4210852
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8787717056442",
-   "uf": "PA",
-   "cidade": "ANANINDEUA",
-   "bairro": "COQUEIRO",
-   "endereco": "AVENIDA GOVERNADOR HELIO DA MOTA GUEIROS, N. 528, Apto 101, BL 05 PAV SUPERIOR",
-   "preco": 241000.0,
-   "valor_avaliacao": 241000.0,
-   "desconto": 0.0,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 114.65 de área total, 52.82 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787717056442",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -1.3684785,
-    "lng": -48.4209683
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8787717244834",
-   "uf": "PA",
-   "cidade": "ANANINDEUA",
-   "bairro": "COQUEIRO",
-   "endereco": "AVENIDA GOVERNADOR HELIO DA MOTA GUEIROS, N. 528, Apto 02, BL 17",
-   "preco": 259000.0,
-   "valor_avaliacao": 259000.0,
-   "desconto": 0.0,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 134.67 de área total, 66.24 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787717244834",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -1.3684785,
-    "lng": -48.4209683
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8787717281969",
-   "uf": "PA",
-   "cidade": "ANANINDEUA",
-   "bairro": "COQUEIRO",
-   "endereco": "AVENIDA GOVERNADOR HELIO DA MOTA GUEIROS, N. 528, Apto 102, BL 28 PAV SUPERIOR",
-   "preco": 241000.0,
-   "valor_avaliacao": 241000.0,
-   "desconto": 0.0,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 114.65 de área total, 52.82 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787717281969",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -1.3684785,
-    "lng": -48.4209683
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8787717883101",
-   "uf": "PA",
-   "cidade": "ANANINDEUA",
-   "bairro": "COQUEIRO",
-   "endereco": "AVENIDA GOVERNADOR HELIO DA MOTA GUEIROS, N. 528, Apto 105, BL 28 PAV SUPERIOR",
-   "preco": 241000.0,
-   "valor_avaliacao": 241000.0,
-   "desconto": 0.0,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 114.65 de área total, 52.82 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787717883101",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -1.3684785,
-    "lng": -48.4209683
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8787718542960",
-   "uf": "PA",
-   "cidade": "ANANINDEUA",
-   "bairro": "COQUEIRO",
-   "endereco": "AVENIDA GOVERNADOR HELIO DA MOTA GUEIROS, N. 528, Apto 102, BL 02",
-   "preco": 241000.0,
-   "valor_avaliacao": 241000.0,
-   "desconto": 0.0,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 114.65 de área total, 52.82 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787718542960",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -1.3684785,
-    "lng": -48.4209683
    },
    "geo_pendente": false
   },
@@ -144051,27 +144180,6 @@
    "tipo": "apartamento"
   },
   {
-   "id": "8787717291891",
-   "uf": "PA",
-   "cidade": "ANANINDEUA",
-   "bairro": "COQUEIRO",
-   "endereco": "AVENIDA GOVERNADOR HELIO DA MOTA GUEIROS, N. 528, Apto 101, BL 28 PAV SUPERIOR",
-   "preco": 209971.95,
-   "valor_avaliacao": 206000.0,
-   "desconto": 0.0,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 114.65 de área total, 52.82 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787717291891",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -1.3684785,
-    "lng": -48.4209683
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8787718390974",
    "uf": "PA",
    "cidade": "ANANINDEUA",
@@ -144114,6 +144222,21 @@
    "geo_pendente": false
   },
   {
+   "id": "8787718863864",
+   "uf": "PA",
+   "cidade": "ANANINDEUA",
+   "bairro": "COQUEIRO",
+   "endereco": "AVENIDA GOVERNADOR HELIO DA MOTA GUEIROS, N. 528, Apto 06, BL 14",
+   "preco": 245477.12,
+   "valor_avaliacao": 229000.0,
+   "desconto": 0.0,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 134.67 de área total, 66.24 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787718863864",
+   "tipo": "apartamento"
+  },
+  {
    "id": "1444419978286",
    "uf": "PA",
    "cidade": "ANANINDEUA",
@@ -144131,27 +144254,6 @@
     "fonte": "google",
     "lat": -1.3744443,
     "lng": -48.3686258
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8787719226167",
-   "uf": "PA",
-   "cidade": "ANANINDEUA",
-   "bairro": "COQUEIRO",
-   "endereco": "AVENIDA GOVERNADOR HELIO DA MOTA GUEIROS, N. 436, Apto 166B, BL 33 PAV 01",
-   "preco": 267365.42,
-   "valor_avaliacao": 237000.0,
-   "desconto": 0.0,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 118.85 de área total, 52.82 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787719226167",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -1.3319461,
-    "lng": -48.4269334
    },
    "geo_pendente": false
   },
@@ -144346,7 +144448,7 @@
    "desconto": 53.7,
    "financiamento": "Não",
    "descricao": "Casa, 50.18 de área total, 50.18 de área privativa, 140.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555514493308",
    "tipo": "casa",
    "geo": {
@@ -144493,13 +144595,34 @@
    "desconto": 42.68,
    "financiamento": "Não",
    "descricao": "Casa, 0.00 de área total, 51.72 de área privativa, 164.45 de área do terreno, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444405782765",
    "tipo": "casa",
    "geo": {
     "fonte": "google",
     "lat": -1.0851729,
     "lng": -46.6345787
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8444406595560",
+   "uf": "PA",
+   "cidade": "AUGUSTO CORREA",
+   "bairro": "SAO JOAO",
+   "endereco": "ALAMEDA ESTRELA, N. SN, LT 05",
+   "preco": 33605.68,
+   "valor_avaliacao": 57850.0,
+   "desconto": 41.91,
+   "financiamento": "Não",
+   "descricao": "Terreno, 51.72 de área total, 0.00 de área privativa, 187.43 de área do terreno.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444406595560",
+   "tipo": "terreno",
+   "geo": {
+    "fonte": "google",
+    "lat": -1.0648967,
+    "lng": -46.5555742
    },
    "geo_pendente": false
   },
@@ -144645,6 +144768,27 @@
    "geo_pendente": false
   },
   {
+   "id": "1444402411890",
+   "uf": "PA",
+   "cidade": "BELEM",
+   "bairro": "UNA",
+   "endereco": "ESTRADA DO UNA, N. 02, QD 04",
+   "preco": 241797.32,
+   "valor_avaliacao": 495000.0,
+   "desconto": 51.16,
+   "financiamento": "Não",
+   "descricao": "Sobrado, 235.20 de área total, 188.70 de área privativa, 104.70 de área do terreno,  4 qto(s), varanda, a.serv, WC, 2 sala(s).",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444402411890",
+   "tipo": "sobrado",
+   "geo": {
+    "fonte": "google",
+    "lat": -1.4563432,
+    "lng": -48.501299
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8444406359769",
    "uf": "PA",
    "cidade": "BELEM",
@@ -144762,6 +144906,27 @@
    "tipo": "apartamento"
   },
   {
+   "id": "1555536276107",
+   "uf": "PA",
+   "cidade": "BELEM",
+   "bairro": "PARQUE VERDE",
+   "endereco": "RODOVIA AUGUSTO MONTENEGRO, N. 4310, Apto 201, BL 06",
+   "preco": 232619.72,
+   "valor_avaliacao": 365000.0,
+   "desconto": 36.27,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 0.00 de área total, 62.42 de área privativa, 0.00 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1555536276107",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -1.3679541,
+    "lng": -48.4502798
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8787708544847",
    "uf": "PA",
    "cidade": "BELEM",
@@ -144823,6 +144988,21 @@
     "lng": -48.4397342
    },
    "geo_pendente": false
+  },
+  {
+   "id": "1555535878774",
+   "uf": "PA",
+   "cidade": "BELEM",
+   "bairro": "ICORACI",
+   "endereco": "RUA CEL JUVENCIO SARMENTO, N. 484,",
+   "preco": 447000.0,
+   "valor_avaliacao": 447000.0,
+   "desconto": 0.0,
+   "financiamento": "Não",
+   "descricao": "Casa, 124.00 de área total, 124.00 de área privativa, 1268.12 de área do terreno,  4 qto(s), a.serv, WC, 2 sala(s), cozinha.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1555535878774",
+   "tipo": "casa"
   },
   {
    "id": "1555538113779",
@@ -144912,6 +145092,21 @@
    "tipo": "sobrado"
   },
   {
+   "id": "1555515723643",
+   "uf": "PA",
+   "cidade": "BELEM",
+   "bairro": "SOUZA",
+   "endereco": "ALAMEDA TATIANA, N. 58, ENTRADA PELA AV ALMIRANTE BARROSO 1777",
+   "preco": 627143.49,
+   "valor_avaliacao": 384000.0,
+   "desconto": 0.0,
+   "financiamento": "Não",
+   "descricao": "Casa, 0.00 de área total, 158.00 de área privativa, 210.00 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1555515723643",
+   "tipo": "casa"
+  },
+  {
    "id": "1444405501512",
    "uf": "PA",
    "cidade": "BELEM",
@@ -144938,9 +145133,9 @@
    "cidade": "BENEVIDES",
    "bairro": "PRESIDENTE MEDICE",
    "endereco": "AVENIDA JOAQUIM PEREIRA QUEIROZ, N. S/ N, QUADRA C LT 63",
-   "preco": 182000.0,
+   "preco": 143248.39,
    "valor_avaliacao": 182000.0,
-   "desconto": 0.0,
+   "desconto": 21.3,
    "financiamento": "Não",
    "descricao": "Casa, 105.56 de área total, 62.07 de área privativa, 127.09 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
    "modalidade": "Leilão SFI - Edital Único",
@@ -144964,13 +145159,55 @@
    "desconto": 47.15,
    "financiamento": "Não",
    "descricao": "Terreno, 60.00 de área total, 0.00 de área privativa, 161.50 de área do terreno, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444417105429",
    "tipo": "terreno",
    "geo": {
     "fonte": "google",
     "lat": -1.0530689,
     "lng": -46.7862207
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8444412598508",
+   "uf": "PA",
+   "cidade": "BRAGANCA",
+   "bairro": "VILA SINHA",
+   "endereco": "RUA RAIMUNDO PINHEIRO DA SILVA, N. 02, QD 372 LT 176",
+   "preco": 63142.58,
+   "valor_avaliacao": 110500.0,
+   "desconto": 42.86,
+   "financiamento": "Não",
+   "descricao": "Casa, 65.00 de área total, 65.00 de área privativa, 94.56 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444412598508",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -1.0491694,
+    "lng": -46.7788969
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8555516163054",
+   "uf": "PA",
+   "cidade": "BRAGANCA",
+   "bairro": "PERPETUO SOCORRO",
+   "endereco": "AVENIDA NAZEAZENO FERREIRA, N. 14, QD 02 LT 05",
+   "preco": 54479.06,
+   "valor_avaliacao": 94105.0,
+   "desconto": 42.11,
+   "financiamento": "Não",
+   "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 149.40 de área do terreno.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555516163054",
+   "tipo": "terreno",
+   "geo": {
+    "fonte": "google",
+    "lat": -1.0417078,
+    "lng": -46.7704032
    },
    "geo_pendente": false
   },
@@ -145022,6 +145259,27 @@
     "fonte": "google",
     "lat": -1.0479041,
     "lng": -46.7873352
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8444417243678",
+   "uf": "PA",
+   "cidade": "BRAGANCA",
+   "bairro": "VILA NOVA",
+   "endereco": "RUA A4, N. 02, LT 02",
+   "preco": 125718.01,
+   "valor_avaliacao": 208000.0,
+   "desconto": 39.56,
+   "financiamento": "Não",
+   "descricao": "Casa, 119.60 de área total, 71.23 de área privativa, 189.00 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444417243678",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -1.0650738,
+    "lng": -46.7837295
    },
    "geo_pendente": false
   },
@@ -145093,7 +145351,7 @@
    "desconto": 55.69,
    "financiamento": "Sim",
    "descricao": "Casa, 68.45 de área total, 68.45 de área privativa, 162.40 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444417956321",
    "tipo": "casa",
    "geo": {
@@ -145114,7 +145372,7 @@
    "desconto": 43.87,
    "financiamento": "Sim",
    "descricao": "Casa, 69.16 de área total, 69.16 de área privativa, 146.25 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444405937345",
    "tipo": "casa",
    "geo": {
@@ -145135,34 +145393,13 @@
    "desconto": 37.06,
    "financiamento": "Não",
    "descricao": "Casa, 82.00 de área total, 82.00 de área privativa, 360.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444408001390",
    "tipo": "casa",
    "geo": {
     "fonte": "google",
     "lat": -3.782950599999999,
     "lng": -49.5706816
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8444406466247",
-   "uf": "PA",
-   "cidade": "BREVES",
-   "bairro": "CIDADE NOVA",
-   "endereco": "AV GURUPA, N. 901,",
-   "preco": 53926.39,
-   "valor_avaliacao": 110000.0,
-   "desconto": 50.98,
-   "financiamento": "Não",
-   "descricao": "Casa, 0.00 de área total, 70.00 de área privativa, 175.00 de área do terreno,  2 qto(s), a.serv, WC, 2 sala(s), cozinha.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444406466247",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -1.6857116,
-    "lng": -50.47567249999999
    },
    "geo_pendente": false
   },
@@ -145437,27 +145674,6 @@
    "geo_pendente": false
   },
   {
-   "id": "1444401956434",
-   "uf": "PA",
-   "cidade": "CAPANEMA",
-   "bairro": "ALMIR GABRIEL",
-   "endereco": "RUA SANTA RITA, N. S/Nº, LT 03, QD 05,",
-   "preco": 104992.75,
-   "valor_avaliacao": 170000.0,
-   "desconto": 38.24,
-   "financiamento": "Não",
-   "descricao": "Casa, 72.21 de área total, 72.21 de área privativa, 260.00 de área do terreno,  3 qto(s), WC, 1 sala(s), cozinha, Terraco.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444401956434",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -1.1747808,
-    "lng": -47.1805165
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "1444405260299",
    "uf": "PA",
    "cidade": "CAPITAO POCO",
@@ -145468,7 +145684,7 @@
    "desconto": 72.3,
    "financiamento": "Não",
    "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 80.00 de área do terreno.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444405260299",
    "tipo": "terreno",
    "geo": {
@@ -145552,7 +145768,7 @@
    "desconto": 46.58,
    "financiamento": "Sim",
    "descricao": "Loja, 0.00 de área total, 150.00 de área privativa, 150.00 de área do terreno,  1 qto(s), WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444409511784",
    "tipo": "loja",
    "geo": {
@@ -145684,13 +145900,34 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Casa, 41.40 de área total, 39.93 de área privativa, 190.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787701743909",
    "tipo": "casa",
    "geo": {
     "fonte": "google",
     "lat": -1.3049826,
     "lng": -47.8925881
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8787701841463",
+   "uf": "PA",
+   "cidade": "CASTANHAL",
+   "bairro": "BOM JESUS",
+   "endereco": "AVENIDA ANGELICA, N. 23, LT 23 QD 63",
+   "preco": 84306.67,
+   "valor_avaliacao": 144000.0,
+   "desconto": 41.46,
+   "financiamento": "Não",
+   "descricao": "Casa, 56.43 de área total, 56.43 de área privativa, 190.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787701841463",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -1.3084586,
+    "lng": -47.8858706
    },
    "geo_pendente": false
   },
@@ -145726,7 +145963,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Apartamento, 100.85 de área total, 44.84 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555535640610",
    "tipo": "apartamento",
    "geo": {
@@ -145747,7 +145984,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Casa, 0.00 de área total, 68.00 de área privativa, 320.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444408138794",
    "tipo": "casa",
    "geo": {
@@ -145768,7 +146005,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Casa, 39.93 de área total, 39.93 de área privativa, 190.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787701708879",
    "tipo": "casa",
    "geo": {
@@ -145800,6 +146037,48 @@
    "geo_pendente": false
   },
   {
+   "id": "8555531851969",
+   "uf": "PA",
+   "cidade": "CASTANHAL",
+   "bairro": "TITANLANDIA",
+   "endereco": "AVENIDA P. GETÚLIO VARGAS ROD BR316, N. SN, Apto 503, BL 40",
+   "preco": 101926.27,
+   "valor_avaliacao": 172000.0,
+   "desconto": 40.75,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 100.85 de área total, 44.84 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s).",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555531851969",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -1.2957894,
+    "lng": -47.91174
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8444416903470",
+   "uf": "PA",
+   "cidade": "CASTANHAL",
+   "bairro": "ESTRELA",
+   "endereco": "RUA DOUTOR MARCOS FREIRE, N. 32,",
+   "preco": 107852.22,
+   "valor_avaliacao": 182000.0,
+   "desconto": 40.75,
+   "financiamento": "Não",
+   "descricao": "Casa, 55.90 de área total, 55.90 de área privativa, 140.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444416903470",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -1.2809492,
+    "lng": -47.93206
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "1555527476590",
    "uf": "PA",
    "cidade": "CASTANHAL",
@@ -145810,7 +146089,7 @@
    "desconto": 38.96,
    "financiamento": "Não",
    "descricao": "Apartamento, 100.85 de área total, 44.84 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1555527476590",
    "tipo": "apartamento",
    "geo": {
@@ -145944,25 +146223,19 @@
    "tipo": "casa"
   },
   {
-   "id": "8444409832953",
+   "id": "8787701511110",
    "uf": "PA",
-   "cidade": "CONCEICAO DO ARAGUAIA",
-   "bairro": "VILA REAL",
-   "endereco": "RUA 56, N. SN, LT 37 QD 04",
-   "preco": 106667.03,
-   "valor_avaliacao": 180000.0,
-   "desconto": 40.75,
+   "cidade": "CASTANHAL",
+   "bairro": "HELIOLANDIA",
+   "endereco": "TRAVESSA AMARILIS, N. SN, LT 24 QD 65",
+   "preco": 147000.0,
+   "valor_avaliacao": 147000.0,
+   "desconto": 0.0,
    "financiamento": "Não",
-   "descricao": "Casa, 69.96 de área total, 69.96 de área privativa, 300.00 de área do terreno,  3 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444409832953",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -8.2789352,
-    "lng": -49.2820249
-   },
-   "geo_pendente": false
+   "descricao": "Casa, 39.93 de área total, 39.93 de área privativa, 190.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787701511110",
+   "tipo": "casa"
   },
   {
    "id": "8444422055957",
@@ -145975,7 +146248,7 @@
    "desconto": 39.56,
    "financiamento": "Não",
    "descricao": "Casa, 70.00 de área total, 70.00 de área privativa, 250.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444422055957",
    "tipo": "casa",
    "geo": {
@@ -146271,6 +146544,21 @@
    "geo_pendente": false
   },
   {
+   "id": "8444402399189",
+   "uf": "PA",
+   "cidade": "IGARAPE-ACU",
+   "bairro": "CENTRO",
+   "endereco": "AVENIDA MARECHAL RONDON, N. 02, QD 90 LT 255",
+   "preco": 77968.25,
+   "valor_avaliacao": 72000.0,
+   "desconto": 0.0,
+   "financiamento": "Não",
+   "descricao": "Casa, 51.66 de área total, 51.66 de área privativa, 145.20 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444402399189",
+   "tipo": "casa"
+  },
+  {
    "id": "8444406948756",
    "uf": "PA",
    "cidade": "IPIXUNA DO PARA",
@@ -146344,7 +146632,7 @@
    "desconto": 42.68,
    "financiamento": "Não",
    "descricao": "Casa, 54.54 de área total, 54.54 de área privativa, 160.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444422587657",
    "tipo": "casa",
    "geo": {
@@ -146365,7 +146653,7 @@
    "desconto": 42.08,
    "financiamento": "Não",
    "descricao": "Casa, 59.48 de área total, 54.54 de área privativa, 164.12 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444426103387",
    "tipo": "casa",
    "geo": {
@@ -146432,9 +146720,9 @@
    "cidade": "JACUNDA",
    "bairro": "ALTO DO PARIASO",
    "endereco": "RUA LEVINDO SOARES EMERIQUE, N. 95,",
-   "preco": 210000.0,
+   "preco": 126000.0,
    "valor_avaliacao": 210000.0,
-   "desconto": 0.0,
+   "desconto": 40.0,
    "financiamento": "Não",
    "descricao": "Casa, 123.42 de área total, 123.42 de área privativa, 330.16 de área do terreno,  2 qto(s), WC, 2 sala(s), cozinha, 1 vaga(s) de garagem.",
    "modalidade": "Leilão SFI - Edital Único",
@@ -146479,7 +146767,7 @@
    "desconto": 49.08,
    "financiamento": "Não",
    "descricao": "Casa, 0.00 de área total, 63.00 de área privativa, 160.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444406479764",
    "tipo": "casa",
    "geo": {
@@ -146595,6 +146883,27 @@
    "geo_pendente": false
   },
   {
+   "id": "8444406390658",
+   "uf": "PA",
+   "cidade": "MAE DO RIO",
+   "bairro": "BOM JESUS",
+   "endereco": "RUA NELSON GUEDES DE AQUINO, N. 263,",
+   "preco": 56733.94,
+   "valor_avaliacao": 98000.0,
+   "desconto": 42.11,
+   "financiamento": "Não",
+   "descricao": "Casa, 59.85 de área total, 59.85 de área privativa, 180.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444406390658",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -2.0557605,
+    "lng": -47.5505906
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8444412765609",
    "uf": "PA",
    "cidade": "MAE DO RIO",
@@ -146647,7 +146956,7 @@
    "desconto": 42.08,
    "financiamento": "Não",
    "descricao": "Casa, 71.46 de área total, 57.96 de área privativa, 160.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444407128299",
    "tipo": "casa",
    "geo": {
@@ -146668,7 +146977,7 @@
    "desconto": 41.46,
    "financiamento": "Não",
    "descricao": "Casa, 70.00 de área total, 70.00 de área privativa, 165.33 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444405173238",
    "tipo": "casa",
    "geo": {
@@ -146725,7 +147034,7 @@
    "desconto": 46.67,
    "financiamento": "Não",
    "descricao": "Terreno, 60.00 de área total, 0.00 de área privativa, 155.08 de área do terreno.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444423476220",
    "tipo": "terreno",
    "geo": {
@@ -146767,7 +147076,7 @@
    "desconto": 37.06,
    "financiamento": "Não",
    "descricao": "Casa, 0.00 de área total, 69.60 de área privativa, 135.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444414062567",
    "tipo": "casa",
    "geo": {
@@ -146776,6 +147085,36 @@
     "lng": -49.0874426
    },
    "geo_pendente": false
+  },
+  {
+   "id": "10312583",
+   "uf": "PA",
+   "cidade": "MARABA",
+   "bairro": "LOTEAMENTO NOVO PROGRESSO",
+   "endereco": "AVENIDA 07 (ESQUINA COM RUA 01), N. 00, QD 01, LT 21",
+   "preco": 150000.0,
+   "valor_avaliacao": 150000.0,
+   "desconto": 0.0,
+   "financiamento": "Não",
+   "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 461.54 de área do terreno.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10312583",
+   "tipo": "terreno"
+  },
+  {
+   "id": "10312584",
+   "uf": "PA",
+   "cidade": "MARABA",
+   "bairro": "LOTEAMENTO NOVO PROGRESSO",
+   "endereco": "AVENIDA 07, N. 00, QD 01, LT 22",
+   "preco": 170342.4,
+   "valor_avaliacao": 136000.0,
+   "desconto": 0.0,
+   "financiamento": "Não",
+   "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 404.82 de área do terreno.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10312584",
+   "tipo": "terreno"
   },
   {
    "id": "8444408874792",
@@ -146809,7 +147148,7 @@
    "desconto": 45.05,
    "financiamento": "Sim",
    "descricao": "Casa, 310.08 de área total, 310.08 de área privativa, 363.00 de área do terreno,  3 qto(s), WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444403944662",
    "tipo": "casa",
    "geo": {
@@ -146851,7 +147190,7 @@
    "desconto": 36.27,
    "financiamento": "Não",
    "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 10000.00 de área do terreno.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444424410438",
    "tipo": "terreno",
    "geo": {
@@ -146940,6 +147279,21 @@
    "descricao": "Casa, 128.00 de área total, 128.00 de área privativa, 441.00 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco.",
    "modalidade": "Licitação Aberta",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444404435206",
+   "tipo": "casa"
+  },
+  {
+   "id": "8555533201368",
+   "uf": "PA",
+   "cidade": "MOCAJUBA",
+   "bairro": "BAIRRO CAMPINA",
+   "endereco": "TRAVESSA RAIMUNDO CUNHA, N. SN, CS 19",
+   "preco": 110000.0,
+   "valor_avaliacao": 110000.0,
+   "desconto": 0.0,
+   "financiamento": "Não",
+   "descricao": "Casa, 65.21 de área total, 65.21 de área privativa, 150.00 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555533201368",
    "tipo": "casa"
   },
   {
@@ -147048,6 +147402,27 @@
    "geo_pendente": false
   },
   {
+   "id": "8444410023605",
+   "uf": "PA",
+   "cidade": "MOJU",
+   "bairro": "ALMIR GABRIEL",
+   "endereco": "RUA BAHIA, N. SN, QD 29 LT 11",
+   "preco": 62856.87,
+   "valor_avaliacao": 110000.0,
+   "desconto": 42.86,
+   "financiamento": "Não",
+   "descricao": "Casa, 69.95 de área total, 69.95 de área privativa, 360.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444410023605",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -1.3762441,
+    "lng": -48.43781670000001
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "1444418525377",
    "uf": "PA",
    "cidade": "MOJU",
@@ -147147,6 +147522,21 @@
    "tipo": "imovel rural"
   },
   {
+   "id": "1444409935150",
+   "uf": "PA",
+   "cidade": "MOJU",
+   "bairro": "SARAPOI",
+   "endereco": "TRAVESSA ALBERTON, N. SN, QD NS 03",
+   "preco": 204000.0,
+   "valor_avaliacao": 204000.0,
+   "desconto": 0.0,
+   "financiamento": "Não",
+   "descricao": "Casa, 119.77 de área total, 119.77 de área privativa, 582.00 de área do terreno,  2 qto(s), WC, 1 sala(s), 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444409935150",
+   "tipo": "casa"
+  },
+  {
    "id": "1444405011930",
    "uf": "PA",
    "cidade": "NOVO PROGRESSO",
@@ -147185,6 +147575,57 @@
     "fonte": "google",
     "lat": -4.250263,
     "lng": -49.9602123
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "1444420823118",
+   "uf": "PA",
+   "cidade": "NOVO REPARTIMENTO",
+   "bairro": "PARQUE DA LADEIRA",
+   "endereco": "AVENIDA CASTANHEIRA ANTIGA RUA LADEIRA, N. SN, LT 01 QD 42",
+   "preco": 1159000.0,
+   "valor_avaliacao": 1159000.0,
+   "desconto": 0.0,
+   "financiamento": "Não",
+   "descricao": "Casa, 360.00 de área total, 360.00 de área privativa, 360.00 de área do terreno,  3 qto(s), a.serv, WC, 3 sala(s), DCE, cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444420823118",
+   "tipo": "casa"
+  },
+  {
+   "id": "1444409368086",
+   "uf": "PA",
+   "cidade": "NOVO REPARTIMENTO",
+   "bairro": "VILA TUCURUI",
+   "endereco": "RUA FORTALEZA, N. SN, LT 01 QD 16",
+   "preco": 242000.0,
+   "valor_avaliacao": 242000.0,
+   "desconto": 0.0,
+   "financiamento": "Não",
+   "descricao": "Casa, 115.52 de área total, 115.52 de área privativa, 397.00 de área do terreno,  3 qto(s), a.serv, WC, 2 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444409368086",
+   "tipo": "casa"
+  },
+  {
+   "id": "8444414443021",
+   "uf": "PA",
+   "cidade": "ORIXIMINA",
+   "bairro": "SANTA TEREZINHA",
+   "endereco": "TRAVESSA JOAO GUERREIRO, N. 719, LT 04",
+   "preco": 33325.62,
+   "valor_avaliacao": 55000.0,
+   "desconto": 39.41,
+   "financiamento": "Não",
+   "descricao": "Casa, 0.00 de área total, 52.00 de área privativa, 290.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444414443021",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -1.7760533,
+    "lng": -55.8597274
    },
    "geo_pendente": false
   },
@@ -147423,6 +147864,27 @@
    "geo_pendente": false
   },
   {
+   "id": "8444419671960",
+   "uf": "PA",
+   "cidade": "SANTA BARBARA DO PARA",
+   "bairro": "CENTRO",
+   "endereco": "RODOVIA AUGUSTO MEIRA FILHO, N. SN, QD 05 LT 159 RUA QUATRO",
+   "preco": 57686.3,
+   "valor_avaliacao": 100951.47,
+   "desconto": 42.86,
+   "financiamento": "Não",
+   "descricao": "Casa, 56.81 de área total, 56.81 de área privativa, 200.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444419671960",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -1.2341376,
+    "lng": -48.2864134
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8444406696641",
    "uf": "PA",
    "cidade": "SANTA BARBARA DO PARA",
@@ -147465,14 +147927,29 @@
    "geo_pendente": false
   },
   {
+   "id": "8444435738730",
+   "uf": "PA",
+   "cidade": "SANTA BARBARA DO PARA",
+   "bairro": "CENTRO",
+   "endereco": "RODOVIA AUGUSTO MEIRA FILHO, N. SN, LT 44 QD D",
+   "preco": 157772.88,
+   "valor_avaliacao": 36500.0,
+   "desconto": 0.0,
+   "financiamento": "Não",
+   "descricao": "Terreno, 0.00 de área total, 0.00 de área privativa, 200.00 de área do terreno.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444435738730",
+   "tipo": "terreno"
+  },
+  {
    "id": "8787701384160",
    "uf": "PA",
    "cidade": "SANTA ISABEL DO PARA",
    "bairro": "SANTA LUCIA",
    "endereco": "RUA ACACIA, N. S/Nº, LOTE 13 QUADRA C RES CASTANHEIRA",
-   "preco": 171000.0,
+   "preco": 106561.59,
    "valor_avaliacao": 171000.0,
-   "desconto": 0.0,
+   "desconto": 37.69,
    "financiamento": "Não",
    "descricao": "Casa, 65.27 de área total, 65.27 de área privativa, 139.61 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
    "modalidade": "Leilão SFI - Edital Único",
@@ -147491,7 +147968,7 @@
    "cidade": "SANTA ISABEL DO PARA",
    "bairro": "SANTA LUCIA",
    "endereco": "RUA GUARUMÃ, N. S/N, LOTE 16 QUADRA D",
-   "preco": 114576.16,
+   "preco": 129227.9,
    "valor_avaliacao": 110000.0,
    "desconto": 0.0,
    "financiamento": "Não",
@@ -147570,27 +148047,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8444420716158",
-   "uf": "PA",
-   "cidade": "SANTA MARIA DO PARA",
-   "bairro": "MUTIRAO",
-   "endereco": "RUA SEVERINO BORGES, N. 372,",
-   "preco": 59184.9,
-   "valor_avaliacao": 98000.0,
-   "desconto": 39.61,
-   "financiamento": "Não",
-   "descricao": "Casa, 58.20 de área total, 42.00 de área privativa, 140.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444420716158",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -1.3435353,
-    "lng": -47.5691857
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8444421944820",
    "uf": "PA",
    "cidade": "SANTO ANTONIO DO TAUA",
@@ -147650,6 +148106,27 @@
     "fonte": "google",
     "lat": -1.1462725,
     "lng": -48.1281984
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8444436502250",
+   "uf": "PA",
+   "cidade": "SANTO ANTONIO DO TAUA",
+   "bairro": "SOL NASCENTE",
+   "endereco": "RUA DENDÊ, N. 10, QD 22 LT 10",
+   "preco": 100741.08,
+   "valor_avaliacao": 170000.0,
+   "desconto": 40.75,
+   "financiamento": "Não",
+   "descricao": "Casa, 65.05 de área total, 65.05 de área privativa, 190.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Licitação Aberta",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444436502250",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -1.1465492,
+    "lng": -48.1210854
    },
    "geo_pendente": false
   },
@@ -147801,25 +148278,19 @@
    "geo_pendente": false
   },
   {
-   "id": "1444400150185",
+   "id": "8555517262285",
    "uf": "PA",
-   "cidade": "TAILANDIA",
-   "bairro": "BAIRRO NOVO",
-   "endereco": "TRAVESSA BUJARU, N. 47A, LOTE 07 QUADRA CD",
-   "preco": 323000.0,
-   "valor_avaliacao": 323000.0,
+   "cidade": "SAO MIGUEL DO GUAMA",
+   "bairro": "BAIRRO PADRE ANGELO",
+   "endereco": "TRAVESSA JOAQUIM EGIDIO NUNES, N. 1238, LT 524 ZONA 5",
+   "preco": 116000.0,
+   "valor_avaliacao": 116000.0,
    "desconto": 0.0,
    "financiamento": "Não",
-   "descricao": "Casa, 143.51 de área total, 143.51 de área privativa, 577.20 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "descricao": "Casa, 72.00 de área total, 72.00 de área privativa, 160.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
    "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444400150185",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -2.9385934,
-    "lng": -48.9489188
-   },
-   "geo_pendente": false
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555517262285",
+   "tipo": "casa"
   },
   {
    "id": "1444404365054",
@@ -148110,48 +148581,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8444411113209",
-   "uf": "PA",
-   "cidade": "TAILANDIA",
-   "bairro": "BAIRRO AEROPORTO",
-   "endereco": "TV. BELA, N. 49A, BI4307B",
-   "preco": 128000.0,
-   "valor_avaliacao": 128000.0,
-   "desconto": 0.0,
-   "financiamento": "Não",
-   "descricao": "Casa, 63.47 de área total, 63.47 de área privativa, 151.87 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444411113209",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -2.9361048,
-    "lng": -48.9420641
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8444411145194",
-   "uf": "PA",
-   "cidade": "TAILANDIA",
-   "bairro": "BAIRRO AEROPORTO",
-   "endereco": "TRAVESSA BELA, N. 49, 07 BI 4307",
-   "preco": 129000.0,
-   "valor_avaliacao": 129000.0,
-   "desconto": 0.0,
-   "financiamento": "Não",
-   "descricao": "Casa, 63.47 de área total, 63.47 de área privativa, 152.62 de área do terreno,  2 qto(s), a.serv, WC, cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444411145194",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -2.9364862,
-    "lng": -48.9426782
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8444414566859",
    "uf": "PA",
    "cidade": "TAILANDIA",
@@ -148257,27 +148686,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8555535807786",
-   "uf": "PA",
-   "cidade": "TAILANDIA",
-   "bairro": "BAIRRO AEROPORTO",
-   "endereco": "RUA JATOBÁ, N. S/N, LOTE 11 QUADRA 04",
-   "preco": 109000.0,
-   "valor_avaliacao": 109000.0,
-   "desconto": 0.0,
-   "financiamento": "Não",
-   "descricao": "Casa, 52.02 de área total, 52.02 de área privativa, 149.20 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555535807786",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -2.9350622,
-    "lng": -48.9389874
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8555535959136",
    "uf": "PA",
    "cidade": "TAILANDIA",
@@ -148362,27 +148770,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8555537498586",
-   "uf": "PA",
-   "cidade": "TAILANDIA",
-   "bairro": "BAIRRO AEROPORTO",
-   "endereco": "TV. CASTANHEIRA, N. S/N, LOTE 06 QUADRA 07",
-   "preco": 110000.0,
-   "valor_avaliacao": 110000.0,
-   "desconto": 0.0,
-   "financiamento": "Não",
-   "descricao": "Casa, 52.02 de área total, 52.02 de área privativa, 149.20 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Leilão SFI - Edital Único",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555537498586",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -2.9305715,
-    "lng": -48.9400736
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8787700996331",
    "uf": "PA",
    "cidade": "TAILANDIA",
@@ -148396,6 +148783,69 @@
    "modalidade": "Leilão SFI - Edital Único",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787700996331",
    "tipo": "casa"
+  },
+  {
+   "id": "8444411113209",
+   "uf": "PA",
+   "cidade": "TAILANDIA",
+   "bairro": "BAIRRO AEROPORTO",
+   "endereco": "TV. BELA, N. 49A, BI4307B",
+   "preco": 140863.95,
+   "valor_avaliacao": 128000.0,
+   "desconto": 0.0,
+   "financiamento": "Não",
+   "descricao": "Casa, 63.47 de área total, 63.47 de área privativa, 151.87 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444411113209",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -2.9361048,
+    "lng": -48.9420641
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8444411145194",
+   "uf": "PA",
+   "cidade": "TAILANDIA",
+   "bairro": "BAIRRO AEROPORTO",
+   "endereco": "TRAVESSA BELA, N. 49, 07 BI 4307",
+   "preco": 172303.0,
+   "valor_avaliacao": 129000.0,
+   "desconto": 0.0,
+   "financiamento": "Não",
+   "descricao": "Casa, 63.47 de área total, 63.47 de área privativa, 152.62 de área do terreno,  2 qto(s), a.serv, WC, cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444411145194",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -2.9364862,
+    "lng": -48.9426782
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8555535807786",
+   "uf": "PA",
+   "cidade": "TAILANDIA",
+   "bairro": "BAIRRO AEROPORTO",
+   "endereco": "RUA JATOBÁ, N. S/N, LOTE 11 QUADRA 04",
+   "preco": 145874.42,
+   "valor_avaliacao": 109000.0,
+   "desconto": 0.0,
+   "financiamento": "Não",
+   "descricao": "Casa, 52.02 de área total, 52.02 de área privativa, 149.20 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555535807786",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -2.9350622,
+    "lng": -48.9389874
+   },
+   "geo_pendente": false
   },
   {
    "id": "8444411820126",
@@ -148415,6 +148865,48 @@
     "fonte": "google",
     "lat": -2.9384298,
     "lng": -48.9420259
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "1444400150185",
+   "uf": "PA",
+   "cidade": "TAILANDIA",
+   "bairro": "BAIRRO NOVO",
+   "endereco": "TRAVESSA BUJARU, N. 47A, LOTE 07 QUADRA CD",
+   "preco": 497086.73,
+   "valor_avaliacao": 323000.0,
+   "desconto": 0.0,
+   "financiamento": "Não",
+   "descricao": "Casa, 143.51 de área total, 143.51 de área privativa, 577.20 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444400150185",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -2.9385934,
+    "lng": -48.9489188
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8555537498586",
+   "uf": "PA",
+   "cidade": "TAILANDIA",
+   "bairro": "BAIRRO AEROPORTO",
+   "endereco": "TV. CASTANHEIRA, N. S/N, LOTE 06 QUADRA 07",
+   "preco": 178512.47,
+   "valor_avaliacao": 110000.0,
+   "desconto": 0.0,
+   "financiamento": "Não",
+   "descricao": "Casa, 52.02 de área total, 52.02 de área privativa, 149.20 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555537498586",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -2.9305715,
+    "lng": -48.9400736
    },
    "geo_pendente": false
   },
@@ -148471,7 +148963,7 @@
    "desconto": 52.9,
    "financiamento": "Não",
    "descricao": "Casa, 55.44 de área total, 55.44 de área privativa, 170.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444411359976",
    "tipo": "casa",
    "geo": {
@@ -148534,7 +149026,7 @@
    "desconto": 49.72,
    "financiamento": "Não",
    "descricao": "Casa, 51.32 de área total, 51.32 de área privativa, 203.78 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444414417535",
    "tipo": "casa",
    "geo": {
@@ -148576,7 +149068,7 @@
    "desconto": 38.77,
    "financiamento": "Não",
    "descricao": "Casa, 207.63 de área total, 207.63 de área privativa, 105.52 de área do terreno, a.serv, WC, 2 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444432940759",
    "tipo": "casa",
    "geo": {
@@ -148597,7 +149089,7 @@
    "desconto": 47.27,
    "financiamento": "Sim",
    "descricao": "Casa, 132.66 de área total, 132.66 de área privativa, 312.95 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444410765695",
    "tipo": "casa",
    "geo": {
@@ -148618,7 +149110,7 @@
    "desconto": 45.12,
    "financiamento": "Sim",
    "descricao": "Casa, 69.47 de área total, 169.47 de área privativa, 186.86 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444429740612",
    "tipo": "casa",
    "geo": {
@@ -148747,7 +149239,7 @@
    "desconto": 69.36,
    "financiamento": "Não",
    "descricao": "Galpão, 0.00 de área total, 1000.00 de área privativa, 3600.00 de área do terreno.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10147855",
    "tipo": "galpao",
    "geo": {
@@ -148768,7 +149260,7 @@
    "desconto": 40.75,
    "financiamento": "Não",
    "descricao": "Casa, 66.31 de área total, 66.31 de área privativa, 215.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444436216982",
    "tipo": "casa",
    "geo": {
