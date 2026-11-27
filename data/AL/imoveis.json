@@ -1,9 +1,9 @@
 {
  "uf": "AL",
- "data_geracao_caixa": "25/11/2026",
- "coletado_em": "26/11/2026 11:58",
+ "data_geracao_caixa": "26/11/2026",
+ "coletado_em": "27/11/2026 16:53",
  "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_AL.csv",
- "total": 125,
+ "total": 107,
  "colunas": [
   "id",
   "uf",
@@ -226,27 +226,6 @@
     "fonte": "google",
     "lat": -9.515672499999999,
     "lng": -36.0111448
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8444407838229",
-   "uf": "AL",
-   "cidade": "ATALAIA",
-   "bairro": "JOSE PAULINO",
-   "endereco": "RUA PROJETADA, N. SN, LT 1A QD A",
-   "preco": 47261.78,
-   "valor_avaliacao": 80000.0,
-   "desconto": 40.93,
-   "financiamento": "Não",
-   "descricao": "Casa, 42.00 de área total, 42.00 de área privativa, 49.10 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444407838229",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -9.5151798,
-    "lng": -36.0103383
    },
    "geo_pendente": false
   },
@@ -493,27 +472,6 @@
     "fonte": "google",
     "lat": -9.7776008,
     "lng": -36.3604128
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8444426489854",
-   "uf": "AL",
-   "cidade": "JARAMATAIA",
-   "bairro": "POVOADO CAMPO ALEGRE",
-   "endereco": "RUA PROJETADA, N. 01,",
-   "preco": 47137.18,
-   "valor_avaliacao": 115000.0,
-   "desconto": 59.02,
-   "financiamento": "Não",
-   "descricao": "Casa, 73.72 de área total, 73.72 de área privativa, 99.63 de área do terreno,  2 qto(s), WC, 2 sala(s), cozinha.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444426489854",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -9.778111899999999,
-    "lng": -36.3591867
    },
    "geo_pendente": false
   },
@@ -826,27 +784,6 @@
     "fonte": "google",
     "lat": -9.5581333,
     "lng": -35.7622097
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8787722551472",
-   "uf": "AL",
-   "cidade": "MACEIO",
-   "bairro": "CIDADE UNIVERSITARIA",
-   "endereco": "RODOVIA AL 105, N. 330, CS 67 QD C LT 03",
-   "preco": 149402.3,
-   "valor_avaliacao": 244000.0,
-   "desconto": 38.77,
-   "financiamento": "Não",
-   "descricao": "Casa, 79.26 de área total, 54.83 de área privativa, 89.46 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787722551472",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -9.5603039,
-    "lng": -35.7437783
    },
    "geo_pendente": false
   },
@@ -1247,27 +1184,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8444408692112",
-   "uf": "AL",
-   "cidade": "MARECHAL DEODORO",
-   "bairro": "POVOADO TUQUANDUBA",
-   "endereco": "ACESSO AO POVOADO TUQUANDUBA, N. SN, CS 25, CONDOMÍNIO VIVENDAS TUQUANDUBA",
-   "preco": 100148.49,
-   "valor_avaliacao": 169000.0,
-   "desconto": 40.75,
-   "financiamento": "Não",
-   "descricao": "Casa, 118.17 de área total, 55.94 de área privativa, 118.17 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444408692112",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -9.702524799999999,
-    "lng": -35.90294910000001
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "1444407440685",
    "uf": "AL",
    "cidade": "MARECHAL DEODORO",
@@ -1544,27 +1460,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8444415167621",
-   "uf": "AL",
-   "cidade": "OLHO D'AGUA DO CASADO",
-   "bairro": "CENTRO",
-   "endereco": "RUA ANTONIO DE SOUZA BALBINO, N. 198,",
-   "preco": 49159.7,
-   "valor_avaliacao": 88000.0,
-   "desconto": 44.14,
-   "financiamento": "Não",
-   "descricao": "Casa, 63.54 de área total, 63.54 de área privativa, 124.48 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444415167621",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -9.5001507,
-    "lng": -37.8348025
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "10008279",
    "uf": "AL",
    "cidade": "PASSO DE CAMARAGIBE",
@@ -1653,7 +1548,7 @@
    "desconto": 38.77,
    "financiamento": "Não",
    "descricao": "Casa, 59.15 de área total, 59.15 de área privativa, 125.86 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco.",
-   "modalidade": "Venda Online",
+   "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444407867806",
    "tipo": "casa",
    "geo": {
@@ -1685,6 +1580,27 @@
    "geo_pendente": false
   },
   {
+   "id": "8444412153980",
+   "uf": "AL",
+   "cidade": "RIO LARGO",
+   "bairro": "TABULEIRO DO PINTO",
+   "endereco": "RUA 04, N. SN, LT 37B, QD C",
+   "preco": 41027.43,
+   "valor_avaliacao": 152000.0,
+   "desconto": 73.01,
+   "financiamento": "Não",
+   "descricao": "Casa, 0.00 de área total, 62.62 de área privativa, 125.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444412153980",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -9.5270151,
+    "lng": -35.7971065
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8555523354005",
    "uf": "AL",
    "cidade": "RIO LARGO",
@@ -1706,57 +1622,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8555525348010",
-   "uf": "AL",
-   "cidade": "RIO LARGO",
-   "bairro": "TABULEIRO DO PINTO",
-   "endereco": "AVENIDA JOSE MANHAS, N. 35, CS 02, LT 02, QD A",
-   "preco": 67339.67,
-   "valor_avaliacao": 170000.0,
-   "desconto": 60.39,
-   "financiamento": "Não",
-   "descricao": "Casa, 67.68 de área total, 67.68 de área privativa, 69.19 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555525348010",
-   "tipo": "casa"
-  },
-  {
-   "id": "8444417941014",
-   "uf": "AL",
-   "cidade": "RIO LARGO",
-   "bairro": "Lourenço Albuquerque",
-   "endereco": "RUA DOUTOR EMILIO DE MAIA, N. S/N, QD C LT 13",
-   "preco": 50416.29,
-   "valor_avaliacao": 123000.0,
-   "desconto": 59.02,
-   "financiamento": "Não",
-   "descricao": "Casa, 0.00 de área total, 53.58 de área privativa, 126.00 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444417941014",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -9.4816804,
-    "lng": -35.8575639
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8555523354480",
-   "uf": "AL",
-   "cidade": "RIO LARGO",
-   "bairro": "TABULEIRO DO PINTO",
-   "endereco": "AVENIDA JOSE MANHAS, N. 35, CS 1-A, LT 01, QD A",
-   "preco": 29633.55,
-   "valor_avaliacao": 71295.06,
-   "desconto": 58.44,
-   "financiamento": "Não",
-   "descricao": "Casa, 54.39 de área total, 54.39 de área privativa, 54.39 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555523354480",
-   "tipo": "casa"
-  },
-  {
    "id": "8555525191448",
    "uf": "AL",
    "cidade": "RIO LARGO",
@@ -1770,63 +1635,6 @@
    "modalidade": "Venda Direta Online",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555525191448",
    "tipo": "casa"
-  },
-  {
-   "id": "8555525355220",
-   "uf": "AL",
-   "cidade": "RIO LARGO",
-   "bairro": "TABULEIRO DO PINTO",
-   "endereco": "AVENIDA JOSE MANHAS, N. 35, CS 08, LT 08, QD A",
-   "preco": 62859.15,
-   "valor_avaliacao": 150000.0,
-   "desconto": 58.1,
-   "financiamento": "Não",
-   "descricao": "Casa, 62.02 de área total, 62.02 de área privativa, 0.01 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555525355220",
-   "tipo": "casa"
-  },
-  {
-   "id": "8555533842533",
-   "uf": "AL",
-   "cidade": "RIO LARGO",
-   "bairro": "Pref Antônio L Souza",
-   "endereco": "RUA JOSE MONTEIRO DE MELO, N. SN, CS09",
-   "preco": 68627.71,
-   "valor_avaliacao": 138000.0,
-   "desconto": 50.27,
-   "financiamento": "Não",
-   "descricao": "Casa, 49.60 de área total, 49.60 de área privativa, 49.60 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555533842533",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -9.5053621,
-    "lng": -35.8106482
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8787705833074",
-   "uf": "AL",
-   "cidade": "RIO LARGO",
-   "bairro": "Pref Antônio L Souza",
-   "endereco": "RUA SANTA CLARA, N. 90, CS74, LT89/90/91",
-   "preco": 70905.12,
-   "valor_avaliacao": 141000.0,
-   "desconto": 49.72,
-   "financiamento": "Não",
-   "descricao": "Casa, 92.59 de área total, 51.35 de área privativa, 51.35 de área do terreno,  2 qto(s), a.serv, WC, 2 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787705833074",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -9.4991332,
-    "lng": -35.817336
-   },
-   "geo_pendente": false
   },
   {
    "id": "8444436352959",
@@ -1846,48 +1654,6 @@
     "fonte": "google",
     "lat": -9.5688124,
     "lng": -35.8236951
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8444404294287",
-   "uf": "AL",
-   "cidade": "RIO LARGO",
-   "bairro": "Pref Antônio L Souza",
-   "endereco": "CONDOMÍNIO RESIDENCIAL UNIÃO, N. SN, CS 04 QD C LT 04",
-   "preco": 66606.89,
-   "valor_avaliacao": 125000.0,
-   "desconto": 46.72,
-   "financiamento": "Não",
-   "descricao": "Casa, 0.00 de área total, 58.91 de área privativa, 76.20 de área do terreno.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444404294287",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -9.5156136,
-    "lng": -35.8088391
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8555515551549",
-   "uf": "AL",
-   "cidade": "RIO LARGO",
-   "bairro": "TABULEIRO DO PINTO",
-   "endereco": "COND RES SAO FRANCISCO II, N. 07, QD 1",
-   "preco": 74782.91,
-   "valor_avaliacao": 140000.0,
-   "desconto": 46.59,
-   "financiamento": "Não",
-   "descricao": "Casa, 50.81 de área total, 50.81 de área privativa, 75.57 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, Terraco, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555515551549",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -9.5284277,
-    "lng": -35.802629
    },
    "geo_pendente": false
   },
@@ -1913,21 +1679,6 @@
    "geo_pendente": false
   },
   {
-   "id": "8555523351936",
-   "uf": "AL",
-   "cidade": "RIO LARGO",
-   "bairro": "TABULEIRO DO PINTO",
-   "endereco": "AVENIDA JOSE MANHAS, N. 35, CS 07, LT 07, QD A",
-   "preco": 49801.4,
-   "valor_avaliacao": 93000.0,
-   "desconto": 46.46,
-   "financiamento": "Não",
-   "descricao": "Casa, 67.68 de área total, 67.68 de área privativa, 69.18 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555523351936",
-   "tipo": "casa"
-  },
-  {
    "id": "8444432786822",
    "uf": "AL",
    "cidade": "RIO LARGO",
@@ -1945,27 +1696,6 @@
     "fonte": "google",
     "lat": -9.9198194,
     "lng": -36.3587665
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8444417508132",
-   "uf": "AL",
-   "cidade": "RIO LARGO",
-   "bairro": "RES ERALDO CAVALCANT",
-   "endereco": "RUA DR. EMILIO DE MAIA, N. SN, QD D LT28",
-   "preco": 64109.67,
-   "valor_avaliacao": 114706.41,
-   "desconto": 44.11,
-   "financiamento": "Não",
-   "descricao": "Casa, 53.58 de área total, 53.58 de área privativa, 126.00 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444417508132",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -9.4816804,
-    "lng": -35.8575639
    },
    "geo_pendente": false
   },
@@ -2006,21 +1736,6 @@
    "tipo": "casa"
   },
   {
-   "id": "8555525031289",
-   "uf": "AL",
-   "cidade": "RIO LARGO",
-   "bairro": "TABULEIRO DO PINTO",
-   "endereco": "AVENIDA JOSE MANHAS, N. 35, CS 14-A, LT 14, QD A",
-   "preco": 57891.78,
-   "valor_avaliacao": 100000.0,
-   "desconto": 42.11,
-   "financiamento": "Não",
-   "descricao": "Casa, 50.13 de área total, 50.13 de área privativa, 50.13 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555525031289",
-   "tipo": "casa"
-  },
-  {
    "id": "8444433736268",
    "uf": "AL",
    "cidade": "RIO LARGO",
@@ -2038,27 +1753,6 @@
     "fonte": "google",
     "lat": -9.526405,
     "lng": -35.7974367
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "1444406047378",
-   "uf": "AL",
-   "cidade": "RIO LARGO",
-   "bairro": "TABULEIRO MATA ROLO",
-   "endereco": "VILA MINHA ALDEIA, N. SN, LT 12 QD 19",
-   "preco": 85466.19,
-   "valor_avaliacao": 140000.0,
-   "desconto": 38.96,
-   "financiamento": "Não",
-   "descricao": "Casa, 54.89 de área total, 54.89 de área privativa, 225.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444406047378",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -9.4805404,
-    "lng": -35.8427506
    },
    "geo_pendente": false
   },
@@ -2185,48 +1879,6 @@
     "fonte": "google",
     "lat": -9.3187647,
     "lng": -35.561035
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8444415383103",
-   "uf": "AL",
-   "cidade": "SATUBA",
-   "bairro": "PORTAL DO RENASCER",
-   "endereco": "RUA EM PROJETO N, N. SN, Apto 102, 1 PAV",
-   "preco": 76656.77,
-   "valor_avaliacao": 145906.72,
-   "desconto": 47.47,
-   "financiamento": "Não",
-   "descricao": "Apartamento, 49.90 de área total, 49.90 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444415383103",
-   "tipo": "apartamento",
-   "geo": {
-    "fonte": "google",
-    "lat": -9.5688124,
-    "lng": -35.8236951
-   },
-   "geo_pendente": false
-  },
-  {
-   "id": "8444414316917",
-   "uf": "AL",
-   "cidade": "SATUBA",
-   "bairro": "CENTRO",
-   "endereco": "RUA PROJETADA J, N. SN, LT 4 QD G",
-   "preco": 96296.73,
-   "valor_avaliacao": 164126.07,
-   "desconto": 41.33,
-   "financiamento": "Sim",
-   "descricao": "Casa, 47.42 de área total, 47.42 de área privativa, 172.68 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444414316917",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -9.5711829,
-    "lng": -35.8107977
    },
    "geo_pendente": false
   },
