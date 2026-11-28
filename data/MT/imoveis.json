@@ -1,9 +1,9 @@
 {
  "uf": "MT",
- "data_geracao_caixa": "26/11/2026",
- "coletado_em": "27/11/2026 16:53",
+ "data_geracao_caixa": "27/11/2026",
+ "coletado_em": "28/11/2026 00:13",
  "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_MT.csv",
- "total": 172,
+ "total": 186,
  "colunas": [
   "id",
   "uf",
@@ -174,6 +174,21 @@
     "lng": -57.1965351
    },
    "geo_pendente": false
+  },
+  {
+   "id": "8444419126415",
+   "uf": "MT",
+   "cidade": "BARRA DO GARCAS",
+   "bairro": "JARDIM NOVA BARRA DO GARCAS",
+   "endereco": "RUA SERRA AZUL, N. SN, QUADRA 196  LOTE 25",
+   "preco": 88053.64,
+   "valor_avaliacao": 150400.0,
+   "desconto": 41.46,
+   "financiamento": "Não",
+   "descricao": "Casa, 54.00 de área total, 54.00 de área privativa, 225.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444419126415",
+   "tipo": "casa"
   },
   {
    "id": "8444417236957",
@@ -872,6 +887,27 @@
    "geo_pendente": false
   },
   {
+   "id": "8444432891901",
+   "uf": "MT",
+   "cidade": "CUIABA",
+   "bairro": "RESIDENCIAL SANTA INES",
+   "endereco": "RUA H, N. 0, Apto 202, BL.04",
+   "preco": 92537.77,
+   "valor_avaliacao": 160161.0,
+   "desconto": 42.23,
+   "financiamento": "Sim",
+   "descricao": "Apartamento, 46.85 de área total, 46.85 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444432891901",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -15.5869042,
+    "lng": -56.06533469999999
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8555537145632",
    "uf": "MT",
    "cidade": "CUIABA",
@@ -889,6 +925,27 @@
     "fonte": "google",
     "lat": -15.5855737,
     "lng": -56.0535298
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8555523811589",
+   "uf": "MT",
+   "cidade": "CUIABA",
+   "bairro": "PARQUE RESIDENCIAL DAS NACOES INDIGENAS",
+   "endereco": "RUA SEIS E SETE, N. 154, Apto 33, 3º ANDAR, TORRE 3, QD 5",
+   "preco": 111967.6,
+   "valor_avaliacao": 190000.0,
+   "desconto": 41.07,
+   "financiamento": "Sim",
+   "descricao": "Apartamento, 45.92 de área total, 45.92 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555523811589",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -15.5833945,
+    "lng": -56.0605783
    },
    "geo_pendente": false
   },
@@ -926,6 +983,21 @@
    "descricao": "Apartamento, 63.14 de área total, 46.85 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
    "modalidade": "Licitação Aberta",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444427442525",
+   "tipo": "apartamento"
+  },
+  {
+   "id": "8444410085171",
+   "uf": "MT",
+   "cidade": "CUIABA",
+   "bairro": "RESIDENCIAL SAO CARLOS",
+   "endereco": "RUA A, N. SN, Apto 401, BL 09",
+   "preco": 68199.69,
+   "valor_avaliacao": 114000.0,
+   "desconto": 40.18,
+   "financiamento": "Sim",
+   "descricao": "Apartamento, 98.34 de área total, 46.85 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444410085171",
    "tipo": "apartamento"
   },
   {
@@ -1146,6 +1218,27 @@
    "modalidade": "Licitação Aberta",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787712555912",
    "tipo": "apartamento"
+  },
+  {
+   "id": "1555526147053",
+   "uf": "MT",
+   "cidade": "CUIABA",
+   "bairro": "DOM AQUINO",
+   "endereco": "RUA COMENDADOR HENRIQUE, N. SN, Apto 108, TR B, VG 149",
+   "preco": 147124.0,
+   "valor_avaliacao": 243000.0,
+   "desconto": 39.46,
+   "financiamento": "Sim",
+   "descricao": "Apartamento, 66.01 de área total, 46.41 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1555526147053",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -15.6092436,
+    "lng": -56.0922674
+   },
+   "geo_pendente": false
   },
   {
    "id": "8444431837806",
@@ -1413,6 +1506,21 @@
     "lng": -56.06955110000001
    },
    "geo_pendente": false
+  },
+  {
+   "id": "8555500227287",
+   "uf": "MT",
+   "cidade": "CUIABA",
+   "bairro": "Lot. Pq. das Nações",
+   "endereco": "Rua Z Qd-40 Lt-18, Gleba 4ª Feira",
+   "preco": 350000.0,
+   "valor_avaliacao": 350000.0,
+   "desconto": 0.0,
+   "financiamento": "Sim",
+   "descricao": "Casa, 0.00 de área total, 64.49 de área privativa, 127.26 de área do terreno,  3 qto(s), a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555500227287",
+   "tipo": "casa"
   },
   {
    "id": "8787700374918",
@@ -1877,6 +1985,21 @@
    "tipo": "casa"
   },
   {
+   "id": "1444416978099",
+   "uf": "MT",
+   "cidade": "PRIMAVERA DO LESTE",
+   "bairro": "BURITIS PRIMAVERA",
+   "endereco": "RUA JACÍ, N. 541, LT10 QD44",
+   "preco": 290000.0,
+   "valor_avaliacao": 290000.0,
+   "desconto": 0.0,
+   "financiamento": "Não",
+   "descricao": "Casa, 59.99 de área total, 59.99 de área privativa, 200.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444416978099",
+   "tipo": "casa"
+  },
+  {
    "id": "8444419634682",
    "uf": "MT",
    "cidade": "PRIMAVERA DO LESTE",
@@ -2111,6 +2234,21 @@
    "geo_pendente": false
   },
   {
+   "id": "8787702054244",
+   "uf": "MT",
+   "cidade": "RONDONOPOLIS",
+   "bairro": "JARDIM PAIAGUAS",
+   "endereco": "RUA PAIAGUAS, N. SN, LT11 QD13",
+   "preco": 225000.0,
+   "valor_avaliacao": 225000.0,
+   "desconto": 0.0,
+   "financiamento": "Não",
+   "descricao": "Casa, 45.90 de área total, 45.90 de área privativa, 200.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787702054244",
+   "tipo": "casa"
+  },
+  {
    "id": "8787704358828",
    "uf": "MT",
    "cidade": "RONDONOPOLIS",
@@ -2154,6 +2292,27 @@
    "modalidade": "Leilão SFI - Edital Único",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444418816690",
    "tipo": "casa"
+  },
+  {
+   "id": "8444424026474",
+   "uf": "MT",
+   "cidade": "SANTO ANTONIO DO LEVERGER",
+   "bairro": "LOT RES MARAZUL",
+   "endereco": "RUA PROJETADA 02, N. S/N, QD 03 LT 15",
+   "preco": 75817.45,
+   "valor_avaliacao": 140000.0,
+   "desconto": 45.85,
+   "financiamento": "Sim",
+   "descricao": "Casa, 59.01 de área total, 59.01 de área privativa, 200.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444424026474",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -15.8637445,
+    "lng": -56.0793581
+   },
+   "geo_pendente": false
   },
   {
    "id": "1555507476390",
@@ -2360,6 +2519,27 @@
    "geo_pendente": false
   },
   {
+   "id": "8444406195065",
+   "uf": "MT",
+   "cidade": "VARZEA GRANDE",
+   "bairro": "SAO SIMAO",
+   "endereco": "RUA LAURITO NASSARDEN, N. SN, LT 01 QD 70 AREA 01A",
+   "preco": 91539.41,
+   "valor_avaliacao": 158433.06,
+   "desconto": 42.23,
+   "financiamento": "Sim",
+   "descricao": "Casa, 0.00 de área total, 64.29 de área privativa, 180.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444406195065",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -15.6829306,
+    "lng": -56.1606787
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8444436917581",
    "uf": "MT",
    "cidade": "VARZEA GRANDE",
@@ -2379,6 +2559,21 @@
     "lng": -56.1927925
    },
    "geo_pendente": false
+  },
+  {
+   "id": "8444430302100",
+   "uf": "MT",
+   "cidade": "VARZEA GRANDE",
+   "bairro": "NOVO MUNDO",
+   "endereco": "RUA ANTILHAS NEERLANDESAS, N. SN, QD 05 AREA A5",
+   "preco": 96415.14,
+   "valor_avaliacao": 162700.0,
+   "desconto": 40.75,
+   "financiamento": "Não",
+   "descricao": "Casa, 49.57 de área total, 49.57 de área privativa, 180.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444430302100",
+   "tipo": "casa"
   },
   {
    "id": "8787715664356",
@@ -2726,6 +2921,27 @@
    "geo_pendente": false
   },
   {
+   "id": "8787701485837",
+   "uf": "MT",
+   "cidade": "VARZEA GRANDE",
+   "bairro": "ALAMEDA",
+   "endereco": "ALAMEDA JULIO MULLER, N. SN, Apto 303, BL 22 BOX 478",
+   "preco": 120882.7,
+   "valor_avaliacao": 200000.0,
+   "desconto": 39.56,
+   "financiamento": "Sim",
+   "descricao": "Apartamento, 47.53 de área total, 39.96 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787701485837",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -15.6225879,
+    "lng": -56.0986252
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "10282358",
    "uf": "MT",
    "cidade": "VARZEA GRANDE",
@@ -3053,6 +3269,21 @@
    "geo_pendente": false
   },
   {
+   "id": "8444423983750",
+   "uf": "MT",
+   "cidade": "VARZEA GRANDE",
+   "bairro": "PAIAGUAS",
+   "endereco": "RUA GASPAR DE SOUZA ANTIGA RUA 08, N. SN, LT03 QD38",
+   "preco": 284000.0,
+   "valor_avaliacao": 284000.0,
+   "desconto": 0.0,
+   "financiamento": "Não",
+   "descricao": "Casa, 70.00 de área total, 70.00 de área privativa, 180.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444423983750",
+   "tipo": "casa"
+  },
+  {
    "id": "8787700290854",
    "uf": "MT",
    "cidade": "VARZEA GRANDE",
@@ -3065,6 +3296,21 @@
    "descricao": "Casa, 61.26 de área total, 61.26 de área privativa, 220.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
    "modalidade": "Leilão SFI - Edital Único",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787700290854",
+   "tipo": "casa"
+  },
+  {
+   "id": "8444418742295",
+   "uf": "MT",
+   "cidade": "VARZEA GRANDE",
+   "bairro": "IKARAY",
+   "endereco": "RUA FORTALEZA ANTIGA RUA M, N. SN, LT10 QD14",
+   "preco": 185000.0,
+   "valor_avaliacao": 185000.0,
+   "desconto": 0.0,
+   "financiamento": "Não",
+   "descricao": "Casa, 50.10 de área total, 50.10 de área privativa, 220.50 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444418742295",
    "tipo": "casa"
   },
   {

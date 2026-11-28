@@ -1,9 +1,9 @@
 {
  "uf": "MS",
- "data_geracao_caixa": "26/11/2026",
- "coletado_em": "27/11/2026 16:53",
+ "data_geracao_caixa": "27/11/2026",
+ "coletado_em": "28/11/2026 00:13",
  "fonte": "https://venda-imoveis.caixa.gov.br/listaweb/Lista_imoveis_MS.csv",
- "total": 220,
+ "total": 241,
  "colunas": [
   "id",
   "uf",
@@ -212,27 +212,6 @@
    "tipo": "casa"
   },
   {
-   "id": "8444405327600",
-   "uf": "MS",
-   "cidade": "CAMPO GRANDE",
-   "bairro": "JARDIM CENTENARIO",
-   "endereco": "RUA MORRO DO CHAPEU, N. 377, LT 13 QD 22",
-   "preco": 174020.79,
-   "valor_avaliacao": 380000.0,
-   "desconto": 54.21,
-   "financiamento": "Sim",
-   "descricao": "Casa, 0.00 de área total, 142.19 de área privativa, 360.00 de área do terreno.",
-   "modalidade": "Venda Direta Online",
-   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444405327600",
-   "tipo": "casa",
-   "geo": {
-    "fonte": "google",
-    "lat": -20.5381363,
-    "lng": -54.6521556
-   },
-   "geo_pendente": false
-  },
-  {
    "id": "8444410354466",
    "uf": "MS",
    "cidade": "CAMPO GRANDE",
@@ -254,6 +233,105 @@
    "geo_pendente": false
   },
   {
+   "id": "8555516375760",
+   "uf": "MS",
+   "cidade": "CAMPO GRANDE",
+   "bairro": "VARANDAS DO CAMPO",
+   "endereco": "RUA FRANCISCO MORATO, N. 302, Apto 01, BL01  QD09  BL01  LT02",
+   "preco": 57050.29,
+   "valor_avaliacao": 115700.0,
+   "desconto": 50.7,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 0.00 de área total, 42.91 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555516375760",
+   "tipo": "apartamento"
+  },
+  {
+   "id": "8444428245618",
+   "uf": "MS",
+   "cidade": "CAMPO GRANDE",
+   "bairro": "JARDIM INAPOLIS",
+   "endereco": "RUA MOSCOVITA, N. 700, CS 03 PARTE LT 04 QD 106",
+   "preco": 64878.59,
+   "valor_avaliacao": 128000.0,
+   "desconto": 49.32,
+   "financiamento": "Sim",
+   "descricao": "Casa, 0.00 de área total, 46.14 de área privativa, 106.50 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444428245618",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -20.4878677,
+    "lng": -54.7349065
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8555511806569",
+   "uf": "MS",
+   "cidade": "CAMPO GRANDE",
+   "bairro": "VARANDAS DO CAMPO",
+   "endereco": "RUA CABREUVA, N. 107, Apto 04, BL 23, QD 04",
+   "preco": 64488.72,
+   "valor_avaliacao": 125000.0,
+   "desconto": 48.41,
+   "financiamento": "Sim",
+   "descricao": "Apartamento, 121.88 de área total, 42.91 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555511806569",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -20.5587542,
+    "lng": -54.6018346
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8444417259493",
+   "uf": "MS",
+   "cidade": "CAMPO GRANDE",
+   "bairro": "JARDIM NOROESTE",
+   "endereco": "RUA JANDAIA, N. 799, CS 03",
+   "preco": 66280.07,
+   "valor_avaliacao": 125000.0,
+   "desconto": 46.98,
+   "financiamento": "Sim",
+   "descricao": "Casa, 44.40 de área total, 44.40 de área privativa, 120.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444417259493",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -20.4557118,
+    "lng": -54.5249181
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8444409045480",
+   "uf": "MS",
+   "cidade": "CAMPO GRANDE",
+   "bairro": "JARDIM NOROESTE",
+   "endereco": "RUA BARBACENA, N. 893, CS03, QD221 LT05",
+   "preco": 86059.54,
+   "valor_avaliacao": 157000.0,
+   "desconto": 45.19,
+   "financiamento": "Sim",
+   "descricao": "Casa, 54.92 de área total, 88.19 de área privativa, 360.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444409045480",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -20.4586683,
+    "lng": -54.5328644
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "1444418876650",
    "uf": "MS",
    "cidade": "CAMPO GRANDE",
@@ -271,6 +349,48 @@
     "fonte": "google",
     "lat": -20.5119337,
     "lng": -54.6851109
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8555525328648",
+   "uf": "MS",
+   "cidade": "CAMPO GRANDE",
+   "bairro": "CENTENARIO",
+   "endereco": "RUA JOSÉ CARLOS SILVA DE ALMEIDA, N. 364, Apto 11, BL 11",
+   "preco": 82316.09,
+   "valor_avaliacao": 148000.0,
+   "desconto": 44.39,
+   "financiamento": "Sim",
+   "descricao": "Apartamento, 45.88 de área total, 42.17 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555525328648",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -20.5433543,
+    "lng": -54.6530407
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "1444417164842",
+   "uf": "MS",
+   "cidade": "CAMPO GRANDE",
+   "bairro": "JARDIM SAO CONRADO",
+   "endereco": "RUA MAJOR JOSE PINTO, N. 721, Apto 203, BL L",
+   "preco": 72665.02,
+   "valor_avaliacao": 130000.0,
+   "desconto": 44.11,
+   "financiamento": "Sim",
+   "descricao": "Apartamento, 0.00 de área total, 44.98 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444417164842",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -20.4989395,
+    "lng": -54.6756287
    },
    "geo_pendente": false
   },
@@ -313,6 +433,48 @@
     "fonte": "google",
     "lat": -20.380209,
     "lng": -54.546341
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "1444416098706",
+   "uf": "MS",
+   "cidade": "CAMPO GRANDE",
+   "bairro": "VARANDAS DO CAMPO",
+   "endereco": "RUA CABREUVA, N. 321, Apto 1, BL 04",
+   "preco": 83009.03,
+   "valor_avaliacao": 147000.0,
+   "desconto": 43.54,
+   "financiamento": "Sim",
+   "descricao": "Apartamento, 0.00 de área total, 42.91 de área privativa, 0.00 de área do terreno, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444416098706",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -20.559428,
+    "lng": -54.60464700000001
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "8444415296464",
+   "uf": "MS",
+   "cidade": "CAMPO GRANDE",
+   "bairro": "JARDIM ITAMARACA",
+   "endereco": "RUA ACAI, N. 121, CS 01",
+   "preco": 79915.69,
+   "valor_avaliacao": 140000.0,
+   "desconto": 42.92,
+   "financiamento": "Sim",
+   "descricao": "Casa, 45.00 de área total, 45.00 de área privativa, 90.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444415296464",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -20.5167721,
+    "lng": -54.5672254
    },
    "geo_pendente": false
   },
@@ -393,6 +555,21 @@
     "lng": -54.6018201
    },
    "geo_pendente": false
+  },
+  {
+   "id": "8555519207680",
+   "uf": "MS",
+   "cidade": "CAMPO GRANDE",
+   "bairro": "CENTRO OESTE",
+   "endereco": "RUA CABREUVA, N. 316, Apto 02, BL 07",
+   "preco": 65921.81,
+   "valor_avaliacao": 115000.0,
+   "desconto": 42.68,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 47.58 de área total, 42.91 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555519207680",
+   "tipo": "apartamento"
   },
   {
    "id": "8555520752212",
@@ -542,6 +719,27 @@
    "tipo": "casa"
   },
   {
+   "id": "8787701464813",
+   "uf": "MS",
+   "cidade": "CAMPO GRANDE",
+   "bairro": "JARDIM CENTENARIO",
+   "endereco": "RUA JOSE RODRIGUES DE MELO, N. 215, Apto 21, BL N VG N21",
+   "preco": 87819.45,
+   "valor_avaliacao": 150000.0,
+   "desconto": 41.46,
+   "financiamento": "Sim",
+   "descricao": "Apartamento, 0.00 de área total, 42.17 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787701464813",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -20.5433618,
+    "lng": -54.6548522
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8444416051155",
    "uf": "MS",
    "cidade": "CAMPO GRANDE",
@@ -689,6 +887,27 @@
    "tipo": "casa"
   },
   {
+   "id": "1444418088899",
+   "uf": "MS",
+   "cidade": "CAMPO GRANDE",
+   "bairro": "JARDIM CENTENARIO",
+   "endereco": "RUA JOSE CARLOS SILVA DE ALMEIDA, N. 364, Apto 23, BL 07",
+   "preco": 82734.32,
+   "valor_avaliacao": 139000.0,
+   "desconto": 40.48,
+   "financiamento": "Sim",
+   "descricao": "Apartamento, 45.87 de área total, 42.17 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444418088899",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -20.5433543,
+    "lng": -54.6530407
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8555507676117",
    "uf": "MS",
    "cidade": "CAMPO GRANDE",
@@ -729,6 +948,21 @@
     "lng": -54.6381384
    },
    "geo_pendente": false
+  },
+  {
+   "id": "1444413140523",
+   "uf": "MS",
+   "cidade": "CAMPO GRANDE",
+   "bairro": "CENTENARIO",
+   "endereco": "RUA ELVIS PRESLEY, N. 307, Apto 11,",
+   "preco": 57373.12,
+   "valor_avaliacao": 95000.0,
+   "desconto": 39.61,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 0.00 de área total, 46.50 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=1444413140523",
+   "tipo": "apartamento"
   },
   {
    "id": "8444414011920",
@@ -809,6 +1043,27 @@
    "tipo": "apartamento"
   },
   {
+   "id": "8787710109249",
+   "uf": "MS",
+   "cidade": "CAMPO GRANDE",
+   "bairro": "JARDIM SAO CONRADO",
+   "endereco": "RUA GENERAL ANGELO IRULEGUI DA CUNHA, N. 1926, Apto 02, BL 06 LT 03B",
+   "preco": 113629.74,
+   "valor_avaliacao": 188000.0,
+   "desconto": 39.56,
+   "financiamento": "Sim",
+   "descricao": "Apartamento, 46.19 de área total, 46.19 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787710109249",
+   "tipo": "apartamento",
+   "geo": {
+    "fonte": "google",
+    "lat": -20.4906842,
+    "lng": -54.6883482
+   },
+   "geo_pendente": false
+  },
+  {
    "id": "8787715829967",
    "uf": "MS",
    "cidade": "CAMPO GRANDE",
@@ -821,6 +1076,21 @@
    "descricao": "Casa, 41.58 de área total, 41.00 de área privativa, 83.86 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
    "modalidade": "Licitação Aberta",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787715829967",
+   "tipo": "casa"
+  },
+  {
+   "id": "8555514413509",
+   "uf": "MS",
+   "cidade": "CAMPO GRANDE",
+   "bairro": "NOVA LIMA",
+   "endereco": "RUA FARIDE GEORGE, N. 239, LT 31 QD 02",
+   "preco": 135993.04,
+   "valor_avaliacao": 225000.0,
+   "desconto": 39.56,
+   "financiamento": "Não",
+   "descricao": "Casa, 65.00 de área total, 65.00 de área privativa, 360.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8555514413509",
    "tipo": "casa"
   },
   {
@@ -2345,6 +2615,21 @@
    "tipo": "casa"
   },
   {
+   "id": "8787717209923",
+   "uf": "MS",
+   "cidade": "CAMPO GRANDE",
+   "bairro": "RITA VIEIRA",
+   "endereco": "RUA MARIZA ANDRADE RIBEIRO, N. 1279, Apto 306, PAV03 TORRE02 LT01 QD01 VG237",
+   "preco": 219727.56,
+   "valor_avaliacao": 212000.0,
+   "desconto": 0.0,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 65.17 de área total, 40.43 de área privativa, 0.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787717209923",
+   "tipo": "apartamento"
+  },
+  {
    "id": "8787715385465",
    "uf": "MS",
    "cidade": "CAMPO GRANDE",
@@ -2534,6 +2819,21 @@
    "tipo": "apartamento"
   },
   {
+   "id": "8787720066917",
+   "uf": "MS",
+   "cidade": "CAMPO GRANDE",
+   "bairro": "CORONEL ANTONINO",
+   "endereco": "RUA SUNKO YONAMINE, N. 565, Apto 204, PAV02 BL06 LT5R1G VG320",
+   "preco": 239698.02,
+   "valor_avaliacao": 217000.0,
+   "desconto": 0.0,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 68.83 de área total, 39.96 de área privativa, 0.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787720066917",
+   "tipo": "apartamento"
+  },
+  {
    "id": "8787719642586",
    "uf": "MS",
    "cidade": "CAMPO GRANDE",
@@ -2625,6 +2925,36 @@
    "modalidade": "Leilão SFI - Edital Único",
    "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444429580950",
    "tipo": "casa"
+  },
+  {
+   "id": "8787719339476",
+   "uf": "MS",
+   "cidade": "CAMPO GRANDE",
+   "bairro": "CORONEL ANTONINO",
+   "endereco": "RUA SUNKO YONAMINE, N. 565, Apto 304, PAV03 BL04 LT5R1G VG332",
+   "preco": 216648.33,
+   "valor_avaliacao": 190000.0,
+   "desconto": 0.0,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 51.48 de área total, 39.96 de área privativa, 0.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787719339476",
+   "tipo": "apartamento"
+  },
+  {
+   "id": "8787720064817",
+   "uf": "MS",
+   "cidade": "CAMPO GRANDE",
+   "bairro": "CORONEL ANTONINO",
+   "endereco": "RUA SUNKO YONAMINE, N. 565, Apto 302, PAV03 BL22 LT5R1G VG237",
+   "preco": 239837.02,
+   "valor_avaliacao": 209000.0,
+   "desconto": 0.0,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 51.48 de área total, 39.96 de área privativa, 0.00 de área do terreno,  2 qto(s), varanda, a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Leilão SFI - Edital Único",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8787720064817",
+   "tipo": "apartamento"
   },
   {
    "id": "8444426732236",
@@ -3164,6 +3494,21 @@
    "geo_pendente": false
   },
   {
+   "id": "8444404590617",
+   "uf": "MS",
+   "cidade": "CORUMBA",
+   "bairro": "NOVA CORUMBA",
+   "endereco": "ALAMEDA DAS GARCAS, N. 58, Apto 204, BL 10  LT 07 QD A",
+   "preco": 80973.91,
+   "valor_avaliacao": 134000.0,
+   "desconto": 39.58,
+   "financiamento": "Não",
+   "descricao": "Apartamento, 48.14 de área total, 44.98 de área privativa, 0.00 de área do terreno,  2 qto(s), WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444404590617",
+   "tipo": "apartamento"
+  },
+  {
    "id": "1555520629145",
    "uf": "MS",
    "cidade": "CORUMBA",
@@ -3667,6 +4012,42 @@
     "fonte": "google",
     "lat": -22.3089372,
     "lng": -53.8166
+   },
+   "geo_pendente": false
+  },
+  {
+   "id": "10300586",
+   "uf": "MS",
+   "cidade": "JARDIM",
+   "bairro": "JARDIM BELA VISTA",
+   "endereco": "RUA JOSÉ DE ALENCAR, N. 438, QD 08, LTS 15/16",
+   "preco": 825322.02,
+   "valor_avaliacao": 1295000.0,
+   "desconto": 36.27,
+   "financiamento": "Sim",
+   "descricao": "Casa, 0.00 de área total, 363.12 de área privativa, 1148.00 de área do terreno.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=10300586",
+   "tipo": "casa"
+  },
+  {
+   "id": "8444411389573",
+   "uf": "MS",
+   "cidade": "LADARIO",
+   "bairro": "SANTO ANTONIO",
+   "endereco": "RUA JUSCELINO KUBITSCHEK, N. 996, LT40",
+   "preco": 76929.84,
+   "valor_avaliacao": 146000.0,
+   "desconto": 47.31,
+   "financiamento": "Sim",
+   "descricao": "Casa, 63.38 de área total, 63.38 de área privativa, 200.00 de área do terreno,  2 qto(s), a.serv, WC, 1 sala(s), cozinha, 1 vaga(s) de garagem.",
+   "modalidade": "Venda Online",
+   "link": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel=8444411389573",
+   "tipo": "casa",
+   "geo": {
+    "fonte": "google",
+    "lat": -19.0094286,
+    "lng": -57.6104922
    },
    "geo_pendente": false
   },
